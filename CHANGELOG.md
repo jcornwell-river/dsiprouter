@@ -5,7 +5,17 @@
 
 [//]: # (END_SECTION HEADER)
 [//]: # (START_SECTION COMMITS
-6a1f73ea817c0b1f830cfbf50ab7de13540763cd
+a7bfc7a3946be896ef6a9b6b4ec255b4e9bc72df
+0c7714a4f95ac3f8981d44e526e35200e8512425
+96f140127d8092590d12f6a0f0474779b780ae44
+deef4bcbe3f9b1ffdb112370672b49a29a34f6af
+35ddd3d327dff18a151fcdb52767fddd27e9736f
+0121f1cb99c979c68027b16660ccca25a9acc43b
+37aaa51a4282e6843a16f560ee3cae2333564562
+7ee0942d174d95cb9acf7aca092a883c43fc6cdd
+c5bb21e63eecd953a2585a0874f447a43d760aec
+06f03f513ada2fad54be0a113646e44146bb982d
+5cc24e46160f96401ed15304bb893a10fef3ceae
 ee98cfaa069f12ca4469caeaea2301c10537df5b
 cb0805ff8bb419be0862283bf395e10eadb32792
 accaa33ba8bde121822be1af560944207b1c1c39
@@ -67,6 +77,10 @@ e1523407df5d05d6019b36faac922ca53fc603e5
 33dc11da36ed72996df70997833e5510e7b45c87
 2f1aca8ae2ee142d3bb185c204ee5c64b52033ea
 a958ecfae0c0277bd5b9755e6dacdc480a98d652
+7e3ae78ed13627dc420cac7016921ec85d4aa947
+3d9118d7f619649dd6cbfedf510fc94cc8365ac3
+51d6bafff4fc1e0cbbb8e2f55efcc959da4722a3
+53dbbfe3e7d9e264e3706f3a76bd668b6995f805
 606d7460776dbc264fa3822396f8ea47dd628e36
 52ecf3ad8b0875477bca362c855c22776df30a8b
 47c2b4bf8e54fa56e329a878ad13e001eb83d6dc
@@ -76,7 +90,14 @@ a958ecfae0c0277bd5b9755e6dacdc480a98d652
 c7deab623214aa39432e4ef483be4e1b5b578dbf
 40e8d85965c90166eafb4425f2159949a2e764ed
 29d156221015801c663e86e15c3923c768d62caf
+cbae76acf8e8549ce8b510ee9e5bf10b9665dce8
+3916bd328bf72d08f372edb7f79a0d6958cc4f6a
+211cb4b9731b40e36b51c4f1e29b0b5491e280ad
+adc817e32355e6f5339c35c0c83dd521cb0ad9c8
+4db9e48d53dc3b098158a30c418a65ce1d095c24
+0fcecf8474d694bbd425388b62c67925786c472d
 cc096b110266d6a71ced8a3b27ba3ad9589147d8
+0e8a5f3c97049b8e101820d33c521215e46c9d28
 e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e
 14dd6be9cd21681f23d8ef63bb77805b24df71e0
 e8668ea90a39405a3518b3a02071ad1f94ae6476
@@ -162,11 +183,32 @@ cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1
 817a8062a283827aa22d90a8d5aaa201310effac
 c2027be6c0363d6a0011bb6df9948ba734021921
 fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac
+fe4e90763318d06f134b4093e7fec2f9dfd74dcf
+efa8d3fb5a9c3c28325df28cfe4244711020be28
+a4875920e015c40c97023e103cdfa28b21282e37
+0a1b04837ef6f9793989fc65d48bad9c7df94bea
+f55a391d94e4da8c5eaf3ffeeab3a2e27ad6adc9
+fe9218330241deaf90871bbdef5a671634bce81e
+2c2a83c592a934a35346e5dd9467fa8c4820dc60
+df92443f24256ca322a777b2e39623a4373fb681
+c4cd5ad10f765a8afc4f33e31fbf919c765507ec
+5c507275ea83d7164daedc690b3f8c8879b21e83
+0f44d04cf565cc434ad0d76e7a48e41e882acd5a
+50ffb4ad4a36804c57a6897a101a9d4a937104d4
+91ed94f3e7ba639bcbbd97ee5319416bd64890d4
+750a611301607ec8613ffa1e07ce863362a27570
+b183b1e717e37c7243b99ec18b8d697aa8b0a1fc
+c13ff8da9d0e6d04c5f530a992501fd1ff3c3992
+a5eac062f964e5485f309248e295d8f0110b2dd7
+224322a9885f4b5b452d96bfc68a226ca0a02bd3
+a0824bac4caeee87b7f21e22d362f29c9dc8843a
+6fcc6255f4eb63135e4c714d65638c524f8278bc
 dda982bfbd1c8a2f3879197c08b04775eb95be82
 3db8d9052c1a7e486657de0b16945b9e2f6cec2b
 2d57dbb72c691d6b333499718de50c954ff8acca
 b1e0868ef0edb473718fdfc8494ea0e3fe54722c
 41529c00be9ed9586eec0e9407c83cff258c0c8e
+c88b214251333b7350b10b27fa2dae683ef3b602
 c7bb17fc14cbbc27ac46b7ee34dd8287301a76db
 5defb56428352d12eb1a9ff27755c37cf9c7cac2
 a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89
@@ -1589,10 +1631,131 @@ a72121b9551921aa3dced32d943c6034ba318f82
 ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5
 b46b1e64f06f448bde78b98e3ae8228ce5f96067
 END_SECTION COMMITS)
-[//]: # (START_SECTION 6a1f73ea817c0b1f830cfbf50ab7de13540763cd)
+[//]: # (START_SECTION a7bfc7a3946be896ef6a9b6b4ec255b4e9bc72df)
+### Revert Removal of NATed Contact Rewrite
+
+> Commit: [a7bfc7a3946be896ef6a9b6b4ec255b4e9bc72df](https://github.com/jcornwell-river/dsiprouter/commit/a7bfc7a3946be896ef6a9b6b4ec255b4e9bc72df)  
+> Date: Fri, 21 Aug 2020 13:02:47 -0400  
+> Author: Tyler Moore (tmoore@goflyball.com)  
+> Committer: Tyler Moore (tmoore@goflyball.com)  
+> Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
+
+
+- revert changes for NATed contact to work on PassThrough Routing / Auth
+
+
+---
+
+[//]: # (END_SECTION a7bfc7a3946be896ef6a9b6b4ec255b4e9bc72df)
+[//]: # (START_SECTION 0c7714a4f95ac3f8981d44e526e35200e8512425)
+### Updated the documentation to contain a list of the supported configurations
+
+> Commit: [0c7714a4f95ac3f8981d44e526e35200e8512425](https://github.com/jcornwell-river/dsiprouter/commit/0c7714a4f95ac3f8981d44e526e35200e8512425)  
+> Date: Tue, 18 Aug 2020 21:31:46 +0000  
+> Author: root (root@demo.dsiprouter.org)  
+> Committer: root (root@demo.dsiprouter.org)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 0c7714a4f95ac3f8981d44e526e35200e8512425)
+[//]: # (START_SECTION 96f140127d8092590d12f6a0f0474779b780ae44)
+### Fixed the FusionPBX Sync function -  Resolves #https://github.com/dOpensource/dsiprouter/issues/247
+
+> Commit: [96f140127d8092590d12f6a0f0474779b780ae44](https://github.com/jcornwell-river/dsiprouter/commit/96f140127d8092590d12f6a0f0474779b780ae44)  
+> Date: Sun, 19 Jul 2020 22:51:57 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 96f140127d8092590d12f6a0f0474779b780ae44)
+[//]: # (START_SECTION deef4bcbe3f9b1ffdb112370672b49a29a34f6af)
+### Enhancements to work with FusionPBX Domain Support  - Resolves #https://github.com/dOpensource/dsiprouter/issues/245
+
+> Commit: [deef4bcbe3f9b1ffdb112370672b49a29a34f6af](https://github.com/jcornwell-river/dsiprouter/commit/deef4bcbe3f9b1ffdb112370672b49a29a34f6af)  
+> Date: Sat, 18 Jul 2020 02:41:16 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION deef4bcbe3f9b1ffdb112370672b49a29a34f6af)
+[//]: # (START_SECTION 35ddd3d327dff18a151fcdb52767fddd27e9736f)
+### Made is easier to execute the commands that are needed to enable FusionPBX pass-thru
+
+> Commit: [35ddd3d327dff18a151fcdb52767fddd27e9736f](https://github.com/jcornwell-river/dsiprouter/commit/35ddd3d327dff18a151fcdb52767fddd27e9736f)  
+> Date: Sat, 18 Jul 2020 02:25:35 +0000  
+> Author: root (root@sbc4.dsiprouter.net)  
+> Committer: root (root@sbc4.dsiprouter.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 35ddd3d327dff18a151fcdb52767fddd27e9736f)
+[//]: # (START_SECTION 0121f1cb99c979c68027b16660ccca25a9acc43b)
+### Fixes to handle SIP Updates - Resolves #https://github.com/dOpensource/dsiprouter/issues/245
+
+> Commit: [0121f1cb99c979c68027b16660ccca25a9acc43b](https://github.com/jcornwell-river/dsiprouter/commit/0121f1cb99c979c68027b16660ccca25a9acc43b)  
+> Date: Wed, 15 Jul 2020 16:59:36 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 0121f1cb99c979c68027b16660ccca25a9acc43b)
+[//]: # (START_SECTION 37aaa51a4282e6843a16f560ee3cae2333564562)
+### Kamailio fix for tls issue Resolves #https://git.flyball.co/dsiprouter/enterprise/issues/71
+
+> Commit: [37aaa51a4282e6843a16f560ee3cae2333564562](https://github.com/jcornwell-river/dsiprouter/commit/37aaa51a4282e6843a16f560ee3cae2333564562)  
+> Date: Tue, 14 Jul 2020 12:14:02 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 37aaa51a4282e6843a16f560ee3cae2333564562)
+[//]: # (START_SECTION 7ee0942d174d95cb9acf7aca092a883c43fc6cdd)
+### Fixed the tls_config parameters
+
+> Commit: [7ee0942d174d95cb9acf7aca092a883c43fc6cdd](https://github.com/jcornwell-river/dsiprouter/commit/7ee0942d174d95cb9acf7aca092a883c43fc6cdd)  
+> Date: Thu, 2 Jul 2020 18:58:14 +0000  
+> Author: root (root@sbc2.dsiprouter.net)  
+> Committer: root (root@sbc2.dsiprouter.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 7ee0942d174d95cb9acf7aca092a883c43fc6cdd)
+[//]: # (START_SECTION c5bb21e63eecd953a2585a0874f447a43d760aec)
 ### Fixes for CSRF and Unregister
 
-> Commit: [6a1f73ea817c0b1f830cfbf50ab7de13540763cd](https://git.flyball.co/dsiprouter/enterprise/commit/6a1f73ea817c0b1f830cfbf50ab7de13540763cd)  
+> Commit: [c5bb21e63eecd953a2585a0874f447a43d760aec](https://github.com/jcornwell-river/dsiprouter/commit/c5bb21e63eecd953a2585a0874f447a43d760aec)  
 > Date: Thu, 2 Jul 2020 13:09:39 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -1606,11 +1769,41 @@ END_SECTION COMMITS)
 
 ---
 
-[//]: # (END_SECTION 6a1f73ea817c0b1f830cfbf50ab7de13540763cd)
+[//]: # (END_SECTION c5bb21e63eecd953a2585a0874f447a43d760aec)
+[//]: # (START_SECTION 06f03f513ada2fad54be0a113646e44146bb982d)
+### Inbound DID Import - Fixed the endpoint override.  Resolves https://git.flyball.co/dsiprouter/enterprise/issues/72 - Placed the sample CSV template into the proper diretory so that it could be downloaded
+
+> Commit: [06f03f513ada2fad54be0a113646e44146bb982d](https://github.com/jcornwell-river/dsiprouter/commit/06f03f513ada2fad54be0a113646e44146bb982d)  
+> Date: Thu, 2 Jul 2020 10:06:56 +0000  
+> Author: root (root@demo.dsiprouter.org)  
+> Committer: root (root@demo.dsiprouter.org)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 06f03f513ada2fad54be0a113646e44146bb982d)
+[//]: # (START_SECTION 5cc24e46160f96401ed15304bb893a10fef3ceae)
+### Added a sample csv file to gui/static/template Resolves https://git.flyball.co/dsiprouter/enterprise/issues/72
+
+> Commit: [5cc24e46160f96401ed15304bb893a10fef3ceae](https://github.com/jcornwell-river/dsiprouter/commit/5cc24e46160f96401ed15304bb893a10fef3ceae)  
+> Date: Sun, 28 Jun 2020 09:43:23 -0700  
+> Author: Mack Hendricks (mack@dopensource.net)  
+> Committer: Mack Hendricks (mack@dopensource.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 5cc24e46160f96401ed15304bb893a10fef3ceae)
 [//]: # (START_SECTION ee98cfaa069f12ca4469caeaea2301c10537df5b)
 ### Adding db.commit() Resolves https://github.com/dOpensource/dsiprouter/issues/238
 
-> Commit: [ee98cfaa069f12ca4469caeaea2301c10537df5b](https://git.flyball.co/dsiprouter/enterprise/commit/ee98cfaa069f12ca4469caeaea2301c10537df5b)  
+> Commit: [ee98cfaa069f12ca4469caeaea2301c10537df5b](https://github.com/jcornwell-river/dsiprouter/commit/ee98cfaa069f12ca4469caeaea2301c10537df5b)  
 > Date: Sun, 28 Jun 2020 13:39:01 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1625,7 +1818,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cb0805ff8bb419be0862283bf395e10eadb32792)
 ### Fix for transport=tls parameter missing Resolves https://git.flyball.co/dsiprouter/enterprise/issues/71
 
-> Commit: [cb0805ff8bb419be0862283bf395e10eadb32792](https://git.flyball.co/dsiprouter/enterprise/commit/cb0805ff8bb419be0862283bf395e10eadb32792)  
+> Commit: [cb0805ff8bb419be0862283bf395e10eadb32792](https://github.com/jcornwell-river/dsiprouter/commit/cb0805ff8bb419be0862283bf395e10eadb32792)  
 > Date: Fri, 26 Jun 2020 11:59:16 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1640,7 +1833,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION accaa33ba8bde121822be1af560944207b1c1c39)
 ### Updated the version number
 
-> Commit: [accaa33ba8bde121822be1af560944207b1c1c39](https://git.flyball.co/dsiprouter/enterprise/commit/accaa33ba8bde121822be1af560944207b1c1c39)  
+> Commit: [accaa33ba8bde121822be1af560944207b1c1c39](https://github.com/jcornwell-river/dsiprouter/commit/accaa33ba8bde121822be1af560944207b1c1c39)  
 > Date: Tue, 23 Jun 2020 10:37:03 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1655,7 +1848,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 947ce453dd787b1d398e5935f768abb3034ba42b)
 ### Updating dSIPRouter 5.3.5
 
-> Commit: [947ce453dd787b1d398e5935f768abb3034ba42b](https://git.flyball.co/dsiprouter/enterprise/commit/947ce453dd787b1d398e5935f768abb3034ba42b)  
+> Commit: [947ce453dd787b1d398e5935f768abb3034ba42b](https://github.com/jcornwell-river/dsiprouter/commit/947ce453dd787b1d398e5935f768abb3034ba42b)  
 > Date: Mon, 22 Jun 2020 15:03:43 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1670,7 +1863,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa64ad6c012d104c56280cfb9799297a7884fca4)
 ### Updated dSIPRouter license module for Kamailio 5.35
 
-> Commit: [fa64ad6c012d104c56280cfb9799297a7884fca4](https://git.flyball.co/dsiprouter/enterprise/commit/fa64ad6c012d104c56280cfb9799297a7884fca4)  
+> Commit: [fa64ad6c012d104c56280cfb9799297a7884fca4](https://github.com/jcornwell-river/dsiprouter/commit/fa64ad6c012d104c56280cfb9799297a7884fca4)  
 > Date: Mon, 22 Jun 2020 13:45:36 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -1685,7 +1878,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c7385b77478d340b548fe63613efb6e0dbafdc2)
 ### Fixed issue with certificate validation
 
-> Commit: [7c7385b77478d340b548fe63613efb6e0dbafdc2](https://git.flyball.co/dsiprouter/enterprise/commit/7c7385b77478d340b548fe63613efb6e0dbafdc2)  
+> Commit: [7c7385b77478d340b548fe63613efb6e0dbafdc2](https://github.com/jcornwell-river/dsiprouter/commit/7c7385b77478d340b548fe63613efb6e0dbafdc2)  
 > Date: Mon, 22 Jun 2020 12:49:23 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1700,7 +1893,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3259ebdc73fe4256876a2d0652bdcd0ae186629c)
 ### Updated README
 
-> Commit: [3259ebdc73fe4256876a2d0652bdcd0ae186629c](https://git.flyball.co/dsiprouter/enterprise/commit/3259ebdc73fe4256876a2d0652bdcd0ae186629c)  
+> Commit: [3259ebdc73fe4256876a2d0652bdcd0ae186629c](https://github.com/jcornwell-river/dsiprouter/commit/3259ebdc73fe4256876a2d0652bdcd0ae186629c)  
 > Date: Mon, 22 Jun 2020 04:48:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1715,7 +1908,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5c76eeb103ca9ee1627db466461f7d428c5763d0)
 ### Updated README
 
-> Commit: [5c76eeb103ca9ee1627db466461f7d428c5763d0](https://git.flyball.co/dsiprouter/enterprise/commit/5c76eeb103ca9ee1627db466461f7d428c5763d0)  
+> Commit: [5c76eeb103ca9ee1627db466461f7d428c5763d0](https://github.com/jcornwell-river/dsiprouter/commit/5c76eeb103ca9ee1627db466461f7d428c5763d0)  
 > Date: Mon, 22 Jun 2020 04:45:51 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1730,7 +1923,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1b1add09d1e189297a0198fd0189b0a505616106)
 ### Fixed MSTeam Test Connectivity Feature
 
-> Commit: [1b1add09d1e189297a0198fd0189b0a505616106](https://git.flyball.co/dsiprouter/enterprise/commit/1b1add09d1e189297a0198fd0189b0a505616106)  
+> Commit: [1b1add09d1e189297a0198fd0189b0a505616106](https://github.com/jcornwell-river/dsiprouter/commit/1b1add09d1e189297a0198fd0189b0a505616106)  
 > Date: Mon, 22 Jun 2020 04:19:41 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1746,7 +1939,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 03976c746507769e95416b888af101e01d8a3361)
 ### Added the Carrier Outboind and Inbound Enrichments back in
 
-> Commit: [03976c746507769e95416b888af101e01d8a3361](https://git.flyball.co/dsiprouter/enterprise/commit/03976c746507769e95416b888af101e01d8a3361)  
+> Commit: [03976c746507769e95416b888af101e01d8a3361](https://github.com/jcornwell-river/dsiprouter/commit/03976c746507769e95416b888af101e01d8a3361)  
 > Date: Mon, 22 Jun 2020 03:35:48 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1761,7 +1954,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c949e68309974eec224f3709667ab2e73d2edf80)
 ### v0.621 Bug Fixes
 
-> Commit: [c949e68309974eec224f3709667ab2e73d2edf80](https://git.flyball.co/dsiprouter/enterprise/commit/c949e68309974eec224f3709667ab2e73d2edf80)  
+> Commit: [c949e68309974eec224f3709667ab2e73d2edf80](https://github.com/jcornwell-river/dsiprouter/commit/c949e68309974eec224f3709667ab2e73d2edf80)  
 > Date: Fri, 19 Jun 2020 14:28:14 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -1779,7 +1972,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a129fb2eb5e4099d82d15e92ba1f83db88606ee7)
 ### Add merge conflict check to pre-commit
 
-> Commit: [a129fb2eb5e4099d82d15e92ba1f83db88606ee7](https://git.flyball.co/dsiprouter/enterprise/commit/a129fb2eb5e4099d82d15e92ba1f83db88606ee7)  
+> Commit: [a129fb2eb5e4099d82d15e92ba1f83db88606ee7](https://github.com/jcornwell-river/dsiprouter/commit/a129fb2eb5e4099d82d15e92ba1f83db88606ee7)  
 > Date: Fri, 19 Jun 2020 17:07:41 +0000  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -1794,7 +1987,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 07d2fd16487913f7174e0e7d2e626f50121c344c)
 ### Update requirements.txt
 
-> Commit: [07d2fd16487913f7174e0e7d2e626f50121c344c](https://git.flyball.co/dsiprouter/enterprise/commit/07d2fd16487913f7174e0e7d2e626f50121c344c)  
+> Commit: [07d2fd16487913f7174e0e7d2e626f50121c344c](https://github.com/jcornwell-river/dsiprouter/commit/07d2fd16487913f7174e0e7d2e626f50121c344c)  
 > Date: Fri, 19 Jun 2020 17:06:24 +0000  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -1809,15 +2002,15 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f7f14a6b4c8f1bdba9975f6da08e88385185c229)
 ### v0.621 Bug Fixes
 
-> Commit: [f7f14a6b4c8f1bdba9975f6da08e88385185c229](https://git.flyball.co/dsiprouter/enterprise/commit/f7f14a6b4c8f1bdba9975f6da08e88385185c229)  
+> Commit: [f7f14a6b4c8f1bdba9975f6da08e88385185c229](https://github.com/jcornwell-river/dsiprouter/commit/f7f14a6b4c8f1bdba9975f6da08e88385185c229)  
 > Date: Thu, 18 Jun 2020 23:25:38 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#61](https://git.flyball.co/dsiprouter/enterprise/issues/61)
-- Resolves [#63](https://git.flyball.co/dsiprouter/enterprise/issues/63)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/61
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/63
 - Workaround for TLS reload bug [kam upstream issue]
 - Move prefix char definition to non-db backed settings
 - Improve reformat URI kam route
@@ -1832,7 +2025,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 885cb512a28f28cf7a9bfbaa294398bfab2044ed)
 ### Document FusionPBX UI Proxy - Resolves #62
 
-> Commit: [885cb512a28f28cf7a9bfbaa294398bfab2044ed](https://git.flyball.co/dsiprouter/enterprise/commit/885cb512a28f28cf7a9bfbaa294398bfab2044ed)  
+> Commit: [885cb512a28f28cf7a9bfbaa294398bfab2044ed](https://github.com/jcornwell-river/dsiprouter/commit/885cb512a28f28cf7a9bfbaa294398bfab2044ed)  
 > Date: Fri, 19 Jun 2020 16:27:31 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1847,7 +2040,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c67c821d22016544fd0cb52111314ce64e9020a0)
 ### Certificates
 
-> Commit: [c67c821d22016544fd0cb52111314ce64e9020a0](https://git.flyball.co/dsiprouter/enterprise/commit/c67c821d22016544fd0cb52111314ce64e9020a0)  
+> Commit: [c67c821d22016544fd0cb52111314ce64e9020a0](https://github.com/jcornwell-river/dsiprouter/commit/c67c821d22016544fd0cb52111314ce64e9020a0)  
 > Date: Fri, 19 Jun 2020 14:50:12 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -1865,7 +2058,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d720a5ed18a74aa50c1e53eb486b8b62ac36c713)
 ### 0.62 Fixes - Pull tls.reload out of the Reload API for now - Fixed issues with uploading a certificate.  Users must restart Kamailio for a cert to become active - Change the message bar slideup time from 3 secs to 10 seconds - Fixed an issue with the CDR page giving a Failed alert when clicking on the CDR page
 
-> Commit: [d720a5ed18a74aa50c1e53eb486b8b62ac36c713](https://git.flyball.co/dsiprouter/enterprise/commit/d720a5ed18a74aa50c1e53eb486b8b62ac36c713)  
+> Commit: [d720a5ed18a74aa50c1e53eb486b8b62ac36c713](https://github.com/jcornwell-river/dsiprouter/commit/d720a5ed18a74aa50c1e53eb486b8b62ac36c713)  
 > Date: Fri, 12 Jun 2020 06:28:11 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -1880,7 +2073,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9069634da8b9b8f0aa037702d4ec0394458ded10)
 ### Fixes - Fixed Javascript errors in Domains and MSTeams Validation Pages - Removed logic to convert OS certs to PEM.  They are already in PEM format
 
-> Commit: [9069634da8b9b8f0aa037702d4ec0394458ded10](https://git.flyball.co/dsiprouter/enterprise/commit/9069634da8b9b8f0aa037702d4ec0394458ded10)  
+> Commit: [9069634da8b9b8f0aa037702d4ec0394458ded10](https://github.com/jcornwell-river/dsiprouter/commit/9069634da8b9b8f0aa037702d4ec0394458ded10)  
 > Date: Thu, 11 Jun 2020 23:16:36 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -1895,7 +2088,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 86645a3177b6281d66e1b4e35e1811b52338c11c)
 ### Fixed an issue that prevented the Domain authtype to disable the other fields
 
-> Commit: [86645a3177b6281d66e1b4e35e1811b52338c11c](https://git.flyball.co/dsiprouter/enterprise/commit/86645a3177b6281d66e1b4e35e1811b52338c11c)  
+> Commit: [86645a3177b6281d66e1b4e35e1811b52338c11c](https://github.com/jcornwell-river/dsiprouter/commit/86645a3177b6281d66e1b4e35e1811b52338c11c)  
 > Date: Thu, 11 Jun 2020 18:42:01 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -1910,7 +2103,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 678dd84fab164bc2c7b31437ba1a98a982d50aee)
 ### Added support for manually creating wildcard certs
 
-> Commit: [678dd84fab164bc2c7b31437ba1a98a982d50aee](https://git.flyball.co/dsiprouter/enterprise/commit/678dd84fab164bc2c7b31437ba1a98a982d50aee)  
+> Commit: [678dd84fab164bc2c7b31437ba1a98a982d50aee](https://github.com/jcornwell-river/dsiprouter/commit/678dd84fab164bc2c7b31437ba1a98a982d50aee)  
 > Date: Thu, 11 Jun 2020 02:57:06 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -1925,7 +2118,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e05fdf5204a0b9955e4d8f1ed38fab19a2c8b1d9)
 ### Certificates - Fixed issues with Adding, Updating and Delete Certifcates
 
-> Commit: [e05fdf5204a0b9955e4d8f1ed38fab19a2c8b1d9](https://git.flyball.co/dsiprouter/enterprise/commit/e05fdf5204a0b9955e4d8f1ed38fab19a2c8b1d9)  
+> Commit: [e05fdf5204a0b9955e4d8f1ed38fab19a2c8b1d9](https://github.com/jcornwell-river/dsiprouter/commit/e05fdf5204a0b9955e4d8f1ed38fab19a2c8b1d9)  
 > Date: Thu, 11 Jun 2020 02:07:07 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -1940,14 +2133,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5622efa5487a31dce38ca45e71ff7208bba67778)
 ### Continued V0.62 Bug Fixes
 
-> Commit: [5622efa5487a31dce38ca45e71ff7208bba67778](https://git.flyball.co/dsiprouter/enterprise/commit/5622efa5487a31dce38ca45e71ff7208bba67778)  
+> Commit: [5622efa5487a31dce38ca45e71ff7208bba67778](https://github.com/jcornwell-river/dsiprouter/commit/5622efa5487a31dce38ca45e71ff7208bba67778)  
 > Date: Wed, 10 Jun 2020 17:29:47 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed:   
 
 
-- Resolves [#59](https://git.flyball.co/dsiprouter/enterprise/issues/59)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/59
 - fixed restart CLI cmd missing start function
 - fixed kamcmd empty string processing when updating kamailio
 - fixed `pre-snapshot.sh` missing function definition
@@ -1960,7 +2153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c250876b72f02c2288d02ae211d5c0b7920bf981)
 ### Update PreCommit Hook with Requirements Changes
 
-> Commit: [c250876b72f02c2288d02ae211d5c0b7920bf981](https://git.flyball.co/dsiprouter/enterprise/commit/c250876b72f02c2288d02ae211d5c0b7920bf981)  
+> Commit: [c250876b72f02c2288d02ae211d5c0b7920bf981](https://github.com/jcornwell-river/dsiprouter/commit/c250876b72f02c2288d02ae211d5c0b7920bf981)  
 > Date: Wed, 10 Jun 2020 10:21:42 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -1977,7 +2170,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dd215cc504ee085a031aac6577c81ad8ae753a7f)
 ### Removed the acme and josepy from requirements.txt and just added in certbot
 
-> Commit: [dd215cc504ee085a031aac6577c81ad8ae753a7f](https://git.flyball.co/dsiprouter/enterprise/commit/dd215cc504ee085a031aac6577c81ad8ae753a7f)  
+> Commit: [dd215cc504ee085a031aac6577c81ad8ae753a7f](https://github.com/jcornwell-river/dsiprouter/commit/dd215cc504ee085a031aac6577c81ad8ae753a7f)  
 > Date: Wed, 10 Jun 2020 11:38:45 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -1992,14 +2185,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e391260463b04eeaed6769f316c95ff9088b3a43)
 ### Fixes for v0.62 Release
 
-> Commit: [e391260463b04eeaed6769f316c95ff9088b3a43](https://git.flyball.co/dsiprouter/enterprise/commit/e391260463b04eeaed6769f316c95ff9088b3a43)  
+> Commit: [e391260463b04eeaed6769f316c95ff9088b3a43](https://github.com/jcornwell-river/dsiprouter/commit/e391260463b04eeaed6769f316c95ff9088b3a43)  
 > Date: Wed, 10 Jun 2020 06:34:06 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed:   
 
 
-- Resolves [#53](https://git.flyball.co/dsiprouter/enterprise/issues/53)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/53
 - fix carrier group and endpoint group listener issues
 - fix improper record route handling
 - add example improvements for fusionpbx sync
@@ -2012,7 +2205,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a37c39557a4ba52f53f4e83454a363bd778f1a3f)
 ### Certificates - Completed Add, Update and Delete of Certificates
 
-> Commit: [a37c39557a4ba52f53f4e83454a363bd778f1a3f](https://git.flyball.co/dsiprouter/enterprise/commit/a37c39557a4ba52f53f4e83454a363bd778f1a3f)  
+> Commit: [a37c39557a4ba52f53f4e83454a363bd778f1a3f](https://github.com/jcornwell-river/dsiprouter/commit/a37c39557a4ba52f53f4e83454a363bd778f1a3f)  
 > Date: Tue, 9 Jun 2020 08:49:40 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2027,7 +2220,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 34de2c54dcb4b73865783cc24ca0b96969b1e87e)
 ### Add uuidgen Dependency to Install
 
-> Commit: [34de2c54dcb4b73865783cc24ca0b96969b1e87e](https://git.flyball.co/dsiprouter/enterprise/commit/34de2c54dcb4b73865783cc24ca0b96969b1e87e)  
+> Commit: [34de2c54dcb4b73865783cc24ca0b96969b1e87e](https://github.com/jcornwell-river/dsiprouter/commit/34de2c54dcb4b73865783cc24ca0b96969b1e87e)  
 > Date: Mon, 8 Jun 2020 16:48:33 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2043,7 +2236,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25b99e1b211e78ecb9ed20cb803594b1959b3000)
 ### Fix Misordered Logic in Endpoint Groups URI Parsing
 
-> Commit: [25b99e1b211e78ecb9ed20cb803594b1959b3000](https://git.flyball.co/dsiprouter/enterprise/commit/25b99e1b211e78ecb9ed20cb803594b1959b3000)  
+> Commit: [25b99e1b211e78ecb9ed20cb803594b1959b3000](https://github.com/jcornwell-river/dsiprouter/commit/25b99e1b211e78ecb9ed20cb803594b1959b3000)  
 > Date: Mon, 8 Jun 2020 16:30:01 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2059,7 +2252,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5c7816d4ae274af72fadf354bffe70319e4bacdc)
 ### Fix API Regressions
 
-> Commit: [5c7816d4ae274af72fadf354bffe70319e4bacdc](https://git.flyball.co/dsiprouter/enterprise/commit/5c7816d4ae274af72fadf354bffe70319e4bacdc)  
+> Commit: [5c7816d4ae274af72fadf354bffe70319e4bacdc](https://github.com/jcornwell-river/dsiprouter/commit/5c7816d4ae274af72fadf354bffe70319e4bacdc)  
 > Date: Mon, 8 Jun 2020 16:20:29 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2075,7 +2268,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f43cae7dfbb13d56ea9a8c3d1d816b2e4fe1cfc9)
 ### Fixed issue with certificates
 
-> Commit: [f43cae7dfbb13d56ea9a8c3d1d816b2e4fe1cfc9](https://git.flyball.co/dsiprouter/enterprise/commit/f43cae7dfbb13d56ea9a8c3d1d816b2e4fe1cfc9)  
+> Commit: [f43cae7dfbb13d56ea9a8c3d1d816b2e4fe1cfc9](https://github.com/jcornwell-river/dsiprouter/commit/f43cae7dfbb13d56ea9a8c3d1d816b2e4fe1cfc9)  
 > Date: Mon, 8 Jun 2020 19:24:04 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2090,7 +2283,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 330d69481ece2323d04de2ac8f5b496e503f24cc)
 ### Fix Kamailio TLS Config Handling
 
-> Commit: [330d69481ece2323d04de2ac8f5b496e503f24cc](https://git.flyball.co/dsiprouter/enterprise/commit/330d69481ece2323d04de2ac8f5b496e503f24cc)  
+> Commit: [330d69481ece2323d04de2ac8f5b496e503f24cc](https://github.com/jcornwell-river/dsiprouter/commit/330d69481ece2323d04de2ac8f5b496e503f24cc)  
 > Date: Mon, 8 Jun 2020 15:09:32 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2107,7 +2300,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b6e233d04a02cfbee6e25e62d8f033510b08e527)
 ### Removed acme for testing
 
-> Commit: [b6e233d04a02cfbee6e25e62d8f033510b08e527](https://git.flyball.co/dsiprouter/enterprise/commit/b6e233d04a02cfbee6e25e62d8f033510b08e527)  
+> Commit: [b6e233d04a02cfbee6e25e62d8f033510b08e527](https://github.com/jcornwell-river/dsiprouter/commit/b6e233d04a02cfbee6e25e62d8f033510b08e527)  
 > Date: Mon, 8 Jun 2020 18:38:34 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2122,7 +2315,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd5df131c230e5f47b03dd5a93bcfc9d0b17b019)
 ### Cron Services - Changed the permissions of the file to 744 so that it's executable
 
-> Commit: [cd5df131c230e5f47b03dd5a93bcfc9d0b17b019](https://git.flyball.co/dsiprouter/enterprise/commit/cd5df131c230e5f47b03dd5a93bcfc9d0b17b019)  
+> Commit: [cd5df131c230e5f47b03dd5a93bcfc9d0b17b019](https://github.com/jcornwell-river/dsiprouter/commit/cd5df131c230e5f47b03dd5a93bcfc9d0b17b019)  
 > Date: Mon, 8 Jun 2020 18:22:50 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2137,7 +2330,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cb2428d137a134aff9dbb3bc8a61b9bde38d8f36)
 ### Removed josepy
 
-> Commit: [cb2428d137a134aff9dbb3bc8a61b9bde38d8f36](https://git.flyball.co/dsiprouter/enterprise/commit/cb2428d137a134aff9dbb3bc8a61b9bde38d8f36)  
+> Commit: [cb2428d137a134aff9dbb3bc8a61b9bde38d8f36](https://github.com/jcornwell-river/dsiprouter/commit/cb2428d137a134aff9dbb3bc8a61b9bde38d8f36)  
 > Date: Mon, 8 Jun 2020 18:08:34 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2152,7 +2345,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3b91672c6c9c1357190caf3369545b5150fad649)
 ### Certificates - Changed out version of josepy module - Changed the error handling of adding Kam certificates to the TLS config
 
-> Commit: [3b91672c6c9c1357190caf3369545b5150fad649](https://git.flyball.co/dsiprouter/enterprise/commit/3b91672c6c9c1357190caf3369545b5150fad649)  
+> Commit: [3b91672c6c9c1357190caf3369545b5150fad649](https://github.com/jcornwell-river/dsiprouter/commit/3b91672c6c9c1357190caf3369545b5150fad649)  
 > Date: Mon, 8 Jun 2020 17:22:23 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2167,7 +2360,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f5074c9b8147552ec8e1592d74df60c9e46a50e)
 ### Fix Command Parsing for Commands with Defaults
 
-> Commit: [3f5074c9b8147552ec8e1592d74df60c9e46a50e](https://git.flyball.co/dsiprouter/enterprise/commit/3f5074c9b8147552ec8e1592d74df60c9e46a50e)  
+> Commit: [3f5074c9b8147552ec8e1592d74df60c9e46a50e](https://github.com/jcornwell-river/dsiprouter/commit/3f5074c9b8147552ec8e1592d74df60c9e46a50e)  
 > Date: Mon, 8 Jun 2020 09:44:26 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2183,7 +2376,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2aed9209cbce02686c61aca1c580907f2b174df4)
 ### Changed the order of PyOpenSSL
 
-> Commit: [2aed9209cbce02686c61aca1c580907f2b174df4](https://git.flyball.co/dsiprouter/enterprise/commit/2aed9209cbce02686c61aca1c580907f2b174df4)  
+> Commit: [2aed9209cbce02686c61aca1c580907f2b174df4](https://github.com/jcornwell-river/dsiprouter/commit/2aed9209cbce02686c61aca1c580907f2b174df4)  
 > Date: Mon, 8 Jun 2020 13:26:22 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2198,7 +2391,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b5de18522aa45387382973031ce9c4861cbc8422)
 ### Fix Carrier Group Issue
 
-> Commit: [b5de18522aa45387382973031ce9c4861cbc8422](https://git.flyball.co/dsiprouter/enterprise/commit/b5de18522aa45387382973031ce9c4861cbc8422)  
+> Commit: [b5de18522aa45387382973031ce9c4861cbc8422](https://github.com/jcornwell-river/dsiprouter/commit/b5de18522aa45387382973031ce9c4861cbc8422)  
 > Date: Mon, 8 Jun 2020 08:29:09 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2214,7 +2407,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 06bbc86f9ac496d95efd98bca3d26a7089d56c94)
 ### Change Deafults for Start/Stop/Restart commands
 
-> Commit: [06bbc86f9ac496d95efd98bca3d26a7089d56c94](https://git.flyball.co/dsiprouter/enterprise/commit/06bbc86f9ac496d95efd98bca3d26a7089d56c94)  
+> Commit: [06bbc86f9ac496d95efd98bca3d26a7089d56c94](https://github.com/jcornwell-river/dsiprouter/commit/06bbc86f9ac496d95efd98bca3d26a7089d56c94)  
 > Date: Mon, 8 Jun 2020 07:56:28 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2231,7 +2424,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c49afc5cca89af0112ce7bcc046a993e37363552)
 ### Certificates - Can now upload certificates - TODO: Fix table update after upload, finish update and fix kamtls output of certs
 
-> Commit: [c49afc5cca89af0112ce7bcc046a993e37363552](https://git.flyball.co/dsiprouter/enterprise/commit/c49afc5cca89af0112ce7bcc046a993e37363552)  
+> Commit: [c49afc5cca89af0112ce7bcc046a993e37363552](https://github.com/jcornwell-river/dsiprouter/commit/c49afc5cca89af0112ce7bcc046a993e37363552)  
 > Date: Mon, 8 Jun 2020 03:48:57 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2246,7 +2439,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e73013afd487afb3ea4b564fc29f101d9412d629)
 ### Certificate Management - Completed the ability to Add a Certficate - Completed the ability to Delete a Certificate - TODO: Add Upload Cert Capability
 
-> Commit: [e73013afd487afb3ea4b564fc29f101d9412d629](https://git.flyball.co/dsiprouter/enterprise/commit/e73013afd487afb3ea4b564fc29f101d9412d629)  
+> Commit: [e73013afd487afb3ea4b564fc29f101d9412d629](https://github.com/jcornwell-river/dsiprouter/commit/e73013afd487afb3ea4b564fc29f101d9412d629)  
 > Date: Sun, 7 Jun 2020 00:25:55 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2261,7 +2454,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 601657baf95fe3ce7884389bb00695bf7bb4330b)
 ### v0.62 Fixes
 
-> Commit: [601657baf95fe3ce7884389bb00695bf7bb4330b](https://git.flyball.co/dsiprouter/enterprise/commit/601657baf95fe3ce7884389bb00695bf7bb4330b)  
+> Commit: [601657baf95fe3ce7884389bb00695bf7bb4330b](https://github.com/jcornwell-river/dsiprouter/commit/601657baf95fe3ce7884389bb00695bf7bb4330b)  
 > Date: Sat, 6 Jun 2020 03:04:17 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2284,7 +2477,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3657bfd59850a0b74e2a94c53c72348513abcf50)
 ### Certificates - Added support for adding certificates
 
-> Commit: [3657bfd59850a0b74e2a94c53c72348513abcf50](https://git.flyball.co/dsiprouter/enterprise/commit/3657bfd59850a0b74e2a94c53c72348513abcf50)  
+> Commit: [3657bfd59850a0b74e2a94c53c72348513abcf50](https://github.com/jcornwell-river/dsiprouter/commit/3657bfd59850a0b74e2a94c53c72348513abcf50)  
 > Date: Fri, 5 Jun 2020 23:24:55 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2299,7 +2492,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 31359590de49b8f5098a8568432929555645689e)
 ### Initial commit of LetsEncrypt functions
 
-> Commit: [31359590de49b8f5098a8568432929555645689e](https://git.flyball.co/dsiprouter/enterprise/commit/31359590de49b8f5098a8568432929555645689e)  
+> Commit: [31359590de49b8f5098a8568432929555645689e](https://github.com/jcornwell-river/dsiprouter/commit/31359590de49b8f5098a8568432929555645689e)  
 > Date: Fri, 5 Jun 2020 20:52:58 +0000  
 > Author: root (root@mack.dsiprouter.net)  
 > Committer: root (root@mack.dsiprouter.net)  
@@ -2314,7 +2507,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9fab8dbf3eee065837301bec528982ffc32c6089)
 ### Fix Endpoint Group Table Update
 
-> Commit: [9fab8dbf3eee065837301bec528982ffc32c6089](https://git.flyball.co/dsiprouter/enterprise/commit/9fab8dbf3eee065837301bec528982ffc32c6089)  
+> Commit: [9fab8dbf3eee065837301bec528982ffc32c6089](https://github.com/jcornwell-river/dsiprouter/commit/9fab8dbf3eee065837301bec528982ffc32c6089)  
 > Date: Wed, 3 Jun 2020 17:20:46 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2330,7 +2523,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b3873d2aad6a8a8d58f65a369499771db8162013)
 ### Improved Error Handling
 
-> Commit: [b3873d2aad6a8a8d58f65a369499771db8162013](https://git.flyball.co/dsiprouter/enterprise/commit/b3873d2aad6a8a8d58f65a369499771db8162013)  
+> Commit: [b3873d2aad6a8a8d58f65a369499771db8162013](https://github.com/jcornwell-river/dsiprouter/commit/b3873d2aad6a8a8d58f65a369499771db8162013)  
 > Date: Wed, 3 Jun 2020 16:49:10 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2348,7 +2541,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4defd9cd3b98b19fd9b2a50c95559a37d26765f)
 ###   Resolves https://git.flyball.co/dsiprouter/enterprise/issues/55   - implements some standardization as mentioned in https://git.flyball.co/dsiprouter/enterprise/issues/49   - fixes endpoint group update/add   - fixes endpoint add/update/delete   - fixes call limit default   - fixes kam reload for API   - extends `jquery.tableEdit` functionality   - added comments in API for future updates   - abstract request data handling into `shared.py`   - use `util.security.py` funcs for password generation   - fix API login timeout redirection url   - fix dashboard stats update to match API kam reload   - fix CA certificate format issue for debian OS   - reset settings.py defaults
 
-> Commit: [e4defd9cd3b98b19fd9b2a50c95559a37d26765f](https://git.flyball.co/dsiprouter/enterprise/commit/e4defd9cd3b98b19fd9b2a50c95559a37d26765f)  
+> Commit: [e4defd9cd3b98b19fd9b2a50c95559a37d26765f](https://github.com/jcornwell-river/dsiprouter/commit/e4defd9cd3b98b19fd9b2a50c95559a37d26765f)  
 > Date: Wed, 3 Jun 2020 14:40:44 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2363,7 +2556,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 65b76a75e8c8a28560f096d3ae61df52aae053ca)
 ### mend
 
-> Commit: [65b76a75e8c8a28560f096d3ae61df52aae053ca](https://git.flyball.co/dsiprouter/enterprise/commit/65b76a75e8c8a28560f096d3ae61df52aae053ca)  
+> Commit: [65b76a75e8c8a28560f096d3ae61df52aae053ca](https://github.com/jcornwell-river/dsiprouter/commit/65b76a75e8c8a28560f096d3ae61df52aae053ca)  
 > Date: Tue, 2 Jun 2020 21:41:36 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2378,7 +2571,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 87b771ec8ea8ec5fcbf08c24fcbf2c34ae76db9f)
 ### Certificates Module - Added SQL to store the certs in the DB - Added the standard install script
 
-> Commit: [87b771ec8ea8ec5fcbf08c24fcbf2c34ae76db9f](https://git.flyball.co/dsiprouter/enterprise/commit/87b771ec8ea8ec5fcbf08c24fcbf2c34ae76db9f)  
+> Commit: [87b771ec8ea8ec5fcbf08c24fcbf2c34ae76db9f](https://github.com/jcornwell-river/dsiprouter/commit/87b771ec8ea8ec5fcbf08c24fcbf2c34ae76db9f)  
 > Date: Tue, 2 Jun 2020 21:40:30 +0000  
 > Author: root (root@sbc.dsiprouter.net)  
 > Committer: root (root@sbc.dsiprouter.net)  
@@ -2393,7 +2586,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 698ab1c7481fad6fedeaa698dcc4d7b00deea0bc)
 ### Certificates - Added UI components to allow a user to select Generate or Upload a certificate
 
-> Commit: [698ab1c7481fad6fedeaa698dcc4d7b00deea0bc](https://git.flyball.co/dsiprouter/enterprise/commit/698ab1c7481fad6fedeaa698dcc4d7b00deea0bc)  
+> Commit: [698ab1c7481fad6fedeaa698dcc4d7b00deea0bc](https://github.com/jcornwell-river/dsiprouter/commit/698ab1c7481fad6fedeaa698dcc4d7b00deea0bc)  
 > Date: Mon, 1 Jun 2020 13:22:09 +0000  
 > Author: root (root@sbc.dsiprouter.net)  
 > Committer: root (root@sbc.dsiprouter.net)  
@@ -2408,14 +2601,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d57d36e0580f4dc5dc69536825fd7f26dfe9b77d)
 ### Fixup GUI and API Issues
 
-> Commit: [d57d36e0580f4dc5dc69536825fd7f26dfe9b77d](https://git.flyball.co/dsiprouter/enterprise/commit/d57d36e0580f4dc5dc69536825fd7f26dfe9b77d)  
+> Commit: [d57d36e0580f4dc5dc69536825fd7f26dfe9b77d](https://github.com/jcornwell-river/dsiprouter/commit/d57d36e0580f4dc5dc69536825fd7f26dfe9b77d)  
 > Date: Sun, 31 May 2020 18:26:18 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed:   
 
 
-- Resolves [#55](https://git.flyball.co/dsiprouter/enterprise/issues/55)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/55
 - fixed various endpoint group bugs
 - fixed reload button issue on specific pages
 - fixed edge case for request error handler
@@ -2429,7 +2622,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8cf4a51e31112475d0e67fe0ff6faa555f59e71a)
 ### Added a default .gitignore file and added settings.py to it
 
-> Commit: [8cf4a51e31112475d0e67fe0ff6faa555f59e71a](https://git.flyball.co/dsiprouter/enterprise/commit/8cf4a51e31112475d0e67fe0ff6faa555f59e71a)  
+> Commit: [8cf4a51e31112475d0e67fe0ff6faa555f59e71a](https://github.com/jcornwell-river/dsiprouter/commit/8cf4a51e31112475d0e67fe0ff6faa555f59e71a)  
 > Date: Sat, 30 May 2020 01:26:03 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2444,7 +2637,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f33d6146ddd5dbb8fd4a5f5555aa430788c85c72)
 ### Put the default settings.py file back
 
-> Commit: [f33d6146ddd5dbb8fd4a5f5555aa430788c85c72](https://git.flyball.co/dsiprouter/enterprise/commit/f33d6146ddd5dbb8fd4a5f5555aa430788c85c72)  
+> Commit: [f33d6146ddd5dbb8fd4a5f5555aa430788c85c72](https://github.com/jcornwell-river/dsiprouter/commit/f33d6146ddd5dbb8fd4a5f5555aa430788c85c72)  
 > Date: Sat, 30 May 2020 01:18:08 +0000  
 > Author: root (root@sbc.dsiprouter.net)  
 > Committer: root (root@sbc.dsiprouter.net)  
@@ -2459,7 +2652,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 806831ba03e3a5265bed7022d3d723751c2c6eac)
 ### mend
 
-> Commit: [806831ba03e3a5265bed7022d3d723751c2c6eac](https://git.flyball.co/dsiprouter/enterprise/commit/806831ba03e3a5265bed7022d3d723751c2c6eac)  
+> Commit: [806831ba03e3a5265bed7022d3d723751c2c6eac](https://github.com/jcornwell-river/dsiprouter/commit/806831ba03e3a5265bed7022d3d723751c2c6eac)  
 > Date: Fri, 29 May 2020 14:23:26 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2474,7 +2667,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1ee4502f9b109ca2c06d030c1ec12c1b733348a4)
 ### Added API's for managing certs
 
-> Commit: [1ee4502f9b109ca2c06d030c1ec12c1b733348a4](https://git.flyball.co/dsiprouter/enterprise/commit/1ee4502f9b109ca2c06d030c1ec12c1b733348a4)  
+> Commit: [1ee4502f9b109ca2c06d030c1ec12c1b733348a4](https://github.com/jcornwell-river/dsiprouter/commit/1ee4502f9b109ca2c06d030c1ec12c1b733348a4)  
 > Date: Fri, 29 May 2020 14:20:09 +0000  
 > Author: root (root@sbc.dsiprouter.net)  
 > Committer: root (root@sbc.dsiprouter.net)  
@@ -2489,19 +2682,19 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e1523407df5d05d6019b36faac922ca53fc603e5)
 ### Frontend Updates
 
-> Commit: [e1523407df5d05d6019b36faac922ca53fc603e5](https://git.flyball.co/dsiprouter/enterprise/commit/e1523407df5d05d6019b36faac922ca53fc603e5)  
+> Commit: [e1523407df5d05d6019b36faac922ca53fc603e5](https://github.com/jcornwell-river/dsiprouter/commit/e1523407df5d05d6019b36faac922ca53fc603e5)  
 > Date: Fri, 29 May 2020 09:54:33 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed:   
 
 
-- Resolves [#2](https://git.flyball.co/dsiprouter/enterprise/issues/2)
-- Updates [#54](https://git.flyball.co/dsiprouter/enterprise/issues/54)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/2
+- Updates https://git.flyball.co/dsiprouter/enterprise/issues/54
 - refactor frontend to be more modular
 - add CSRF protection
 - add error handling to frontend for API calls
-- possible fixes for [#53](https://git.flyball.co/dsiprouter/enterprise/issues/53)
+- possible fixes for https://git.flyball.co/dsiprouter/enterprise/issues/53
 
 
 ---
@@ -2510,15 +2703,15 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 682677ce50baefea11903b0c868a4f5efedbefb2)
 ### Bug Fixes for v0.62
 
-> Commit: [682677ce50baefea11903b0c868a4f5efedbefb2](https://git.flyball.co/dsiprouter/enterprise/commit/682677ce50baefea11903b0c868a4f5efedbefb2)  
+> Commit: [682677ce50baefea11903b0c868a4f5efedbefb2](https://github.com/jcornwell-river/dsiprouter/commit/682677ce50baefea11903b0c868a4f5efedbefb2)  
 > Date: Fri, 22 May 2020 16:56:50 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#52](https://git.flyball.co/dsiprouter/enterprise/issues/52)
-- Resolves [#40](https://git.flyball.co/dsiprouter/enterprise/issues/40)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/52
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/40
 - removed `sslenable` CLI command as this is the default now
 - removed `mpath` CLI command as this is not needed by the end user
 - update CLI command options documentation
@@ -2529,8 +2722,8 @@ END_SECTION COMMITS)
 - fix logging hangs on systemd journal rotate
 - cleanup `dsip_lib.sh` comments
 - fix layout for `dashboard.html` and `endpointgroups.html`
-- fix edge cases for [#40](https://git.flyball.co/dsiprouter/enterprise/issues/40)
-- fix API redirection for endpointgroups endpoint, ref: [#2](https://git.flyball.co/dsiprouter/enterprise/issues/2)
+- fix edge cases for https://git.flyball.co/dsiprouter/enterprise/issues/40
+- fix API redirection for endpointgroups endpoint, ref: https://git.flyball.co/dsiprouter/enterprise/issues/2
 - update `dsip_settings` table to accomdate security fixes
 - add `error` endpoint to GUI so API's can redirect there
 - add several ports to python update functions in `dsiprouter.sh`
@@ -2552,7 +2745,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1d22d38baeffde8996987d5fe2a6fbf91ad3a4b9)
 ### Initial commit of the certificate module
 
-> Commit: [1d22d38baeffde8996987d5fe2a6fbf91ad3a4b9](https://git.flyball.co/dsiprouter/enterprise/commit/1d22d38baeffde8996987d5fe2a6fbf91ad3a4b9)  
+> Commit: [1d22d38baeffde8996987d5fe2a6fbf91ad3a4b9](https://github.com/jcornwell-river/dsiprouter/commit/1d22d38baeffde8996987d5fe2a6fbf91ad3a4b9)  
 > Date: Fri, 22 May 2020 01:49:24 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2567,14 +2760,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 33dc11da36ed72996df70997833e5510e7b45c87)
 ### Update README and CONTRIBUTING docs
 
-> Commit: [33dc11da36ed72996df70997833e5510e7b45c87](https://git.flyball.co/dsiprouter/enterprise/commit/33dc11da36ed72996df70997833e5510e7b45c87)  
+> Commit: [33dc11da36ed72996df70997833e5510e7b45c87](https://github.com/jcornwell-river/dsiprouter/commit/33dc11da36ed72996df70997833e5510e7b45c87)  
 > Date: Tue, 19 May 2020 16:04:58 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#42](https://git.flyball.co/dsiprouter/enterprise/issues/42)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/42
 - Spruce up `README.md` and update links
 - Add Getting Started section to `CONTRIBUTING.md`
 
@@ -2585,7 +2778,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2f1aca8ae2ee142d3bb185c204ee5c64b52033ea)
 ###   Resolves https://git.flyball.co/dsiprouter/enterprise/issues/40   - move ami build script to more generic `build_image.sh`   - add more system hardening in `pre-snapshot.sh`   - update pw resetting to only apply to VM/VPS image on 1st boot
 
-> Commit: [2f1aca8ae2ee142d3bb185c204ee5c64b52033ea](https://git.flyball.co/dsiprouter/enterprise/commit/2f1aca8ae2ee142d3bb185c204ee5c64b52033ea)  
+> Commit: [2f1aca8ae2ee142d3bb185c204ee5c64b52033ea](https://github.com/jcornwell-river/dsiprouter/commit/2f1aca8ae2ee142d3bb185c204ee5c64b52033ea)  
 > Date: Tue, 19 May 2020 13:47:55 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2600,14 +2793,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a958ecfae0c0277bd5b9755e6dacdc480a98d652)
 ### Map Gateway Groups to CDRs
 
-> Commit: [a958ecfae0c0277bd5b9755e6dacdc480a98d652](https://git.flyball.co/dsiprouter/enterprise/commit/a958ecfae0c0277bd5b9755e6dacdc480a98d652)  
+> Commit: [a958ecfae0c0277bd5b9755e6dacdc480a98d652](https://github.com/jcornwell-river/dsiprouter/commit/a958ecfae0c0277bd5b9755e6dacdc480a98d652)  
 > Date: Mon, 18 May 2020 13:45:22 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#48](https://git.flyball.co/dsiprouter/enterprise/issues/48)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/48
 - add mapping between CDRs and gwgroups
 - update DB tables to handle new data
 - update api routes to handle new data
@@ -2623,17 +2816,79 @@ END_SECTION COMMITS)
 ---
 
 [//]: # (END_SECTION a958ecfae0c0277bd5b9755e6dacdc480a98d652)
+[//]: # (START_SECTION 7e3ae78ed13627dc420cac7016921ec85d4aa947)
+### Update README.md
+
+> Commit: [7e3ae78ed13627dc420cac7016921ec85d4aa947](https://github.com/jcornwell-river/dsiprouter/commit/7e3ae78ed13627dc420cac7016921ec85d4aa947)  
+> Date: Sun, 17 May 2020 12:21:30 -0400  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 7e3ae78ed13627dc420cac7016921ec85d4aa947)
+[//]: # (START_SECTION 3d9118d7f619649dd6cbfedf510fc94cc8365ac3)
+### Update README.md
+
+> Commit: [3d9118d7f619649dd6cbfedf510fc94cc8365ac3](https://github.com/jcornwell-river/dsiprouter/commit/3d9118d7f619649dd6cbfedf510fc94cc8365ac3)  
+> Date: Sun, 17 May 2020 12:20:43 -0400  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 3d9118d7f619649dd6cbfedf510fc94cc8365ac3)
+[//]: # (START_SECTION 51d6bafff4fc1e0cbbb8e2f55efcc959da4722a3)
+### Removed dnsmasq from the -all install parameter
+
+> Commit: [51d6bafff4fc1e0cbbb8e2f55efcc959da4722a3](https://github.com/jcornwell-river/dsiprouter/commit/51d6bafff4fc1e0cbbb8e2f55efcc959da4722a3)  
+> Date: Sun, 17 May 2020 14:32:24 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 51d6bafff4fc1e0cbbb8e2f55efcc959da4722a3)
+[//]: # (START_SECTION 53dbbfe3e7d9e264e3706f3a76bd668b6995f805)
+### Enrichment Framework
+
+> Commit: [53dbbfe3e7d9e264e3706f3a76bd668b6995f805](https://github.com/jcornwell-river/dsiprouter/commit/53dbbfe3e7d9e264e3706f3a76bd668b6995f805)  
+> Date: Sun, 17 May 2020 00:00:48 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+- - Added support for Inbound Enrichment
+- - Added Enrichment procedure for SignalWire
+
+
+---
+
+[//]: # (END_SECTION 53dbbfe3e7d9e264e3706f3a76bd668b6995f805)
 [//]: # (START_SECTION 606d7460776dbc264fa3822396f8ea47dd628e36)
 ### Add New Settings to Database
 
-> Commit: [606d7460776dbc264fa3822396f8ea47dd628e36](https://git.flyball.co/dsiprouter/enterprise/commit/606d7460776dbc264fa3822396f8ea47dd628e36)  
+> Commit: [606d7460776dbc264fa3822396f8ea47dd628e36](https://github.com/jcornwell-river/dsiprouter/commit/606d7460776dbc264fa3822396f8ea47dd628e36)  
 > Date: Fri, 15 May 2020 18:11:15 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- add new settings from [52ecf3a](https://git.flyball.co/dsiprouter/enterprise/commit/52ecf3ad8b0875477bca362c855c22776df30a8b) to dsip_settings table
+- add new settings from https://git.flyball.co/dsiprouter/enterprise/commit/52ecf3ad8b0875477bca362c855c22776df30a8b to dsip_settings table
 - add new settings to database update functions
 
 
@@ -2643,14 +2898,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 52ecf3ad8b0875477bca362c855c22776df30a8b)
 ### Add Backend Supoport for Managing Domain TLS Certs
 
-> Commit: [52ecf3ad8b0875477bca362c855c22776df30a8b](https://git.flyball.co/dsiprouter/enterprise/commit/52ecf3ad8b0875477bca362c855c22776df30a8b)  
+> Commit: [52ecf3ad8b0875477bca362c855c22776df30a8b](https://github.com/jcornwell-river/dsiprouter/commit/52ecf3ad8b0875477bca362c855c22776df30a8b)  
 > Date: Fri, 15 May 2020 17:40:15 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Add backend functions to support [#41](https://git.flyball.co/dsiprouter/enterprise/issues/41)
+- Add backend functions to support https://git.flyball.co/dsiprouter/enterprise/issues/41
 - Make tls module reload on kamreload
 
 
@@ -2660,14 +2915,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47c2b4bf8e54fa56e329a878ad13e001eb83d6dc)
 ### Fix Domain Setting on User/Pass Auth
 
-> Commit: [47c2b4bf8e54fa56e329a878ad13e001eb83d6dc](https://git.flyball.co/dsiprouter/enterprise/commit/47c2b4bf8e54fa56e329a878ad13e001eb83d6dc)  
+> Commit: [47c2b4bf8e54fa56e329a878ad13e001eb83d6dc](https://github.com/jcornwell-river/dsiprouter/commit/47c2b4bf8e54fa56e329a878ad13e001eb83d6dc)  
 > Date: Wed, 13 May 2020 14:29:07 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#33](https://git.flyball.co/dsiprouter/enterprise/issues/33)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/33
 - change `EXTERNAL_FQDN` to resolve from external DNS resolver
 - set `EXTERNAL_FQDN` to `EXTERNAL_IP` on failed resolution
 - set default domain when not specified per endpoint group
@@ -2679,14 +2934,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0e4d9929cfcf243a29b0d0da63cffaaf250fe891)
 ### Add Support for Gitlab in Hooks
 
-> Commit: [0e4d9929cfcf243a29b0d0da63cffaaf250fe891](https://git.flyball.co/dsiprouter/enterprise/commit/0e4d9929cfcf243a29b0d0da63cffaaf250fe891)  
+> Commit: [0e4d9929cfcf243a29b0d0da63cffaaf250fe891](https://github.com/jcornwell-river/dsiprouter/commit/0e4d9929cfcf243a29b0d0da63cffaaf250fe891)  
 > Date: Wed, 13 May 2020 13:51:14 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#43](https://git.flyball.co/dsiprouter/enterprise/issues/43)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/43
 
 
 ---
@@ -2695,14 +2950,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 159f5320f9466298e66caccb5b483ef6e5055b77)
 ### Outbound Routes Carrier Group Selection
 
-> Commit: [159f5320f9466298e66caccb5b483ef6e5055b77](https://git.flyball.co/dsiprouter/enterprise/commit/159f5320f9466298e66caccb5b483ef6e5055b77)  
+> Commit: [159f5320f9466298e66caccb5b483ef6e5055b77](https://github.com/jcornwell-river/dsiprouter/commit/159f5320f9466298e66caccb5b483ef6e5055b77)  
 > Date: Tue, 12 May 2020 17:00:54 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#27](https://git.flyball.co/dsiprouter/enterprise/issues/27)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/27
 - add a selection dropdown to outbound routes for carrier group selection
 
 
@@ -2712,14 +2967,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 958e418f8a950b1ed20d690b8309262d05827a01)
 ### Fix Crosslinking Issues
 
-> Commit: [958e418f8a950b1ed20d690b8309262d05827a01](https://git.flyball.co/dsiprouter/enterprise/commit/958e418f8a950b1ed20d690b8309262d05827a01)  
+> Commit: [958e418f8a950b1ed20d690b8309262d05827a01](https://github.com/jcornwell-river/dsiprouter/commit/958e418f8a950b1ed20d690b8309262d05827a01)  
 > Date: Tue, 12 May 2020 13:28:34 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#9](https://git.flyball.co/dsiprouter/enterprise/issues/9)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/9
 
 
 ---
@@ -2728,14 +2983,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c7deab623214aa39432e4ef483be4e1b5b578dbf)
 ### Update Domain on Install
 
-> Commit: [c7deab623214aa39432e4ef483be4e1b5b578dbf](https://git.flyball.co/dsiprouter/enterprise/commit/c7deab623214aa39432e4ef483be4e1b5b578dbf)  
+> Commit: [c7deab623214aa39432e4ef483be4e1b5b578dbf](https://github.com/jcornwell-river/dsiprouter/commit/c7deab623214aa39432e4ef483be4e1b5b578dbf)  
 > Date: Tue, 12 May 2020 13:13:29 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#33](https://git.flyball.co/dsiprouter/enterprise/issues/33)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/33
 - update DOMAIN in `settings.py` when python settings updated
 
 
@@ -2745,14 +3000,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 40e8d85965c90166eafb4425f2159949a2e764ed)
 ### Update Prefix and Strip Descriptions
 
-> Commit: [40e8d85965c90166eafb4425f2159949a2e764ed](https://git.flyball.co/dsiprouter/enterprise/commit/40e8d85965c90166eafb4425f2159949a2e764ed)  
+> Commit: [40e8d85965c90166eafb4425f2159949a2e764ed](https://github.com/jcornwell-river/dsiprouter/commit/40e8d85965c90166eafb4425f2159949a2e764ed)  
 > Date: Tue, 12 May 2020 12:58:57 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#20](https://git.flyball.co/dsiprouter/enterprise/issues/20)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/20
 - update descriptions to infer call direction supported
 
 
@@ -2762,14 +3017,14 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 29d156221015801c663e86e15c3923c768d62caf)
 ### Update Documentation
 
-> Commit: [29d156221015801c663e86e15c3923c768d62caf](https://git.flyball.co/dsiprouter/enterprise/commit/29d156221015801c663e86e15c3923c768d62caf)  
+> Commit: [29d156221015801c663e86e15c3923c768d62caf](https://github.com/jcornwell-river/dsiprouter/commit/29d156221015801c663e86e15c3923c768d62caf)  
 > Date: Tue, 12 May 2020 12:34:33 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
 > Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
 
 
-- Resolves [#21](https://git.flyball.co/dsiprouter/enterprise/issues/21)
+- Resolves https://git.flyball.co/dsiprouter/enterprise/issues/21
 - update install options
 - move `CONTRIBUTING.md` to project root (standard location)
 
@@ -2777,10 +3032,101 @@ END_SECTION COMMITS)
 ---
 
 [//]: # (END_SECTION 29d156221015801c663e86e15c3923c768d62caf)
+[//]: # (START_SECTION cbae76acf8e8549ce8b510ee9e5bf10b9665dce8)
+### Fixed regression with gui/settings.py
+
+> Commit: [cbae76acf8e8549ce8b510ee9e5bf10b9665dce8](https://github.com/jcornwell-river/dsiprouter/commit/cbae76acf8e8549ce8b510ee9e5bf10b9665dce8)  
+> Date: Tue, 12 May 2020 06:03:52 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION cbae76acf8e8549ce8b510ee9e5bf10b9665dce8)
+[//]: # (START_SECTION 3916bd328bf72d08f372edb7f79a0d6958cc4f6a)
+### mend
+
+> Commit: [3916bd328bf72d08f372edb7f79a0d6958cc4f6a](https://github.com/jcornwell-river/dsiprouter/commit/3916bd328bf72d08f372edb7f79a0d6958cc4f6a)  
+> Date: Tue, 12 May 2020 05:25:31 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 3916bd328bf72d08f372edb7f79a0d6958cc4f6a)
+[//]: # (START_SECTION 211cb4b9731b40e36b51c4f1e29b0b5491e280ad)
+### Azure Fixes - Fixed bug with INTERNAL_FQDN
+
+> Commit: [211cb4b9731b40e36b51c4f1e29b0b5491e280ad](https://github.com/jcornwell-river/dsiprouter/commit/211cb4b9731b40e36b51c4f1e29b0b5491e280ad)  
+> Date: Tue, 12 May 2020 05:22:22 +0000  
+> Author: root (root@sbc.dsiprouter.net)  
+> Committer: root (root@sbc.dsiprouter.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 211cb4b9731b40e36b51c4f1e29b0b5491e280ad)
+[//]: # (START_SECTION adc817e32355e6f5339c35c0c83dd521cb0ad9c8)
+### Azure Installation Fixes - Added logic to use the hostname command for the hostname if dig can't perform a reverse lookup based on the IP address - Changed the URL used to obtain the vmID from the Azure Metadata service
+
+> Commit: [adc817e32355e6f5339c35c0c83dd521cb0ad9c8](https://github.com/jcornwell-river/dsiprouter/commit/adc817e32355e6f5339c35c0c83dd521cb0ad9c8)  
+> Date: Tue, 12 May 2020 04:44:19 +0000  
+> Author: root (root@sbc.dsiprouter.net)  
+> Committer: root (root@sbc.dsiprouter.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION adc817e32355e6f5339c35c0c83dd521cb0ad9c8)
+[//]: # (START_SECTION 4db9e48d53dc3b098158a30c418a65ce1d095c24)
+### Azure Installation Fixes - Added logic to use the hostname command for the hostname if dig can't perform a reverse lookup based on the IP address - Changed the URL used to obtain the vmID from the Azure Metadata service
+
+> Commit: [4db9e48d53dc3b098158a30c418a65ce1d095c24](https://github.com/jcornwell-river/dsiprouter/commit/4db9e48d53dc3b098158a30c418a65ce1d095c24)  
+> Date: Tue, 12 May 2020 04:42:16 +0000  
+> Author: root (root@sbc.dsiprouter.net)  
+> Committer: root (root@sbc.dsiprouter.net)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 4db9e48d53dc3b098158a30c418a65ce1d095c24)
+[//]: # (START_SECTION 0fcecf8474d694bbd425388b62c67925786c472d)
+### Carrier Groups
+
+> Commit: [0fcecf8474d694bbd425388b62c67925786c472d](https://github.com/jcornwell-river/dsiprouter/commit/0fcecf8474d694bbd425388b62c67925786c472d)  
+> Date: Mon, 11 May 2020 22:00:24 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+- resolves dsiprouter@enterprise#39
+
+
+---
+
+[//]: # (END_SECTION 0fcecf8474d694bbd425388b62c67925786c472d)
 [//]: # (START_SECTION cc096b110266d6a71ced8a3b27ba3ad9589147d8)
 ### Update CONTRIBUTING.md
 
-> Commit: [cc096b110266d6a71ced8a3b27ba3ad9589147d8](https://git.flyball.co/dsiprouter/enterprise/commit/cc096b110266d6a71ced8a3b27ba3ad9589147d8)  
+> Commit: [cc096b110266d6a71ced8a3b27ba3ad9589147d8](https://github.com/jcornwell-river/dsiprouter/commit/cc096b110266d6a71ced8a3b27ba3ad9589147d8)  
 > Date: Mon, 11 May 2020 15:45:14 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2792,10 +3138,25 @@ END_SECTION COMMITS)
 ---
 
 [//]: # (END_SECTION cc096b110266d6a71ced8a3b27ba3ad9589147d8)
+[//]: # (START_SECTION 0e8a5f3c97049b8e101820d33c521215e46c9d28)
+### MSTeams Inbound Integration - Fixed the Kamailio logic so that the contact is not being re-written. Hence, allowing the ACk to be accepted by MSTeams
+
+> Commit: [0e8a5f3c97049b8e101820d33c521215e46c9d28](https://github.com/jcornwell-river/dsiprouter/commit/0e8a5f3c97049b8e101820d33c521215e46c9d28)  
+> Date: Mon, 11 May 2020 15:42:33 +0000  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 0e8a5f3c97049b8e101820d33c521215e46c9d28)
 [//]: # (START_SECTION e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e)
 ### Update CONTRIBUTING.md
 
-> Commit: [e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e](https://git.flyball.co/dsiprouter/enterprise/commit/e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e)  
+> Commit: [e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e](https://github.com/jcornwell-river/dsiprouter/commit/e71a9384f9d3b9cb5dcb280655a1fe1c86badb8e)  
 > Date: Mon, 11 May 2020 15:17:43 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2810,7 +3171,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14dd6be9cd21681f23d8ef63bb77805b24df71e0)
 ### Update CONTRIBUTING.md
 
-> Commit: [14dd6be9cd21681f23d8ef63bb77805b24df71e0](https://git.flyball.co/dsiprouter/enterprise/commit/14dd6be9cd21681f23d8ef63bb77805b24df71e0)  
+> Commit: [14dd6be9cd21681f23d8ef63bb77805b24df71e0](https://github.com/jcornwell-river/dsiprouter/commit/14dd6be9cd21681f23d8ef63bb77805b24df71e0)  
 > Date: Mon, 11 May 2020 15:15:35 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2825,7 +3186,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e8668ea90a39405a3518b3a02071ad1f94ae6476)
 ### Update CONTRIBUTING.md
 
-> Commit: [e8668ea90a39405a3518b3a02071ad1f94ae6476](https://git.flyball.co/dsiprouter/enterprise/commit/e8668ea90a39405a3518b3a02071ad1f94ae6476)  
+> Commit: [e8668ea90a39405a3518b3a02071ad1f94ae6476](https://github.com/jcornwell-river/dsiprouter/commit/e8668ea90a39405a3518b3a02071ad1f94ae6476)  
 > Date: Mon, 11 May 2020 14:46:10 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2840,7 +3201,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b617dfc5df3a6d6a93ecafb79fbd1291295392b7)
 ### Crontab Edge Case Handling
 
-> Commit: [b617dfc5df3a6d6a93ecafb79fbd1291295392b7](https://git.flyball.co/dsiprouter/enterprise/commit/b617dfc5df3a6d6a93ecafb79fbd1291295392b7)  
+> Commit: [b617dfc5df3a6d6a93ecafb79fbd1291295392b7](https://github.com/jcornwell-river/dsiprouter/commit/b617dfc5df3a6d6a93ecafb79fbd1291295392b7)  
 > Date: Fri, 8 May 2020 17:20:34 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2856,7 +3217,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2f52ca511ff7f9de4ae3aa2142fe55997c1c3b16)
 ### MSTeams Inbound Routing - Added logic that will create an endpoint group when a MSTEAMS domain is created - Updated the Kamailio.cfg will with logic to support inbound MSTEAM calls
 
-> Commit: [2f52ca511ff7f9de4ae3aa2142fe55997c1c3b16](https://git.flyball.co/dsiprouter/enterprise/commit/2f52ca511ff7f9de4ae3aa2142fe55997c1c3b16)  
+> Commit: [2f52ca511ff7f9de4ae3aa2142fe55997c1c3b16](https://github.com/jcornwell-river/dsiprouter/commit/2f52ca511ff7f9de4ae3aa2142fe55997c1c3b16)  
 > Date: Fri, 8 May 2020 21:00:27 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2871,7 +3232,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c184a81ef4d7110ed1f013765fc58306b646fcf)
 ### Bug Fixes
 
-> Commit: [9c184a81ef4d7110ed1f013765fc58306b646fcf](https://git.flyball.co/dsiprouter/enterprise/commit/9c184a81ef4d7110ed1f013765fc58306b646fcf)  
+> Commit: [9c184a81ef4d7110ed1f013765fc58306b646fcf](https://github.com/jcornwell-river/dsiprouter/commit/9c184a81ef4d7110ed1f013765fc58306b646fcf)  
 > Date: Fri, 8 May 2020 16:34:00 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2891,7 +3252,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 466caaad9e55c4d3887389203f37935fa9e2e74f)
 ### Fix Proxmox Install
 
-> Commit: [466caaad9e55c4d3887389203f37935fa9e2e74f](https://git.flyball.co/dsiprouter/enterprise/commit/466caaad9e55c4d3887389203f37935fa9e2e74f)  
+> Commit: [466caaad9e55c4d3887389203f37935fa9e2e74f](https://github.com/jcornwell-river/dsiprouter/commit/466caaad9e55c4d3887389203f37935fa9e2e74f)  
 > Date: Thu, 7 May 2020 18:36:59 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2907,7 +3268,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2c57eaa22af0449cd931b6c2aaa28226f6eeb5dc)
 ###   - resolves dsiprouter@enterprise#24   - resolves dsiprouter@enterprise#29   - fix custom routes issue in shared.py   - add CDR feature enhancements   - redo crontab dsiprouter integration   - create crontab integratino script   - add loading spinning to table layout   - add field validation to endpoints endpoint   - update / optimize dsip_settings table   - update settings.py adding some fields to DB   - fix typos in inboundmapping.js   - update dsip_cdrinfo table   - add cron usability functions   - increase logout timeout while in debug mode   - various changes to install scripts for cron updates   - update CDR Report fields   - add urandomChars to util.security (future use)   - seperate cdrs static code from template code
 
-> Commit: [2c57eaa22af0449cd931b6c2aaa28226f6eeb5dc](https://git.flyball.co/dsiprouter/enterprise/commit/2c57eaa22af0449cd931b6c2aaa28226f6eeb5dc)  
+> Commit: [2c57eaa22af0449cd931b6c2aaa28226f6eeb5dc](https://github.com/jcornwell-river/dsiprouter/commit/2c57eaa22af0449cd931b6c2aaa28226f6eeb5dc)  
 > Date: Thu, 7 May 2020 17:49:42 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2922,7 +3283,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63704b7f57b5225a072d58f2dc84b00cec2f9f6e)
 ### Fixed issue
 
-> Commit: [63704b7f57b5225a072d58f2dc84b00cec2f9f6e](https://git.flyball.co/dsiprouter/enterprise/commit/63704b7f57b5225a072d58f2dc84b00cec2f9f6e)  
+> Commit: [63704b7f57b5225a072d58f2dc84b00cec2f9f6e](https://github.com/jcornwell-river/dsiprouter/commit/63704b7f57b5225a072d58f2dc84b00cec2f9f6e)  
 > Date: Wed, 6 May 2020 21:07:18 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2937,7 +3298,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION af0745134f8e9d7efa14ff0cbff2bf05e76bb7c5)
 ### Added dSIPRouter Support for Kamailio 5.3.4 - Added logic to install the dSIPRouter module based on the verison of Kamailio installed - Added source code for dSIPRouter Module
 
-> Commit: [af0745134f8e9d7efa14ff0cbff2bf05e76bb7c5](https://git.flyball.co/dsiprouter/enterprise/commit/af0745134f8e9d7efa14ff0cbff2bf05e76bb7c5)  
+> Commit: [af0745134f8e9d7efa14ff0cbff2bf05e76bb7c5](https://github.com/jcornwell-river/dsiprouter/commit/af0745134f8e9d7efa14ff0cbff2bf05e76bb7c5)  
 > Date: Wed, 6 May 2020 20:47:06 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -2952,7 +3313,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 371bbf536cbd2982f2f25647e885b061a71b662a)
 ### CDR Monthly Email Process - Used a function that replace non-alphanumeric characters with underscores. Fixed: https://git.flyball.co/dsiprouter/enterprise/issues/34
 
-> Commit: [371bbf536cbd2982f2f25647e885b061a71b662a](https://git.flyball.co/dsiprouter/enterprise/commit/371bbf536cbd2982f2f25647e885b061a71b662a)  
+> Commit: [371bbf536cbd2982f2f25647e885b061a71b662a](https://github.com/jcornwell-river/dsiprouter/commit/371bbf536cbd2982f2f25647e885b061a71b662a)  
 > Date: Tue, 5 May 2020 19:31:21 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -2967,7 +3328,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 877e46d801a3a6f47a1cb04231ec22a251c1d05d)
 ### Bug Fixes and CLI QOL Updates
 
-> Commit: [877e46d801a3a6f47a1cb04231ec22a251c1d05d](https://git.flyball.co/dsiprouter/enterprise/commit/877e46d801a3a6f47a1cb04231ec22a251c1d05d)  
+> Commit: [877e46d801a3a6f47a1cb04231ec22a251c1d05d](https://github.com/jcornwell-river/dsiprouter/commit/877e46d801a3a6f47a1cb04231ec22a251c1d05d)  
 > Date: Fri, 1 May 2020 19:53:24 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -2988,7 +3349,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0208e6faccfd390c8948c344869d283bd0612369)
 ### Update README.md
 
-> Commit: [0208e6faccfd390c8948c344869d283bd0612369](https://git.flyball.co/dsiprouter/enterprise/commit/0208e6faccfd390c8948c344869d283bd0612369)  
+> Commit: [0208e6faccfd390c8948c344869d283bd0612369](https://github.com/jcornwell-river/dsiprouter/commit/0208e6faccfd390c8948c344869d283bd0612369)  
 > Date: Fri, 1 May 2020 13:44:06 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3003,7 +3364,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 43a3d3db002f3040cb7d4807d65cb4b157ed563e)
 ### Update README.md
 
-> Commit: [43a3d3db002f3040cb7d4807d65cb4b157ed563e](https://git.flyball.co/dsiprouter/enterprise/commit/43a3d3db002f3040cb7d4807d65cb4b157ed563e)  
+> Commit: [43a3d3db002f3040cb7d4807d65cb4b157ed563e](https://github.com/jcornwell-river/dsiprouter/commit/43a3d3db002f3040cb7d4807d65cb4b157ed563e)  
 > Date: Fri, 1 May 2020 13:42:32 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3018,7 +3379,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6e2961f62120e0784b352802f032a7e023a41705)
 ### MSTeams Fixes - Fixed Kamailio option messages for MSTeams so that it works with any domain - Fixed the Option Message Status Check - Added styling to the MSTeams Test Connectivity tooltips
 
-> Commit: [6e2961f62120e0784b352802f032a7e023a41705](https://git.flyball.co/dsiprouter/enterprise/commit/6e2961f62120e0784b352802f032a7e023a41705)  
+> Commit: [6e2961f62120e0784b352802f032a7e023a41705](https://github.com/jcornwell-river/dsiprouter/commit/6e2961f62120e0784b352802f032a7e023a41705)  
 > Date: Fri, 1 May 2020 12:46:18 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3033,7 +3394,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ab88f69fa9fd45e21854fae16956f47b474595c2)
 ### Added Tooltips to MSTeams test connectivity
 
-> Commit: [ab88f69fa9fd45e21854fae16956f47b474595c2](https://git.flyball.co/dsiprouter/enterprise/commit/ab88f69fa9fd45e21854fae16956f47b474595c2)  
+> Commit: [ab88f69fa9fd45e21854fae16956f47b474595c2](https://github.com/jcornwell-river/dsiprouter/commit/ab88f69fa9fd45e21854fae16956f47b474595c2)  
 > Date: Fri, 1 May 2020 11:49:11 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3048,7 +3409,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6117350ddcd962e464318e8757399155507cb48f)
 ### Fix MSTeams hostname check
 
-> Commit: [6117350ddcd962e464318e8757399155507cb48f](https://git.flyball.co/dsiprouter/enterprise/commit/6117350ddcd962e464318e8757399155507cb48f)  
+> Commit: [6117350ddcd962e464318e8757399155507cb48f](https://github.com/jcornwell-river/dsiprouter/commit/6117350ddcd962e464318e8757399155507cb48f)  
 > Date: Fri, 1 May 2020 10:50:12 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3063,7 +3424,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 291097a63daf3743365e8a53cdf56e2077802cd8)
 ### Fixes for MSTeams Connectivity Checks
 
-> Commit: [291097a63daf3743365e8a53cdf56e2077802cd8](https://git.flyball.co/dsiprouter/enterprise/commit/291097a63daf3743365e8a53cdf56e2077802cd8)  
+> Commit: [291097a63daf3743365e8a53cdf56e2077802cd8](https://github.com/jcornwell-river/dsiprouter/commit/291097a63daf3743365e8a53cdf56e2077802cd8)  
 > Date: Fri, 1 May 2020 04:37:30 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3078,7 +3439,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 883ff5e6ba4d94da068e855ce1fc0f309ea7f382)
 ### v0.60 Release Bug Fixes
 
-> Commit: [883ff5e6ba4d94da068e855ce1fc0f309ea7f382](https://git.flyball.co/dsiprouter/enterprise/commit/883ff5e6ba4d94da068e855ce1fc0f309ea7f382)  
+> Commit: [883ff5e6ba4d94da068e855ce1fc0f309ea7f382](https://github.com/jcornwell-river/dsiprouter/commit/883ff5e6ba4d94da068e855ce1fc0f309ea7f382)  
 > Date: Thu, 30 Apr 2020 18:58:26 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3099,7 +3460,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d1c0d7f6556cff41c5ef4dc99ce5502a5e48fe7e)
 ### Fixed RTP selection
 
-> Commit: [d1c0d7f6556cff41c5ef4dc99ce5502a5e48fe7e](https://git.flyball.co/dsiprouter/enterprise/commit/d1c0d7f6556cff41c5ef4dc99ce5502a5e48fe7e)  
+> Commit: [d1c0d7f6556cff41c5ef4dc99ce5502a5e48fe7e](https://github.com/jcornwell-river/dsiprouter/commit/d1c0d7f6556cff41c5ef4dc99ce5502a5e48fe7e)  
 > Date: Thu, 30 Apr 2020 16:03:06 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3114,7 +3475,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8114297a1d628d8f277dbc21f05e5861c1be9e72)
 ### MOTD Updates and set the protocol of the GUI to http
 
-> Commit: [8114297a1d628d8f277dbc21f05e5861c1be9e72](https://git.flyball.co/dsiprouter/enterprise/commit/8114297a1d628d8f277dbc21f05e5861c1be9e72)  
+> Commit: [8114297a1d628d8f277dbc21f05e5861c1be9e72](https://github.com/jcornwell-river/dsiprouter/commit/8114297a1d628d8f277dbc21f05e5861c1be9e72)  
 > Date: Thu, 30 Apr 2020 02:14:06 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3129,7 +3490,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 03fb8aece5a640dc3db4b69e79b0d7413a0aa4db)
 ### Installer / GUI Fixes
 
-> Commit: [03fb8aece5a640dc3db4b69e79b0d7413a0aa4db](https://git.flyball.co/dsiprouter/enterprise/commit/03fb8aece5a640dc3db4b69e79b0d7413a0aa4db)  
+> Commit: [03fb8aece5a640dc3db4b69e79b0d7413a0aa4db](https://github.com/jcornwell-river/dsiprouter/commit/03fb8aece5a640dc3db4b69e79b0d7413a0aa4db)  
 > Date: Wed, 29 Apr 2020 19:16:08 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3146,7 +3507,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 246a128be0e5e83a193dc73b8be1400867ceeca4)
 ### Fixed issue with endpointgroup regressions
 
-> Commit: [246a128be0e5e83a193dc73b8be1400867ceeca4](https://git.flyball.co/dsiprouter/enterprise/commit/246a128be0e5e83a193dc73b8be1400867ceeca4)  
+> Commit: [246a128be0e5e83a193dc73b8be1400867ceeca4](https://github.com/jcornwell-river/dsiprouter/commit/246a128be0e5e83a193dc73b8be1400867ceeca4)  
 > Date: Wed, 29 Apr 2020 22:26:33 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3161,7 +3522,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8e5192baf3c5772c63bb4ddabebd4a1231950409)
 ### Fixed regression with endpointgroup
 
-> Commit: [8e5192baf3c5772c63bb4ddabebd4a1231950409](https://git.flyball.co/dsiprouter/enterprise/commit/8e5192baf3c5772c63bb4ddabebd4a1231950409)  
+> Commit: [8e5192baf3c5772c63bb4ddabebd4a1231950409](https://github.com/jcornwell-river/dsiprouter/commit/8e5192baf3c5772c63bb4ddabebd4a1231950409)  
 > Date: Wed, 29 Apr 2020 21:09:50 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3176,7 +3537,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e1d46db6f7bed641bdcbd127e18e5c4c796afb65)
 ### Fixed regression with endpointgroup
 
-> Commit: [e1d46db6f7bed641bdcbd127e18e5c4c796afb65](https://git.flyball.co/dsiprouter/enterprise/commit/e1d46db6f7bed641bdcbd127e18e5c4c796afb65)  
+> Commit: [e1d46db6f7bed641bdcbd127e18e5c4c796afb65](https://github.com/jcornwell-river/dsiprouter/commit/e1d46db6f7bed641bdcbd127e18e5c4c796afb65)  
 > Date: Wed, 29 Apr 2020 20:45:23 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3191,7 +3552,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20fcdf84403bab2f83ccca2b7b059b4c5f838764)
 ### Packaging fixes - Changed login splash pic - Updated version from 0.60+ent to just 0.60
 
-> Commit: [20fcdf84403bab2f83ccca2b7b059b4c5f838764](https://git.flyball.co/dsiprouter/enterprise/commit/20fcdf84403bab2f83ccca2b7b059b4c5f838764)  
+> Commit: [20fcdf84403bab2f83ccca2b7b059b4c5f838764](https://github.com/jcornwell-river/dsiprouter/commit/20fcdf84403bab2f83ccca2b7b059b4c5f838764)  
 > Date: Wed, 29 Apr 2020 15:05:37 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3206,7 +3567,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 73be03970380f6b4ee6bed206672290f2f700f13)
 ### We applied commmit 4d67b83 becasue it was overriden
 
-> Commit: [73be03970380f6b4ee6bed206672290f2f700f13](https://git.flyball.co/dsiprouter/enterprise/commit/73be03970380f6b4ee6bed206672290f2f700f13)  
+> Commit: [73be03970380f6b4ee6bed206672290f2f700f13](https://github.com/jcornwell-river/dsiprouter/commit/73be03970380f6b4ee6bed206672290f2f700f13)  
 > Date: Mon, 27 Apr 2020 19:08:38 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3221,7 +3582,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 49f7abb47ecc6f5799be16aa057c7382bbbdd1cb)
 ### Fixed error in install script for configuring SSL
 
-> Commit: [49f7abb47ecc6f5799be16aa057c7382bbbdd1cb](https://git.flyball.co/dsiprouter/enterprise/commit/49f7abb47ecc6f5799be16aa057c7382bbbdd1cb)  
+> Commit: [49f7abb47ecc6f5799be16aa057c7382bbbdd1cb](https://github.com/jcornwell-river/dsiprouter/commit/49f7abb47ecc6f5799be16aa057c7382bbbdd1cb)  
 > Date: Wed, 29 Apr 2020 11:10:57 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3236,7 +3597,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9f09554d741c879c37b50561ff4610a635328d17)
 ### SSL Fixes - Added a renewsslcert option to dsiprouter.sh - Added a cronjob that will call renewsslcert.  It will revnew the Let's Encrypt Certificate if it needs to be renewed
 
-> Commit: [9f09554d741c879c37b50561ff4610a635328d17](https://git.flyball.co/dsiprouter/enterprise/commit/9f09554d741c879c37b50561ff4610a635328d17)  
+> Commit: [9f09554d741c879c37b50561ff4610a635328d17](https://github.com/jcornwell-river/dsiprouter/commit/9f09554d741c879c37b50561ff4610a635328d17)  
 > Date: Wed, 29 Apr 2020 05:24:38 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3251,7 +3612,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d1ca93260487e72f2c9767892e100fcc780127f)
 ### Pre-release Fixes
 
-> Commit: [4d1ca93260487e72f2c9767892e100fcc780127f](https://git.flyball.co/dsiprouter/enterprise/commit/4d1ca93260487e72f2c9767892e100fcc780127f)  
+> Commit: [4d1ca93260487e72f2c9767892e100fcc780127f](https://github.com/jcornwell-river/dsiprouter/commit/4d1ca93260487e72f2c9767892e100fcc780127f)  
 > Date: Tue, 28 Apr 2020 20:25:14 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3272,7 +3633,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62b3f81321d59bc796f2203a349415e54395ec2a)
 ### Fixed an issue with importing addresses that contain MSTeams SBC's
 
-> Commit: [62b3f81321d59bc796f2203a349415e54395ec2a](https://git.flyball.co/dsiprouter/enterprise/commit/62b3f81321d59bc796f2203a349415e54395ec2a)  
+> Commit: [62b3f81321d59bc796f2203a349415e54395ec2a](https://github.com/jcornwell-river/dsiprouter/commit/62b3f81321d59bc796f2203a349415e54395ec2a)  
 > Date: Tue, 28 Apr 2020 22:44:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3287,7 +3648,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1165c6fcf796434b5924a747527a9d31e3e2513f)
 ### Updating the Support links
 
-> Commit: [1165c6fcf796434b5924a747527a9d31e3e2513f](https://git.flyball.co/dsiprouter/enterprise/commit/1165c6fcf796434b5924a747527a9d31e3e2513f)  
+> Commit: [1165c6fcf796434b5924a747527a9d31e3e2513f](https://github.com/jcornwell-river/dsiprouter/commit/1165c6fcf796434b5924a747527a9d31e3e2513f)  
 > Date: Tue, 28 Apr 2020 18:06:55 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3302,7 +3663,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4f31943f01eec31d76c18352c3c8da5059d50184)
 ### Fixed a regression in dsiprouter.sh - An echo command was in mistakenly packed in the sources.list file
 
-> Commit: [4f31943f01eec31d76c18352c3c8da5059d50184](https://git.flyball.co/dsiprouter/enterprise/commit/4f31943f01eec31d76c18352c3c8da5059d50184)  
+> Commit: [4f31943f01eec31d76c18352c3c8da5059d50184](https://github.com/jcornwell-river/dsiprouter/commit/4f31943f01eec31d76c18352c3c8da5059d50184)  
 > Date: Tue, 28 Apr 2020 14:35:10 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3317,7 +3678,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 465acc71768d23ed3f544ede236cd8fa8d107cc7)
 ### MS Teams Support - Added dsiprouter module binary to the repo and logic to install it - Added logic to the Domains page that checks if the user has a valid dSIPRouter Subscription - Added a button to check MS Teams Connectivity
 
-> Commit: [465acc71768d23ed3f544ede236cd8fa8d107cc7](https://git.flyball.co/dsiprouter/enterprise/commit/465acc71768d23ed3f544ede236cd8fa8d107cc7)  
+> Commit: [465acc71768d23ed3f544ede236cd8fa8d107cc7](https://github.com/jcornwell-river/dsiprouter/commit/465acc71768d23ed3f544ede236cd8fa8d107cc7)  
 > Date: Tue, 28 Apr 2020 13:31:47 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3332,7 +3693,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d67b831ad017435924be58ae4b91d34bc302ab1)
 ### v0.60+ent pre-release fixes
 
-> Commit: [4d67b831ad017435924be58ae4b91d34bc302ab1](https://git.flyball.co/dsiprouter/enterprise/commit/4d67b831ad017435924be58ae4b91d34bc302ab1)  
+> Commit: [4d67b831ad017435924be58ae4b91d34bc302ab1](https://github.com/jcornwell-river/dsiprouter/commit/4d67b831ad017435924be58ae4b91d34bc302ab1)  
 > Date: Mon, 27 Apr 2020 19:08:38 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3350,7 +3711,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c69fc7899a019d48f63185b1aa1a1aa3cfe36e6)
 ### Small Fixes
 
-> Commit: [9c69fc7899a019d48f63185b1aa1a1aa3cfe36e6](https://git.flyball.co/dsiprouter/enterprise/commit/9c69fc7899a019d48f63185b1aa1a1aa3cfe36e6)  
+> Commit: [9c69fc7899a019d48f63185b1aa1a1aa3cfe36e6](https://github.com/jcornwell-river/dsiprouter/commit/9c69fc7899a019d48f63185b1aa1a1aa3cfe36e6)  
 > Date: Mon, 27 Apr 2020 16:34:04 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3372,7 +3733,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ad576c81c8872ae8f3e2c913bf1a7aa89f2be46f)
 ### Adding Fixes
 
-> Commit: [ad576c81c8872ae8f3e2c913bf1a7aa89f2be46f](https://git.flyball.co/dsiprouter/enterprise/commit/ad576c81c8872ae8f3e2c913bf1a7aa89f2be46f)  
+> Commit: [ad576c81c8872ae8f3e2c913bf1a7aa89f2be46f](https://github.com/jcornwell-river/dsiprouter/commit/ad576c81c8872ae8f3e2c913bf1a7aa89f2be46f)  
 > Date: Mon, 27 Apr 2020 13:34:21 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3387,7 +3748,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 792ee6d70184c078a4d0e7eb7a5759daffde9575)
 ### Added a firewall rule to allow Letsencrypt to validate the hostname
 
-> Commit: [792ee6d70184c078a4d0e7eb7a5759daffde9575](https://git.flyball.co/dsiprouter/enterprise/commit/792ee6d70184c078a4d0e7eb7a5759daffde9575)  
+> Commit: [792ee6d70184c078a4d0e7eb7a5759daffde9575](https://github.com/jcornwell-river/dsiprouter/commit/792ee6d70184c078a4d0e7eb7a5759daffde9575)  
 > Date: Fri, 24 Apr 2020 11:26:27 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3402,7 +3763,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a726868f2a0352dd69509f29b228753f066bf0b4)
 ### Added certbot to the Kamailio installer
 
-> Commit: [a726868f2a0352dd69509f29b228753f066bf0b4](https://git.flyball.co/dsiprouter/enterprise/commit/a726868f2a0352dd69509f29b228753f066bf0b4)  
+> Commit: [a726868f2a0352dd69509f29b228753f066bf0b4](https://github.com/jcornwell-river/dsiprouter/commit/a726868f2a0352dd69509f29b228753f066bf0b4)  
 > Date: Fri, 24 Apr 2020 11:00:46 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3417,7 +3778,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9f9802ae6c4fe2f0e81b3bb033d53c948dc44e1)
 ### Fixed issues with installed
 
-> Commit: [d9f9802ae6c4fe2f0e81b3bb033d53c948dc44e1](https://git.flyball.co/dsiprouter/enterprise/commit/d9f9802ae6c4fe2f0e81b3bb033d53c948dc44e1)  
+> Commit: [d9f9802ae6c4fe2f0e81b3bb033d53c948dc44e1](https://github.com/jcornwell-river/dsiprouter/commit/d9f9802ae6c4fe2f0e81b3bb033d53c948dc44e1)  
 > Date: Fri, 24 Apr 2020 10:49:35 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3432,7 +3793,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bad988b5fc9f0656ef94d7f60547b15349f925d7)
 ### Kamailio password has to be in plain text during the initial install
 
-> Commit: [bad988b5fc9f0656ef94d7f60547b15349f925d7](https://git.flyball.co/dsiprouter/enterprise/commit/bad988b5fc9f0656ef94d7f60547b15349f925d7)  
+> Commit: [bad988b5fc9f0656ef94d7f60547b15349f925d7](https://github.com/jcornwell-river/dsiprouter/commit/bad988b5fc9f0656ef94d7f60547b15349f925d7)  
 > Date: Fri, 24 Apr 2020 10:34:51 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3447,7 +3808,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82c2cc261fc2899d674cae1faf4c3b3f9ee4482f)
 ### Installed Fixes - Added Letencrypt support for MSTeams - Fixed issue with MSTeams gateways being configured on install - Remove PySpark from the Python Requirements.txt file
 
-> Commit: [82c2cc261fc2899d674cae1faf4c3b3f9ee4482f](https://git.flyball.co/dsiprouter/enterprise/commit/82c2cc261fc2899d674cae1faf4c3b3f9ee4482f)  
+> Commit: [82c2cc261fc2899d674cae1faf4c3b3f9ee4482f](https://github.com/jcornwell-river/dsiprouter/commit/82c2cc261fc2899d674cae1faf4c3b3f9ee4482f)  
 > Date: Thu, 23 Apr 2020 23:37:43 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3462,7 +3823,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a6e0d1325b70c263ef61bac6480a5724cda69d63)
 ### Updated the version of Kamailio to 5.3
 
-> Commit: [a6e0d1325b70c263ef61bac6480a5724cda69d63](https://git.flyball.co/dsiprouter/enterprise/commit/a6e0d1325b70c263ef61bac6480a5724cda69d63)  
+> Commit: [a6e0d1325b70c263ef61bac6480a5724cda69d63](https://github.com/jcornwell-river/dsiprouter/commit/a6e0d1325b70c263ef61bac6480a5724cda69d63)  
 > Date: Thu, 23 Apr 2020 04:24:04 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3477,7 +3838,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e122a48ff42eb16f07d1e4c60fa5e798c137c133)
 ### Added MSTeams Support - Support from calling from MSTeams Client to a Carrier using SIP with SRTP - Added the MSTeams SBC's to the address table on install - Updated the Kamailio TLS file so that it installs with the proper configuration - Changed the default amount of Shared and Private Memory from 64MB and 8MB to 128MB and 16MB respectfully
 
-> Commit: [e122a48ff42eb16f07d1e4c60fa5e798c137c133](https://git.flyball.co/dsiprouter/enterprise/commit/e122a48ff42eb16f07d1e4c60fa5e798c137c133)  
+> Commit: [e122a48ff42eb16f07d1e4c60fa5e798c137c133](https://github.com/jcornwell-river/dsiprouter/commit/e122a48ff42eb16f07d1e4c60fa5e798c137c133)  
 > Date: Thu, 23 Apr 2020 04:17:53 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3492,7 +3853,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a57a7d284d6b29d26d661fdcb2fb5a568a3d6399)
 ### Updated Carrier Registration - Can support auth username and auth password authentication, where the SIP username can be different then auth username - Support manual input of auth_proxy URI from the GUI
 
-> Commit: [a57a7d284d6b29d26d661fdcb2fb5a568a3d6399](https://git.flyball.co/dsiprouter/enterprise/commit/a57a7d284d6b29d26d661fdcb2fb5a568a3d6399)  
+> Commit: [a57a7d284d6b29d26d661fdcb2fb5a568a3d6399](https://github.com/jcornwell-river/dsiprouter/commit/a57a7d284d6b29d26d661fdcb2fb5a568a3d6399)  
 > Date: Tue, 21 Apr 2020 17:10:26 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3507,7 +3868,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc080a6a5218483c333d8a8d62ad3c9f42effc8a)
 ### Added Auth Proxy authentication
 
-> Commit: [bc080a6a5218483c333d8a8d62ad3c9f42effc8a](https://git.flyball.co/dsiprouter/enterprise/commit/bc080a6a5218483c333d8a8d62ad3c9f42effc8a)  
+> Commit: [bc080a6a5218483c333d8a8d62ad3c9f42effc8a](https://github.com/jcornwell-river/dsiprouter/commit/bc080a6a5218483c333d8a8d62ad3c9f42effc8a)  
 > Date: Mon, 20 Apr 2020 21:46:18 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3522,7 +3883,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8ffa9ff5428a7e90f5946ab178517578cd5dbe7f)
 ### Added Support for CenturyLink Carrier - Added an Enrichment Carrier Framework where custom SIP manipulation can be done per the carriers requirements - Updated the logic for doing User/Password auth to a carrier
 
-> Commit: [8ffa9ff5428a7e90f5946ab178517578cd5dbe7f](https://git.flyball.co/dsiprouter/enterprise/commit/8ffa9ff5428a7e90f5946ab178517578cd5dbe7f)  
+> Commit: [8ffa9ff5428a7e90f5946ab178517578cd5dbe7f](https://github.com/jcornwell-river/dsiprouter/commit/8ffa9ff5428a7e90f5946ab178517578cd5dbe7f)  
 > Date: Mon, 20 Apr 2020 12:50:10 +0000  
 > Author: root (root@dSIP060entNightly-0.localdomain)  
 > Committer: root (root@dSIP060entNightly-0.localdomain)  
@@ -3537,7 +3898,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 013ef8b186632b8e625a7f70a688291e4fd93204)
 ### FusionPBX Domain Routing Fixes - Modified the logic to work with Endpoint Groups - Fixed the Domains page so that it displays the Endpoint Group that contains the FusionPBX Server - Fixed the Fusion Sync script so that it works with Endpoint Groups - Fixed an issue with the Kamailio Script that was caused by the DMQ module, which prevent endponts from registering
 
-> Commit: [013ef8b186632b8e625a7f70a688291e4fd93204](https://git.flyball.co/dsiprouter/enterprise/commit/013ef8b186632b8e625a7f70a688291e4fd93204)  
+> Commit: [013ef8b186632b8e625a7f70a688291e4fd93204](https://github.com/jcornwell-river/dsiprouter/commit/013ef8b186632b8e625a7f70a688291e4fd93204)  
 > Date: Sun, 19 Apr 2020 14:27:45 +0000  
 > Author: root (root@dSIP060entNightly-0.localdomain)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3552,7 +3913,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a297703456ffe8ec046d25411f087d303ee8527b)
 ### Turned DMQ off by default
 
-> Commit: [a297703456ffe8ec046d25411f087d303ee8527b](https://git.flyball.co/dsiprouter/enterprise/commit/a297703456ffe8ec046d25411f087d303ee8527b)  
+> Commit: [a297703456ffe8ec046d25411f087d303ee8527b](https://github.com/jcornwell-river/dsiprouter/commit/a297703456ffe8ec046d25411f087d303ee8527b)  
 > Date: Sat, 18 Apr 2020 18:41:27 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3567,7 +3928,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ef54273ce5a79fc9fa4f268c67f647be21854a6a)
 ### SIP to WebRTC and WebRTC to SIP has been tested with 2-way audio
 
-> Commit: [ef54273ce5a79fc9fa4f268c67f647be21854a6a](https://git.flyball.co/dsiprouter/enterprise/commit/ef54273ce5a79fc9fa4f268c67f647be21854a6a)  
+> Commit: [ef54273ce5a79fc9fa4f268c67f647be21854a6a](https://github.com/jcornwell-river/dsiprouter/commit/ef54273ce5a79fc9fa4f268c67f647be21854a6a)  
 > Date: Sat, 18 Apr 2020 16:14:09 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3582,7 +3943,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c19fec781e2176b5135ee5f082c43008f47bdef)
 ### Merged in changes from gogcit branch
 
-> Commit: [3c19fec781e2176b5135ee5f082c43008f47bdef](https://git.flyball.co/dsiprouter/enterprise/commit/3c19fec781e2176b5135ee5f082c43008f47bdef)  
+> Commit: [3c19fec781e2176b5135ee5f082c43008f47bdef](https://github.com/jcornwell-river/dsiprouter/commit/3c19fec781e2176b5135ee5f082c43008f47bdef)  
 > Date: Fri, 17 Apr 2020 10:39:57 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3597,7 +3958,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION efc63d151901fdcb6dcccca38c723091ed3670e5)
 ### SIP to Web Working with Contact being re-written properly for FusionPBX
 
-> Commit: [efc63d151901fdcb6dcccca38c723091ed3670e5](https://git.flyball.co/dsiprouter/enterprise/commit/efc63d151901fdcb6dcccca38c723091ed3670e5)  
+> Commit: [efc63d151901fdcb6dcccca38c723091ed3670e5](https://github.com/jcornwell-river/dsiprouter/commit/efc63d151901fdcb6dcccca38c723091ed3670e5)  
 > Date: Tue, 14 Apr 2020 03:44:49 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3612,7 +3973,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c03761dd6db163fdac549c68dc765f2b1b2de134)
 ### Testing from Web to SIP worked
 
-> Commit: [c03761dd6db163fdac549c68dc765f2b1b2de134](https://git.flyball.co/dsiprouter/enterprise/commit/c03761dd6db163fdac549c68dc765f2b1b2de134)  
+> Commit: [c03761dd6db163fdac549c68dc765f2b1b2de134](https://github.com/jcornwell-river/dsiprouter/commit/c03761dd6db163fdac549c68dc765f2b1b2de134)  
 > Date: Sun, 12 Apr 2020 12:51:26 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3627,7 +3988,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 11c48611038c211b9272a39eb1a558beb257ae2a)
 ### Initial testing of Web to SIP
 
-> Commit: [11c48611038c211b9272a39eb1a558beb257ae2a](https://git.flyball.co/dsiprouter/enterprise/commit/11c48611038c211b9272a39eb1a558beb257ae2a)  
+> Commit: [11c48611038c211b9272a39eb1a558beb257ae2a](https://github.com/jcornwell-river/dsiprouter/commit/11c48611038c211b9272a39eb1a558beb257ae2a)  
 > Date: Sat, 11 Apr 2020 23:07:52 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3642,7 +4003,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15a7af2fdbe19138fc1d279301322941d72df051)
 ### Updated configuration file with SIP-to-SIP calls working with Audio
 
-> Commit: [15a7af2fdbe19138fc1d279301322941d72df051](https://git.flyball.co/dsiprouter/enterprise/commit/15a7af2fdbe19138fc1d279301322941d72df051)  
+> Commit: [15a7af2fdbe19138fc1d279301322941d72df051](https://github.com/jcornwell-river/dsiprouter/commit/15a7af2fdbe19138fc1d279301322941d72df051)  
 > Date: Sat, 11 Apr 2020 18:04:02 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3657,7 +4018,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 50e4a4832f60cb11953440d6ab5cc318ba6c292f)
 ### Added logic to decode the encrypted database password
 
-> Commit: [50e4a4832f60cb11953440d6ab5cc318ba6c292f](https://git.flyball.co/dsiprouter/enterprise/commit/50e4a4832f60cb11953440d6ab5cc318ba6c292f)  
+> Commit: [50e4a4832f60cb11953440d6ab5cc318ba6c292f](https://github.com/jcornwell-river/dsiprouter/commit/50e4a4832f60cb11953440d6ab5cc318ba6c292f)  
 > Date: Sat, 11 Apr 2020 16:07:58 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3672,7 +4033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 71c67854aaf9634bb00d3f0cabf04faa45b1703d)
 ### Integrated the refactored functions into the script
 
-> Commit: [71c67854aaf9634bb00d3f0cabf04faa45b1703d](https://git.flyball.co/dsiprouter/enterprise/commit/71c67854aaf9634bb00d3f0cabf04faa45b1703d)  
+> Commit: [71c67854aaf9634bb00d3f0cabf04faa45b1703d](https://github.com/jcornwell-river/dsiprouter/commit/71c67854aaf9634bb00d3f0cabf04faa45b1703d)  
 > Date: Sat, 11 Apr 2020 13:18:11 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3687,7 +4048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 726439a19dd7ea4ae87b185e68bcfd348cf8fdc5)
 ### Fixed dSIPCDRInfo Table - The definition was missing in the database mapping file
 
-> Commit: [726439a19dd7ea4ae87b185e68bcfd348cf8fdc5](https://git.flyball.co/dsiprouter/enterprise/commit/726439a19dd7ea4ae87b185e68bcfd348cf8fdc5)  
+> Commit: [726439a19dd7ea4ae87b185e68bcfd348cf8fdc5](https://github.com/jcornwell-river/dsiprouter/commit/726439a19dd7ea4ae87b185e68bcfd348cf8fdc5)  
 > Date: Fri, 10 Apr 2020 11:32:54 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3702,7 +4063,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a7db2e9b74cc69f9862d3216d2c857ebaf57dc14)
 ### Initial Refactoring of Kamailio.cfg
 
-> Commit: [a7db2e9b74cc69f9862d3216d2c857ebaf57dc14](https://git.flyball.co/dsiprouter/enterprise/commit/a7db2e9b74cc69f9862d3216d2c857ebaf57dc14)  
+> Commit: [a7db2e9b74cc69f9862d3216d2c857ebaf57dc14](https://github.com/jcornwell-river/dsiprouter/commit/a7db2e9b74cc69f9862d3216d2c857ebaf57dc14)  
 > Date: Sat, 11 Apr 2020 12:18:33 +0000  
 > Author: root (root@dSIP060entNightly-0.localdomain)  
 > Committer: root (root@dSIP060entNightly-0.localdomain)  
@@ -3717,7 +4078,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f126871d033c243282abc4e572d68f52a6987d8a)
 ### Fixed dSIPCDRInfo Table - The definition was missing in the database mapping file
 
-> Commit: [f126871d033c243282abc4e572d68f52a6987d8a](https://git.flyball.co/dsiprouter/enterprise/commit/f126871d033c243282abc4e572d68f52a6987d8a)  
+> Commit: [f126871d033c243282abc4e572d68f52a6987d8a](https://github.com/jcornwell-river/dsiprouter/commit/f126871d033c243282abc4e572d68f52a6987d8a)  
 > Date: Fri, 10 Apr 2020 11:32:54 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3732,7 +4093,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f2b2a9202d15e047129f223bfd1046c240f172d0)
 ### Added WebSocket Support - Added the kamailio websocket module to the install on Debian 9 - Added Support in Kamailio script
 
-> Commit: [f2b2a9202d15e047129f223bfd1046c240f172d0](https://git.flyball.co/dsiprouter/enterprise/commit/f2b2a9202d15e047129f223bfd1046c240f172d0)  
+> Commit: [f2b2a9202d15e047129f223bfd1046c240f172d0](https://github.com/jcornwell-river/dsiprouter/commit/f2b2a9202d15e047129f223bfd1046c240f172d0)  
 > Date: Fri, 10 Apr 2020 01:03:02 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3747,7 +4108,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eeac604c28012dd95c83af6d9164fed333f5c587)
 ### Fixed Issue #22 - Bug in the Inbound DID Mapping Import
 
-> Commit: [eeac604c28012dd95c83af6d9164fed333f5c587](https://git.flyball.co/dsiprouter/enterprise/commit/eeac604c28012dd95c83af6d9164fed333f5c587)  
+> Commit: [eeac604c28012dd95c83af6d9164fed333f5c587](https://github.com/jcornwell-river/dsiprouter/commit/eeac604c28012dd95c83af6d9164fed333f5c587)  
 > Date: Tue, 7 Apr 2020 05:17:56 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3762,7 +4123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6deb85b4571275288851976ec031caac1101dc3d)
 ### Fixed typo
 
-> Commit: [6deb85b4571275288851976ec031caac1101dc3d](https://git.flyball.co/dsiprouter/enterprise/commit/6deb85b4571275288851976ec031caac1101dc3d)  
+> Commit: [6deb85b4571275288851976ec031caac1101dc3d](https://github.com/jcornwell-river/dsiprouter/commit/6deb85b4571275288851976ec031caac1101dc3d)  
 > Date: Fri, 3 Apr 2020 11:41:24 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3777,7 +4138,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c1ea635a6606e7800f03813ead94aa660f9d374f)
 ### MS Teams Support - Ability to handle one MS Teams Domain - Configure CA List for Kamaiio certs - Added MS Teams Support to Domains - Added a MS Teams Conifguration page
 
-> Commit: [c1ea635a6606e7800f03813ead94aa660f9d374f](https://git.flyball.co/dsiprouter/enterprise/commit/c1ea635a6606e7800f03813ead94aa660f9d374f)  
+> Commit: [c1ea635a6606e7800f03813ead94aa660f9d374f](https://github.com/jcornwell-river/dsiprouter/commit/c1ea635a6606e7800f03813ead94aa660f9d374f)  
 > Date: Fri, 3 Apr 2020 10:20:26 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3792,7 +4153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e244a66db7c5f9bdad8697c4af31e9f33126bcac)
 ### Microsoft Teams Support - Added configuration to the Kamailio configuration to have a listen address with a hostname - Added External Hostname parameters - Configured TLS configuration to validate server certs - Add support for sending OPTION messages with a Contact Header
 
-> Commit: [e244a66db7c5f9bdad8697c4af31e9f33126bcac](https://git.flyball.co/dsiprouter/enterprise/commit/e244a66db7c5f9bdad8697c4af31e9f33126bcac)  
+> Commit: [e244a66db7c5f9bdad8697c4af31e9f33126bcac](https://github.com/jcornwell-river/dsiprouter/commit/e244a66db7c5f9bdad8697c4af31e9f33126bcac)  
 > Date: Tue, 31 Mar 2020 22:48:01 +0000  
 > Author: Mack Hendricks (mack@dopensource.net)  
 > Committer: Mack Hendricks (mack@dopensource.net)  
@@ -3807,7 +4168,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 470fbe91ac813f08980a9603b4b3a6d77a903825)
 ### Microsoft Teams Support - Added configuration to the Kamailio configuration to have a listen address with a hostname - Added External Hostname parameters - Configured TLS configuration to validate server certs - Add support for sending OPTION messages with a Contact Header
 
-> Commit: [470fbe91ac813f08980a9603b4b3a6d77a903825](https://git.flyball.co/dsiprouter/enterprise/commit/470fbe91ac813f08980a9603b4b3a6d77a903825)  
+> Commit: [470fbe91ac813f08980a9603b4b3a6d77a903825](https://github.com/jcornwell-river/dsiprouter/commit/470fbe91ac813f08980a9603b4b3a6d77a903825)  
 > Date: Tue, 31 Mar 2020 22:46:43 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3822,7 +4183,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 901af97eb7a61588afcb32a7747c167c6736295f)
 ### System CA Certs - Configured Kamailio to use the CA's shipped with the OS
 
-> Commit: [901af97eb7a61588afcb32a7747c167c6736295f](https://git.flyball.co/dsiprouter/enterprise/commit/901af97eb7a61588afcb32a7747c167c6736295f)  
+> Commit: [901af97eb7a61588afcb32a7747c167c6736295f](https://github.com/jcornwell-river/dsiprouter/commit/901af97eb7a61588afcb32a7747c167c6736295f)  
 > Date: Mon, 30 Mar 2020 00:39:50 +0000  
 > Author: root (root@sbc3.dsiprouter.net)  
 > Committer: root (root@sbc3.dsiprouter.net)  
@@ -3837,7 +4198,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b734fc096d4e3d6534a21f67b053b4491d67513b)
 ### SSL Enable - Fixed permission issues
 
-> Commit: [b734fc096d4e3d6534a21f67b053b4491d67513b](https://git.flyball.co/dsiprouter/enterprise/commit/b734fc096d4e3d6534a21f67b053b4491d67513b)  
+> Commit: [b734fc096d4e3d6534a21f67b053b4491d67513b](https://github.com/jcornwell-river/dsiprouter/commit/b734fc096d4e3d6534a21f67b053b4491d67513b)  
 > Date: Mon, 30 Mar 2020 00:04:45 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3852,7 +4213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 67d5925d3dedfb92935a3983010dfba6286ea636)
 ### Added LetsEncrypt Support - Will try to create LetsEncrypt certs if TEAMS support is enabled - Will create Self-Signed Certs if LetsEncrypt fails - Started a CONTRIBUTING page to capture our coding standards
 
-> Commit: [67d5925d3dedfb92935a3983010dfba6286ea636](https://git.flyball.co/dsiprouter/enterprise/commit/67d5925d3dedfb92935a3983010dfba6286ea636)  
+> Commit: [67d5925d3dedfb92935a3983010dfba6286ea636](https://github.com/jcornwell-river/dsiprouter/commit/67d5925d3dedfb92935a3983010dfba6286ea636)  
 > Date: Sun, 29 Mar 2020 17:40:47 +0000  
 > Author: root (root@sbc2.dsiprouter.net)  
 > Committer: root (root@sbc2.dsiprouter.net)  
@@ -3867,7 +4228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7143eb17c6c1cc9c78c7b6600f30452f921f7f8c)
 ### Fix Carrier Update Changing Reload Button
 
-> Commit: [7143eb17c6c1cc9c78c7b6600f30452f921f7f8c](https://git.flyball.co/dsiprouter/enterprise/commit/7143eb17c6c1cc9c78c7b6600f30452f921f7f8c)  
+> Commit: [7143eb17c6c1cc9c78c7b6600f30452f921f7f8c](https://github.com/jcornwell-river/dsiprouter/commit/7143eb17c6c1cc9c78c7b6600f30452f921f7f8c)  
 > Date: Thu, 26 Mar 2020 16:25:53 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3884,7 +4245,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eefe02ba547f850e9da5c56892a9ac45cfbb29c4)
 ### Fix Carrier Address Mismatch Issue
 
-> Commit: [eefe02ba547f850e9da5c56892a9ac45cfbb29c4](https://git.flyball.co/dsiprouter/enterprise/commit/eefe02ba547f850e9da5c56892a9ac45cfbb29c4)  
+> Commit: [eefe02ba547f850e9da5c56892a9ac45cfbb29c4](https://github.com/jcornwell-river/dsiprouter/commit/eefe02ba547f850e9da5c56892a9ac45cfbb29c4)  
 > Date: Thu, 26 Mar 2020 15:31:27 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3901,7 +4262,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a6d7a717a154ae35ae26baaa396978d3d7ba4a68)
 ### Set KAM_DB_PASS to the default value of kamailiorw
 
-> Commit: [a6d7a717a154ae35ae26baaa396978d3d7ba4a68](https://git.flyball.co/dsiprouter/enterprise/commit/a6d7a717a154ae35ae26baaa396978d3d7ba4a68)  
+> Commit: [a6d7a717a154ae35ae26baaa396978d3d7ba4a68](https://github.com/jcornwell-river/dsiprouter/commit/a6d7a717a154ae35ae26baaa396978d3d7ba4a68)  
 > Date: Wed, 25 Mar 2020 11:11:14 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -3916,7 +4277,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b59ada6025e875ea781d2b0f07cd2cab114543d1)
 ### Fixed a regression
 
-> Commit: [b59ada6025e875ea781d2b0f07cd2cab114543d1](https://git.flyball.co/dsiprouter/enterprise/commit/b59ada6025e875ea781d2b0f07cd2cab114543d1)  
+> Commit: [b59ada6025e875ea781d2b0f07cd2cab114543d1](https://github.com/jcornwell-river/dsiprouter/commit/b59ada6025e875ea781d2b0f07cd2cab114543d1)  
 > Date: Wed, 25 Mar 2020 10:25:07 +0000  
 > Author: root (root@dSIP060entNightly-0.localdomain)  
 > Committer: root (root@dSIP060entNightly-0.localdomain)  
@@ -3931,7 +4292,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9948823743a42effcd85c3ae147daa1d9d15d31d)
 ### TLS Support - Added support that will enable TLS on initial install - Added support to install the proper Kamailio modules for Debian - Added logic to generate a self-signed certitifcate during install
 
-> Commit: [9948823743a42effcd85c3ae147daa1d9d15d31d](https://git.flyball.co/dsiprouter/enterprise/commit/9948823743a42effcd85c3ae147daa1d9d15d31d)  
+> Commit: [9948823743a42effcd85c3ae147daa1d9d15d31d](https://github.com/jcornwell-river/dsiprouter/commit/9948823743a42effcd85c3ae147daa1d9d15d31d)  
 > Date: Wed, 25 Mar 2020 00:18:39 +0000  
 > Author: root (root@dSIP060entNightly-0.localdomain)  
 > Committer: root (root@dSIP060entNightly-0.localdomain)  
@@ -3946,7 +4307,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4bcdc842c6a4645265230b921ced574dbe15588f)
 ### Update mysqldump Commands to Handle More Use Cases
 
-> Commit: [4bcdc842c6a4645265230b921ced574dbe15588f](https://git.flyball.co/dsiprouter/enterprise/commit/4bcdc842c6a4645265230b921ced574dbe15588f)  
+> Commit: [4bcdc842c6a4645265230b921ced574dbe15588f](https://github.com/jcornwell-river/dsiprouter/commit/4bcdc842c6a4645265230b921ced574dbe15588f)  
 > Date: Mon, 23 Mar 2020 14:04:50 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3964,7 +4325,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cfc1cf6ebf8f8bf9f534b2d640af4d4564213467)
 ### Increase Kamailio Max Loop Count
 
-> Commit: [cfc1cf6ebf8f8bf9f534b2d640af4d4564213467](https://git.flyball.co/dsiprouter/enterprise/commit/cfc1cf6ebf8f8bf9f534b2d640af4d4564213467)  
+> Commit: [cfc1cf6ebf8f8bf9f534b2d640af4d4564213467](https://github.com/jcornwell-river/dsiprouter/commit/cfc1cf6ebf8f8bf9f534b2d640af4d4564213467)  
 > Date: Mon, 23 Mar 2020 10:25:46 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3980,7 +4341,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5a493fc61cb370b5c2c0c2487aa18f8ca81ef067)
 ### Fix inbound mapping import issues
 
-> Commit: [5a493fc61cb370b5c2c0c2487aa18f8ca81ef067](https://git.flyball.co/dsiprouter/enterprise/commit/5a493fc61cb370b5c2c0c2487aa18f8ca81ef067)  
+> Commit: [5a493fc61cb370b5c2c0c2487aa18f8ca81ef067](https://github.com/jcornwell-river/dsiprouter/commit/5a493fc61cb370b5c2c0c2487aa18f8ca81ef067)  
 > Date: Fri, 20 Mar 2020 14:10:00 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -3995,7 +4356,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14fa0a028a6568cc9c660893502917fb960f93d7)
 ### Stability Fixes and Cluster Sync/Install Updates
 
-> Commit: [14fa0a028a6568cc9c660893502917fb960f93d7](https://git.flyball.co/dsiprouter/enterprise/commit/14fa0a028a6568cc9c660893502917fb960f93d7)  
+> Commit: [14fa0a028a6568cc9c660893502917fb960f93d7](https://github.com/jcornwell-river/dsiprouter/commit/14fa0a028a6568cc9c660893502917fb960f93d7)  
 > Date: Fri, 20 Mar 2020 11:53:44 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4019,7 +4380,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1)
 ### Fix errors in dsiprouter script
 
-> Commit: [cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1](https://git.flyball.co/dsiprouter/enterprise/commit/cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1)  
+> Commit: [cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1](https://github.com/jcornwell-river/dsiprouter/commit/cd8dbc26b3cd8def1aa00e8391bbaf18c01530b1)  
 > Date: Fri, 13 Mar 2020 13:19:55 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4036,7 +4397,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3aa8587aae55ce50f5389923521388a467d2a7ea)
 ### CDR / Backup Feature Fixes
 
-> Commit: [3aa8587aae55ce50f5389923521388a467d2a7ea](https://git.flyball.co/dsiprouter/enterprise/commit/3aa8587aae55ce50f5389923521388a467d2a7ea)  
+> Commit: [3aa8587aae55ce50f5389923521388a467d2a7ea](https://github.com/jcornwell-river/dsiprouter/commit/3aa8587aae55ce50f5389923521388a467d2a7ea)  
 > Date: Fri, 13 Mar 2020 11:51:22 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4055,7 +4416,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91d038e332e1b38799eb7b5e594d4fb7e93675f7)
 ### Merge v0.55+ent changes into v0.60+ent
 
-> Commit: [91d038e332e1b38799eb7b5e594d4fb7e93675f7](https://git.flyball.co/dsiprouter/enterprise/commit/91d038e332e1b38799eb7b5e594d4fb7e93675f7)  
+> Commit: [91d038e332e1b38799eb7b5e594d4fb7e93675f7](https://github.com/jcornwell-river/dsiprouter/commit/91d038e332e1b38799eb7b5e594d4fb7e93675f7)  
 > Date: Thu, 12 Mar 2020 16:24:26 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4076,7 +4437,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62dc6be4fc038b2526ccfdd2e9a31e424652571e)
 ### Merge dmq-feature branch into v0.60+ent
 
-> Commit: [62dc6be4fc038b2526ccfdd2e9a31e424652571e](https://git.flyball.co/dsiprouter/enterprise/commit/62dc6be4fc038b2526ccfdd2e9a31e424652571e)  
+> Commit: [62dc6be4fc038b2526ccfdd2e9a31e424652571e](https://github.com/jcornwell-river/dsiprouter/commit/62dc6be4fc038b2526ccfdd2e9a31e424652571e)  
 > Date: Thu, 12 Mar 2020 10:37:41 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4091,7 +4452,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 817a8062a283827aa22d90a8d5aaa201310effac)
 ### Fix Testing Makefile
 
-> Commit: [817a8062a283827aa22d90a8d5aaa201310effac](https://git.flyball.co/dsiprouter/enterprise/commit/817a8062a283827aa22d90a8d5aaa201310effac)  
+> Commit: [817a8062a283827aa22d90a8d5aaa201310effac](https://github.com/jcornwell-river/dsiprouter/commit/817a8062a283827aa22d90a8d5aaa201310effac)  
 > Date: Tue, 25 Feb 2020 15:33:22 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4107,7 +4468,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c2027be6c0363d6a0011bb6df9948ba734021921)
 ### Fix RTPEngine Kernel Header Install Issue
 
-> Commit: [c2027be6c0363d6a0011bb6df9948ba734021921](https://git.flyball.co/dsiprouter/enterprise/commit/c2027be6c0363d6a0011bb6df9948ba734021921)  
+> Commit: [c2027be6c0363d6a0011bb6df9948ba734021921](https://github.com/jcornwell-river/dsiprouter/commit/c2027be6c0363d6a0011bb6df9948ba734021921)  
 > Date: Tue, 25 Feb 2020 14:54:46 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4123,7 +4484,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac)
 ### V0.60 Bug Fixes
 
-> Commit: [fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac](https://git.flyball.co/dsiprouter/enterprise/commit/fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac)  
+> Commit: [fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac](https://github.com/jcornwell-river/dsiprouter/commit/fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac)  
 > Date: Mon, 24 Feb 2020 10:55:29 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4145,10 +4506,310 @@ END_SECTION COMMITS)
 ---
 
 [//]: # (END_SECTION fcd9ef8c7d66d8b2af645be760aa0f99a3c3cbac)
+[//]: # (START_SECTION fe4e90763318d06f134b4093e7fec2f9dfd74dcf)
+### Update settings.py
+
+> Commit: [fe4e90763318d06f134b4093e7fec2f9dfd74dcf](https://github.com/jcornwell-river/dsiprouter/commit/fe4e90763318d06f134b4093e7fec2f9dfd74dcf)  
+> Date: Mon, 4 Nov 2019 03:48:25 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION fe4e90763318d06f134b4093e7fec2f9dfd74dcf)
+[//]: # (START_SECTION efa8d3fb5a9c3c28325df28cfe4244711020be28)
+### Update domains.rst
+
+> Commit: [efa8d3fb5a9c3c28325df28cfe4244711020be28](https://github.com/jcornwell-river/dsiprouter/commit/efa8d3fb5a9c3c28325df28cfe4244711020be28)  
+> Date: Mon, 4 Nov 2019 03:45:57 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION efa8d3fb5a9c3c28325df28cfe4244711020be28)
+[//]: # (START_SECTION a4875920e015c40c97023e103cdfa28b21282e37)
+### Update supported_configurations.rst
+
+> Commit: [a4875920e015c40c97023e103cdfa28b21282e37](https://github.com/jcornwell-river/dsiprouter/commit/a4875920e015c40c97023e103cdfa28b21282e37)  
+> Date: Mon, 4 Nov 2019 03:21:36 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION a4875920e015c40c97023e103cdfa28b21282e37)
+[//]: # (START_SECTION 0a1b04837ef6f9793989fc65d48bad9c7df94bea)
+### Update supported_configurations.rst
+
+> Commit: [0a1b04837ef6f9793989fc65d48bad9c7df94bea](https://github.com/jcornwell-river/dsiprouter/commit/0a1b04837ef6f9793989fc65d48bad9c7df94bea)  
+> Date: Mon, 4 Nov 2019 03:19:17 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 0a1b04837ef6f9793989fc65d48bad9c7df94bea)
+[//]: # (START_SECTION f55a391d94e4da8c5eaf3ffeeab3a2e27ad6adc9)
+### Update domains.rst
+
+> Commit: [f55a391d94e4da8c5eaf3ffeeab3a2e27ad6adc9](https://github.com/jcornwell-river/dsiprouter/commit/f55a391d94e4da8c5eaf3ffeeab3a2e27ad6adc9)  
+> Date: Mon, 4 Nov 2019 01:54:57 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION f55a391d94e4da8c5eaf3ffeeab3a2e27ad6adc9)
+[//]: # (START_SECTION fe9218330241deaf90871bbdef5a671634bce81e)
+### Update supported_configurations.rst
+
+> Commit: [fe9218330241deaf90871bbdef5a671634bce81e](https://github.com/jcornwell-river/dsiprouter/commit/fe9218330241deaf90871bbdef5a671634bce81e)  
+> Date: Mon, 4 Nov 2019 01:37:43 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION fe9218330241deaf90871bbdef5a671634bce81e)
+[//]: # (START_SECTION 2c2a83c592a934a35346e5dd9467fa8c4820dc60)
+### Update supported_configurations.rst
+
+> Commit: [2c2a83c592a934a35346e5dd9467fa8c4820dc60](https://github.com/jcornwell-river/dsiprouter/commit/2c2a83c592a934a35346e5dd9467fa8c4820dc60)  
+> Date: Mon, 4 Nov 2019 01:20:21 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 2c2a83c592a934a35346e5dd9467fa8c4820dc60)
+[//]: # (START_SECTION df92443f24256ca322a777b2e39623a4373fb681)
+### Update supported_configurations.rst
+
+> Commit: [df92443f24256ca322a777b2e39623a4373fb681](https://github.com/jcornwell-river/dsiprouter/commit/df92443f24256ca322a777b2e39623a4373fb681)  
+> Date: Sun, 3 Nov 2019 17:55:27 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION df92443f24256ca322a777b2e39623a4373fb681)
+[//]: # (START_SECTION c4cd5ad10f765a8afc4f33e31fbf919c765507ec)
+### Update supported_configurations.rst
+
+> Commit: [c4cd5ad10f765a8afc4f33e31fbf919c765507ec](https://github.com/jcornwell-river/dsiprouter/commit/c4cd5ad10f765a8afc4f33e31fbf919c765507ec)  
+> Date: Sun, 3 Nov 2019 17:45:00 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION c4cd5ad10f765a8afc4f33e31fbf919c765507ec)
+[//]: # (START_SECTION 5c507275ea83d7164daedc690b3f8c8879b21e83)
+### Update supported_configurations.rst
+
+> Commit: [5c507275ea83d7164daedc690b3f8c8879b21e83](https://github.com/jcornwell-river/dsiprouter/commit/5c507275ea83d7164daedc690b3f8c8879b21e83)  
+> Date: Sun, 3 Nov 2019 17:42:28 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 5c507275ea83d7164daedc690b3f8c8879b21e83)
+[//]: # (START_SECTION 0f44d04cf565cc434ad0d76e7a48e41e882acd5a)
+### Update supported_configurations.rst
+
+> Commit: [0f44d04cf565cc434ad0d76e7a48e41e882acd5a](https://github.com/jcornwell-river/dsiprouter/commit/0f44d04cf565cc434ad0d76e7a48e41e882acd5a)  
+> Date: Sun, 3 Nov 2019 17:40:34 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 0f44d04cf565cc434ad0d76e7a48e41e882acd5a)
+[//]: # (START_SECTION 50ffb4ad4a36804c57a6897a101a9d4a937104d4)
+### Update supported_configurations.rst
+
+> Commit: [50ffb4ad4a36804c57a6897a101a9d4a937104d4](https://github.com/jcornwell-river/dsiprouter/commit/50ffb4ad4a36804c57a6897a101a9d4a937104d4)  
+> Date: Sun, 3 Nov 2019 17:30:19 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 50ffb4ad4a36804c57a6897a101a9d4a937104d4)
+[//]: # (START_SECTION 91ed94f3e7ba639bcbbd97ee5319416bd64890d4)
+### Update supported_configurations.rst
+
+> Commit: [91ed94f3e7ba639bcbbd97ee5319416bd64890d4](https://github.com/jcornwell-river/dsiprouter/commit/91ed94f3e7ba639bcbbd97ee5319416bd64890d4)  
+> Date: Sun, 3 Nov 2019 17:28:58 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 91ed94f3e7ba639bcbbd97ee5319416bd64890d4)
+[//]: # (START_SECTION 750a611301607ec8613ffa1e07ce863362a27570)
+### Update supported_configurations.rst
+
+> Commit: [750a611301607ec8613ffa1e07ce863362a27570](https://github.com/jcornwell-river/dsiprouter/commit/750a611301607ec8613ffa1e07ce863362a27570)  
+> Date: Sun, 3 Nov 2019 17:27:36 -0500  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: GitHub (noreply@github.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 750a611301607ec8613ffa1e07ce863362a27570)
+[//]: # (START_SECTION b183b1e717e37c7243b99ec18b8d697aa8b0a1fc)
+### Made Pass Thru authentication the default method
+
+> Commit: [b183b1e717e37c7243b99ec18b8d697aa8b0a1fc](https://github.com/jcornwell-river/dsiprouter/commit/b183b1e717e37c7243b99ec18b8d697aa8b0a1fc)  
+> Date: Sun, 3 Nov 2019 22:23:06 +0000  
+> Author: root (root@dSIPRouterMackv0523Hotfix-0.localdomain)  
+> Committer: root (root@dSIPRouterMackv0523Hotfix-0.localdomain)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION b183b1e717e37c7243b99ec18b8d697aa8b0a1fc)
+[//]: # (START_SECTION c13ff8da9d0e6d04c5f530a992501fd1ff3c3992)
+### Fixed #102 for both FreePBX with chan_sip and FusionPBX with Sofia.
+
+> Commit: [c13ff8da9d0e6d04c5f530a992501fd1ff3c3992](https://github.com/jcornwell-river/dsiprouter/commit/c13ff8da9d0e6d04c5f530a992501fd1ff3c3992)  
+> Date: Sun, 3 Nov 2019 21:26:59 +0000  
+> Author: root (root@dSIPMack0523hotfix-0.localdomain)  
+> Committer: root (root@dSIPMack0523hotfix-0.localdomain)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION c13ff8da9d0e6d04c5f530a992501fd1ff3c3992)
+[//]: # (START_SECTION a5eac062f964e5485f309248e295d8f0110b2dd7)
+### Fixed logic that checks if dSIPRouter is running on a cloud provider.  The Google Cloud Check was not evaluating correctly and resulted in setting an empty string password for the admin user.
+
+> Commit: [a5eac062f964e5485f309248e295d8f0110b2dd7](https://github.com/jcornwell-river/dsiprouter/commit/a5eac062f964e5485f309248e295d8f0110b2dd7)  
+> Date: Sat, 2 Nov 2019 21:52:56 +1100  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION a5eac062f964e5485f309248e295d8f0110b2dd7)
+[//]: # (START_SECTION 224322a9885f4b5b452d96bfc68a226ca0a02bd3)
+### FusionPBX Extension to Extension Dialing - This fix should resovle issues with users being able to do Extension to Extension calls on FusionPBX
+
+> Commit: [224322a9885f4b5b452d96bfc68a226ca0a02bd3](https://github.com/jcornwell-river/dsiprouter/commit/224322a9885f4b5b452d96bfc68a226ca0a02bd3)  
+> Date: Mon, 14 Oct 2019 04:04:18 +0000  
+> Author: root (root@dSIP0523SSLEnable-0.localdomain)  
+> Committer: root (root@dSIP0523SSLEnable-0.localdomain)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 224322a9885f4b5b452d96bfc68a226ca0a02bd3)
+[//]: # (START_SECTION a0824bac4caeee87b7f21e22d362f29c9dc8843a)
+### Fixed issue with ServerNAT being enabled by default
+
+> Commit: [a0824bac4caeee87b7f21e22d362f29c9dc8843a](https://github.com/jcornwell-river/dsiprouter/commit/a0824bac4caeee87b7f21e22d362f29c9dc8843a)  
+> Date: Sun, 13 Oct 2019 07:15:48 +0000  
+> Author: root (root@dSIP0523SSLEnable-0.localdomain)  
+> Committer: root (root@dSIP0523SSLEnable-0.localdomain)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION a0824bac4caeee87b7f21e22d362f29c9dc8843a)
+[//]: # (START_SECTION 6fcc6255f4eb63135e4c714d65638c524f8278bc)
+### Location information is now stored under extension@<ip address of dsip>
+
+> Commit: [6fcc6255f4eb63135e4c714d65638c524f8278bc](https://github.com/jcornwell-river/dsiprouter/commit/6fcc6255f4eb63135e4c714d65638c524f8278bc)  
+> Date: Sun, 13 Oct 2019 02:43:02 -0400  
+> Author: Mack Hendricks (mack@dopensource.com)  
+> Committer: Mack Hendricks (mack@dopensource.com)  
+> Signed:   
+
+
+
+
+---
+
+[//]: # (END_SECTION 6fcc6255f4eb63135e4c714d65638c524f8278bc)
 [//]: # (START_SECTION dda982bfbd1c8a2f3879197c08b04775eb95be82)
 ### Fix pre-commit hook
 
-> Commit: [dda982bfbd1c8a2f3879197c08b04775eb95be82](https://git.flyball.co/dsiprouter/enterprise/commit/dda982bfbd1c8a2f3879197c08b04775eb95be82)  
+> Commit: [dda982bfbd1c8a2f3879197c08b04775eb95be82](https://github.com/jcornwell-river/dsiprouter/commit/dda982bfbd1c8a2f3879197c08b04775eb95be82)  
 > Date: Tue, 8 Oct 2019 06:20:48 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4164,7 +4825,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3db8d9052c1a7e486657de0b16945b9e2f6cec2b)
 ### Increase Efficiency of CHANGELOG creation
 
-> Commit: [3db8d9052c1a7e486657de0b16945b9e2f6cec2b](https://git.flyball.co/dsiprouter/enterprise/commit/3db8d9052c1a7e486657de0b16945b9e2f6cec2b)  
+> Commit: [3db8d9052c1a7e486657de0b16945b9e2f6cec2b](https://github.com/jcornwell-river/dsiprouter/commit/3db8d9052c1a7e486657de0b16945b9e2f6cec2b)  
 > Date: Tue, 8 Oct 2019 03:26:36 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4180,7 +4841,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2d57dbb72c691d6b333499718de50c954ff8acca)
 ### Add dsiprouter to list of tracked services for consul
 
-> Commit: [2d57dbb72c691d6b333499718de50c954ff8acca](https://git.flyball.co/dsiprouter/enterprise/commit/2d57dbb72c691d6b333499718de50c954ff8acca)  
+> Commit: [2d57dbb72c691d6b333499718de50c954ff8acca](https://github.com/jcornwell-river/dsiprouter/commit/2d57dbb72c691d6b333499718de50c954ff8acca)  
 > Date: Sat, 5 Oct 2019 19:07:46 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4195,7 +4856,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b1e0868ef0edb473718fdfc8494ea0e3fe54722c)
 ### DB Session Management Updates and Feature Additions
 
-> Commit: [b1e0868ef0edb473718fdfc8494ea0e3fe54722c](https://git.flyball.co/dsiprouter/enterprise/commit/b1e0868ef0edb473718fdfc8494ea0e3fe54722c)  
+> Commit: [b1e0868ef0edb473718fdfc8494ea0e3fe54722c](https://github.com/jcornwell-river/dsiprouter/commit/b1e0868ef0edb473718fdfc8494ea0e3fe54722c)  
 > Date: Fri, 4 Oct 2019 20:37:33 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4223,9 +4884,9 @@ END_SECTION COMMITS)
 
 [//]: # (END_SECTION b1e0868ef0edb473718fdfc8494ea0e3fe54722c)
 [//]: # (START_SECTION 41529c00be9ed9586eec0e9407c83cff258c0c8e)
-### Merge Commit [c88b214251333b7350b10b27fa2dae683ef3b602](https://git.flyball.co/dsiprouter/enterprise/commit/c88b214251333b7350b10b27fa2dae683ef3b602) From OSS Repo
+### Merge Commit [c88b214251333b7350b10b27fa2dae683ef3b602](https://github.com/jcornwell-river/dsiprouter/commit/c88b214251333b7350b10b27fa2dae683ef3b602) From OSS Repo
 
-> Commit: [41529c00be9ed9586eec0e9407c83cff258c0c8e](https://git.flyball.co/dsiprouter/enterprise/commit/41529c00be9ed9586eec0e9407c83cff258c0c8e)  
+> Commit: [41529c00be9ed9586eec0e9407c83cff258c0c8e](https://github.com/jcornwell-river/dsiprouter/commit/41529c00be9ed9586eec0e9407c83cff258c0c8e)  
 > Date: Wed, 2 Oct 2019 16:59:11 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4237,10 +4898,25 @@ END_SECTION COMMITS)
 ---
 
 [//]: # (END_SECTION 41529c00be9ed9586eec0e9407c83cff258c0c8e)
+[//]: # (START_SECTION c88b214251333b7350b10b27fa2dae683ef3b602)
+### Hotfix for 401/407 reply not sent on Pass Through Auth
+
+> Commit: [c88b214251333b7350b10b27fa2dae683ef3b602](https://github.com/jcornwell-river/dsiprouter/commit/c88b214251333b7350b10b27fa2dae683ef3b602)  
+> Date: Wed, 2 Oct 2019 16:53:56 -0400  
+> Author: Tyler Moore (tmoore@goflyball.com)  
+> Committer: Tyler Moore (tmoore@goflyball.com)  
+> Signed: Tyler Moore (devopsec) <tmoore@goflyball.com>  
+
+
+
+
+---
+
+[//]: # (END_SECTION c88b214251333b7350b10b27fa2dae683ef3b602)
 [//]: # (START_SECTION c7bb17fc14cbbc27ac46b7ee34dd8287301a76db)
 ### Update RTPEngine Default Config
 
-> Commit: [c7bb17fc14cbbc27ac46b7ee34dd8287301a76db](https://git.flyball.co/dsiprouter/enterprise/commit/c7bb17fc14cbbc27ac46b7ee34dd8287301a76db)  
+> Commit: [c7bb17fc14cbbc27ac46b7ee34dd8287301a76db](https://github.com/jcornwell-river/dsiprouter/commit/c7bb17fc14cbbc27ac46b7ee34dd8287301a76db)  
 > Date: Tue, 1 Oct 2019 17:58:13 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4256,7 +4932,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5defb56428352d12eb1a9ff27755c37cf9c7cac2)
 ### Update Enterprise and OSS Features
 
-> Commit: [5defb56428352d12eb1a9ff27755c37cf9c7cac2](https://git.flyball.co/dsiprouter/enterprise/commit/5defb56428352d12eb1a9ff27755c37cf9c7cac2)  
+> Commit: [5defb56428352d12eb1a9ff27755c37cf9c7cac2](https://github.com/jcornwell-river/dsiprouter/commit/5defb56428352d12eb1a9ff27755c37cf9c7cac2)  
 > Date: Tue, 1 Oct 2019 16:40:26 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4295,7 +4971,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89)
 ### Slight Tweak to dr_gateways trigger
 
-> Commit: [a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89](https://git.flyball.co/dsiprouter/enterprise/commit/a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89)  
+> Commit: [a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89](https://github.com/jcornwell-river/dsiprouter/commit/a92d2e3aa03be1a7bc634f5ba71e085a8a48fe89)  
 > Date: Tue, 1 Oct 2019 14:06:23 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4311,7 +4987,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3988878bb233c3354cb4f3b3aef7d30c73afc465)
 ### Merge branch v0.523+ent into v0.60+ent
 
-> Commit: [3988878bb233c3354cb4f3b3aef7d30c73afc465](https://git.flyball.co/dsiprouter/enterprise/commit/3988878bb233c3354cb4f3b3aef7d30c73afc465)  
+> Commit: [3988878bb233c3354cb4f3b3aef7d30c73afc465](https://github.com/jcornwell-river/dsiprouter/commit/3988878bb233c3354cb4f3b3aef7d30c73afc465)  
 > Date: Mon, 30 Sep 2019 20:51:38 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4326,7 +5002,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 586cfb543c7062b0df0d0c5bec468af01cf7fa53)
 ### Bug Fixes and Forwarding Feature Update
 
-> Commit: [586cfb543c7062b0df0d0c5bec468af01cf7fa53](https://git.flyball.co/dsiprouter/enterprise/commit/586cfb543c7062b0df0d0c5bec468af01cf7fa53)  
+> Commit: [586cfb543c7062b0df0d0c5bec468af01cf7fa53](https://github.com/jcornwell-river/dsiprouter/commit/586cfb543c7062b0df0d0c5bec468af01cf7fa53)  
 > Date: Thu, 26 Sep 2019 23:37:28 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4350,7 +5026,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 643c07c7d544ad83df7bb855cd90aab8651adbb1)
 ### Update to DID Forwarding
 
-> Commit: [643c07c7d544ad83df7bb855cd90aab8651adbb1](https://git.flyball.co/dsiprouter/enterprise/commit/643c07c7d544ad83df7bb855cd90aab8651adbb1)  
+> Commit: [643c07c7d544ad83df7bb855cd90aab8651adbb1](https://github.com/jcornwell-river/dsiprouter/commit/643c07c7d544ad83df7bb855cd90aab8651adbb1)  
 > Date: Mon, 23 Sep 2019 19:25:54 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4372,7 +5048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17f31180eeac77b4377c5a854bd40ad613e01210)
 ### Add Security Features and Database Settings Update
 
-> Commit: [17f31180eeac77b4377c5a854bd40ad613e01210](https://git.flyball.co/dsiprouter/enterprise/commit/17f31180eeac77b4377c5a854bd40ad613e01210)  
+> Commit: [17f31180eeac77b4377c5a854bd40ad613e01210](https://github.com/jcornwell-river/dsiprouter/commit/17f31180eeac77b4377c5a854bd40ad613e01210)  
 > Date: Fri, 20 Sep 2019 16:01:15 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4419,7 +5095,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4dee94abce5cf59e8a14f54a57dd64ee480aab01)
 ### Forwarding fixes and Misc Updates
 
-> Commit: [4dee94abce5cf59e8a14f54a57dd64ee480aab01](https://git.flyball.co/dsiprouter/enterprise/commit/4dee94abce5cf59e8a14f54a57dd64ee480aab01)  
+> Commit: [4dee94abce5cf59e8a14f54a57dd64ee480aab01](https://github.com/jcornwell-river/dsiprouter/commit/4dee94abce5cf59e8a14f54a57dd64ee480aab01)  
 > Date: Fri, 13 Sep 2019 11:35:41 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4441,7 +5117,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9298bd4d47c9210c8ed8c353d14fc4d06e9b9744)
 ### Fixes - Fixed the Endpoint Group Modal - Fixed issues with the Call Limit not working with User/Pass Registration - Fixed issues with the API
 
-> Commit: [9298bd4d47c9210c8ed8c353d14fc4d06e9b9744](https://git.flyball.co/dsiprouter/enterprise/commit/9298bd4d47c9210c8ed8c353d14fc4d06e9b9744)  
+> Commit: [9298bd4d47c9210c8ed8c353d14fc4d06e9b9744](https://github.com/jcornwell-river/dsiprouter/commit/9298bd4d47c9210c8ed8c353d14fc4d06e9b9744)  
 > Date: Fri, 13 Sep 2019 02:17:08 +0000  
 > Author: root (root@dev-siprouter01.ynyybpir3miebggok1eqcyxpaf.gx.internal.cloudapp.net)  
 > Committer: root (root@dev-siprouter01.ynyybpir3miebggok1eqcyxpaf.gx.internal.cloudapp.net)  
@@ -4456,7 +5132,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ea4bc9f5aa3517aea230ab662dde65592ec5a0a2)
 ### v0523 Fixes
 
-> Commit: [ea4bc9f5aa3517aea230ab662dde65592ec5a0a2](https://git.flyball.co/dsiprouter/enterprise/commit/ea4bc9f5aa3517aea230ab662dde65592ec5a0a2)  
+> Commit: [ea4bc9f5aa3517aea230ab662dde65592ec5a0a2](https://github.com/jcornwell-river/dsiprouter/commit/ea4bc9f5aa3517aea230ab662dde65592ec5a0a2)  
 > Date: Wed, 11 Sep 2019 20:03:40 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4482,7 +5158,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 50b50a73de61b9c6d6482b1baa15c6b8b8483baf)
 ### v0523 Fixes
 
-> Commit: [50b50a73de61b9c6d6482b1baa15c6b8b8483baf](https://git.flyball.co/dsiprouter/enterprise/commit/50b50a73de61b9c6d6482b1baa15c6b8b8483baf)  
+> Commit: [50b50a73de61b9c6d6482b1baa15c6b8b8483baf](https://github.com/jcornwell-river/dsiprouter/commit/50b50a73de61b9c6d6482b1baa15c6b8b8483baf)  
 > Date: Wed, 11 Sep 2019 20:03:40 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4508,7 +5184,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d2c8da09ff1faa9d405d24c9798c41711cecf996)
 ### Added support for dynamically setting up DR gateways and gateway list when an endpont registers
 
-> Commit: [d2c8da09ff1faa9d405d24c9798c41711cecf996](https://git.flyball.co/dsiprouter/enterprise/commit/d2c8da09ff1faa9d405d24c9798c41711cecf996)  
+> Commit: [d2c8da09ff1faa9d405d24c9798c41711cecf996](https://github.com/jcornwell-river/dsiprouter/commit/d2c8da09ff1faa9d405d24c9798c41711cecf996)  
 > Date: Wed, 11 Sep 2019 13:31:06 +0000  
 > Author: root (root@dev-siprouter01.ynyybpir3miebggok1eqcyxpaf.gx.internal.cloudapp.net)  
 > Committer: root (root@dev-siprouter01.ynyybpir3miebggok1eqcyxpaf.gx.internal.cloudapp.net)  
@@ -4523,7 +5199,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f6b43155a0af4c5dacf7e493eae2c49caeac858)
 ### Fixed a regression in the Carrier Groups Add Carrier Modal.
 
-> Commit: [3f6b43155a0af4c5dacf7e493eae2c49caeac858](https://git.flyball.co/dsiprouter/enterprise/commit/3f6b43155a0af4c5dacf7e493eae2c49caeac858)  
+> Commit: [3f6b43155a0af4c5dacf7e493eae2c49caeac858](https://github.com/jcornwell-river/dsiprouter/commit/3f6b43155a0af4c5dacf7e493eae2c49caeac858)  
 > Date: Thu, 5 Sep 2019 07:23:48 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4538,7 +5214,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9f60de3ad0efb4241b060fb174227ec8700f90f)
 ### Refactored the Endpoint Groups
 
-> Commit: [d9f60de3ad0efb4241b060fb174227ec8700f90f](https://git.flyball.co/dsiprouter/enterprise/commit/d9f60de3ad0efb4241b060fb174227ec8700f90f)  
+> Commit: [d9f60de3ad0efb4241b060fb174227ec8700f90f](https://github.com/jcornwell-river/dsiprouter/commit/d9f60de3ad0efb4241b060fb174227ec8700f90f)  
 > Date: Fri, 30 Aug 2019 11:49:12 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4553,7 +5229,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION df0dcf4dcdd6bcf3f573c3d6dcc9eae9db6b9bb5)
 ### The DSIP_API_TOKEN value will be admin before install
 
-> Commit: [df0dcf4dcdd6bcf3f573c3d6dcc9eae9db6b9bb5](https://git.flyball.co/dsiprouter/enterprise/commit/df0dcf4dcdd6bcf3f573c3d6dcc9eae9db6b9bb5)  
+> Commit: [df0dcf4dcdd6bcf3f573c3d6dcc9eae9db6b9bb5](https://github.com/jcornwell-river/dsiprouter/commit/df0dcf4dcdd6bcf3f573c3d6dcc9eae9db6b9bb5)  
 > Date: Fri, 30 Aug 2019 07:46:37 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4568,7 +5244,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4eb68a4fc61ea3b88fa0c3361393e240b12a1e71)
 ### Fixed issues that resulted from the merge
 
-> Commit: [4eb68a4fc61ea3b88fa0c3361393e240b12a1e71](https://git.flyball.co/dsiprouter/enterprise/commit/4eb68a4fc61ea3b88fa0c3361393e240b12a1e71)  
+> Commit: [4eb68a4fc61ea3b88fa0c3361393e240b12a1e71](https://github.com/jcornwell-river/dsiprouter/commit/4eb68a4fc61ea3b88fa0c3361393e240b12a1e71)  
 > Date: Fri, 30 Aug 2019 07:42:15 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4583,7 +5259,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74a3b0670179ce95695a9969fd1fb549de988f0f)
 ### Fixed merge issue
 
-> Commit: [74a3b0670179ce95695a9969fd1fb549de988f0f](https://git.flyball.co/dsiprouter/enterprise/commit/74a3b0670179ce95695a9969fd1fb549de988f0f)  
+> Commit: [74a3b0670179ce95695a9969fd1fb549de988f0f](https://github.com/jcornwell-river/dsiprouter/commit/74a3b0670179ce95695a9969fd1fb549de988f0f)  
 > Date: Fri, 30 Aug 2019 03:30:54 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4598,7 +5274,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e74d60fb0df2a1b90fd16109e14c1309a2743b7)
 ### Enhancements - Added CDR's to the GUI and via a RESTFul endpoint - Added the ability to update an endpont group record
 
-> Commit: [9e74d60fb0df2a1b90fd16109e14c1309a2743b7](https://git.flyball.co/dsiprouter/enterprise/commit/9e74d60fb0df2a1b90fd16109e14c1309a2743b7)  
+> Commit: [9e74d60fb0df2a1b90fd16109e14c1309a2743b7](https://github.com/jcornwell-river/dsiprouter/commit/9e74d60fb0df2a1b90fd16109e14c1309a2743b7)  
 > Date: Fri, 30 Aug 2019 03:15:15 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4613,7 +5289,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2ce8f4bea06100605980b80b424e62e988ae1088)
 ###   - update call limit to use gwgroup   - fix hardfwd and failfwd routing logic   - update notification feature to use bearer token   - fix looping bug with failover fwd   - move enpoint groups js to fix conflict   - add insert,update,delete triggers for gw2gwroup table   - update dsip fwding to match on prefix instead of gwgroup   - make gui templates more standardized (description field)   - update inbound mapping to use gwgroups   - add hardfwd and failfwd to inbound mapping   - change templates to show hostname support in drouting   - NOTE: inbound mapping updated but still needs work   - update kam reload in api to match gui   - fix misc issues in api_routes   - add new icons for forwarding   - clear add modals when opening again
 
-> Commit: [2ce8f4bea06100605980b80b424e62e988ae1088](https://git.flyball.co/dsiprouter/enterprise/commit/2ce8f4bea06100605980b80b424e62e988ae1088)  
+> Commit: [2ce8f4bea06100605980b80b424e62e988ae1088](https://github.com/jcornwell-river/dsiprouter/commit/2ce8f4bea06100605980b80b424e62e988ae1088)  
 > Date: Thu, 29 Aug 2019 01:49:27 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4628,7 +5304,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a72dd21df0278f8c70539083ae28dfa1b1fb93e2)
 ### EndpointGroup Bug Fixes and CDR API - Fixed issues with saving and deleting EndpointGroups - Implemented a CDR RestFul API for requesting Call Detail Record (CDR) Information
 
-> Commit: [a72dd21df0278f8c70539083ae28dfa1b1fb93e2](https://git.flyball.co/dsiprouter/enterprise/commit/a72dd21df0278f8c70539083ae28dfa1b1fb93e2)  
+> Commit: [a72dd21df0278f8c70539083ae28dfa1b1fb93e2](https://github.com/jcornwell-river/dsiprouter/commit/a72dd21df0278f8c70539083ae28dfa1b1fb93e2)  
 > Date: Wed, 28 Aug 2019 16:45:07 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4643,7 +5319,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9ce9add4478a6fcb0f4c328ef1424c02fcf082ad)
 ### Fixed API Token Security function
 
-> Commit: [9ce9add4478a6fcb0f4c328ef1424c02fcf082ad](https://git.flyball.co/dsiprouter/enterprise/commit/9ce9add4478a6fcb0f4c328ef1424c02fcf082ad)  
+> Commit: [9ce9add4478a6fcb0f4c328ef1424c02fcf082ad](https://github.com/jcornwell-river/dsiprouter/commit/9ce9add4478a6fcb0f4c328ef1424c02fcf082ad)  
 > Date: Mon, 26 Aug 2019 13:42:34 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4658,7 +5334,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6d3f5e2e1b6fc5ac57c411d4adb91691b9e96ef6)
 ### Merging in Notificaition changes
 
-> Commit: [6d3f5e2e1b6fc5ac57c411d4adb91691b9e96ef6](https://git.flyball.co/dsiprouter/enterprise/commit/6d3f5e2e1b6fc5ac57c411d4adb91691b9e96ef6)  
+> Commit: [6d3f5e2e1b6fc5ac57c411d4adb91691b9e96ef6](https://github.com/jcornwell-river/dsiprouter/commit/6d3f5e2e1b6fc5ac57c411d4adb91691b9e96ef6)  
 > Date: Mon, 26 Aug 2019 08:50:04 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4673,7 +5349,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a60d94f60fd7a9fa869ef1aa4101338e2e982938)
 ### EndpointGroups - Added API's for updating and deleting EndpointGroups - Added the supporting UI components
 
-> Commit: [a60d94f60fd7a9fa869ef1aa4101338e2e982938](https://git.flyball.co/dsiprouter/enterprise/commit/a60d94f60fd7a9fa869ef1aa4101338e2e982938)  
+> Commit: [a60d94f60fd7a9fa869ef1aa4101338e2e982938](https://github.com/jcornwell-river/dsiprouter/commit/a60d94f60fd7a9fa869ef1aa4101338e2e982938)  
 > Date: Mon, 26 Aug 2019 08:34:21 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4688,7 +5364,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 41adfd261f7f4544d0a982a5c09cddf455afa97b)
 ### Add Enterprise Features Backend Support
 
-> Commit: [41adfd261f7f4544d0a982a5c09cddf455afa97b](https://git.flyball.co/dsiprouter/enterprise/commit/41adfd261f7f4544d0a982a5c09cddf455afa97b)  
+> Commit: [41adfd261f7f4544d0a982a5c09cddf455afa97b](https://github.com/jcornwell-river/dsiprouter/commit/41adfd261f7f4544d0a982a5c09cddf455afa97b)  
 > Date: Sun, 25 Aug 2019 18:45:59 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4716,7 +5392,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9a8c7cb2648822d9247d083f80a352f337ff70e0)
 ### Notification API Feature Backend Support
 
-> Commit: [9a8c7cb2648822d9247d083f80a352f337ff70e0](https://git.flyball.co/dsiprouter/enterprise/commit/9a8c7cb2648822d9247d083f80a352f337ff70e0)  
+> Commit: [9a8c7cb2648822d9247d083f80a352f337ff70e0](https://github.com/jcornwell-river/dsiprouter/commit/9a8c7cb2648822d9247d083f80a352f337ff70e0)  
 > Date: Sat, 24 Aug 2019 21:44:47 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -4741,7 +5417,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d8c506a48ab502f34b44bd173e6e9b836764d6b3)
 ### Added support for adding endpoints within an Endpoint Group
 
-> Commit: [d8c506a48ab502f34b44bd173e6e9b836764d6b3](https://git.flyball.co/dsiprouter/enterprise/commit/d8c506a48ab502f34b44bd173e6e9b836764d6b3)  
+> Commit: [d8c506a48ab502f34b44bd173e6e9b836764d6b3](https://github.com/jcornwell-river/dsiprouter/commit/d8c506a48ab502f34b44bd173e6e9b836764d6b3)  
 > Date: Fri, 23 Aug 2019 11:00:09 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4756,7 +5432,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc4884df2a3ad22b2ed32eb044b66ab298ad4ffc)
 ### Added database table for gateway to gateway group lookup - gwip2gwgroup
 
-> Commit: [bc4884df2a3ad22b2ed32eb044b66ab298ad4ffc](https://git.flyball.co/dsiprouter/enterprise/commit/bc4884df2a3ad22b2ed32eb044b66ab298ad4ffc)  
+> Commit: [bc4884df2a3ad22b2ed32eb044b66ab298ad4ffc](https://github.com/jcornwell-river/dsiprouter/commit/bc4884df2a3ad22b2ed32eb044b66ab298ad4ffc)  
 > Date: Wed, 21 Aug 2019 15:28:24 +0000  
 > Author: root (root@dsip0523entMack.localdomain)  
 > Committer: root (root@dsip0523entMack.localdomain)  
@@ -4771,7 +5447,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1e1f55b0670ea5b1d03a4d9ac56610bf2845bf4c)
 ### Fixed issue with merge - forgot to fix conflict
 
-> Commit: [1e1f55b0670ea5b1d03a4d9ac56610bf2845bf4c](https://git.flyball.co/dsiprouter/enterprise/commit/1e1f55b0670ea5b1d03a4d9ac56610bf2845bf4c)  
+> Commit: [1e1f55b0670ea5b1d03a4d9ac56610bf2845bf4c](https://github.com/jcornwell-river/dsiprouter/commit/1e1f55b0670ea5b1d03a4d9ac56610bf2845bf4c)  
 > Date: Wed, 21 Aug 2019 07:58:18 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4786,7 +5462,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed8786a06b8623938d82c9a1c38982b36df11139)
 ### Fixed issue with merge - forgot to fix conflict
 
-> Commit: [ed8786a06b8623938d82c9a1c38982b36df11139](https://git.flyball.co/dsiprouter/enterprise/commit/ed8786a06b8623938d82c9a1c38982b36df11139)  
+> Commit: [ed8786a06b8623938d82c9a1c38982b36df11139](https://github.com/jcornwell-river/dsiprouter/commit/ed8786a06b8623938d82c9a1c38982b36df11139)  
 > Date: Wed, 21 Aug 2019 07:55:41 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4801,7 +5477,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 096c9254dc09665a7f9645281306c25fe9ba257b)
 ### Fixed issues with the Endpoint API and dSIPNotification SQL
 
-> Commit: [096c9254dc09665a7f9645281306c25fe9ba257b](https://git.flyball.co/dsiprouter/enterprise/commit/096c9254dc09665a7f9645281306c25fe9ba257b)  
+> Commit: [096c9254dc09665a7f9645281306c25fe9ba257b](https://github.com/jcornwell-river/dsiprouter/commit/096c9254dc09665a7f9645281306c25fe9ba257b)  
 > Date: Wed, 21 Aug 2019 07:45:30 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4816,7 +5492,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d4747c96ab72b8f2766b5797080d9917363a753f)
 ### Fixed the mail settins
 
-> Commit: [d4747c96ab72b8f2766b5797080d9917363a753f](https://git.flyball.co/dsiprouter/enterprise/commit/d4747c96ab72b8f2766b5797080d9917363a753f)  
+> Commit: [d4747c96ab72b8f2766b5797080d9917363a753f](https://github.com/jcornwell-river/dsiprouter/commit/d4747c96ab72b8f2766b5797080d9917363a753f)  
 > Date: Wed, 21 Aug 2019 02:56:42 +0000  
 > Author: root (root@dsip0523entMerge.localdomain)  
 > Committer: root (root@dsip0523entMerge.localdomain)  
@@ -4831,7 +5507,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 97f71a42a0a32e1c93904327ac8c195feabde1ec)
 ### Fixed the version number
 
-> Commit: [97f71a42a0a32e1c93904327ac8c195feabde1ec](https://git.flyball.co/dsiprouter/enterprise/commit/97f71a42a0a32e1c93904327ac8c195feabde1ec)  
+> Commit: [97f71a42a0a32e1c93904327ac8c195feabde1ec](https://github.com/jcornwell-river/dsiprouter/commit/97f71a42a0a32e1c93904327ac8c195feabde1ec)  
 > Date: Wed, 21 Aug 2019 02:47:05 +0000  
 > Author: root (root@dsip0523entMerge.localdomain)  
 > Committer: root (root@dsip0523entMerge.localdomain)  
@@ -4846,7 +5522,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f2eded53fd2b0e9e03af1deb658f0d1315c90f99)
 ### Fixed minor issues: - dsip_calllimit table was not being installed at install time - The email settings for the notifiation service was not in the settings.py file
 
-> Commit: [f2eded53fd2b0e9e03af1deb658f0d1315c90f99](https://git.flyball.co/dsiprouter/enterprise/commit/f2eded53fd2b0e9e03af1deb658f0d1315c90f99)  
+> Commit: [f2eded53fd2b0e9e03af1deb658f0d1315c90f99](https://github.com/jcornwell-river/dsiprouter/commit/f2eded53fd2b0e9e03af1deb658f0d1315c90f99)  
 > Date: Wed, 21 Aug 2019 02:45:09 +0000  
 > Author: root (root@dsip0523entMerge.localdomain)  
 > Committer: root (root@dsip0523entMerge.localdomain)  
@@ -4861,7 +5537,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eee1276a68eb23b3df81a8f8f0ec0f5ba293ee2e)
 ### Docker Compose: - Added the dsip_notification schema to the SQL file that is used for priming the database of the MySQL container
 
-> Commit: [eee1276a68eb23b3df81a8f8f0ec0f5ba293ee2e](https://git.flyball.co/dsiprouter/enterprise/commit/eee1276a68eb23b3df81a8f8f0ec0f5ba293ee2e)  
+> Commit: [eee1276a68eb23b3df81a8f8f0ec0f5ba293ee2e](https://github.com/jcornwell-river/dsiprouter/commit/eee1276a68eb23b3df81a8f8f0ec0f5ba293ee2e)  
 > Date: Wed, 21 Aug 2019 02:07:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4876,7 +5552,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 807b1a2ef9913086bd2eb27aee47b17d872be14b)
 ### Docker Compose: - Added the dsip_notification schema to the SQL file that is used for priming the database of the MySQL container
 
-> Commit: [807b1a2ef9913086bd2eb27aee47b17d872be14b](https://git.flyball.co/dsiprouter/enterprise/commit/807b1a2ef9913086bd2eb27aee47b17d872be14b)  
+> Commit: [807b1a2ef9913086bd2eb27aee47b17d872be14b](https://github.com/jcornwell-river/dsiprouter/commit/807b1a2ef9913086bd2eb27aee47b17d872be14b)  
 > Date: Tue, 20 Aug 2019 21:50:20 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4891,7 +5567,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2f960dfd6dda36d6154656d1ee439abfa44db357)
 ### Added support for adding endpoints
 
-> Commit: [2f960dfd6dda36d6154656d1ee439abfa44db357](https://git.flyball.co/dsiprouter/enterprise/commit/2f960dfd6dda36d6154656d1ee439abfa44db357)  
+> Commit: [2f960dfd6dda36d6154656d1ee439abfa44db357](https://github.com/jcornwell-river/dsiprouter/commit/2f960dfd6dda36d6154656d1ee439abfa44db357)  
 > Date: Tue, 20 Aug 2019 08:10:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4906,7 +5582,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 05983fa408408f5f0d5ec0541db5c61c28a55b8c)
 ### Added logic to store an endpoint group
 
-> Commit: [05983fa408408f5f0d5ec0541db5c61c28a55b8c](https://git.flyball.co/dsiprouter/enterprise/commit/05983fa408408f5f0d5ec0541db5c61c28a55b8c)  
+> Commit: [05983fa408408f5f0d5ec0541db5c61c28a55b8c](https://github.com/jcornwell-river/dsiprouter/commit/05983fa408408f5f0d5ec0541db5c61c28a55b8c)  
 > Date: Mon, 19 Aug 2019 07:01:53 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4921,7 +5597,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6ed938930ea697c7ed89332b610fd4b057da66d4)
 ### Create RESTFul API to add an endpoint group
 
-> Commit: [6ed938930ea697c7ed89332b610fd4b057da66d4](https://git.flyball.co/dsiprouter/enterprise/commit/6ed938930ea697c7ed89332b610fd4b057da66d4)  
+> Commit: [6ed938930ea697c7ed89332b610fd4b057da66d4](https://github.com/jcornwell-river/dsiprouter/commit/6ed938930ea697c7ed89332b610fd4b057da66d4)  
 > Date: Fri, 16 Aug 2019 14:47:11 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4936,7 +5612,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74f3517bc57aade400a68b128da983acf4b0c11a)
 ### Fixed issues with the docker compose changes
 
-> Commit: [74f3517bc57aade400a68b128da983acf4b0c11a](https://git.flyball.co/dsiprouter/enterprise/commit/74f3517bc57aade400a68b128da983acf4b0c11a)  
+> Commit: [74f3517bc57aade400a68b128da983acf4b0c11a](https://github.com/jcornwell-river/dsiprouter/commit/74f3517bc57aade400a68b128da983acf4b0c11a)  
 > Date: Fri, 16 Aug 2019 14:39:05 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -4951,7 +5627,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a0ca8f77b62006bbd58a5d6ff0897e3c24ee99c)
 ### Added logic to create the Call Limit Schema
 
-> Commit: [6a0ca8f77b62006bbd58a5d6ff0897e3c24ee99c](https://git.flyball.co/dsiprouter/enterprise/commit/6a0ca8f77b62006bbd58a5d6ff0897e3c24ee99c)  
+> Commit: [6a0ca8f77b62006bbd58a5d6ff0897e3c24ee99c](https://github.com/jcornwell-river/dsiprouter/commit/6a0ca8f77b62006bbd58a5d6ff0897e3c24ee99c)  
 > Date: Tue, 13 Aug 2019 02:45:45 +0000  
 > Author: root (root@dsip0523entMack-0.localdomain)  
 > Committer: root (root@dsip0523entMack-0.localdomain)  
@@ -4966,7 +5642,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e487891682a7f7b00211139e64e069e146e8736)
 ### Updated to handle different version of Python being already installed on the system
 
-> Commit: [9e487891682a7f7b00211139e64e069e146e8736](https://git.flyball.co/dsiprouter/enterprise/commit/9e487891682a7f7b00211139e64e069e146e8736)  
+> Commit: [9e487891682a7f7b00211139e64e069e146e8736](https://github.com/jcornwell-river/dsiprouter/commit/9e487891682a7f7b00211139e64e069e146e8736)  
 > Date: Mon, 12 Aug 2019 12:49:25 +0000  
 > Author: root (root@ip-172-31-23-165.us-east-2.compute.internal)  
 > Committer: root (root@ip-172-31-23-165.us-east-2.compute.internal)  
@@ -4981,7 +5657,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION de5c873f83ac38efb8b9ba0f5b9a0c6109d3178b)
 ### FusionPBX Provisioning Services: - The docker container now starts up with a self signed cert
 
-> Commit: [de5c873f83ac38efb8b9ba0f5b9a0c6109d3178b](https://git.flyball.co/dsiprouter/enterprise/commit/de5c873f83ac38efb8b9ba0f5b9a0c6109d3178b)  
+> Commit: [de5c873f83ac38efb8b9ba0f5b9a0c6109d3178b](https://github.com/jcornwell-river/dsiprouter/commit/de5c873f83ac38efb8b9ba0f5b9a0c6109d3178b)  
 > Date: Wed, 7 Aug 2019 12:00:45 +0000  
 > Author: root (root@dsip0523-qa-0.localdomain)  
 > Committer: root (root@dsip0523-qa-0.localdomain)  
@@ -4996,7 +5672,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6939b1cdbfb0c98d611fefbaa935462dddeabea7)
 ### Fixed an self-signed cert configurtion. The Country portion was set to USA, versus US
 
-> Commit: [6939b1cdbfb0c98d611fefbaa935462dddeabea7](https://git.flyball.co/dsiprouter/enterprise/commit/6939b1cdbfb0c98d611fefbaa935462dddeabea7)  
+> Commit: [6939b1cdbfb0c98d611fefbaa935462dddeabea7](https://github.com/jcornwell-river/dsiprouter/commit/6939b1cdbfb0c98d611fefbaa935462dddeabea7)  
 > Date: Wed, 7 Aug 2019 05:21:11 +0000  
 > Author: Mack Hendricks (mack@goflyball.com)  
 > Committer: Mack Hendricks (mack@goflyball.com)  
@@ -5011,7 +5687,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ab513ab3a8c9e9e74e0aee9e404b33c6cbad8cd9)
 ### Carrier Groups: - Fixed an error that occured when creating a carrier that used Username/Password auth
 
-> Commit: [ab513ab3a8c9e9e74e0aee9e404b33c6cbad8cd9](https://git.flyball.co/dsiprouter/enterprise/commit/ab513ab3a8c9e9e74e0aee9e404b33c6cbad8cd9)  
+> Commit: [ab513ab3a8c9e9e74e0aee9e404b33c6cbad8cd9](https://github.com/jcornwell-river/dsiprouter/commit/ab513ab3a8c9e9e74e0aee9e404b33c6cbad8cd9)  
 > Date: Wed, 7 Aug 2019 04:47:40 +0000  
 > Author: root (root@dsip0523qa-0.localdomain)  
 > Committer: root (root@dsip0523qa-0.localdomain)  
@@ -5026,7 +5702,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c6a47ce1599c071b84814e64cc22bfe70f4e74a)
 ### Domains - Local Subscriber: - Fixed authentication logic.  It will now properly authenticate against the subscriber table
 
-> Commit: [3c6a47ce1599c071b84814e64cc22bfe70f4e74a](https://git.flyball.co/dsiprouter/enterprise/commit/3c6a47ce1599c071b84814e64cc22bfe70f4e74a)  
+> Commit: [3c6a47ce1599c071b84814e64cc22bfe70f4e74a](https://github.com/jcornwell-river/dsiprouter/commit/3c6a47ce1599c071b84814e64cc22bfe70f4e74a)  
 > Date: Mon, 5 Aug 2019 22:09:48 +0000  
 > Author: root (root@dsip0523qa-0.localdomain)  
 > Committer: root (root@dsip0523qa-0.localdomain)  
@@ -5041,7 +5717,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a5498c61858525d9781dfbe7c3dea27194ef0b04)
 ### Update settings.py
 
-> Commit: [a5498c61858525d9781dfbe7c3dea27194ef0b04](https://git.flyball.co/dsiprouter/enterprise/commit/a5498c61858525d9781dfbe7c3dea27194ef0b04)  
+> Commit: [a5498c61858525d9781dfbe7c3dea27194ef0b04](https://github.com/jcornwell-river/dsiprouter/commit/a5498c61858525d9781dfbe7c3dea27194ef0b04)  
 > Date: Mon, 5 Aug 2019 06:36:16 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5056,7 +5732,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8531cbfd4662a25a66a14e73c4f914adeb71145c)
 ### Update settings.py
 
-> Commit: [8531cbfd4662a25a66a14e73c4f914adeb71145c](https://git.flyball.co/dsiprouter/enterprise/commit/8531cbfd4662a25a66a14e73c4f914adeb71145c)  
+> Commit: [8531cbfd4662a25a66a14e73c4f914adeb71145c](https://github.com/jcornwell-river/dsiprouter/commit/8531cbfd4662a25a66a14e73c4f914adeb71145c)  
 > Date: Mon, 5 Aug 2019 06:33:53 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5071,7 +5747,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3111739f6130a87ac9c379617732a3ae040b590f)
 ### Update settings.py
 
-> Commit: [3111739f6130a87ac9c379617732a3ae040b590f](https://git.flyball.co/dsiprouter/enterprise/commit/3111739f6130a87ac9c379617732a3ae040b590f)  
+> Commit: [3111739f6130a87ac9c379617732a3ae040b590f](https://github.com/jcornwell-river/dsiprouter/commit/3111739f6130a87ac9c379617732a3ae040b590f)  
 > Date: Mon, 5 Aug 2019 06:33:26 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5086,7 +5762,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0da71dd8bf4cd3919d035f1039baedbd228f684e)
 ### Update index.rst
 
-> Commit: [0da71dd8bf4cd3919d035f1039baedbd228f684e](https://git.flyball.co/dsiprouter/enterprise/commit/0da71dd8bf4cd3919d035f1039baedbd228f684e)  
+> Commit: [0da71dd8bf4cd3919d035f1039baedbd228f684e](https://github.com/jcornwell-river/dsiprouter/commit/0da71dd8bf4cd3919d035f1039baedbd228f684e)  
 > Date: Mon, 5 Aug 2019 05:44:29 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5101,7 +5777,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 56a77e02cec99cd19a00e54e9eddea62040af0cf)
 ### Domain Mapping: - Added the domain_list_hash field to support syncing with FusioinPBX
 
-> Commit: [56a77e02cec99cd19a00e54e9eddea62040af0cf](https://git.flyball.co/dsiprouter/enterprise/commit/56a77e02cec99cd19a00e54e9eddea62040af0cf)  
+> Commit: [56a77e02cec99cd19a00e54e9eddea62040af0cf](https://github.com/jcornwell-river/dsiprouter/commit/56a77e02cec99cd19a00e54e9eddea62040af0cf)  
 > Date: Mon, 5 Aug 2019 02:34:49 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5116,7 +5792,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b47ec8a86d55548b785676fd1ba431386b4e4dae)
 ### Update upgrade_0.522_to_0.523.rst
 
-> Commit: [b47ec8a86d55548b785676fd1ba431386b4e4dae](https://git.flyball.co/dsiprouter/enterprise/commit/b47ec8a86d55548b785676fd1ba431386b4e4dae)  
+> Commit: [b47ec8a86d55548b785676fd1ba431386b4e4dae](https://github.com/jcornwell-river/dsiprouter/commit/b47ec8a86d55548b785676fd1ba431386b4e4dae)  
 > Date: Sun, 4 Aug 2019 22:33:23 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5131,7 +5807,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fcd85f373341fd8421801364e362acd30ef2ebe4)
 ### Update upgrade_0.522_to_0.523.rst
 
-> Commit: [fcd85f373341fd8421801364e362acd30ef2ebe4](https://git.flyball.co/dsiprouter/enterprise/commit/fcd85f373341fd8421801364e362acd30ef2ebe4)  
+> Commit: [fcd85f373341fd8421801364e362acd30ef2ebe4](https://github.com/jcornwell-river/dsiprouter/commit/fcd85f373341fd8421801364e362acd30ef2ebe4)  
 > Date: Sun, 4 Aug 2019 22:29:26 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5146,7 +5822,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a0dd65902d3535e222b9a259744401f54df2c95e)
 ### Update upgrade_0.522_to_0.523.rst
 
-> Commit: [a0dd65902d3535e222b9a259744401f54df2c95e](https://git.flyball.co/dsiprouter/enterprise/commit/a0dd65902d3535e222b9a259744401f54df2c95e)  
+> Commit: [a0dd65902d3535e222b9a259744401f54df2c95e](https://github.com/jcornwell-river/dsiprouter/commit/a0dd65902d3535e222b9a259744401f54df2c95e)  
 > Date: Sun, 4 Aug 2019 22:27:32 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5161,7 +5837,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 550c842e6a2e45e1eb3493c65aeec3fc3977bb0b)
 ### Update upgrade_0.522_to_0.523.rst
 
-> Commit: [550c842e6a2e45e1eb3493c65aeec3fc3977bb0b](https://git.flyball.co/dsiprouter/enterprise/commit/550c842e6a2e45e1eb3493c65aeec3fc3977bb0b)  
+> Commit: [550c842e6a2e45e1eb3493c65aeec3fc3977bb0b](https://github.com/jcornwell-river/dsiprouter/commit/550c842e6a2e45e1eb3493c65aeec3fc3977bb0b)  
 > Date: Sun, 4 Aug 2019 22:25:54 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5176,7 +5852,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6585ed0b8a888855de07660cbd45e5ddbffde34e)
 ### Rename upgrade_0522_to_0523.rst to upgrade_0.522_to_0.523.rst
 
-> Commit: [6585ed0b8a888855de07660cbd45e5ddbffde34e](https://git.flyball.co/dsiprouter/enterprise/commit/6585ed0b8a888855de07660cbd45e5ddbffde34e)  
+> Commit: [6585ed0b8a888855de07660cbd45e5ddbffde34e](https://github.com/jcornwell-river/dsiprouter/commit/6585ed0b8a888855de07660cbd45e5ddbffde34e)  
 > Date: Sun, 4 Aug 2019 22:23:35 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5191,7 +5867,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a2355994144a5319aaba781c68ccec9cc1341b61)
 ### Update upgrade.rst
 
-> Commit: [a2355994144a5319aaba781c68ccec9cc1341b61](https://git.flyball.co/dsiprouter/enterprise/commit/a2355994144a5319aaba781c68ccec9cc1341b61)  
+> Commit: [a2355994144a5319aaba781c68ccec9cc1341b61](https://github.com/jcornwell-river/dsiprouter/commit/a2355994144a5319aaba781c68ccec9cc1341b61)  
 > Date: Sun, 4 Aug 2019 22:18:18 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5206,7 +5882,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 35bd7a2206f730e73e49b74b623d115e5be330bc)
 ### Update upgrade.rst
 
-> Commit: [35bd7a2206f730e73e49b74b623d115e5be330bc](https://git.flyball.co/dsiprouter/enterprise/commit/35bd7a2206f730e73e49b74b623d115e5be330bc)  
+> Commit: [35bd7a2206f730e73e49b74b623d115e5be330bc](https://github.com/jcornwell-river/dsiprouter/commit/35bd7a2206f730e73e49b74b623d115e5be330bc)  
 > Date: Sun, 4 Aug 2019 22:17:42 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5221,7 +5897,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa4ae601d9472a0d7fe9e0d45529ec6f56c28147)
 ### Update upgrade.rst
 
-> Commit: [fa4ae601d9472a0d7fe9e0d45529ec6f56c28147](https://git.flyball.co/dsiprouter/enterprise/commit/fa4ae601d9472a0d7fe9e0d45529ec6f56c28147)  
+> Commit: [fa4ae601d9472a0d7fe9e0d45529ec6f56c28147](https://github.com/jcornwell-river/dsiprouter/commit/fa4ae601d9472a0d7fe9e0d45529ec6f56c28147)  
 > Date: Sun, 4 Aug 2019 22:17:25 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5236,7 +5912,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 40a3da0adf309c1f7831f10abcd512275771a9ca)
 ### Update upgrade.rst
 
-> Commit: [40a3da0adf309c1f7831f10abcd512275771a9ca](https://git.flyball.co/dsiprouter/enterprise/commit/40a3da0adf309c1f7831f10abcd512275771a9ca)  
+> Commit: [40a3da0adf309c1f7831f10abcd512275771a9ca](https://github.com/jcornwell-river/dsiprouter/commit/40a3da0adf309c1f7831f10abcd512275771a9ca)  
 > Date: Sun, 4 Aug 2019 22:14:53 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5251,7 +5927,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0469c1961ed0b19ba46027db7d537446a9ba2fca)
 ### Update upgrade.rst
 
-> Commit: [0469c1961ed0b19ba46027db7d537446a9ba2fca](https://git.flyball.co/dsiprouter/enterprise/commit/0469c1961ed0b19ba46027db7d537446a9ba2fca)  
+> Commit: [0469c1961ed0b19ba46027db7d537446a9ba2fca](https://github.com/jcornwell-river/dsiprouter/commit/0469c1961ed0b19ba46027db7d537446a9ba2fca)  
 > Date: Sun, 4 Aug 2019 22:13:08 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5266,7 +5942,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8d6defe515f156e06444884592426c62871ac95f)
 ### Update upgrade.rst
 
-> Commit: [8d6defe515f156e06444884592426c62871ac95f](https://git.flyball.co/dsiprouter/enterprise/commit/8d6defe515f156e06444884592426c62871ac95f)  
+> Commit: [8d6defe515f156e06444884592426c62871ac95f](https://github.com/jcornwell-river/dsiprouter/commit/8d6defe515f156e06444884592426c62871ac95f)  
 > Date: Sun, 4 Aug 2019 22:08:59 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5281,7 +5957,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e0d1cb3accc65ccf3f0279e576eabb2ab4712e84)
 ### Create upgrade.rst
 
-> Commit: [e0d1cb3accc65ccf3f0279e576eabb2ab4712e84](https://git.flyball.co/dsiprouter/enterprise/commit/e0d1cb3accc65ccf3f0279e576eabb2ab4712e84)  
+> Commit: [e0d1cb3accc65ccf3f0279e576eabb2ab4712e84](https://github.com/jcornwell-river/dsiprouter/commit/e0d1cb3accc65ccf3f0279e576eabb2ab4712e84)  
 > Date: Sun, 4 Aug 2019 22:07:02 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5296,7 +5972,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 76f93a93638bbb8fb8bc0e5c0a714b0f01e480bd)
 ### Create upgrade_0522_to_0523.rst
 
-> Commit: [76f93a93638bbb8fb8bc0e5c0a714b0f01e480bd](https://git.flyball.co/dsiprouter/enterprise/commit/76f93a93638bbb8fb8bc0e5c0a714b0f01e480bd)  
+> Commit: [76f93a93638bbb8fb8bc0e5c0a714b0f01e480bd](https://github.com/jcornwell-river/dsiprouter/commit/76f93a93638bbb8fb8bc0e5c0a714b0f01e480bd)  
 > Date: Sun, 4 Aug 2019 22:06:16 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5311,7 +5987,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c1007d77f7c4539a299657fbefc14b5a87d527a1)
 ### Rename upgrade.rst to upgrade_0.50_to_0.51.rst
 
-> Commit: [c1007d77f7c4539a299657fbefc14b5a87d527a1](https://git.flyball.co/dsiprouter/enterprise/commit/c1007d77f7c4539a299657fbefc14b5a87d527a1)  
+> Commit: [c1007d77f7c4539a299657fbefc14b5a87d527a1](https://github.com/jcornwell-river/dsiprouter/commit/c1007d77f7c4539a299657fbefc14b5a87d527a1)  
 > Date: Sun, 4 Aug 2019 22:04:44 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5326,7 +6002,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b0d6fac4b564797f4f356f9dc81372df9c61e92f)
 ### Changed the table of contents
 
-> Commit: [b0d6fac4b564797f4f356f9dc81372df9c61e92f](https://git.flyball.co/dsiprouter/enterprise/commit/b0d6fac4b564797f4f356f9dc81372df9c61e92f)  
+> Commit: [b0d6fac4b564797f4f356f9dc81372df9c61e92f](https://github.com/jcornwell-river/dsiprouter/commit/b0d6fac4b564797f4f356f9dc81372df9c61e92f)  
 > Date: Sun, 4 Aug 2019 21:57:21 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5342,7 +6018,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d74524706b5b3ee9765518a616079174e10f017)
 ### FusionPBX Domain Routing Sync: - Added logic that will generate a hash of domain names during the sync.  The sync will only run if the hash changes - Added logic to create a self-signed certificate for nginx.  This will allow the service to start up using SSL  Fixes #193
 
-> Commit: [4d74524706b5b3ee9765518a616079174e10f017](https://git.flyball.co/dsiprouter/enterprise/commit/4d74524706b5b3ee9765518a616079174e10f017)  
+> Commit: [4d74524706b5b3ee9765518a616079174e10f017](https://github.com/jcornwell-river/dsiprouter/commit/4d74524706b5b3ee9765518a616079174e10f017)  
 > Date: Mon, 5 Aug 2019 01:47:29 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5357,7 +6033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION edd4cbca59a1c748928ab7ee81b8caeccc628e8d)
 ### FusionPBX Domain Routing Sync: - Added logic that will generate a hash of domain names during the sync.  The sync will only run if the hash changes - Added logic to create a self-signed certificate for nginx.  This will allow the service to start up using SSL
 
-> Commit: [edd4cbca59a1c748928ab7ee81b8caeccc628e8d](https://git.flyball.co/dsiprouter/enterprise/commit/edd4cbca59a1c748928ab7ee81b8caeccc628e8d)  
+> Commit: [edd4cbca59a1c748928ab7ee81b8caeccc628e8d](https://github.com/jcornwell-river/dsiprouter/commit/edd4cbca59a1c748928ab7ee81b8caeccc628e8d)  
 > Date: Mon, 5 Aug 2019 01:42:28 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5372,7 +6048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7e905c1c721018cd7a0336d2b630ed273fe9b6b3)
 ### Domain Support for Local Subscriber Table - Added logic to reload the dispatcher table - Added logic to probe each server defined within a Domain
 
-> Commit: [7e905c1c721018cd7a0336d2b630ed273fe9b6b3](https://git.flyball.co/dsiprouter/enterprise/commit/7e905c1c721018cd7a0336d2b630ed273fe9b6b3)  
+> Commit: [7e905c1c721018cd7a0336d2b630ed273fe9b6b3](https://github.com/jcornwell-river/dsiprouter/commit/7e905c1c721018cd7a0336d2b630ed273fe9b6b3)  
 > Date: Sat, 3 Aug 2019 00:30:10 +0000  
 > Author: root (root@demo-dsiprouter-0.localdomain)  
 > Committer: root (root@demo-dsiprouter-0.localdomain)  
@@ -5387,7 +6063,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91b08445116f6b25b51ee1fcd1d27d262e0a5309)
 ### PBX INVITE TIMER - Changed the logic so that INVITE messages from PBX's that receive a SIP 100 message will be assigned a different INVITE timer timeout - Fixes #195
 
-> Commit: [91b08445116f6b25b51ee1fcd1d27d262e0a5309](https://git.flyball.co/dsiprouter/enterprise/commit/91b08445116f6b25b51ee1fcd1d27d262e0a5309)  
+> Commit: [91b08445116f6b25b51ee1fcd1d27d262e0a5309](https://github.com/jcornwell-river/dsiprouter/commit/91b08445116f6b25b51ee1fcd1d27d262e0a5309)  
 > Date: Thu, 1 Aug 2019 11:14:01 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5402,7 +6078,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c99508394adb92cb499e62312db871e21a09fc6)
 ### PBX INVITE TIMER -  Increased the INVITE TIMER by two once we see a SIP 100 Message. This will give the endpoint more time to respond to the invite and it will trigger the secondary server if it doesn't answer - Fixes #195
 
-> Commit: [7c99508394adb92cb499e62312db871e21a09fc6](https://git.flyball.co/dsiprouter/enterprise/commit/7c99508394adb92cb499e62312db871e21a09fc6)  
+> Commit: [7c99508394adb92cb499e62312db871e21a09fc6](https://github.com/jcornwell-river/dsiprouter/commit/7c99508394adb92cb499e62312db871e21a09fc6)  
 > Date: Wed, 31 Jul 2019 06:35:11 +0000  
 > Author: root (root@dsip0523-0.localdomain)  
 > Committer: root (root@dsip0523-0.localdomain)  
@@ -5417,7 +6093,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bde414d405a8051901fddf90415cb91f82a444da)
 ### Redesign of PBX page: - The term PBX is switched to Endpoint to represent a more generic use - Added tabs to the Add modal for each configuration area
 
-> Commit: [bde414d405a8051901fddf90415cb91f82a444da](https://git.flyball.co/dsiprouter/enterprise/commit/bde414d405a8051901fddf90415cb91f82a444da)  
+> Commit: [bde414d405a8051901fddf90415cb91f82a444da](https://github.com/jcornwell-river/dsiprouter/commit/bde414d405a8051901fddf90415cb91f82a444da)  
 > Date: Tue, 30 Jul 2019 19:17:07 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5432,7 +6108,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 73fb41db8345debc967eb50dcf1f1c461a9ac499)
 ### Docker support  - Added dockerfiles for dSIPRouter and MySQL  - Added a docker-compose configuration to allow the dSIPRouter GUI to spin up with a docker-compose up  - Added environment variables to allow the dSIP usernamae, password and kamailio database settings can be set on runtime
 
-> Commit: [73fb41db8345debc967eb50dcf1f1c461a9ac499](https://git.flyball.co/dsiprouter/enterprise/commit/73fb41db8345debc967eb50dcf1f1c461a9ac499)  
+> Commit: [73fb41db8345debc967eb50dcf1f1c461a9ac499](https://github.com/jcornwell-river/dsiprouter/commit/73fb41db8345debc967eb50dcf1f1c461a9ac499)  
 > Date: Mon, 29 Jul 2019 14:29:50 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5447,7 +6123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ecc3f8ca6dc41d000495851de0631b1cc64ce344)
 ### Refactoring the PBX/Endpoint page
 
-> Commit: [ecc3f8ca6dc41d000495851de0631b1cc64ce344](https://git.flyball.co/dsiprouter/enterprise/commit/ecc3f8ca6dc41d000495851de0631b1cc64ce344)  
+> Commit: [ecc3f8ca6dc41d000495851de0631b1cc64ce344](https://github.com/jcornwell-river/dsiprouter/commit/ecc3f8ca6dc41d000495851de0631b1cc64ce344)  
 > Date: Fri, 26 Jul 2019 01:42:05 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5462,7 +6138,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 04094157b805103337eaca75891ce1121c63cb44)
 ### Disabled verbose output for a test
 
-> Commit: [04094157b805103337eaca75891ce1121c63cb44](https://git.flyball.co/dsiprouter/enterprise/commit/04094157b805103337eaca75891ce1121c63cb44)  
+> Commit: [04094157b805103337eaca75891ce1121c63cb44](https://github.com/jcornwell-river/dsiprouter/commit/04094157b805103337eaca75891ce1121c63cb44)  
 > Date: Wed, 24 Jul 2019 13:30:30 +0000  
 > Author: Mack Hendricks (mack@goflyball.com)  
 > Committer: Mack Hendricks (mack@goflyball.com)  
@@ -5477,7 +6153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 05e699c9f4bc2a91241038e16b80b426320d005a)
 ### Removed the ExecStart command that was reseting the dSIPRouter password to the instanceid of the instance.  Except for Amazon images
 
-> Commit: [05e699c9f4bc2a91241038e16b80b426320d005a](https://git.flyball.co/dsiprouter/enterprise/commit/05e699c9f4bc2a91241038e16b80b426320d005a)  
+> Commit: [05e699c9f4bc2a91241038e16b80b426320d005a](https://github.com/jcornwell-river/dsiprouter/commit/05e699c9f4bc2a91241038e16b80b426320d005a)  
 > Date: Wed, 24 Jul 2019 13:25:47 +0000  
 > Author: Mack Hendricks (mack@goflyball.com)  
 > Committer: Mack Hendricks (mack@goflyball.com)  
@@ -5492,7 +6168,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 43300c6e1639679564a12f7aafdb577edfcc20da)
 ### Python repo issue - > The yum package manager couldn't install python36u-pip because of a conflict with the python36 packages > which are in the epel-release repo.  We now remove the python36 libraries and install Python from the ius repo
 
-> Commit: [43300c6e1639679564a12f7aafdb577edfcc20da](https://git.flyball.co/dsiprouter/enterprise/commit/43300c6e1639679564a12f7aafdb577edfcc20da)  
+> Commit: [43300c6e1639679564a12f7aafdb577edfcc20da](https://github.com/jcornwell-river/dsiprouter/commit/43300c6e1639679564a12f7aafdb577edfcc20da)  
 > Date: Tue, 23 Jul 2019 16:11:44 +0000  
 > Author: root (root@dsip-centOS7.6)  
 > Committer: root (root@dsip-centOS7.6)  
@@ -5507,7 +6183,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2490692a8f8b5913d529a81a70f5f05e11871085)
 ### Added Call Limit Support to the Kamailio configuration and fixed the dSIPRouter logic to handle it
 
-> Commit: [2490692a8f8b5913d529a81a70f5f05e11871085](https://git.flyball.co/dsiprouter/enterprise/commit/2490692a8f8b5913d529a81a70f5f05e11871085)  
+> Commit: [2490692a8f8b5913d529a81a70f5f05e11871085](https://github.com/jcornwell-river/dsiprouter/commit/2490692a8f8b5913d529a81a70f5f05e11871085)  
 > Date: Mon, 22 Jul 2019 11:17:17 +0000  
 > Author: root (root@dsip0522ent-0.localdomain)  
 > Committer: root (root@dsip0522ent-0.localdomain)  
@@ -5522,7 +6198,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d31a7f92e1ad98f3309708dc23194c9c001d3b3)
 ### Added logic to manage call limits
 
-> Commit: [4d31a7f92e1ad98f3309708dc23194c9c001d3b3](https://git.flyball.co/dsiprouter/enterprise/commit/4d31a7f92e1ad98f3309708dc23194c9c001d3b3)  
+> Commit: [4d31a7f92e1ad98f3309708dc23194c9c001d3b3](https://github.com/jcornwell-river/dsiprouter/commit/4d31a7f92e1ad98f3309708dc23194c9c001d3b3)  
 > Date: Fri, 19 Jul 2019 14:19:19 +0000  
 > Author: root (root@dsip0522ent-0.localdomain)  
 > Committer: root (root@dsip0522ent-0.localdomain)  
@@ -5537,7 +6213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d270313ca80adfae3b66015a59a40eb65c3bf498)
 ### First commit of enterprise
 
-> Commit: [d270313ca80adfae3b66015a59a40eb65c3bf498](https://git.flyball.co/dsiprouter/enterprise/commit/d270313ca80adfae3b66015a59a40eb65c3bf498)  
+> Commit: [d270313ca80adfae3b66015a59a40eb65c3bf498](https://github.com/jcornwell-river/dsiprouter/commit/d270313ca80adfae3b66015a59a40eb65c3bf498)  
 > Date: Thu, 18 Jul 2019 19:10:43 +0000  
 > Author: root (root@dsip0522ent-0.localdomain)  
 > Committer: root (root@dsip0522ent-0.localdomain)  
@@ -5552,7 +6228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5eebed34cd7055bece9fb0bd46c7689c1927dcf0)
 ### Update api.rst
 
-> Commit: [5eebed34cd7055bece9fb0bd46c7689c1927dcf0](https://git.flyball.co/dsiprouter/enterprise/commit/5eebed34cd7055bece9fb0bd46c7689c1927dcf0)  
+> Commit: [5eebed34cd7055bece9fb0bd46c7689c1927dcf0](https://github.com/jcornwell-river/dsiprouter/commit/5eebed34cd7055bece9fb0bd46c7689c1927dcf0)  
 > Date: Wed, 3 Jul 2019 18:49:23 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5567,7 +6243,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8d363e6e24e942988aaa48a6fcdbf092a65f936)
 ### Update Docs
 
-> Commit: [f8d363e6e24e942988aaa48a6fcdbf092a65f936](https://git.flyball.co/dsiprouter/enterprise/commit/f8d363e6e24e942988aaa48a6fcdbf092a65f936)  
+> Commit: [f8d363e6e24e942988aaa48a6fcdbf092a65f936](https://github.com/jcornwell-river/dsiprouter/commit/f8d363e6e24e942988aaa48a6fcdbf092a65f936)  
 > Date: Wed, 3 Jul 2019 17:21:15 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5584,7 +6260,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1a93a8d468627bddba6244aa27a210ded5fe232a)
 ### Update API Docs
 
-> Commit: [1a93a8d468627bddba6244aa27a210ded5fe232a](https://git.flyball.co/dsiprouter/enterprise/commit/1a93a8d468627bddba6244aa27a210ded5fe232a)  
+> Commit: [1a93a8d468627bddba6244aa27a210ded5fe232a](https://github.com/jcornwell-river/dsiprouter/commit/1a93a8d468627bddba6244aa27a210ded5fe232a)  
 > Date: Wed, 3 Jul 2019 16:36:46 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5599,7 +6275,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2b647fd576e2c58129686b480b5b32f76f9c0a2d)
 ### Update api.rst
 
-> Commit: [2b647fd576e2c58129686b480b5b32f76f9c0a2d](https://git.flyball.co/dsiprouter/enterprise/commit/2b647fd576e2c58129686b480b5b32f76f9c0a2d)  
+> Commit: [2b647fd576e2c58129686b480b5b32f76f9c0a2d](https://github.com/jcornwell-river/dsiprouter/commit/2b647fd576e2c58129686b480b5b32f76f9c0a2d)  
 > Date: Wed, 3 Jul 2019 16:10:17 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5614,7 +6290,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dec8a4c87057cc31951b297e0796bfea37751e17)
 ### Merge Documentation Fixes
 
-> Commit: [dec8a4c87057cc31951b297e0796bfea37751e17](https://git.flyball.co/dsiprouter/enterprise/commit/dec8a4c87057cc31951b297e0796bfea37751e17)  
+> Commit: [dec8a4c87057cc31951b297e0796bfea37751e17](https://github.com/jcornwell-river/dsiprouter/commit/dec8a4c87057cc31951b297e0796bfea37751e17)  
 > Date: Wed, 3 Jul 2019 15:30:09 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5629,7 +6305,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7ec9412c035ffda8374d701956805021f8ba1bd0)
 ### Update api.rst
 
-> Commit: [7ec9412c035ffda8374d701956805021f8ba1bd0](https://git.flyball.co/dsiprouter/enterprise/commit/7ec9412c035ffda8374d701956805021f8ba1bd0)  
+> Commit: [7ec9412c035ffda8374d701956805021f8ba1bd0](https://github.com/jcornwell-river/dsiprouter/commit/7ec9412c035ffda8374d701956805021f8ba1bd0)  
 > Date: Wed, 3 Jul 2019 15:08:56 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5644,7 +6320,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 22d40857924ef8d7a4e0e61c9e527891500d3d7c)
 ### Fix inconsistencies in documentation
 
-> Commit: [22d40857924ef8d7a4e0e61c9e527891500d3d7c](https://git.flyball.co/dsiprouter/enterprise/commit/22d40857924ef8d7a4e0e61c9e527891500d3d7c)  
+> Commit: [22d40857924ef8d7a4e0e61c9e527891500d3d7c](https://github.com/jcornwell-river/dsiprouter/commit/22d40857924ef8d7a4e0e61c9e527891500d3d7c)  
 > Date: Wed, 3 Jul 2019 14:54:12 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5659,7 +6335,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1dfaa1f43594c6139c2ffcfe76c33af85e596e5d)
 ### Merge Documentation Changes
 
-> Commit: [1dfaa1f43594c6139c2ffcfe76c33af85e596e5d](https://git.flyball.co/dsiprouter/enterprise/commit/1dfaa1f43594c6139c2ffcfe76c33af85e596e5d)  
+> Commit: [1dfaa1f43594c6139c2ffcfe76c33af85e596e5d](https://github.com/jcornwell-river/dsiprouter/commit/1dfaa1f43594c6139c2ffcfe76c33af85e596e5d)  
 > Date: Wed, 3 Jul 2019 13:17:11 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5675,7 +6351,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91cb29f477cb92b35ee77870445f225c798a1cde)
 ### Merge documentation Updates
 
-> Commit: [91cb29f477cb92b35ee77870445f225c798a1cde](https://git.flyball.co/dsiprouter/enterprise/commit/91cb29f477cb92b35ee77870445f225c798a1cde)  
+> Commit: [91cb29f477cb92b35ee77870445f225c798a1cde](https://github.com/jcornwell-river/dsiprouter/commit/91cb29f477cb92b35ee77870445f225c798a1cde)  
 > Date: Wed, 3 Jul 2019 13:13:52 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5691,7 +6367,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fd2fd068e5b3d537ccc027d1c14330660cd4a030)
 ### Update api.rst
 
-> Commit: [fd2fd068e5b3d537ccc027d1c14330660cd4a030](https://git.flyball.co/dsiprouter/enterprise/commit/fd2fd068e5b3d537ccc027d1c14330660cd4a030)  
+> Commit: [fd2fd068e5b3d537ccc027d1c14330660cd4a030](https://github.com/jcornwell-river/dsiprouter/commit/fd2fd068e5b3d537ccc027d1c14330660cd4a030)  
 > Date: Wed, 3 Jul 2019 11:40:51 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5706,7 +6382,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7d2c765ff46acd6c9df645f97b9b181715257d2)
 ### Update api.rst
 
-> Commit: [b7d2c765ff46acd6c9df645f97b9b181715257d2](https://git.flyball.co/dsiprouter/enterprise/commit/b7d2c765ff46acd6c9df645f97b9b181715257d2)  
+> Commit: [b7d2c765ff46acd6c9df645f97b9b181715257d2](https://github.com/jcornwell-river/dsiprouter/commit/b7d2c765ff46acd6c9df645f97b9b181715257d2)  
 > Date: Wed, 3 Jul 2019 11:30:49 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5721,7 +6397,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 18e679561335e0fdf259c8c21b664724ebc03e84)
 ### Update api.rst
 
-> Commit: [18e679561335e0fdf259c8c21b664724ebc03e84](https://git.flyball.co/dsiprouter/enterprise/commit/18e679561335e0fdf259c8c21b664724ebc03e84)  
+> Commit: [18e679561335e0fdf259c8c21b664724ebc03e84](https://github.com/jcornwell-river/dsiprouter/commit/18e679561335e0fdf259c8c21b664724ebc03e84)  
 > Date: Wed, 3 Jul 2019 11:29:43 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5736,7 +6412,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d2b0eb4eafdef691e71691cf6c1da85ac07b9fd9)
 ### Update api.rst
 
-> Commit: [d2b0eb4eafdef691e71691cf6c1da85ac07b9fd9](https://git.flyball.co/dsiprouter/enterprise/commit/d2b0eb4eafdef691e71691cf6c1da85ac07b9fd9)  
+> Commit: [d2b0eb4eafdef691e71691cf6c1da85ac07b9fd9](https://github.com/jcornwell-river/dsiprouter/commit/d2b0eb4eafdef691e71691cf6c1da85ac07b9fd9)  
 > Date: Wed, 3 Jul 2019 11:20:48 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5751,7 +6427,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f6137cc2fc34a4ae334c710c0c237c8f089d7e20)
 ### Update api.rst
 
-> Commit: [f6137cc2fc34a4ae334c710c0c237c8f089d7e20](https://git.flyball.co/dsiprouter/enterprise/commit/f6137cc2fc34a4ae334c710c0c237c8f089d7e20)  
+> Commit: [f6137cc2fc34a4ae334c710c0c237c8f089d7e20](https://github.com/jcornwell-river/dsiprouter/commit/f6137cc2fc34a4ae334c710c0c237c8f089d7e20)  
 > Date: Wed, 3 Jul 2019 11:10:39 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5766,7 +6442,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aea0913b894ef74d3935df3ff3198ccb86dc89e6)
 ### Update index.rst
 
-> Commit: [aea0913b894ef74d3935df3ff3198ccb86dc89e6](https://git.flyball.co/dsiprouter/enterprise/commit/aea0913b894ef74d3935df3ff3198ccb86dc89e6)  
+> Commit: [aea0913b894ef74d3935df3ff3198ccb86dc89e6](https://github.com/jcornwell-river/dsiprouter/commit/aea0913b894ef74d3935df3ff3198ccb86dc89e6)  
 > Date: Wed, 3 Jul 2019 11:01:13 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5781,7 +6457,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d3d4628ac44663d42115e68c3195cc57cf48d4c7)
 ### Update and rename API.rst to api.rst
 
-> Commit: [d3d4628ac44663d42115e68c3195cc57cf48d4c7](https://git.flyball.co/dsiprouter/enterprise/commit/d3d4628ac44663d42115e68c3195cc57cf48d4c7)  
+> Commit: [d3d4628ac44663d42115e68c3195cc57cf48d4c7](https://github.com/jcornwell-river/dsiprouter/commit/d3d4628ac44663d42115e68c3195cc57cf48d4c7)  
 > Date: Wed, 3 Jul 2019 10:58:19 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5796,7 +6472,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dcb2af1cdd32868cc3c900defddea926bb85be0f)
 ### Update Inbound Mapping Endpoint
 
-> Commit: [dcb2af1cdd32868cc3c900defddea926bb85be0f](https://git.flyball.co/dsiprouter/enterprise/commit/dcb2af1cdd32868cc3c900defddea926bb85be0f)  
+> Commit: [dcb2af1cdd32868cc3c900defddea926bb85be0f](https://github.com/jcornwell-river/dsiprouter/commit/dcb2af1cdd32868cc3c900defddea926bb85be0f)  
 > Date: Wed, 3 Jul 2019 10:55:01 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5812,7 +6488,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 786ff9b649a0a9d6f836c4eda390165034573d44)
 ### Update index.rst
 
-> Commit: [786ff9b649a0a9d6f836c4eda390165034573d44](https://git.flyball.co/dsiprouter/enterprise/commit/786ff9b649a0a9d6f836c4eda390165034573d44)  
+> Commit: [786ff9b649a0a9d6f836c4eda390165034573d44](https://github.com/jcornwell-river/dsiprouter/commit/786ff9b649a0a9d6f836c4eda390165034573d44)  
 > Date: Wed, 3 Jul 2019 10:39:17 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5827,7 +6503,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 403543b8e778f048dbef3238e38ddca4707b38a2)
 ### Update index.rst
 
-> Commit: [403543b8e778f048dbef3238e38ddca4707b38a2](https://git.flyball.co/dsiprouter/enterprise/commit/403543b8e778f048dbef3238e38ddca4707b38a2)  
+> Commit: [403543b8e778f048dbef3238e38ddca4707b38a2](https://github.com/jcornwell-river/dsiprouter/commit/403543b8e778f048dbef3238e38ddca4707b38a2)  
 > Date: Wed, 3 Jul 2019 10:38:37 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5842,7 +6518,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82f0cbe7e117718aaf97860090bc01edfd939a93)
 ### Create API.rst
 
-> Commit: [82f0cbe7e117718aaf97860090bc01edfd939a93](https://git.flyball.co/dsiprouter/enterprise/commit/82f0cbe7e117718aaf97860090bc01edfd939a93)  
+> Commit: [82f0cbe7e117718aaf97860090bc01edfd939a93](https://github.com/jcornwell-river/dsiprouter/commit/82f0cbe7e117718aaf97860090bc01edfd939a93)  
 > Date: Wed, 3 Jul 2019 10:26:08 -0400  
 > Author: Omari S. King (46901954+OmariKing@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -5857,7 +6533,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cce099319717c5fa6335cedab8512035b0d2e6b1)
 ### Make Primary PBX Required in GUI
 
-> Commit: [cce099319717c5fa6335cedab8512035b0d2e6b1](https://git.flyball.co/dsiprouter/enterprise/commit/cce099319717c5fa6335cedab8512035b0d2e6b1)  
+> Commit: [cce099319717c5fa6335cedab8512035b0d2e6b1](https://github.com/jcornwell-river/dsiprouter/commit/cce099319717c5fa6335cedab8512035b0d2e6b1)  
 > Date: Tue, 2 Jul 2019 21:50:58 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5874,7 +6550,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f0b772396303c122ef9ebaad2b4c17d34f15f2b2)
 ### Inbound DID Mapping Through API
 
-> Commit: [f0b772396303c122ef9ebaad2b4c17d34f15f2b2](https://git.flyball.co/dsiprouter/enterprise/commit/f0b772396303c122ef9ebaad2b4c17d34f15f2b2)  
+> Commit: [f0b772396303c122ef9ebaad2b4c17d34f15f2b2](https://github.com/jcornwell-river/dsiprouter/commit/f0b772396303c122ef9ebaad2b4c17d34f15f2b2)  
 > Date: Tue, 2 Jul 2019 21:02:21 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5898,7 +6574,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 428b1d2c2324fda6afd6ad43f3d0ff697350ae9f)
 ### Default to IPv4
 
-> Commit: [428b1d2c2324fda6afd6ad43f3d0ff697350ae9f](https://git.flyball.co/dsiprouter/enterprise/commit/428b1d2c2324fda6afd6ad43f3d0ff697350ae9f)  
+> Commit: [428b1d2c2324fda6afd6ad43f3d0ff697350ae9f](https://github.com/jcornwell-river/dsiprouter/commit/428b1d2c2324fda6afd6ad43f3d0ff697350ae9f)  
 > Date: Mon, 1 Jul 2019 12:32:07 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5916,7 +6592,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47cc12a4f06fb26c611be63bf340624cc80e955b)
 ### Fix Debian v09 mysqlclient Dependency Regression
 
-> Commit: [47cc12a4f06fb26c611be63bf340624cc80e955b](https://git.flyball.co/dsiprouter/enterprise/commit/47cc12a4f06fb26c611be63bf340624cc80e955b)  
+> Commit: [47cc12a4f06fb26c611be63bf340624cc80e955b](https://github.com/jcornwell-river/dsiprouter/commit/47cc12a4f06fb26c611be63bf340624cc80e955b)  
 > Date: Sun, 30 Jun 2019 19:53:54 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5932,7 +6608,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c59f76096c9ade54041cdfc8d4319683ddf1f133)
 ### Fix Debian v09 mysqlclient Dependency Regression
 
-> Commit: [c59f76096c9ade54041cdfc8d4319683ddf1f133](https://git.flyball.co/dsiprouter/enterprise/commit/c59f76096c9ade54041cdfc8d4319683ddf1f133)  
+> Commit: [c59f76096c9ade54041cdfc8d4319683ddf1f133](https://github.com/jcornwell-river/dsiprouter/commit/c59f76096c9ade54041cdfc8d4319683ddf1f133)  
 > Date: Sun, 30 Jun 2019 19:53:54 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5948,7 +6624,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5e4b7f22a106a7562cdfc6328ac6349b6eaa317f)
 ### testing: Fixed Domain Pass-Thru using FreePBX test - The test will run the test on the externalip that it finds and then will try to run it on the internalip
 
-> Commit: [5e4b7f22a106a7562cdfc6328ac6349b6eaa317f](https://git.flyball.co/dsiprouter/enterprise/commit/5e4b7f22a106a7562cdfc6328ac6349b6eaa317f)  
+> Commit: [5e4b7f22a106a7562cdfc6328ac6349b6eaa317f](https://github.com/jcornwell-river/dsiprouter/commit/5e4b7f22a106a7562cdfc6328ac6349b6eaa317f)  
 > Date: Fri, 28 Jun 2019 16:06:18 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5963,7 +6639,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77d625cf97b5d206a64809153a85ae6052c1797a)
 ### testing: Fixed Domain Pass-Thru using FreePBX test - The test will run the test on the externalip that it finds and then will try to run it on the internalip
 
-> Commit: [77d625cf97b5d206a64809153a85ae6052c1797a](https://git.flyball.co/dsiprouter/enterprise/commit/77d625cf97b5d206a64809153a85ae6052c1797a)  
+> Commit: [77d625cf97b5d206a64809153a85ae6052c1797a](https://github.com/jcornwell-river/dsiprouter/commit/77d625cf97b5d206a64809153a85ae6052c1797a)  
 > Date: Fri, 28 Jun 2019 16:03:47 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -5978,7 +6654,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d131a82d6ade3c8f05713f7445b9452826d25d72)
 ### Merge v0.522 commits onto v0.523
 
-> Commit: [d131a82d6ade3c8f05713f7445b9452826d25d72](https://git.flyball.co/dsiprouter/enterprise/commit/d131a82d6ade3c8f05713f7445b9452826d25d72)  
+> Commit: [d131a82d6ade3c8f05713f7445b9452826d25d72](https://github.com/jcornwell-river/dsiprouter/commit/d131a82d6ade3c8f05713f7445b9452826d25d72)  
 > Date: Thu, 27 Jun 2019 14:15:09 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -5993,7 +6669,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3971a4df0b2e68e7826c8850edfa74d0678c2120)
 ### Remove Unused Billing Calls in Kamailio Config
 
-> Commit: [3971a4df0b2e68e7826c8850edfa74d0678c2120](https://git.flyball.co/dsiprouter/enterprise/commit/3971a4df0b2e68e7826c8850edfa74d0678c2120)  
+> Commit: [3971a4df0b2e68e7826c8850edfa74d0678c2120](https://github.com/jcornwell-river/dsiprouter/commit/3971a4df0b2e68e7826c8850edfa74d0678c2120)  
 > Date: Thu, 27 Jun 2019 12:35:12 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6011,7 +6687,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 83e79d97322144cadd49e99c4d568455c00e3fd7)
 ### Allow Excluding Libraries in Requirements git Hook
 
-> Commit: [83e79d97322144cadd49e99c4d568455c00e3fd7](https://git.flyball.co/dsiprouter/enterprise/commit/83e79d97322144cadd49e99c4d568455c00e3fd7)  
+> Commit: [83e79d97322144cadd49e99c4d568455c00e3fd7](https://github.com/jcornwell-river/dsiprouter/commit/83e79d97322144cadd49e99c4d568455c00e3fd7)  
 > Date: Thu, 27 Jun 2019 11:42:59 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6028,7 +6704,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4b037caa02962d80745655b5e1ef6858ad04ea2b)
 ### Kam Cluster Stability Improvements
 
-> Commit: [4b037caa02962d80745655b5e1ef6858ad04ea2b](https://git.flyball.co/dsiprouter/enterprise/commit/4b037caa02962d80745655b5e1ef6858ad04ea2b)  
+> Commit: [4b037caa02962d80745655b5e1ef6858ad04ea2b](https://github.com/jcornwell-river/dsiprouter/commit/4b037caa02962d80745655b5e1ef6858ad04ea2b)  
 > Date: Thu, 14 Mar 2019 10:48:56 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6044,7 +6720,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0bd4654bb6b58218dff7e1a437c38f23860c17f1)
 ### Fix Cloud Stability Issues
 
-> Commit: [0bd4654bb6b58218dff7e1a437c38f23860c17f1](https://git.flyball.co/dsiprouter/enterprise/commit/0bd4654bb6b58218dff7e1a437c38f23860c17f1)  
+> Commit: [0bd4654bb6b58218dff7e1a437c38f23860c17f1](https://github.com/jcornwell-river/dsiprouter/commit/0bd4654bb6b58218dff7e1a437c38f23860c17f1)  
 > Date: Wed, 26 Jun 2019 17:37:31 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6069,7 +6745,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e0d64dcc93e0fad10bd2f47c62c4b2a39fdee7ad)
 ### Update requirements.txt
 
-> Commit: [e0d64dcc93e0fad10bd2f47c62c4b2a39fdee7ad](https://git.flyball.co/dsiprouter/enterprise/commit/e0d64dcc93e0fad10bd2f47c62c4b2a39fdee7ad)  
+> Commit: [e0d64dcc93e0fad10bd2f47c62c4b2a39fdee7ad](https://github.com/jcornwell-river/dsiprouter/commit/e0d64dcc93e0fad10bd2f47c62c4b2a39fdee7ad)  
 > Date: Thu, 27 Jun 2019 07:57:40 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6085,7 +6761,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eea03615c43deaad5bdf2989e4dbf4dc6209575c)
 ### Security Bug Modification
 
-> Commit: [eea03615c43deaad5bdf2989e4dbf4dc6209575c](https://git.flyball.co/dsiprouter/enterprise/commit/eea03615c43deaad5bdf2989e4dbf4dc6209575c)  
+> Commit: [eea03615c43deaad5bdf2989e4dbf4dc6209575c](https://github.com/jcornwell-river/dsiprouter/commit/eea03615c43deaad5bdf2989e4dbf4dc6209575c)  
 > Date: Tue, 25 Jun 2019 18:00:12 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6104,7 +6780,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f0adeca772448524d7e14aecece343a4a22fb36a)
 ### kamailio.cfg: The SERVERNAT mode will now cause Kamailio to listen on TCP at 127.0.0.1:5060
 
-> Commit: [f0adeca772448524d7e14aecece343a4a22fb36a](https://git.flyball.co/dsiprouter/enterprise/commit/f0adeca772448524d7e14aecece343a4a22fb36a)  
+> Commit: [f0adeca772448524d7e14aecece343a4a22fb36a](https://github.com/jcornwell-river/dsiprouter/commit/f0adeca772448524d7e14aecece343a4a22fb36a)  
 > Date: Wed, 26 Jun 2019 18:09:28 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6119,7 +6795,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a15d049d16a32896d73267da550d8f2826518526)
 ### Update kamailio51_dsiprouter.cfg
 
-> Commit: [a15d049d16a32896d73267da550d8f2826518526](https://git.flyball.co/dsiprouter/enterprise/commit/a15d049d16a32896d73267da550d8f2826518526)  
+> Commit: [a15d049d16a32896d73267da550d8f2826518526](https://github.com/jcornwell-river/dsiprouter/commit/a15d049d16a32896d73267da550d8f2826518526)  
 > Date: Mon, 24 Jun 2019 13:02:29 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6135,7 +6811,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42dbd37b3d0ebdf11991af51142ce4938d4bce99)
 ### Update kamailio51_dsiprouter.cfg
 
-> Commit: [42dbd37b3d0ebdf11991af51142ce4938d4bce99](https://git.flyball.co/dsiprouter/enterprise/commit/42dbd37b3d0ebdf11991af51142ce4938d4bce99)  
+> Commit: [42dbd37b3d0ebdf11991af51142ce4938d4bce99](https://github.com/jcornwell-river/dsiprouter/commit/42dbd37b3d0ebdf11991af51142ce4938d4bce99)  
 > Date: Mon, 24 Jun 2019 13:02:29 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6151,7 +6827,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c8756c929ccce9793a1e1717439a257c97f22203)
 ### Cloud Config Security Updates
 
-> Commit: [c8756c929ccce9793a1e1717439a257c97f22203](https://git.flyball.co/dsiprouter/enterprise/commit/c8756c929ccce9793a1e1717439a257c97f22203)  
+> Commit: [c8756c929ccce9793a1e1717439a257c97f22203](https://github.com/jcornwell-river/dsiprouter/commit/c8756c929ccce9793a1e1717439a257c97f22203)  
 > Date: Mon, 24 Jun 2019 12:25:40 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6171,7 +6847,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION edfe59b7a42884380acc1344d17663000f75eff2)
 ### Rewrote the reload API
 
-> Commit: [edfe59b7a42884380acc1344d17663000f75eff2](https://git.flyball.co/dsiprouter/enterprise/commit/edfe59b7a42884380acc1344d17663000f75eff2)  
+> Commit: [edfe59b7a42884380acc1344d17663000f75eff2](https://github.com/jcornwell-river/dsiprouter/commit/edfe59b7a42884380acc1344d17663000f75eff2)  
 > Date: Fri, 31 May 2019 05:30:36 +0000  
 > Author: root (root@ip-172-31-13-3.us-east-2.compute.internal)  
 > Committer: root (root@ip-172-31-13-3.us-east-2.compute.internal)  
@@ -6186,7 +6862,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d739ba1d7f82408c41d858329ff9234f1ccd439)
 ### Set it back so that it binds to all interfaces. This will cause the dashboard not to work on some OS builds
 
-> Commit: [5d739ba1d7f82408c41d858329ff9234f1ccd439](https://git.flyball.co/dsiprouter/enterprise/commit/5d739ba1d7f82408c41d858329ff9234f1ccd439)  
+> Commit: [5d739ba1d7f82408c41d858329ff9234f1ccd439](https://github.com/jcornwell-river/dsiprouter/commit/5d739ba1d7f82408c41d858329ff9234f1ccd439)  
 > Date: Tue, 28 May 2019 08:50:12 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6201,7 +6877,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6513f4410cb8923286d35492d48458efd5eb1d22)
 ### -Fixed the provisioning server template to default to 443 -Fixed the fusionpbx sync script to handle 443 properly
 
-> Commit: [6513f4410cb8923286d35492d48458efd5eb1d22](https://git.flyball.co/dsiprouter/enterprise/commit/6513f4410cb8923286d35492d48458efd5eb1d22)  
+> Commit: [6513f4410cb8923286d35492d48458efd5eb1d22](https://github.com/jcornwell-river/dsiprouter/commit/6513f4410cb8923286d35492d48458efd5eb1d22)  
 > Date: Tue, 28 May 2019 08:36:16 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6216,7 +6892,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7ffc2a2a3d8727cfec8d298e85a81a5c3fb57bcb)
 ### Use python docker module versus docker_py
 
-> Commit: [7ffc2a2a3d8727cfec8d298e85a81a5c3fb57bcb](https://git.flyball.co/dsiprouter/enterprise/commit/7ffc2a2a3d8727cfec8d298e85a81a5c3fb57bcb)  
+> Commit: [7ffc2a2a3d8727cfec8d298e85a81a5c3fb57bcb](https://github.com/jcornwell-river/dsiprouter/commit/7ffc2a2a3d8727cfec8d298e85a81a5c3fb57bcb)  
 > Date: Tue, 28 May 2019 07:07:40 +0000  
 > Author: root (root@p0.detroitpbx.com)  
 > Committer: root (root@p0.detroitpbx.com)  
@@ -6231,7 +6907,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2bdd089bffb74d6c25e5f171748d16ebaea7c200)
 ### Fixed an error that occurs when there are no FusionPBX sources to sync domain info
 
-> Commit: [2bdd089bffb74d6c25e5f171748d16ebaea7c200](https://git.flyball.co/dsiprouter/enterprise/commit/2bdd089bffb74d6c25e5f171748d16ebaea7c200)  
+> Commit: [2bdd089bffb74d6c25e5f171748d16ebaea7c200](https://github.com/jcornwell-river/dsiprouter/commit/2bdd089bffb74d6c25e5f171748d16ebaea7c200)  
 > Date: Sun, 26 May 2019 17:14:31 +0000  
 > Author: root (root@demo-dsiprouter-0.localdomain)  
 > Committer: root (root@demo-dsiprouter-0.localdomain)  
@@ -6246,7 +6922,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION af9dbcda856289029402349ed003efbe0f10e95e)
 ### Fixed a typo
 
-> Commit: [af9dbcda856289029402349ed003efbe0f10e95e](https://git.flyball.co/dsiprouter/enterprise/commit/af9dbcda856289029402349ed003efbe0f10e95e)  
+> Commit: [af9dbcda856289029402349ed003efbe0f10e95e](https://github.com/jcornwell-river/dsiprouter/commit/af9dbcda856289029402349ed003efbe0f10e95e)  
 > Date: Sat, 25 May 2019 10:01:48 +0000  
 > Author: root (root@demo-dsiprouter-0.localdomain)  
 > Committer: root (root@demo-dsiprouter-0.localdomain)  
@@ -6261,7 +6937,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a82177b68c97bf88752b5dfb6ecf85d9abbd100)
 ### Fixed an issue with listening on udp and tcp ports
 
-> Commit: [6a82177b68c97bf88752b5dfb6ecf85d9abbd100](https://git.flyball.co/dsiprouter/enterprise/commit/6a82177b68c97bf88752b5dfb6ecf85d9abbd100)  
+> Commit: [6a82177b68c97bf88752b5dfb6ecf85d9abbd100](https://github.com/jcornwell-river/dsiprouter/commit/6a82177b68c97bf88752b5dfb6ecf85d9abbd100)  
 > Date: Sat, 25 May 2019 09:29:37 +0000  
 > Author: root (root@demo-dsiprouter-0.localdomain)  
 > Committer: root (root@demo-dsiprouter-0.localdomain)  
@@ -6276,7 +6952,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b1dd12b4f0a9d8727d561a1a6b3395ae9c684211)
 ### Explicitly added a listen attribute for tcp. Fixed issue #170
 
-> Commit: [b1dd12b4f0a9d8727d561a1a6b3395ae9c684211](https://git.flyball.co/dsiprouter/enterprise/commit/b1dd12b4f0a9d8727d561a1a6b3395ae9c684211)  
+> Commit: [b1dd12b4f0a9d8727d561a1a6b3395ae9c684211](https://github.com/jcornwell-river/dsiprouter/commit/b1dd12b4f0a9d8727d561a1a6b3395ae9c684211)  
 > Date: Wed, 22 May 2019 15:54:05 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6291,7 +6967,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e04b046b75d3a0a31e7eebbcf30e36f10edb55e2)
 ### Fixed #164
 
-> Commit: [e04b046b75d3a0a31e7eebbcf30e36f10edb55e2](https://git.flyball.co/dsiprouter/enterprise/commit/e04b046b75d3a0a31e7eebbcf30e36f10edb55e2)  
+> Commit: [e04b046b75d3a0a31e7eebbcf30e36f10edb55e2](https://github.com/jcornwell-river/dsiprouter/commit/e04b046b75d3a0a31e7eebbcf30e36f10edb55e2)  
 > Date: Mon, 20 May 2019 19:58:01 +0000  
 > Author: root (root@OmariDev-0.localdomain)  
 > Committer: root (root@OmariDev-0.localdomain)  
@@ -6306,7 +6982,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e665ba2b11285ecac9ee987fd1bc4a1ab6b68978)
 ### Fixed a regression from Primary/Secondary Failover Enhancement
 
-> Commit: [e665ba2b11285ecac9ee987fd1bc4a1ab6b68978](https://git.flyball.co/dsiprouter/enterprise/commit/e665ba2b11285ecac9ee987fd1bc4a1ab6b68978)  
+> Commit: [e665ba2b11285ecac9ee987fd1bc4a1ab6b68978](https://github.com/jcornwell-river/dsiprouter/commit/e665ba2b11285ecac9ee987fd1bc4a1ab6b68978)  
 > Date: Fri, 17 May 2019 17:59:45 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6321,7 +6997,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b2da46c1581c79c6d176dacf7d17f622d36e7b23)
 ### Update README.md
 
-> Commit: [b2da46c1581c79c6d176dacf7d17f622d36e7b23](https://git.flyball.co/dsiprouter/enterprise/commit/b2da46c1581c79c6d176dacf7d17f622d36e7b23)  
+> Commit: [b2da46c1581c79c6d176dacf7d17f622d36e7b23](https://github.com/jcornwell-river/dsiprouter/commit/b2da46c1581c79c6d176dacf7d17f622d36e7b23)  
 > Date: Thu, 16 May 2019 13:39:24 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6336,7 +7012,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4c8d56dffb72abe22830054d8936f750578f91b2)
 ### #163 fixed
 
-> Commit: [4c8d56dffb72abe22830054d8936f750578f91b2](https://git.flyball.co/dsiprouter/enterprise/commit/4c8d56dffb72abe22830054d8936f750578f91b2)  
+> Commit: [4c8d56dffb72abe22830054d8936f750578f91b2](https://github.com/jcornwell-river/dsiprouter/commit/4c8d56dffb72abe22830054d8936f750578f91b2)  
 > Date: Wed, 15 May 2019 20:16:27 +0000  
 > Author: root (root@OmariDev-0.localdomain)  
 > Committer: root (root@OmariDev-0.localdomain)  
@@ -6351,7 +7027,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 702cf8a46262a9eb2e4848faaa34697cfa83bd52)
 ### - The admin password is now being set properly on Debian - non AWS - Fixed the spacing when displaying the password info
 
-> Commit: [702cf8a46262a9eb2e4848faaa34697cfa83bd52](https://git.flyball.co/dsiprouter/enterprise/commit/702cf8a46262a9eb2e4848faaa34697cfa83bd52)  
+> Commit: [702cf8a46262a9eb2e4848faaa34697cfa83bd52](https://github.com/jcornwell-river/dsiprouter/commit/702cf8a46262a9eb2e4848faaa34697cfa83bd52)  
 > Date: Wed, 15 May 2019 07:57:23 +0000  
 > Author: root (root@dSIPRouterJenkins-0.localdomain)  
 > Committer: root (root@dSIPRouterJenkins-0.localdomain)  
@@ -6366,7 +7042,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8ce7b4dab224dd31a175f1284cae93b91204eab0)
 ### fixed #160
 
-> Commit: [8ce7b4dab224dd31a175f1284cae93b91204eab0](https://git.flyball.co/dsiprouter/enterprise/commit/8ce7b4dab224dd31a175f1284cae93b91204eab0)  
+> Commit: [8ce7b4dab224dd31a175f1284cae93b91204eab0](https://github.com/jcornwell-river/dsiprouter/commit/8ce7b4dab224dd31a175f1284cae93b91204eab0)  
 > Date: Tue, 14 May 2019 21:24:08 +0000  
 > Author: root (root@OmariDev-0.localdomain)  
 > Committer: root (root@OmariDev-0.localdomain)  
@@ -6381,7 +7057,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 743d40d88ffc853de5daef780fcb8297222a7d54)
 ### Added the ability to clean up expired leases to our system wide cron script
 
-> Commit: [743d40d88ffc853de5daef780fcb8297222a7d54](https://git.flyball.co/dsiprouter/enterprise/commit/743d40d88ffc853de5daef780fcb8297222a7d54)  
+> Commit: [743d40d88ffc853de5daef780fcb8297222a7d54](https://github.com/jcornwell-river/dsiprouter/commit/743d40d88ffc853de5daef780fcb8297222a7d54)  
 > Date: Tue, 14 May 2019 11:23:07 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6396,7 +7072,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae30e7972b8a261a7ce0d4f1a9d908e5547bf70d)
 ### Startup and General Fixes
 
-> Commit: [ae30e7972b8a261a7ce0d4f1a9d908e5547bf70d](https://git.flyball.co/dsiprouter/enterprise/commit/ae30e7972b8a261a7ce0d4f1a9d908e5547bf70d)  
+> Commit: [ae30e7972b8a261a7ce0d4f1a9d908e5547bf70d](https://github.com/jcornwell-river/dsiprouter/commit/ae30e7972b8a261a7ce0d4f1a9d908e5547bf70d)  
 > Date: Tue, 14 May 2019 07:16:21 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -6419,7 +7095,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2cfc720178153e19c8d537a5aa8ea2cdab0975f9)
 ### Fixed LCR bug, Added a configuration parameter that allows the PBX INVITE timer to be changed globally during runtime
 
-> Commit: [2cfc720178153e19c8d537a5aa8ea2cdab0975f9](https://git.flyball.co/dsiprouter/enterprise/commit/2cfc720178153e19c8d537a5aa8ea2cdab0975f9)  
+> Commit: [2cfc720178153e19c8d537a5aa8ea2cdab0975f9](https://github.com/jcornwell-river/dsiprouter/commit/2cfc720178153e19c8d537a5aa8ea2cdab0975f9)  
 > Date: Fri, 10 May 2019 21:57:14 +0000  
 > Author: root (root@dSIPRouterMackTest-0.localdomain)  
 > Committer: root (root@dSIPRouterMackTest-0.localdomain)  
@@ -6434,7 +7110,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1d43d2ec96bfefb7132cb6b236dcf8ca06f6a09c)
 ### Updated the .gitignore file
 
-> Commit: [1d43d2ec96bfefb7132cb6b236dcf8ca06f6a09c](https://git.flyball.co/dsiprouter/enterprise/commit/1d43d2ec96bfefb7132cb6b236dcf8ca06f6a09c)  
+> Commit: [1d43d2ec96bfefb7132cb6b236dcf8ca06f6a09c](https://github.com/jcornwell-river/dsiprouter/commit/1d43d2ec96bfefb7132cb6b236dcf8ca06f6a09c)  
 > Date: Fri, 10 May 2019 21:54:48 +0000  
 > Author: root (root@dSIPRouterMackTest-0.localdomain)  
 > Committer: root (root@dSIPRouterMackTest-0.localdomain)  
@@ -6449,7 +7125,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 07d8e0f85b48c54ca8da920ec3153fcf02ff7a17)
 ### Removed old files
 
-> Commit: [07d8e0f85b48c54ca8da920ec3153fcf02ff7a17](https://git.flyball.co/dsiprouter/enterprise/commit/07d8e0f85b48c54ca8da920ec3153fcf02ff7a17)  
+> Commit: [07d8e0f85b48c54ca8da920ec3153fcf02ff7a17](https://github.com/jcornwell-river/dsiprouter/commit/07d8e0f85b48c54ca8da920ec3153fcf02ff7a17)  
 > Date: Fri, 10 May 2019 21:50:09 +0000  
 > Author: root (root@dSIPRouterMackTest-0.localdomain)  
 > Committer: root (root@dSIPRouterMackTest-0.localdomain)  
@@ -6464,7 +7140,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 740e37bc645b340a2093c85114b1dcf00c7d5057)
 ### Edits to carriergroups.js
 
-> Commit: [740e37bc645b340a2093c85114b1dcf00c7d5057](https://git.flyball.co/dsiprouter/enterprise/commit/740e37bc645b340a2093c85114b1dcf00c7d5057)  
+> Commit: [740e37bc645b340a2093c85114b1dcf00c7d5057](https://github.com/jcornwell-river/dsiprouter/commit/740e37bc645b340a2093c85114b1dcf00c7d5057)  
 > Date: Fri, 10 May 2019 17:08:55 +0000  
 > Author: root (root@OmariDev-0.localdomain)  
 > Committer: root (root@OmariDev-0.localdomain)  
@@ -6479,7 +7155,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7afa13f6302b3793a7ad04bb492f031c84d80f55)
 ### Added initial support for a Kamailio Reload API
 
-> Commit: [7afa13f6302b3793a7ad04bb492f031c84d80f55](https://git.flyball.co/dsiprouter/enterprise/commit/7afa13f6302b3793a7ad04bb492f031c84d80f55)  
+> Commit: [7afa13f6302b3793a7ad04bb492f031c84d80f55](https://github.com/jcornwell-river/dsiprouter/commit/7afa13f6302b3793a7ad04bb492f031c84d80f55)  
 > Date: Thu, 9 May 2019 02:17:14 +0000  
 > Author: root (root@dSIPRouterMackTest-0.localdomain)  
 > Committer: root (root@dSIPRouterMackTest-0.localdomain)  
@@ -6494,7 +7170,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ad06c1cfaa2de146df9dab483f00fb43a2295f6b)
 ### Enabled the reload button when enabling and disabling an endpoint for maintenance
 
-> Commit: [ad06c1cfaa2de146df9dab483f00fb43a2295f6b](https://git.flyball.co/dsiprouter/enterprise/commit/ad06c1cfaa2de146df9dab483f00fb43a2295f6b)  
+> Commit: [ad06c1cfaa2de146df9dab483f00fb43a2295f6b](https://github.com/jcornwell-river/dsiprouter/commit/ad06c1cfaa2de146df9dab483f00fb43a2295f6b)  
 > Date: Wed, 8 May 2019 10:02:25 +0000  
 > Author: root (root@dSIPRouterMackTest-0.localdomain)  
 > Committer: root (root@dSIPRouterMackTest-0.localdomain)  
@@ -6509,7 +7185,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7a573fa5ae649a379a6385557a42a7112ef095e)
 ### Added dsiprouter.sh to /usr/local/bin via a symbolic link
 
-> Commit: [e7a573fa5ae649a379a6385557a42a7112ef095e](https://git.flyball.co/dsiprouter/enterprise/commit/e7a573fa5ae649a379a6385557a42a7112ef095e)  
+> Commit: [e7a573fa5ae649a379a6385557a42a7112ef095e](https://github.com/jcornwell-river/dsiprouter/commit/e7a573fa5ae649a379a6385557a42a7112ef095e)  
 > Date: Wed, 8 May 2019 08:37:26 +0000  
 > Author: root (root@dSIPRouterJenkins-0.localdomain)  
 > Committer: root (root@dSIPRouterJenkins-0.localdomain)  
@@ -6524,7 +7200,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c8f1c13f26238b9ce8ff5fe9b161210ba70ed48e)
 ### Fixed an issue with creating new carriergroups
 
-> Commit: [c8f1c13f26238b9ce8ff5fe9b161210ba70ed48e](https://git.flyball.co/dsiprouter/enterprise/commit/c8f1c13f26238b9ce8ff5fe9b161210ba70ed48e)  
+> Commit: [c8f1c13f26238b9ce8ff5fe9b161210ba70ed48e](https://github.com/jcornwell-river/dsiprouter/commit/c8f1c13f26238b9ce8ff5fe9b161210ba70ed48e)  
 > Date: Wed, 8 May 2019 07:50:00 +0000  
 > Author: root (root@dSIPRouterJenkins-0.localdomain)  
 > Committer: root (root@dSIPRouterJenkins-0.localdomain)  
@@ -6539,7 +7215,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7e9de543000ce6b6633b33eec1d82d6854f3dee7)
 ### Added final logic to support gui and backend support for PBX failover and Endpoint Maintence
 
-> Commit: [7e9de543000ce6b6633b33eec1d82d6854f3dee7](https://git.flyball.co/dsiprouter/enterprise/commit/7e9de543000ce6b6633b33eec1d82d6854f3dee7)  
+> Commit: [7e9de543000ce6b6633b33eec1d82d6854f3dee7](https://github.com/jcornwell-river/dsiprouter/commit/7e9de543000ce6b6633b33eec1d82d6854f3dee7)  
 > Date: Tue, 7 May 2019 02:17:34 +0000  
 > Author: root (root@dSIPRouterMack0522-0.localdomain)  
 > Committer: root (root@dSIPRouterMack0522-0.localdomain)  
@@ -6554,7 +7230,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c3b788bdc8b2f59208a0c1f9f74cedd3513a75b0)
 ### Update domains.rst
 
-> Commit: [c3b788bdc8b2f59208a0c1f9f74cedd3513a75b0](https://git.flyball.co/dsiprouter/enterprise/commit/c3b788bdc8b2f59208a0c1f9f74cedd3513a75b0)  
+> Commit: [c3b788bdc8b2f59208a0c1f9f74cedd3513a75b0](https://github.com/jcornwell-river/dsiprouter/commit/c3b788bdc8b2f59208a0c1f9f74cedd3513a75b0)  
 > Date: Mon, 6 May 2019 13:30:04 -0400  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6569,7 +7245,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b666e3fa075ea5245a6aa43d9cbfe1007097c340)
 ### Add files via upload
 
-> Commit: [b666e3fa075ea5245a6aa43d9cbfe1007097c340](https://git.flyball.co/dsiprouter/enterprise/commit/b666e3fa075ea5245a6aa43d9cbfe1007097c340)  
+> Commit: [b666e3fa075ea5245a6aa43d9cbfe1007097c340](https://github.com/jcornwell-river/dsiprouter/commit/b666e3fa075ea5245a6aa43d9cbfe1007097c340)  
 > Date: Mon, 6 May 2019 13:16:21 -0400  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6584,7 +7260,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6afb800cba67485ac08beb712307b45ea95b64c7)
 ### Added logic to update the endpoint api, added logic to display an indicator when a pbx is in maintenance mode
 
-> Commit: [6afb800cba67485ac08beb712307b45ea95b64c7](https://git.flyball.co/dsiprouter/enterprise/commit/6afb800cba67485ac08beb712307b45ea95b64c7)  
+> Commit: [6afb800cba67485ac08beb712307b45ea95b64c7](https://github.com/jcornwell-river/dsiprouter/commit/6afb800cba67485ac08beb712307b45ea95b64c7)  
 > Date: Mon, 6 May 2019 16:22:22 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6599,7 +7275,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2c8dd08c247cb459e0803564e21a8dc5841ed9d9)
 ### Added API for updating an endpoint and ability to put an endpoint in maintenance mode
 
-> Commit: [2c8dd08c247cb459e0803564e21a8dc5841ed9d9](https://git.flyball.co/dsiprouter/enterprise/commit/2c8dd08c247cb459e0803564e21a8dc5841ed9d9)  
+> Commit: [2c8dd08c247cb459e0803564e21a8dc5841ed9d9](https://github.com/jcornwell-river/dsiprouter/commit/2c8dd08c247cb459e0803564e21a8dc5841ed9d9)  
 > Date: Fri, 3 May 2019 18:54:00 +0000  
 > Author: root (root@dSIPRouterMack0522-0.localdomain)  
 > Committer: root (root@dSIPRouterMack0522-0.localdomain)  
@@ -6614,7 +7290,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 257d9be36a877688a002ee68473ba0fdcf47ea12)
 ### Added the ability to REVOKE a lease
 
-> Commit: [257d9be36a877688a002ee68473ba0fdcf47ea12](https://git.flyball.co/dsiprouter/enterprise/commit/257d9be36a877688a002ee68473ba0fdcf47ea12)  
+> Commit: [257d9be36a877688a002ee68473ba0fdcf47ea12](https://github.com/jcornwell-river/dsiprouter/commit/257d9be36a877688a002ee68473ba0fdcf47ea12)  
 > Date: Tue, 30 Apr 2019 08:24:14 +0000  
 > Author: root (root@dSIPRouterMack0522-0.localdomain)  
 > Committer: root (root@dSIPRouterMack0522-0.localdomain)  
@@ -6629,7 +7305,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1a6cddb03a08c61e26b2dd32b9773e020b8f589a)
 ### Turned off debugging
 
-> Commit: [1a6cddb03a08c61e26b2dd32b9773e020b8f589a](https://git.flyball.co/dsiprouter/enterprise/commit/1a6cddb03a08c61e26b2dd32b9773e020b8f589a)  
+> Commit: [1a6cddb03a08c61e26b2dd32b9773e020b8f589a](https://github.com/jcornwell-river/dsiprouter/commit/1a6cddb03a08c61e26b2dd32b9773e020b8f589a)  
 > Date: Tue, 30 Apr 2019 06:29:05 +0000  
 > Author: root (root@dSIPRouterMack0522-0.localdomain)  
 > Committer: root (root@dSIPRouterMack0522-0.localdomain)  
@@ -6644,7 +7320,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 09313aa08dc8cccc7f27e03d5f6e6661d5e2b73d)
 ### Initial commit of the install script for the API module
 
-> Commit: [09313aa08dc8cccc7f27e03d5f6e6661d5e2b73d](https://git.flyball.co/dsiprouter/enterprise/commit/09313aa08dc8cccc7f27e03d5f6e6661d5e2b73d)  
+> Commit: [09313aa08dc8cccc7f27e03d5f6e6661d5e2b73d](https://github.com/jcornwell-river/dsiprouter/commit/09313aa08dc8cccc7f27e03d5f6e6661d5e2b73d)  
 > Date: Mon, 29 Apr 2019 21:24:59 +0000  
 > Author: root (root@dSIPRouterMack0.522-0)  
 > Committer: root (root@dSIPRouterMack0.522-0)  
@@ -6659,7 +7335,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5697532b99955d48dd8bdc38db85b86616bcd781)
 ### Removed dashboard.js from root directory
 
-> Commit: [5697532b99955d48dd8bdc38db85b86616bcd781](https://git.flyball.co/dsiprouter/enterprise/commit/5697532b99955d48dd8bdc38db85b86616bcd781)  
+> Commit: [5697532b99955d48dd8bdc38db85b86616bcd781](https://github.com/jcornwell-river/dsiprouter/commit/5697532b99955d48dd8bdc38db85b86616bcd781)  
 > Date: Mon, 29 Apr 2019 21:07:31 +0000  
 > Author: root (root@dSIPRouterMack0.522-0)  
 > Committer: root (root@dSIPRouterMack0.522-0)  
@@ -6674,7 +7350,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c2d3945ca539d59fb3533774c99718ed8529c121)
 ### Inbound DID's will try the Primary and then the Secondary PBX.  The user will receive a 502 Service not available if both fail
 
-> Commit: [c2d3945ca539d59fb3533774c99718ed8529c121](https://git.flyball.co/dsiprouter/enterprise/commit/c2d3945ca539d59fb3533774c99718ed8529c121)  
+> Commit: [c2d3945ca539d59fb3533774c99718ed8529c121](https://github.com/jcornwell-river/dsiprouter/commit/c2d3945ca539d59fb3533774c99718ed8529c121)  
 > Date: Mon, 29 Apr 2019 21:04:03 +0000  
 > Author: root (root@dSIPRouterMack0.522-0)  
 > Committer: root (root@dSIPRouterMack0.522-0)  
@@ -6689,7 +7365,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3a3fc5a7e4b658806e0bba562e6b703cf0f25f7)
 ### Initial commit of the Endpoint API
 
-> Commit: [a3a3fc5a7e4b658806e0bba562e6b703cf0f25f7](https://git.flyball.co/dsiprouter/enterprise/commit/a3a3fc5a7e4b658806e0bba562e6b703cf0f25f7)  
+> Commit: [a3a3fc5a7e4b658806e0bba562e6b703cf0f25f7](https://github.com/jcornwell-river/dsiprouter/commit/a3a3fc5a7e4b658806e0bba562e6b703cf0f25f7)  
 > Date: Mon, 29 Apr 2019 20:42:45 +0000  
 > Author: root (root@dSIPRouterMack0.522-0)  
 > Committer: root (root@dSIPRouterMack0.522-0)  
@@ -6704,7 +7380,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6880c7142972aabcdb864fc48a786478ffb8be49)
 ### Added a security model for our API framework
 
-> Commit: [6880c7142972aabcdb864fc48a786478ffb8be49](https://git.flyball.co/dsiprouter/enterprise/commit/6880c7142972aabcdb864fc48a786478ffb8be49)  
+> Commit: [6880c7142972aabcdb864fc48a786478ffb8be49](https://github.com/jcornwell-river/dsiprouter/commit/6880c7142972aabcdb864fc48a786478ffb8be49)  
 > Date: Sun, 28 Apr 2019 03:53:21 +0000  
 > Author: root (root@dSIPRouterMack0522-0.localdomain)  
 > Committer: root (root@dSIPRouterMack0522-0.localdomain)  
@@ -6719,7 +7395,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1fb03173971da31cdc9a60cf8f8823cfe0eb6a4d)
 ### Removed AMI changes that were made - going back to the orig
 
-> Commit: [1fb03173971da31cdc9a60cf8f8823cfe0eb6a4d](https://git.flyball.co/dsiprouter/enterprise/commit/1fb03173971da31cdc9a60cf8f8823cfe0eb6a4d)  
+> Commit: [1fb03173971da31cdc9a60cf8f8823cfe0eb6a4d](https://github.com/jcornwell-river/dsiprouter/commit/1fb03173971da31cdc9a60cf8f8823cfe0eb6a4d)  
 > Date: Mon, 22 Apr 2019 00:04:46 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6734,7 +7410,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 46d70a337e287f93b05db5d9bf57c08eaa41e535)
 ### Temporarily Removing AMI Checks to get Jenkins working
 
-> Commit: [46d70a337e287f93b05db5d9bf57c08eaa41e535](https://git.flyball.co/dsiprouter/enterprise/commit/46d70a337e287f93b05db5d9bf57c08eaa41e535)  
+> Commit: [46d70a337e287f93b05db5d9bf57c08eaa41e535](https://github.com/jcornwell-river/dsiprouter/commit/46d70a337e287f93b05db5d9bf57c08eaa41e535)  
 > Date: Sun, 21 Apr 2019 23:59:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6749,7 +7425,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b9ce7647ba8f7e4d49f8824ca24b7914c1ef4404)
 ### Adding parameter to curl command for AMI check
 
-> Commit: [b9ce7647ba8f7e4d49f8824ca24b7914c1ef4404](https://git.flyball.co/dsiprouter/enterprise/commit/b9ce7647ba8f7e4d49f8824ca24b7914c1ef4404)  
+> Commit: [b9ce7647ba8f7e4d49f8824ca24b7914c1ef4404](https://github.com/jcornwell-river/dsiprouter/commit/b9ce7647ba8f7e4d49f8824ca24b7914c1ef4404)  
 > Date: Sun, 21 Apr 2019 23:49:26 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6764,7 +7440,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3e78e39922364d8022190c8e188e07744e35b8ff)
 ### Update README.md
 
-> Commit: [3e78e39922364d8022190c8e188e07744e35b8ff](https://git.flyball.co/dsiprouter/enterprise/commit/3e78e39922364d8022190c8e188e07744e35b8ff)  
+> Commit: [3e78e39922364d8022190c8e188e07744e35b8ff](https://github.com/jcornwell-river/dsiprouter/commit/3e78e39922364d8022190c8e188e07744e35b8ff)  
 > Date: Sun, 21 Apr 2019 23:00:16 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6779,7 +7455,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 00900d28e831b38c5dc78aa3d66b2a4938d0d3a8)
 ### Update settings.py
 
-> Commit: [00900d28e831b38c5dc78aa3d66b2a4938d0d3a8](https://git.flyball.co/dsiprouter/enterprise/commit/00900d28e831b38c5dc78aa3d66b2a4938d0d3a8)  
+> Commit: [00900d28e831b38c5dc78aa3d66b2a4938d0d3a8](https://github.com/jcornwell-river/dsiprouter/commit/00900d28e831b38c5dc78aa3d66b2a4938d0d3a8)  
 > Date: Wed, 17 Apr 2019 07:19:41 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6794,7 +7470,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 32d04837b45a8d15a6d0ef3fba608383f4a67197)
 ### Fixed #130 - l_username field of the uac_reg table will be populated with the gateway group id.  This will get rid of the error messages in the Kamailio log
 
-> Commit: [32d04837b45a8d15a6d0ef3fba608383f4a67197](https://git.flyball.co/dsiprouter/enterprise/commit/32d04837b45a8d15a6d0ef3fba608383f4a67197)  
+> Commit: [32d04837b45a8d15a6d0ef3fba608383f4a67197](https://github.com/jcornwell-river/dsiprouter/commit/32d04837b45a8d15a6d0ef3fba608383f4a67197)  
 > Date: Tue, 16 Apr 2019 11:18:50 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6809,7 +7485,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e562ab294d1654152a4b8bad1e64590212d6e26d)
 ### Added the default value for l_username so that the system has it during bootup
 
-> Commit: [e562ab294d1654152a4b8bad1e64590212d6e26d](https://git.flyball.co/dsiprouter/enterprise/commit/e562ab294d1654152a4b8bad1e64590212d6e26d)  
+> Commit: [e562ab294d1654152a4b8bad1e64590212d6e26d](https://github.com/jcornwell-river/dsiprouter/commit/e562ab294d1654152a4b8bad1e64590212d6e26d)  
 > Date: Tue, 16 Apr 2019 11:08:55 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6824,7 +7500,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9997109f3b7c7d397b5af4203765da6d582f9e83)
 ### Added unit test to test if known carrier ip's are being blocked by the PIKE module Fixed #148
 
-> Commit: [9997109f3b7c7d397b5af4203765da6d582f9e83](https://git.flyball.co/dsiprouter/enterprise/commit/9997109f3b7c7d397b5af4203765da6d582f9e83)  
+> Commit: [9997109f3b7c7d397b5af4203765da6d582f9e83](https://github.com/jcornwell-river/dsiprouter/commit/9997109f3b7c7d397b5af4203765da6d582f9e83)  
 > Date: Mon, 15 Apr 2019 19:19:47 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6839,7 +7515,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2eebe2e8e8fa3dd9924d95bcf2725f4f58146337)
 ### Working unit test for Domain Pass-Thru using FreePBX
 
-> Commit: [2eebe2e8e8fa3dd9924d95bcf2725f4f58146337](https://git.flyball.co/dsiprouter/enterprise/commit/2eebe2e8e8fa3dd9924d95bcf2725f4f58146337)  
+> Commit: [2eebe2e8e8fa3dd9924d95bcf2725f4f58146337](https://github.com/jcornwell-river/dsiprouter/commit/2eebe2e8e8fa3dd9924d95bcf2725f4f58146337)  
 > Date: Mon, 15 Apr 2019 10:49:32 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6854,7 +7530,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 156950f559f1c3cfc05cf1b69396fd39fc4343bc)
 ### Update README.md
 
-> Commit: [156950f559f1c3cfc05cf1b69396fd39fc4343bc](https://git.flyball.co/dsiprouter/enterprise/commit/156950f559f1c3cfc05cf1b69396fd39fc4343bc)  
+> Commit: [156950f559f1c3cfc05cf1b69396fd39fc4343bc](https://github.com/jcornwell-river/dsiprouter/commit/156950f559f1c3cfc05cf1b69396fd39fc4343bc)  
 > Date: Sun, 14 Apr 2019 18:57:49 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -6869,7 +7545,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b1bd959c9dd83b36c94f1fe2ae7ddf038e58f8ca)
 ### Added basic exception handling
 
-> Commit: [b1bd959c9dd83b36c94f1fe2ae7ddf038e58f8ca](https://git.flyball.co/dsiprouter/enterprise/commit/b1bd959c9dd83b36c94f1fe2ae7ddf038e58f8ca)  
+> Commit: [b1bd959c9dd83b36c94f1fe2ae7ddf038e58f8ca](https://github.com/jcornwell-river/dsiprouter/commit/b1bd959c9dd83b36c94f1fe2ae7ddf038e58f8ca)  
 > Date: Sun, 14 Apr 2019 19:07:11 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6884,7 +7560,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fae5015141acbff318d770f2dfa73f031c5fcbf8)
 ### Removed the old docker-py python library
 
-> Commit: [fae5015141acbff318d770f2dfa73f031c5fcbf8](https://git.flyball.co/dsiprouter/enterprise/commit/fae5015141acbff318d770f2dfa73f031c5fcbf8)  
+> Commit: [fae5015141acbff318d770f2dfa73f031c5fcbf8](https://github.com/jcornwell-river/dsiprouter/commit/fae5015141acbff318d770f2dfa73f031c5fcbf8)  
 > Date: Sun, 14 Apr 2019 18:46:04 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6899,7 +7575,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2d32a49fe117828144eb2f0503429b7c411816eb)
 ### Fixed #144 and fixed a regression with the FusionPBX Enable/Disable button in the PBX section
 
-> Commit: [2d32a49fe117828144eb2f0503429b7c411816eb](https://git.flyball.co/dsiprouter/enterprise/commit/2d32a49fe117828144eb2f0503429b7c411816eb)  
+> Commit: [2d32a49fe117828144eb2f0503429b7c411816eb](https://github.com/jcornwell-river/dsiprouter/commit/2d32a49fe117828144eb2f0503429b7c411816eb)  
 > Date: Sun, 14 Apr 2019 18:16:36 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6914,7 +7590,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2b9d82e43ce6c4d1bc50d1a7f90b6657c2549633)
 ### Removed the old docker-py library and added the docker
 
-> Commit: [2b9d82e43ce6c4d1bc50d1a7f90b6657c2549633](https://git.flyball.co/dsiprouter/enterprise/commit/2b9d82e43ce6c4d1bc50d1a7f90b6657c2549633)  
+> Commit: [2b9d82e43ce6c4d1bc50d1a7f90b6657c2549633](https://github.com/jcornwell-river/dsiprouter/commit/2b9d82e43ce6c4d1bc50d1a7f90b6657c2549633)  
 > Date: Sun, 14 Apr 2019 03:41:11 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6929,7 +7605,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61a20614269616a9a3f212eee62c988a6e98d531)
 ### Initial commit of unit test 17, which will be used for testing Domain Pass-Thru
 
-> Commit: [61a20614269616a9a3f212eee62c988a6e98d531](https://git.flyball.co/dsiprouter/enterprise/commit/61a20614269616a9a3f212eee62c988a6e98d531)  
+> Commit: [61a20614269616a9a3f212eee62c988a6e98d531](https://github.com/jcornwell-river/dsiprouter/commit/61a20614269616a9a3f212eee62c988a6e98d531)  
 > Date: Sat, 13 Apr 2019 23:49:13 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6944,7 +7620,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 75a875d51968f5c1e13ad65ab41e67da6e979c72)
 ### Fixed the Reload Kamailio button so that it reload the Domain module when pressed
 
-> Commit: [75a875d51968f5c1e13ad65ab41e67da6e979c72](https://git.flyball.co/dsiprouter/enterprise/commit/75a875d51968f5c1e13ad65ab41e67da6e979c72)  
+> Commit: [75a875d51968f5c1e13ad65ab41e67da6e979c72](https://github.com/jcornwell-river/dsiprouter/commit/75a875d51968f5c1e13ad65ab41e67da6e979c72)  
 > Date: Sat, 13 Apr 2019 21:58:02 +0000  
 > Author: root (root@dSIPRouterMack-0.localdomain)  
 > Committer: root (root@dSIPRouterMack-0.localdomain)  
@@ -6959,7 +7635,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8bb17331350a9111b5aca33e0869177d47562ed2)
 ### Fixed #145, Fixed #139, Fixed #142 - The Domain functionality has been fixed.  Adding, Removing and Deleting DDomains has been fixed.  Also, the parameter needed to route traffic when using pass-thru authentication has been fixed
 
-> Commit: [8bb17331350a9111b5aca33e0869177d47562ed2](https://git.flyball.co/dsiprouter/enterprise/commit/8bb17331350a9111b5aca33e0869177d47562ed2)  
+> Commit: [8bb17331350a9111b5aca33e0869177d47562ed2](https://github.com/jcornwell-river/dsiprouter/commit/8bb17331350a9111b5aca33e0869177d47562ed2)  
 > Date: Sat, 13 Apr 2019 17:24:37 +0000  
 > Author: root (root@dSIPRouterNicole2.localdomain)  
 > Committer: root (root@dSIPRouterNicole2.localdomain)  
@@ -6974,7 +7650,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 87811202be34c5202ee3525cb5c2fda1c06f9d28)
 ### Added sngrep back to Debian 8 and 9 installs.  Fixed #147
 
-> Commit: [87811202be34c5202ee3525cb5c2fda1c06f9d28](https://git.flyball.co/dsiprouter/enterprise/commit/87811202be34c5202ee3525cb5c2fda1c06f9d28)  
+> Commit: [87811202be34c5202ee3525cb5c2fda1c06f9d28](https://github.com/jcornwell-river/dsiprouter/commit/87811202be34c5202ee3525cb5c2fda1c06f9d28)  
 > Date: Thu, 11 Apr 2019 14:44:47 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -6989,7 +7665,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION daa6bbd9c0543d2687d9d5166f1a8b0b1c29ecc8)
 ### Fixed the AWS test
 
-> Commit: [daa6bbd9c0543d2687d9d5166f1a8b0b1c29ecc8](https://git.flyball.co/dsiprouter/enterprise/commit/daa6bbd9c0543d2687d9d5166f1a8b0b1c29ecc8)  
+> Commit: [daa6bbd9c0543d2687d9d5166f1a8b0b1c29ecc8](https://github.com/jcornwell-river/dsiprouter/commit/daa6bbd9c0543d2687d9d5166f1a8b0b1c29ecc8)  
 > Date: Thu, 11 Apr 2019 09:59:33 +0000  
 > Author: root (root@ip-172-31-18-84.ec2.internal)  
 > Committer: root (root@ip-172-31-18-84.ec2.internal)  
@@ -7004,7 +7680,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4456d9b0414e7458bfa977830d14b32a312de50d)
 ### Removed the test exit command from the install script
 
-> Commit: [4456d9b0414e7458bfa977830d14b32a312de50d](https://git.flyball.co/dsiprouter/enterprise/commit/4456d9b0414e7458bfa977830d14b32a312de50d)  
+> Commit: [4456d9b0414e7458bfa977830d14b32a312de50d](https://github.com/jcornwell-river/dsiprouter/commit/4456d9b0414e7458bfa977830d14b32a312de50d)  
 > Date: Thu, 11 Apr 2019 09:50:05 +0000  
 > Author: root (root@ip-172-31-18-84.ec2.internal)  
 > Committer: root (root@ip-172-31-18-84.ec2.internal)  
@@ -7019,7 +7695,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c2cab69eadc89cacaef04837c068830abf219cd1)
 ### Fixed the function in the testing harness that's responsible for validating if an instance is an EC2 instance on Amazon
 
-> Commit: [c2cab69eadc89cacaef04837c068830abf219cd1](https://git.flyball.co/dsiprouter/enterprise/commit/c2cab69eadc89cacaef04837c068830abf219cd1)  
+> Commit: [c2cab69eadc89cacaef04837c068830abf219cd1](https://github.com/jcornwell-river/dsiprouter/commit/c2cab69eadc89cacaef04837c068830abf219cd1)  
 > Date: Thu, 11 Apr 2019 03:54:00 +0000  
 > Author: Mack Hendricks (mack@dopensource.comm)  
 > Committer: Mack Hendricks (mack@dopensource.comm)  
@@ -7034,7 +7710,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7ac6f555eb29477b3cb60d39f576ecceaf35859d)
 ### Fixed the URL endpont used to validate if the instance is an EC2 instancing running on Amazon
 
-> Commit: [7ac6f555eb29477b3cb60d39f576ecceaf35859d](https://git.flyball.co/dsiprouter/enterprise/commit/7ac6f555eb29477b3cb60d39f576ecceaf35859d)  
+> Commit: [7ac6f555eb29477b3cb60d39f576ecceaf35859d](https://github.com/jcornwell-river/dsiprouter/commit/7ac6f555eb29477b3cb60d39f576ecceaf35859d)  
 > Date: Thu, 11 Apr 2019 03:52:47 +0000  
 > Author: Mack Hendricks (mack@dopensource.comm)  
 > Committer: Mack Hendricks (mack@dopensource.comm)  
@@ -7049,7 +7725,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42a866d4c75503843b0a7471d1f3ec6c4065b1d8)
 ### Update README.md
 
-> Commit: [42a866d4c75503843b0a7471d1f3ec6c4065b1d8](https://git.flyball.co/dsiprouter/enterprise/commit/42a866d4c75503843b0a7471d1f3ec6c4065b1d8)  
+> Commit: [42a866d4c75503843b0a7471d1f3ec6c4065b1d8](https://github.com/jcornwell-river/dsiprouter/commit/42a866d4c75503843b0a7471d1f3ec6c4065b1d8)  
 > Date: Mon, 1 Apr 2019 07:11:11 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7064,7 +7740,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ff11825a7e043d30879b81b6e9436ad248e068ef)
 ### Update README.md
 
-> Commit: [ff11825a7e043d30879b81b6e9436ad248e068ef](https://git.flyball.co/dsiprouter/enterprise/commit/ff11825a7e043d30879b81b6e9436ad248e068ef)  
+> Commit: [ff11825a7e043d30879b81b6e9436ad248e068ef](https://github.com/jcornwell-river/dsiprouter/commit/ff11825a7e043d30879b81b6e9436ad248e068ef)  
 > Date: Mon, 1 Apr 2019 07:10:32 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7079,7 +7755,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 36db3ecf92117d20a83581c018e83c09b89ef3a7)
 ### Update README.md
 
-> Commit: [36db3ecf92117d20a83581c018e83c09b89ef3a7](https://git.flyball.co/dsiprouter/enterprise/commit/36db3ecf92117d20a83581c018e83c09b89ef3a7)  
+> Commit: [36db3ecf92117d20a83581c018e83c09b89ef3a7](https://github.com/jcornwell-river/dsiprouter/commit/36db3ecf92117d20a83581c018e83c09b89ef3a7)  
 > Date: Mon, 1 Apr 2019 07:10:04 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7094,7 +7770,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3b15194e64db505f314e1e6f980eca588fb1aafd)
 ### Update installing.rst
 
-> Commit: [3b15194e64db505f314e1e6f980eca588fb1aafd](https://git.flyball.co/dsiprouter/enterprise/commit/3b15194e64db505f314e1e6f980eca588fb1aafd)  
+> Commit: [3b15194e64db505f314e1e6f980eca588fb1aafd](https://github.com/jcornwell-river/dsiprouter/commit/3b15194e64db505f314e1e6f980eca588fb1aafd)  
 > Date: Mon, 1 Apr 2019 06:47:40 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7109,7 +7785,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6f6d1ea3a0b3bb1089e59b710357e83abd331287)
 ### Update command_line_options.rst
 
-> Commit: [6f6d1ea3a0b3bb1089e59b710357e83abd331287](https://git.flyball.co/dsiprouter/enterprise/commit/6f6d1ea3a0b3bb1089e59b710357e83abd331287)  
+> Commit: [6f6d1ea3a0b3bb1089e59b710357e83abd331287](https://github.com/jcornwell-river/dsiprouter/commit/6f6d1ea3a0b3bb1089e59b710357e83abd331287)  
 > Date: Mon, 1 Apr 2019 06:45:55 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7124,7 +7800,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b534497026ee08ca01f7a3d15c4fde24376cdb4a)
 ### Update installing.rst
 
-> Commit: [b534497026ee08ca01f7a3d15c4fde24376cdb4a](https://git.flyball.co/dsiprouter/enterprise/commit/b534497026ee08ca01f7a3d15c4fde24376cdb4a)  
+> Commit: [b534497026ee08ca01f7a3d15c4fde24376cdb4a](https://github.com/jcornwell-river/dsiprouter/commit/b534497026ee08ca01f7a3d15c4fde24376cdb4a)  
 > Date: Mon, 1 Apr 2019 06:45:31 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7139,7 +7815,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2e8a0fd7cdea999ae4e90f9f1db1bf36aad95e00)
 ### Update command_line_options.rst
 
-> Commit: [2e8a0fd7cdea999ae4e90f9f1db1bf36aad95e00](https://git.flyball.co/dsiprouter/enterprise/commit/2e8a0fd7cdea999ae4e90f9f1db1bf36aad95e00)  
+> Commit: [2e8a0fd7cdea999ae4e90f9f1db1bf36aad95e00](https://github.com/jcornwell-river/dsiprouter/commit/2e8a0fd7cdea999ae4e90f9f1db1bf36aad95e00)  
 > Date: Mon, 1 Apr 2019 06:42:59 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7154,7 +7830,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 00fc1334ea6dcb933d56e9231a98f97b6976afa4)
 ### Update command_line_options.rst
 
-> Commit: [00fc1334ea6dcb933d56e9231a98f97b6976afa4](https://git.flyball.co/dsiprouter/enterprise/commit/00fc1334ea6dcb933d56e9231a98f97b6976afa4)  
+> Commit: [00fc1334ea6dcb933d56e9231a98f97b6976afa4](https://github.com/jcornwell-river/dsiprouter/commit/00fc1334ea6dcb933d56e9231a98f97b6976afa4)  
 > Date: Mon, 1 Apr 2019 06:40:42 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7169,7 +7845,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8d704d99cce7f00696f0aa9ca6272fb7f04c005)
 ### Update command_line_options.rst
 
-> Commit: [f8d704d99cce7f00696f0aa9ca6272fb7f04c005](https://git.flyball.co/dsiprouter/enterprise/commit/f8d704d99cce7f00696f0aa9ca6272fb7f04c005)  
+> Commit: [f8d704d99cce7f00696f0aa9ca6272fb7f04c005](https://github.com/jcornwell-river/dsiprouter/commit/f8d704d99cce7f00696f0aa9ca6272fb7f04c005)  
 > Date: Mon, 1 Apr 2019 06:38:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7184,7 +7860,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c469f0ba9886092a80dcb7b317a0fceecd9ce82d)
 ### Update command_line_options.rst
 
-> Commit: [c469f0ba9886092a80dcb7b317a0fceecd9ce82d](https://git.flyball.co/dsiprouter/enterprise/commit/c469f0ba9886092a80dcb7b317a0fceecd9ce82d)  
+> Commit: [c469f0ba9886092a80dcb7b317a0fceecd9ce82d](https://github.com/jcornwell-river/dsiprouter/commit/c469f0ba9886092a80dcb7b317a0fceecd9ce82d)  
 > Date: Mon, 1 Apr 2019 06:35:20 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7199,7 +7875,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c20533d57f9a7b501c48a7e7d91b046a4cf1454)
 ### Update command_line_options.rst
 
-> Commit: [0c20533d57f9a7b501c48a7e7d91b046a4cf1454](https://git.flyball.co/dsiprouter/enterprise/commit/0c20533d57f9a7b501c48a7e7d91b046a4cf1454)  
+> Commit: [0c20533d57f9a7b501c48a7e7d91b046a4cf1454](https://github.com/jcornwell-river/dsiprouter/commit/0c20533d57f9a7b501c48a7e7d91b046a4cf1454)  
 > Date: Mon, 1 Apr 2019 06:25:09 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7214,7 +7890,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 107f39e5db77df3f782b1a45d233e4f2b028dc2c)
 ### Update installing.rst
 
-> Commit: [107f39e5db77df3f782b1a45d233e4f2b028dc2c](https://git.flyball.co/dsiprouter/enterprise/commit/107f39e5db77df3f782b1a45d233e4f2b028dc2c)  
+> Commit: [107f39e5db77df3f782b1a45d233e4f2b028dc2c](https://github.com/jcornwell-river/dsiprouter/commit/107f39e5db77df3f782b1a45d233e4f2b028dc2c)  
 > Date: Mon, 1 Apr 2019 05:55:36 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7229,7 +7905,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3bc03c149ff90926257ff722f82ef9bdcdd16d20)
 ### Update installing.rst
 
-> Commit: [3bc03c149ff90926257ff722f82ef9bdcdd16d20](https://git.flyball.co/dsiprouter/enterprise/commit/3bc03c149ff90926257ff722f82ef9bdcdd16d20)  
+> Commit: [3bc03c149ff90926257ff722f82ef9bdcdd16d20](https://github.com/jcornwell-river/dsiprouter/commit/3bc03c149ff90926257ff722f82ef9bdcdd16d20)  
 > Date: Mon, 1 Apr 2019 05:52:35 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7244,7 +7920,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1dd9044d6dc834354326a1cb23d30e018f7921e)
 ### Update installing.rst
 
-> Commit: [a1dd9044d6dc834354326a1cb23d30e018f7921e](https://git.flyball.co/dsiprouter/enterprise/commit/a1dd9044d6dc834354326a1cb23d30e018f7921e)  
+> Commit: [a1dd9044d6dc834354326a1cb23d30e018f7921e](https://github.com/jcornwell-river/dsiprouter/commit/a1dd9044d6dc834354326a1cb23d30e018f7921e)  
 > Date: Mon, 1 Apr 2019 05:49:43 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7259,7 +7935,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1f1377d8f50f44d6635b3eec779da2aa53ee279)
 ### Update centos-install.rst
 
-> Commit: [a1f1377d8f50f44d6635b3eec779da2aa53ee279](https://git.flyball.co/dsiprouter/enterprise/commit/a1f1377d8f50f44d6635b3eec779da2aa53ee279)  
+> Commit: [a1f1377d8f50f44d6635b3eec779da2aa53ee279](https://github.com/jcornwell-river/dsiprouter/commit/a1f1377d8f50f44d6635b3eec779da2aa53ee279)  
 > Date: Mon, 1 Apr 2019 05:31:37 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7274,7 +7950,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b8916a7cb5330c098b9d207305bd75656c98bc95)
 ### Update debian_install.rst
 
-> Commit: [b8916a7cb5330c098b9d207305bd75656c98bc95](https://git.flyball.co/dsiprouter/enterprise/commit/b8916a7cb5330c098b9d207305bd75656c98bc95)  
+> Commit: [b8916a7cb5330c098b9d207305bd75656c98bc95](https://github.com/jcornwell-river/dsiprouter/commit/b8916a7cb5330c098b9d207305bd75656c98bc95)  
 > Date: Sun, 31 Mar 2019 10:55:37 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7289,7 +7965,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c190908d01f3d219cc55add4d95d5416eaa7b332)
 ### Updated Debian Install Docs
 
-> Commit: [c190908d01f3d219cc55add4d95d5416eaa7b332](https://git.flyball.co/dsiprouter/enterprise/commit/c190908d01f3d219cc55add4d95d5416eaa7b332)  
+> Commit: [c190908d01f3d219cc55add4d95d5416eaa7b332](https://github.com/jcornwell-river/dsiprouter/commit/c190908d01f3d219cc55add4d95d5416eaa7b332)  
 > Date: Sun, 31 Mar 2019 10:54:02 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@dSIPRouterMackMaster-0.localdomain)  
@@ -7305,7 +7981,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c394864619651a0fd186f0d12d520a25a669e3bb)
 ### Update installing.rst
 
-> Commit: [c394864619651a0fd186f0d12d520a25a669e3bb](https://git.flyball.co/dsiprouter/enterprise/commit/c394864619651a0fd186f0d12d520a25a669e3bb)  
+> Commit: [c394864619651a0fd186f0d12d520a25a669e3bb](https://github.com/jcornwell-river/dsiprouter/commit/c394864619651a0fd186f0d12d520a25a669e3bb)  
 > Date: Mon, 1 Apr 2019 06:47:40 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7320,7 +7996,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a35858ff9118b1e851b49132eea9581d532537da)
 ### Update command_line_options.rst
 
-> Commit: [a35858ff9118b1e851b49132eea9581d532537da](https://git.flyball.co/dsiprouter/enterprise/commit/a35858ff9118b1e851b49132eea9581d532537da)  
+> Commit: [a35858ff9118b1e851b49132eea9581d532537da](https://github.com/jcornwell-river/dsiprouter/commit/a35858ff9118b1e851b49132eea9581d532537da)  
 > Date: Mon, 1 Apr 2019 06:45:55 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7335,7 +8011,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8ebf5fba21f99bf904f38569e3bda3306ae8fa9e)
 ### Update installing.rst
 
-> Commit: [8ebf5fba21f99bf904f38569e3bda3306ae8fa9e](https://git.flyball.co/dsiprouter/enterprise/commit/8ebf5fba21f99bf904f38569e3bda3306ae8fa9e)  
+> Commit: [8ebf5fba21f99bf904f38569e3bda3306ae8fa9e](https://github.com/jcornwell-river/dsiprouter/commit/8ebf5fba21f99bf904f38569e3bda3306ae8fa9e)  
 > Date: Mon, 1 Apr 2019 06:45:31 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7350,7 +8026,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 75d76e36326e649ff354d6848dd07b34f8456dd9)
 ### Update command_line_options.rst
 
-> Commit: [75d76e36326e649ff354d6848dd07b34f8456dd9](https://git.flyball.co/dsiprouter/enterprise/commit/75d76e36326e649ff354d6848dd07b34f8456dd9)  
+> Commit: [75d76e36326e649ff354d6848dd07b34f8456dd9](https://github.com/jcornwell-river/dsiprouter/commit/75d76e36326e649ff354d6848dd07b34f8456dd9)  
 > Date: Mon, 1 Apr 2019 06:42:59 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7365,7 +8041,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa1964b57de7a486694a979d393625c4224ae34c)
 ### Update command_line_options.rst
 
-> Commit: [fa1964b57de7a486694a979d393625c4224ae34c](https://git.flyball.co/dsiprouter/enterprise/commit/fa1964b57de7a486694a979d393625c4224ae34c)  
+> Commit: [fa1964b57de7a486694a979d393625c4224ae34c](https://github.com/jcornwell-river/dsiprouter/commit/fa1964b57de7a486694a979d393625c4224ae34c)  
 > Date: Mon, 1 Apr 2019 06:40:42 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7380,7 +8056,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f79dc044b38d7cb50bedc6c8ab5860d0c6c361eb)
 ### Update command_line_options.rst
 
-> Commit: [f79dc044b38d7cb50bedc6c8ab5860d0c6c361eb](https://git.flyball.co/dsiprouter/enterprise/commit/f79dc044b38d7cb50bedc6c8ab5860d0c6c361eb)  
+> Commit: [f79dc044b38d7cb50bedc6c8ab5860d0c6c361eb](https://github.com/jcornwell-river/dsiprouter/commit/f79dc044b38d7cb50bedc6c8ab5860d0c6c361eb)  
 > Date: Mon, 1 Apr 2019 06:38:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7395,7 +8071,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6204fdb79d99d8a6ec90185d14fffb2ec624693b)
 ### Update command_line_options.rst
 
-> Commit: [6204fdb79d99d8a6ec90185d14fffb2ec624693b](https://git.flyball.co/dsiprouter/enterprise/commit/6204fdb79d99d8a6ec90185d14fffb2ec624693b)  
+> Commit: [6204fdb79d99d8a6ec90185d14fffb2ec624693b](https://github.com/jcornwell-river/dsiprouter/commit/6204fdb79d99d8a6ec90185d14fffb2ec624693b)  
 > Date: Mon, 1 Apr 2019 06:35:20 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7410,7 +8086,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c6640ff2ecf78225565be2778b9447bad0415571)
 ### Update command_line_options.rst
 
-> Commit: [c6640ff2ecf78225565be2778b9447bad0415571](https://git.flyball.co/dsiprouter/enterprise/commit/c6640ff2ecf78225565be2778b9447bad0415571)  
+> Commit: [c6640ff2ecf78225565be2778b9447bad0415571](https://github.com/jcornwell-river/dsiprouter/commit/c6640ff2ecf78225565be2778b9447bad0415571)  
 > Date: Mon, 1 Apr 2019 06:25:09 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7425,7 +8101,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c855821012ed71159c14759768f173a0fa754495)
 ### Update installing.rst
 
-> Commit: [c855821012ed71159c14759768f173a0fa754495](https://git.flyball.co/dsiprouter/enterprise/commit/c855821012ed71159c14759768f173a0fa754495)  
+> Commit: [c855821012ed71159c14759768f173a0fa754495](https://github.com/jcornwell-river/dsiprouter/commit/c855821012ed71159c14759768f173a0fa754495)  
 > Date: Mon, 1 Apr 2019 05:55:36 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7440,7 +8116,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9da93ccdb5043c45a03ea9efab26d69dda6df426)
 ### Update installing.rst
 
-> Commit: [9da93ccdb5043c45a03ea9efab26d69dda6df426](https://git.flyball.co/dsiprouter/enterprise/commit/9da93ccdb5043c45a03ea9efab26d69dda6df426)  
+> Commit: [9da93ccdb5043c45a03ea9efab26d69dda6df426](https://github.com/jcornwell-river/dsiprouter/commit/9da93ccdb5043c45a03ea9efab26d69dda6df426)  
 > Date: Mon, 1 Apr 2019 05:52:35 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7455,7 +8131,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e3cf3de293dbf4361f384539ef9248b495464953)
 ### Update installing.rst
 
-> Commit: [e3cf3de293dbf4361f384539ef9248b495464953](https://git.flyball.co/dsiprouter/enterprise/commit/e3cf3de293dbf4361f384539ef9248b495464953)  
+> Commit: [e3cf3de293dbf4361f384539ef9248b495464953](https://github.com/jcornwell-river/dsiprouter/commit/e3cf3de293dbf4361f384539ef9248b495464953)  
 > Date: Mon, 1 Apr 2019 05:49:43 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7470,7 +8146,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5929359151b00d7eda040110ab236d2a529137b8)
 ### Update centos-install.rst
 
-> Commit: [5929359151b00d7eda040110ab236d2a529137b8](https://git.flyball.co/dsiprouter/enterprise/commit/5929359151b00d7eda040110ab236d2a529137b8)  
+> Commit: [5929359151b00d7eda040110ab236d2a529137b8](https://github.com/jcornwell-river/dsiprouter/commit/5929359151b00d7eda040110ab236d2a529137b8)  
 > Date: Mon, 1 Apr 2019 05:31:37 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7485,7 +8161,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8667c490c5f269cc10e1574e24ba940c7016630e)
 ### Update debian_install.rst
 
-> Commit: [8667c490c5f269cc10e1574e24ba940c7016630e](https://git.flyball.co/dsiprouter/enterprise/commit/8667c490c5f269cc10e1574e24ba940c7016630e)  
+> Commit: [8667c490c5f269cc10e1574e24ba940c7016630e](https://github.com/jcornwell-river/dsiprouter/commit/8667c490c5f269cc10e1574e24ba940c7016630e)  
 > Date: Sun, 31 Mar 2019 10:55:37 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7500,7 +8176,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed9162b21b4851a8443c2fc9e4f86f24da57f536)
 ### Updated Debian Install Docs
 
-> Commit: [ed9162b21b4851a8443c2fc9e4f86f24da57f536](https://git.flyball.co/dsiprouter/enterprise/commit/ed9162b21b4851a8443c2fc9e4f86f24da57f536)  
+> Commit: [ed9162b21b4851a8443c2fc9e4f86f24da57f536](https://github.com/jcornwell-river/dsiprouter/commit/ed9162b21b4851a8443c2fc9e4f86f24da57f536)  
 > Date: Sun, 31 Mar 2019 10:54:02 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7516,7 +8192,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 309020346d1d02532ba6479eb38c5b46fcbe1422)
 ### Initial commit of an active Dashboard
 
-> Commit: [309020346d1d02532ba6479eb38c5b46fcbe1422](https://git.flyball.co/dsiprouter/enterprise/commit/309020346d1d02532ba6479eb38c5b46fcbe1422)  
+> Commit: [309020346d1d02532ba6479eb38c5b46fcbe1422](https://github.com/jcornwell-river/dsiprouter/commit/309020346d1d02532ba6479eb38c5b46fcbe1422)  
 > Date: Sat, 30 Mar 2019 23:48:14 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7531,7 +8207,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 13996bebd47fe648fb374aae3517c6e8ae828478)
 ### Final AMI Updates for Release v0.52
 
-> Commit: [13996bebd47fe648fb374aae3517c6e8ae828478](https://git.flyball.co/dsiprouter/enterprise/commit/13996bebd47fe648fb374aae3517c6e8ae828478)  
+> Commit: [13996bebd47fe648fb374aae3517c6e8ae828478](https://github.com/jcornwell-river/dsiprouter/commit/13996bebd47fe648fb374aae3517c6e8ae828478)  
 > Date: Wed, 27 Mar 2019 21:29:11 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7559,7 +8235,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a711d7e9597a015d2fed25a7a0bd10df04bdc9ab)
 ### Update dsiprouter.sh
 
-> Commit: [a711d7e9597a015d2fed25a7a0bd10df04bdc9ab](https://git.flyball.co/dsiprouter/enterprise/commit/a711d7e9597a015d2fed25a7a0bd10df04bdc9ab)  
+> Commit: [a711d7e9597a015d2fed25a7a0bd10df04bdc9ab](https://github.com/jcornwell-river/dsiprouter/commit/a711d7e9597a015d2fed25a7a0bd10df04bdc9ab)  
 > Date: Wed, 27 Mar 2019 03:27:16 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7575,7 +8251,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20cbff25f55c0a305e3ef1528d785c581988e7d5)
 ### Update Version Number for Release v0.52
 
-> Commit: [20cbff25f55c0a305e3ef1528d785c581988e7d5](https://git.flyball.co/dsiprouter/enterprise/commit/20cbff25f55c0a305e3ef1528d785c581988e7d5)  
+> Commit: [20cbff25f55c0a305e3ef1528d785c581988e7d5](https://github.com/jcornwell-river/dsiprouter/commit/20cbff25f55c0a305e3ef1528d785c581988e7d5)  
 > Date: Tue, 26 Mar 2019 09:59:59 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7590,7 +8266,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 886179285c09f239edbd573b620257fcad3f3c01)
 ###   - Fixes #103   - deprecate Debian v7   - deprecate Debian v8   - change CentOS RTPEngine install to RPM build   - fix startup issues with dsip-init service on AWS   - added dpkg defaults during script execution
 
-> Commit: [886179285c09f239edbd573b620257fcad3f3c01](https://git.flyball.co/dsiprouter/enterprise/commit/886179285c09f239edbd573b620257fcad3f3c01)  
+> Commit: [886179285c09f239edbd573b620257fcad3f3c01](https://github.com/jcornwell-river/dsiprouter/commit/886179285c09f239edbd573b620257fcad3f3c01)  
 > Date: Tue, 26 Mar 2019 08:12:01 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7605,7 +8281,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8ea6bb8ccc48d688e73d0ef614f33ee28d0c8a77)
 ### Merge feature-ami Branch Into dev Branch
 
-> Commit: [8ea6bb8ccc48d688e73d0ef614f33ee28d0c8a77](https://git.flyball.co/dsiprouter/enterprise/commit/8ea6bb8ccc48d688e73d0ef614f33ee28d0c8a77)  
+> Commit: [8ea6bb8ccc48d688e73d0ef614f33ee28d0c8a77](https://github.com/jcornwell-river/dsiprouter/commit/8ea6bb8ccc48d688e73d0ef614f33ee28d0c8a77)  
 > Date: Mon, 25 Mar 2019 15:41:44 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7622,7 +8298,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b168f8ede2ed17483fa46c52baec81acdcbdbca5)
 ### Fixup Firewalld Commands
 
-> Commit: [b168f8ede2ed17483fa46c52baec81acdcbdbca5](https://git.flyball.co/dsiprouter/enterprise/commit/b168f8ede2ed17483fa46c52baec81acdcbdbca5)  
+> Commit: [b168f8ede2ed17483fa46c52baec81acdcbdbca5](https://github.com/jcornwell-river/dsiprouter/commit/b168f8ede2ed17483fa46c52baec81acdcbdbca5)  
 > Date: Mon, 25 Mar 2019 15:01:28 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7639,7 +8315,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63647ef1e00134c14307c65d29b2539d482607a3)
 ###   - fix mariadb centos startup regression   - fix module sql install username conflict   - set default for ssl variables to avoid errors   - move displaying login info back to after logo   - update a few sed cmds to be more reliable
 
-> Commit: [63647ef1e00134c14307c65d29b2539d482607a3](https://git.flyball.co/dsiprouter/enterprise/commit/63647ef1e00134c14307c65d29b2539d482607a3)  
+> Commit: [63647ef1e00134c14307c65d29b2539d482607a3](https://github.com/jcornwell-river/dsiprouter/commit/63647ef1e00134c14307c65d29b2539d482607a3)  
 > Date: Mon, 25 Mar 2019 14:49:38 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7654,7 +8330,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f653ce88a5fe3c38de000f0287eb44023067ab6c)
 ### AMI Feature Fixes
 
-> Commit: [f653ce88a5fe3c38de000f0287eb44023067ab6c](https://git.flyball.co/dsiprouter/enterprise/commit/f653ce88a5fe3c38de000f0287eb44023067ab6c)  
+> Commit: [f653ce88a5fe3c38de000f0287eb44023067ab6c](https://github.com/jcornwell-river/dsiprouter/commit/f653ce88a5fe3c38de000f0287eb44023067ab6c)  
 > Date: Mon, 25 Mar 2019 10:53:34 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7680,7 +8356,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd6fb18aa0d9c911a71e02a430555f4fb27a9bfd)
 ### Added a unit test to validate that JSON over HTTP access to Kamailio RPC Commands is working correctly
 
-> Commit: [cd6fb18aa0d9c911a71e02a430555f4fb27a9bfd](https://git.flyball.co/dsiprouter/enterprise/commit/cd6fb18aa0d9c911a71e02a430555f4fb27a9bfd)  
+> Commit: [cd6fb18aa0d9c911a71e02a430555f4fb27a9bfd](https://github.com/jcornwell-river/dsiprouter/commit/cd6fb18aa0d9c911a71e02a430555f4fb27a9bfd)  
 > Date: Sat, 23 Mar 2019 12:01:01 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7695,7 +8371,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 756b12c6da7d180b2b09d9be3f8873bc93774366)
 ### Added supported jsonrpc over http on tcp port 5060
 
-> Commit: [756b12c6da7d180b2b09d9be3f8873bc93774366](https://git.flyball.co/dsiprouter/enterprise/commit/756b12c6da7d180b2b09d9be3f8873bc93774366)  
+> Commit: [756b12c6da7d180b2b09d9be3f8873bc93774366](https://github.com/jcornwell-river/dsiprouter/commit/756b12c6da7d180b2b09d9be3f8873bc93774366)  
 > Date: Sat, 23 Mar 2019 03:48:17 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7710,7 +8386,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c534efabbce6c81be33b28a2fce4bab307fee70)
 ### Moved the creation of the LCR schema to the main install script and deprecated the LCR module
 
-> Commit: [1c534efabbce6c81be33b28a2fce4bab307fee70](https://git.flyball.co/dsiprouter/enterprise/commit/1c534efabbce6c81be33b28a2fce4bab307fee70)  
+> Commit: [1c534efabbce6c81be33b28a2fce4bab307fee70](https://github.com/jcornwell-river/dsiprouter/commit/1c534efabbce6c81be33b28a2fce4bab307fee70)  
 > Date: Sat, 23 Mar 2019 00:10:40 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7725,7 +8401,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fb3226afbb6a91e96b04670d362cc18192fa70d4)
 ### Fixed a regression with the gateway list import
 
-> Commit: [fb3226afbb6a91e96b04670d362cc18192fa70d4](https://git.flyball.co/dsiprouter/enterprise/commit/fb3226afbb6a91e96b04670d362cc18192fa70d4)  
+> Commit: [fb3226afbb6a91e96b04670d362cc18192fa70d4](https://github.com/jcornwell-river/dsiprouter/commit/fb3226afbb6a91e96b04670d362cc18192fa70d4)  
 > Date: Fri, 22 Mar 2019 23:36:42 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7740,7 +8416,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 93a1ed46a904cf3f15fb12cc75fe4cf8c3d8ecf9)
 ### Fixed a regression with dr_gw_lists not being copied over to the /tmp/defaults directory
 
-> Commit: [93a1ed46a904cf3f15fb12cc75fe4cf8c3d8ecf9](https://git.flyball.co/dsiprouter/enterprise/commit/93a1ed46a904cf3f15fb12cc75fe4cf8c3d8ecf9)  
+> Commit: [93a1ed46a904cf3f15fb12cc75fe4cf8c3d8ecf9](https://github.com/jcornwell-river/dsiprouter/commit/93a1ed46a904cf3f15fb12cc75fe4cf8c3d8ecf9)  
 > Date: Fri, 22 Mar 2019 22:47:42 +0000  
 > Author: root (root@dSIPRouterMackDev-0.localdomain)  
 > Committer: root (root@dSIPRouterMackDev-0.localdomain)  
@@ -7755,7 +8431,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 259f64c4abff05757940c5cef61e152f7296d451)
 ### dSIPRouter Installation Overhaul
 
-> Commit: [259f64c4abff05757940c5cef61e152f7296d451](https://git.flyball.co/dsiprouter/enterprise/commit/259f64c4abff05757940c5cef61e152f7296d451)  
+> Commit: [259f64c4abff05757940c5cef61e152f7296d451](https://github.com/jcornwell-river/dsiprouter/commit/259f64c4abff05757940c5cef61e152f7296d451)  
 > Date: Thu, 21 Mar 2019 12:31:35 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7801,7 +8477,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3df4ce4e01a93797428ecaa5ffd14e8ccfe6d4f)
 ### Allow Domain Editing
 
-> Commit: [a3df4ce4e01a93797428ecaa5ffd14e8ccfe6d4f](https://git.flyball.co/dsiprouter/enterprise/commit/a3df4ce4e01a93797428ecaa5ffd14e8ccfe6d4f)  
+> Commit: [a3df4ce4e01a93797428ecaa5ffd14e8ccfe6d4f](https://github.com/jcornwell-river/dsiprouter/commit/a3df4ce4e01a93797428ecaa5ffd14e8ccfe6d4f)  
 > Date: Mon, 18 Mar 2019 18:21:32 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7820,7 +8496,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a87041465ba90930947920b9075673ec7884e0cf)
 ### Update kamailio51_dsiprouter.tpl
 
-> Commit: [a87041465ba90930947920b9075673ec7884e0cf](https://git.flyball.co/dsiprouter/enterprise/commit/a87041465ba90930947920b9075673ec7884e0cf)  
+> Commit: [a87041465ba90930947920b9075673ec7884e0cf](https://github.com/jcornwell-river/dsiprouter/commit/a87041465ba90930947920b9075673ec7884e0cf)  
 > Date: Mon, 18 Mar 2019 11:57:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -7835,7 +8511,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a2af37311be5ad693a7d76f859f157095eaa6e4b)
 ### Fix for Google Cloud Mysql
 
-> Commit: [a2af37311be5ad693a7d76f859f157095eaa6e4b](https://git.flyball.co/dsiprouter/enterprise/commit/a2af37311be5ad693a7d76f859f157095eaa6e4b)  
+> Commit: [a2af37311be5ad693a7d76f859f157095eaa6e4b](https://github.com/jcornwell-river/dsiprouter/commit/a2af37311be5ad693a7d76f859f157095eaa6e4b)  
 > Date: Fri, 15 Mar 2019 16:15:22 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7853,7 +8529,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb706a5a3ac8bf004d015a9de54ada8f7063a3fb)
 ### Fix Regressions
 
-> Commit: [eb706a5a3ac8bf004d015a9de54ada8f7063a3fb](https://git.flyball.co/dsiprouter/enterprise/commit/eb706a5a3ac8bf004d015a9de54ada8f7063a3fb)  
+> Commit: [eb706a5a3ac8bf004d015a9de54ada8f7063a3fb](https://github.com/jcornwell-river/dsiprouter/commit/eb706a5a3ac8bf004d015a9de54ada8f7063a3fb)  
 > Date: Thu, 14 Mar 2019 21:55:41 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7871,7 +8547,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f42eb0e6477757d050c07be2adec952672eaa083)
 ### Fix DID Notes DB Update
 
-> Commit: [f42eb0e6477757d050c07be2adec952672eaa083](https://git.flyball.co/dsiprouter/enterprise/commit/f42eb0e6477757d050c07be2adec952672eaa083)  
+> Commit: [f42eb0e6477757d050c07be2adec952672eaa083](https://github.com/jcornwell-river/dsiprouter/commit/f42eb0e6477757d050c07be2adec952672eaa083)  
 > Date: Thu, 14 Mar 2019 21:27:03 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7888,7 +8564,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f22b141b1ad277f14c0e3dcad9506275a024d985)
 ### General Updates Cleanup Repo
 
-> Commit: [f22b141b1ad277f14c0e3dcad9506275a024d985](https://git.flyball.co/dsiprouter/enterprise/commit/f22b141b1ad277f14c0e3dcad9506275a024d985)  
+> Commit: [f22b141b1ad277f14c0e3dcad9506275a024d985](https://github.com/jcornwell-river/dsiprouter/commit/f22b141b1ad277f14c0e3dcad9506275a024d985)  
 > Date: Thu, 14 Mar 2019 10:42:40 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7911,7 +8587,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 58cd4786f055db39c15980bf0574f3415e49bd4f)
 ### Tighten Install for Release
 
-> Commit: [58cd4786f055db39c15980bf0574f3415e49bd4f](https://git.flyball.co/dsiprouter/enterprise/commit/58cd4786f055db39c15980bf0574f3415e49bd4f)  
+> Commit: [58cd4786f055db39c15980bf0574f3415e49bd4f](https://github.com/jcornwell-river/dsiprouter/commit/58cd4786f055db39c15980bf0574f3415e49bd4f)  
 > Date: Wed, 13 Mar 2019 10:24:40 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7930,7 +8606,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 880278affeb5729cb5f860903337bca3e53eb5f7)
 ### Added support for emergency numbers 911-999 Fixes: #121
 
-> Commit: [880278affeb5729cb5f860903337bca3e53eb5f7](https://git.flyball.co/dsiprouter/enterprise/commit/880278affeb5729cb5f860903337bca3e53eb5f7)  
+> Commit: [880278affeb5729cb5f860903337bca3e53eb5f7](https://github.com/jcornwell-river/dsiprouter/commit/880278affeb5729cb5f860903337bca3e53eb5f7)  
 > Date: Sun, 10 Mar 2019 23:06:11 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -7945,7 +8621,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17b35aea596261032c6183327689184e52515363)
 ### LCR Dynamic Prefix Routing
 
-> Commit: [17b35aea596261032c6183327689184e52515363](https://git.flyball.co/dsiprouter/enterprise/commit/17b35aea596261032c6183327689184e52515363)  
+> Commit: [17b35aea596261032c6183327689184e52515363](https://github.com/jcornwell-river/dsiprouter/commit/17b35aea596261032c6183327689184e52515363)  
 > Date: Fri, 8 Mar 2019 18:07:06 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7968,7 +8644,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb82e5ab73697559cdaa5359ce2eb664d2fabe14)
 ### Add 2 new HA Features
 
-> Commit: [eb82e5ab73697559cdaa5359ce2eb664d2fabe14](https://git.flyball.co/dsiprouter/enterprise/commit/eb82e5ab73697559cdaa5359ce2eb664d2fabe14)  
+> Commit: [eb82e5ab73697559cdaa5359ce2eb664d2fabe14](https://github.com/jcornwell-river/dsiprouter/commit/eb82e5ab73697559cdaa5359ce2eb664d2fabe14)  
 > Date: Fri, 8 Mar 2019 10:14:31 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -7985,7 +8661,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e55ab3e4eb8ea9a798c761bdf31e3428759cce2e)
 ### Make Project root more reliable
 
-> Commit: [e55ab3e4eb8ea9a798c761bdf31e3428759cce2e](https://git.flyball.co/dsiprouter/enterprise/commit/e55ab3e4eb8ea9a798c761bdf31e3428759cce2e)  
+> Commit: [e55ab3e4eb8ea9a798c761bdf31e3428759cce2e](https://github.com/jcornwell-river/dsiprouter/commit/e55ab3e4eb8ea9a798c761bdf31e3428759cce2e)  
 > Date: Wed, 6 Mar 2019 16:05:08 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8001,7 +8677,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d887aa56a5c40c44f67735af585696fdc624a6f5)
 ### Update Internal IP Resolution
 
-> Commit: [d887aa56a5c40c44f67735af585696fdc624a6f5](https://git.flyball.co/dsiprouter/enterprise/commit/d887aa56a5c40c44f67735af585696fdc624a6f5)  
+> Commit: [d887aa56a5c40c44f67735af585696fdc624a6f5](https://github.com/jcornwell-river/dsiprouter/commit/d887aa56a5c40c44f67735af585696fdc624a6f5)  
 > Date: Tue, 5 Mar 2019 23:19:55 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8019,7 +8695,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d87203edbf363e7e64eb4af1adfc1403d7e93bd9)
 ### Fix kamailio configure Bugs
 
-> Commit: [d87203edbf363e7e64eb4af1adfc1403d7e93bd9](https://git.flyball.co/dsiprouter/enterprise/commit/d87203edbf363e7e64eb4af1adfc1403d7e93bd9)  
+> Commit: [d87203edbf363e7e64eb4af1adfc1403d7e93bd9](https://github.com/jcornwell-river/dsiprouter/commit/d87203edbf363e7e64eb4af1adfc1403d7e93bd9)  
 > Date: Tue, 5 Mar 2019 19:25:15 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8036,7 +8712,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f90689cc8579169b4705ba603dad1cda5b427ced)
 ### Bug Fixes
 
-> Commit: [f90689cc8579169b4705ba603dad1cda5b427ced](https://git.flyball.co/dsiprouter/enterprise/commit/f90689cc8579169b4705ba603dad1cda5b427ced)  
+> Commit: [f90689cc8579169b4705ba603dad1cda5b427ced](https://github.com/jcornwell-river/dsiprouter/commit/f90689cc8579169b4705ba603dad1cda5b427ced)  
 > Date: Tue, 5 Mar 2019 16:02:37 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8056,7 +8732,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2014b89f5c3911f4b37bdde167e713217fe9ebd9)
 ### Add Mysql Replication Scripts
 
-> Commit: [2014b89f5c3911f4b37bdde167e713217fe9ebd9](https://git.flyball.co/dsiprouter/enterprise/commit/2014b89f5c3911f4b37bdde167e713217fe9ebd9)  
+> Commit: [2014b89f5c3911f4b37bdde167e713217fe9ebd9](https://github.com/jcornwell-river/dsiprouter/commit/2014b89f5c3911f4b37bdde167e713217fe9ebd9)  
 > Date: Tue, 26 Feb 2019 11:58:06 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8074,7 +8750,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION de65083142747932c726e75b451791b50eae56c8)
 ### Update kamailio51_dsiprouter.tpl
 
-> Commit: [de65083142747932c726e75b451791b50eae56c8](https://git.flyball.co/dsiprouter/enterprise/commit/de65083142747932c726e75b451791b50eae56c8)  
+> Commit: [de65083142747932c726e75b451791b50eae56c8](https://github.com/jcornwell-river/dsiprouter/commit/de65083142747932c726e75b451791b50eae56c8)  
 > Date: Thu, 21 Feb 2019 16:43:09 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8090,7 +8766,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b22bf3ddef855c9ccd95430cbfaae3099d44540a)
 ### Add Useful Scripts To Resources
 
-> Commit: [b22bf3ddef855c9ccd95430cbfaae3099d44540a](https://git.flyball.co/dsiprouter/enterprise/commit/b22bf3ddef855c9ccd95430cbfaae3099d44540a)  
+> Commit: [b22bf3ddef855c9ccd95430cbfaae3099d44540a](https://github.com/jcornwell-river/dsiprouter/commit/b22bf3ddef855c9ccd95430cbfaae3099d44540a)  
 > Date: Wed, 20 Feb 2019 15:12:14 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8107,7 +8783,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1648791889665b29540d093f2cc38f4ef6a87ff9)
 ### Update RTPengine On Reload and Install Fixes
 
-> Commit: [1648791889665b29540d093f2cc38f4ef6a87ff9](https://git.flyball.co/dsiprouter/enterprise/commit/1648791889665b29540d093f2cc38f4ef6a87ff9)  
+> Commit: [1648791889665b29540d093f2cc38f4ef6a87ff9](https://github.com/jcornwell-river/dsiprouter/commit/1648791889665b29540d093f2cc38f4ef6a87ff9)  
 > Date: Tue, 19 Feb 2019 10:50:46 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8127,7 +8803,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fc0dc02dde3ff3dcdd62d95edcdfeb44e2348f4a)
 ### Initial commit
 
-> Commit: [fc0dc02dde3ff3dcdd62d95edcdfeb44e2348f4a](https://git.flyball.co/dsiprouter/enterprise/commit/fc0dc02dde3ff3dcdd62d95edcdfeb44e2348f4a)  
+> Commit: [fc0dc02dde3ff3dcdd62d95edcdfeb44e2348f4a](https://github.com/jcornwell-river/dsiprouter/commit/fc0dc02dde3ff3dcdd62d95edcdfeb44e2348f4a)  
 > Date: Fri, 15 Feb 2019 16:31:20 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -8142,7 +8818,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ee97002db899a95857307e328775d2db7064e399)
 ### Update use-cases.rst
 
-> Commit: [ee97002db899a95857307e328775d2db7064e399](https://git.flyball.co/dsiprouter/enterprise/commit/ee97002db899a95857307e328775d2db7064e399)  
+> Commit: [ee97002db899a95857307e328775d2db7064e399](https://github.com/jcornwell-river/dsiprouter/commit/ee97002db899a95857307e328775d2db7064e399)  
 > Date: Thu, 14 Feb 2019 09:55:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8157,7 +8833,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 414109b4d53ef973361d5ceaefade981d1b43eed)
 ### Update use-cases.rst
 
-> Commit: [414109b4d53ef973361d5ceaefade981d1b43eed](https://git.flyball.co/dsiprouter/enterprise/commit/414109b4d53ef973361d5ceaefade981d1b43eed)  
+> Commit: [414109b4d53ef973361d5ceaefade981d1b43eed](https://github.com/jcornwell-river/dsiprouter/commit/414109b4d53ef973361d5ceaefade981d1b43eed)  
 > Date: Wed, 13 Feb 2019 17:48:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8172,7 +8848,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 763485c1819485fd5455cd53814a7a5293870a2f)
 ### Add files via upload
 
-> Commit: [763485c1819485fd5455cd53814a7a5293870a2f](https://git.flyball.co/dsiprouter/enterprise/commit/763485c1819485fd5455cd53814a7a5293870a2f)  
+> Commit: [763485c1819485fd5455cd53814a7a5293870a2f](https://github.com/jcornwell-river/dsiprouter/commit/763485c1819485fd5455cd53814a7a5293870a2f)  
 > Date: Wed, 13 Feb 2019 17:42:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8187,7 +8863,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b0380ce7373a8053058e1dcc3bc436e241bc3717)
 ### Update use-cases.rst
 
-> Commit: [b0380ce7373a8053058e1dcc3bc436e241bc3717](https://git.flyball.co/dsiprouter/enterprise/commit/b0380ce7373a8053058e1dcc3bc436e241bc3717)  
+> Commit: [b0380ce7373a8053058e1dcc3bc436e241bc3717](https://github.com/jcornwell-river/dsiprouter/commit/b0380ce7373a8053058e1dcc3bc436e241bc3717)  
 > Date: Wed, 13 Feb 2019 17:37:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8202,7 +8878,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6bcb68bb0c651266c30f0e9962f2eec80c771b5c)
 ### Update use-cases.rst
 
-> Commit: [6bcb68bb0c651266c30f0e9962f2eec80c771b5c](https://git.flyball.co/dsiprouter/enterprise/commit/6bcb68bb0c651266c30f0e9962f2eec80c771b5c)  
+> Commit: [6bcb68bb0c651266c30f0e9962f2eec80c771b5c](https://github.com/jcornwell-river/dsiprouter/commit/6bcb68bb0c651266c30f0e9962f2eec80c771b5c)  
 > Date: Wed, 13 Feb 2019 15:25:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8217,7 +8893,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b40709212a5dc2820ae9b737a584f291bdd29669)
 ### Update use-cases.rst
 
-> Commit: [b40709212a5dc2820ae9b737a584f291bdd29669](https://git.flyball.co/dsiprouter/enterprise/commit/b40709212a5dc2820ae9b737a584f291bdd29669)  
+> Commit: [b40709212a5dc2820ae9b737a584f291bdd29669](https://github.com/jcornwell-river/dsiprouter/commit/b40709212a5dc2820ae9b737a584f291bdd29669)  
 > Date: Wed, 13 Feb 2019 15:23:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8232,7 +8908,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2dc2a5bd7646b376e9cad23f4f5db917d4068adc)
 ### Update ngcp-rtpengine-daemon.init
 
-> Commit: [2dc2a5bd7646b376e9cad23f4f5db917d4068adc](https://git.flyball.co/dsiprouter/enterprise/commit/2dc2a5bd7646b376e9cad23f4f5db917d4068adc)  
+> Commit: [2dc2a5bd7646b376e9cad23f4f5db917d4068adc](https://github.com/jcornwell-river/dsiprouter/commit/2dc2a5bd7646b376e9cad23f4f5db917d4068adc)  
 > Date: Wed, 13 Feb 2019 13:41:59 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8248,7 +8924,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 08e71702a2601e75310cebcb95faa5194ba549d3)
 ### Fix Bugs in GUI
 
-> Commit: [08e71702a2601e75310cebcb95faa5194ba549d3](https://git.flyball.co/dsiprouter/enterprise/commit/08e71702a2601e75310cebcb95faa5194ba549d3)  
+> Commit: [08e71702a2601e75310cebcb95faa5194ba549d3](https://github.com/jcornwell-river/dsiprouter/commit/08e71702a2601e75310cebcb95faa5194ba549d3)  
 > Date: Mon, 11 Feb 2019 17:28:28 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8266,7 +8942,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 171513f9e25c57b52492b481999681db7e0997ba)
 ### Update use-cases.rst
 
-> Commit: [171513f9e25c57b52492b481999681db7e0997ba](https://git.flyball.co/dsiprouter/enterprise/commit/171513f9e25c57b52492b481999681db7e0997ba)  
+> Commit: [171513f9e25c57b52492b481999681db7e0997ba](https://github.com/jcornwell-river/dsiprouter/commit/171513f9e25c57b52492b481999681db7e0997ba)  
 > Date: Fri, 8 Feb 2019 23:17:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8281,7 +8957,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a14098100a655d494e48b4e847bb70f4d13d6476)
 ### Update use-cases.rst
 
-> Commit: [a14098100a655d494e48b4e847bb70f4d13d6476](https://git.flyball.co/dsiprouter/enterprise/commit/a14098100a655d494e48b4e847bb70f4d13d6476)  
+> Commit: [a14098100a655d494e48b4e847bb70f4d13d6476](https://github.com/jcornwell-river/dsiprouter/commit/a14098100a655d494e48b4e847bb70f4d13d6476)  
 > Date: Fri, 8 Feb 2019 23:09:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8296,7 +8972,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION efd9e88fcf3e19f1ef43ff5879d9c742572b1a47)
 ### Add files via upload
 
-> Commit: [efd9e88fcf3e19f1ef43ff5879d9c742572b1a47](https://git.flyball.co/dsiprouter/enterprise/commit/efd9e88fcf3e19f1ef43ff5879d9c742572b1a47)  
+> Commit: [efd9e88fcf3e19f1ef43ff5879d9c742572b1a47](https://github.com/jcornwell-river/dsiprouter/commit/efd9e88fcf3e19f1ef43ff5879d9c742572b1a47)  
 > Date: Fri, 8 Feb 2019 23:03:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8311,7 +8987,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b60953ebe93c0577e2ee2ea292301ecf0a090aee)
 ### Update use-cases.rst
 
-> Commit: [b60953ebe93c0577e2ee2ea292301ecf0a090aee](https://git.flyball.co/dsiprouter/enterprise/commit/b60953ebe93c0577e2ee2ea292301ecf0a090aee)  
+> Commit: [b60953ebe93c0577e2ee2ea292301ecf0a090aee](https://github.com/jcornwell-river/dsiprouter/commit/b60953ebe93c0577e2ee2ea292301ecf0a090aee)  
 > Date: Fri, 8 Feb 2019 23:01:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8326,7 +9002,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c3faeda237dc394ece62a71cf701930ff5ff6e9f)
 ### Update use-cases.rst
 
-> Commit: [c3faeda237dc394ece62a71cf701930ff5ff6e9f](https://git.flyball.co/dsiprouter/enterprise/commit/c3faeda237dc394ece62a71cf701930ff5ff6e9f)  
+> Commit: [c3faeda237dc394ece62a71cf701930ff5ff6e9f](https://github.com/jcornwell-river/dsiprouter/commit/c3faeda237dc394ece62a71cf701930ff5ff6e9f)  
 > Date: Fri, 8 Feb 2019 22:31:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8341,7 +9017,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8be2229d5c810a3152573c1a5c5d0c6f93021eb2)
 ### Update use-cases.rst
 
-> Commit: [8be2229d5c810a3152573c1a5c5d0c6f93021eb2](https://git.flyball.co/dsiprouter/enterprise/commit/8be2229d5c810a3152573c1a5c5d0c6f93021eb2)  
+> Commit: [8be2229d5c810a3152573c1a5c5d0c6f93021eb2](https://github.com/jcornwell-river/dsiprouter/commit/8be2229d5c810a3152573c1a5c5d0c6f93021eb2)  
 > Date: Fri, 8 Feb 2019 22:22:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8356,7 +9032,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7f5bd28b10d793afb822d01fa2ed8bca6f78b697)
 ### Update use-cases.rst
 
-> Commit: [7f5bd28b10d793afb822d01fa2ed8bca6f78b697](https://git.flyball.co/dsiprouter/enterprise/commit/7f5bd28b10d793afb822d01fa2ed8bca6f78b697)  
+> Commit: [7f5bd28b10d793afb822d01fa2ed8bca6f78b697](https://github.com/jcornwell-river/dsiprouter/commit/7f5bd28b10d793afb822d01fa2ed8bca6f78b697)  
 > Date: Fri, 8 Feb 2019 22:20:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8371,7 +9047,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c92d4688407e0173c8e6ad66369a8f15e8400587)
 ### Update use-cases.rst
 
-> Commit: [c92d4688407e0173c8e6ad66369a8f15e8400587](https://git.flyball.co/dsiprouter/enterprise/commit/c92d4688407e0173c8e6ad66369a8f15e8400587)  
+> Commit: [c92d4688407e0173c8e6ad66369a8f15e8400587](https://github.com/jcornwell-river/dsiprouter/commit/c92d4688407e0173c8e6ad66369a8f15e8400587)  
 > Date: Fri, 8 Feb 2019 22:18:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8386,7 +9062,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 870d44939d3046d8b79f0bd59f5e6d1cda31e97f)
 ### Update use-cases.rst
 
-> Commit: [870d44939d3046d8b79f0bd59f5e6d1cda31e97f](https://git.flyball.co/dsiprouter/enterprise/commit/870d44939d3046d8b79f0bd59f5e6d1cda31e97f)  
+> Commit: [870d44939d3046d8b79f0bd59f5e6d1cda31e97f](https://github.com/jcornwell-river/dsiprouter/commit/870d44939d3046d8b79f0bd59f5e6d1cda31e97f)  
 > Date: Fri, 8 Feb 2019 14:47:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8401,7 +9077,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9b3e2cbbd9010213a9e2205408594031807d3eb5)
 ### Inbound DID and Fail2Ban Update
 
-> Commit: [9b3e2cbbd9010213a9e2205408594031807d3eb5](https://git.flyball.co/dsiprouter/enterprise/commit/9b3e2cbbd9010213a9e2205408594031807d3eb5)  
+> Commit: [9b3e2cbbd9010213a9e2205408594031807d3eb5](https://github.com/jcornwell-river/dsiprouter/commit/9b3e2cbbd9010213a9e2205408594031807d3eb5)  
 > Date: Thu, 7 Feb 2019 22:31:55 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8424,7 +9100,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8111636d42d431e521ffbcc8511f61cacef3be00)
 ### Update use-cases.rst
 
-> Commit: [8111636d42d431e521ffbcc8511f61cacef3be00](https://git.flyball.co/dsiprouter/enterprise/commit/8111636d42d431e521ffbcc8511f61cacef3be00)  
+> Commit: [8111636d42d431e521ffbcc8511f61cacef3be00](https://github.com/jcornwell-river/dsiprouter/commit/8111636d42d431e521ffbcc8511f61cacef3be00)  
 > Date: Thu, 7 Feb 2019 16:02:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8439,7 +9115,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9247eaefdfee193b8766945c6cd2377d48637c2a)
 ### Update use-cases.rst
 
-> Commit: [9247eaefdfee193b8766945c6cd2377d48637c2a](https://git.flyball.co/dsiprouter/enterprise/commit/9247eaefdfee193b8766945c6cd2377d48637c2a)  
+> Commit: [9247eaefdfee193b8766945c6cd2377d48637c2a](https://github.com/jcornwell-river/dsiprouter/commit/9247eaefdfee193b8766945c6cd2377d48637c2a)  
 > Date: Thu, 7 Feb 2019 15:24:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8454,7 +9130,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cdbf7233f95ebf0034c664574e5b4afe45209567)
 ### AMI Provisioning Fixes
 
-> Commit: [cdbf7233f95ebf0034c664574e5b4afe45209567](https://git.flyball.co/dsiprouter/enterprise/commit/cdbf7233f95ebf0034c664574e5b4afe45209567)  
+> Commit: [cdbf7233f95ebf0034c664574e5b4afe45209567](https://github.com/jcornwell-river/dsiprouter/commit/cdbf7233f95ebf0034c664574e5b4afe45209567)  
 > Date: Thu, 7 Feb 2019 14:30:28 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8478,7 +9154,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c7bd555e3dc8e056f90de9b2175959b3443f482)
 ### Update command_line_options.rst
 
-> Commit: [7c7bd555e3dc8e056f90de9b2175959b3443f482](https://git.flyball.co/dsiprouter/enterprise/commit/7c7bd555e3dc8e056f90de9b2175959b3443f482)  
+> Commit: [7c7bd555e3dc8e056f90de9b2175959b3443f482](https://github.com/jcornwell-river/dsiprouter/commit/7c7bd555e3dc8e056f90de9b2175959b3443f482)  
 > Date: Thu, 7 Feb 2019 10:01:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8493,7 +9169,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 993a7605687b42aa7c36987e121b70b3e6c6afd3)
 ### Adds the ability to change the name of the server presented to clients
 
-> Commit: [993a7605687b42aa7c36987e121b70b3e6c6afd3](https://git.flyball.co/dsiprouter/enterprise/commit/993a7605687b42aa7c36987e121b70b3e6c6afd3)  
+> Commit: [993a7605687b42aa7c36987e121b70b3e6c6afd3](https://github.com/jcornwell-river/dsiprouter/commit/993a7605687b42aa7c36987e121b70b3e6c6afd3)  
 > Date: Wed, 6 Feb 2019 21:28:15 -0700  
 > Author: matmurdock (mat.murdock@gmail.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8508,7 +9184,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 83d90093a9f5e63379de1bcca145c51bf8618483)
 ### Fixed firewall issues
 
-> Commit: [83d90093a9f5e63379de1bcca145c51bf8618483](https://git.flyball.co/dsiprouter/enterprise/commit/83d90093a9f5e63379de1bcca145c51bf8618483)  
+> Commit: [83d90093a9f5e63379de1bcca145c51bf8618483](https://github.com/jcornwell-river/dsiprouter/commit/83d90093a9f5e63379de1bcca145c51bf8618483)  
 > Date: Thu, 7 Feb 2019 01:18:41 +0000  
 > Author: root (root@ip-172-31-11-14.us-east-2.compute.internal)  
 > Committer: root (root@ip-172-31-11-14.us-east-2.compute.internal)  
@@ -8523,7 +9199,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3534c6ea4bdd91ece5dbc71b85155bf07f9e4cdd)
 ### Changed order that firewalld rules are being added.  This is workaround for cloud-init
 
-> Commit: [3534c6ea4bdd91ece5dbc71b85155bf07f9e4cdd](https://git.flyball.co/dsiprouter/enterprise/commit/3534c6ea4bdd91ece5dbc71b85155bf07f9e4cdd)  
+> Commit: [3534c6ea4bdd91ece5dbc71b85155bf07f9e4cdd](https://github.com/jcornwell-river/dsiprouter/commit/3534c6ea4bdd91ece5dbc71b85155bf07f9e4cdd)  
 > Date: Thu, 7 Feb 2019 00:31:15 +0000  
 > Author: root (root@ip-172-31-31-55.us-east-2.compute.internal)  
 > Committer: root (root@ip-172-31-31-55.us-east-2.compute.internal)  
@@ -8538,7 +9214,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 396c062ec0629ed16a30c714463422979ad83202)
 ### Added fix to the centos 7 kamailio install so that firewall rules can be added
 
-> Commit: [396c062ec0629ed16a30c714463422979ad83202](https://git.flyball.co/dsiprouter/enterprise/commit/396c062ec0629ed16a30c714463422979ad83202)  
+> Commit: [396c062ec0629ed16a30c714463422979ad83202](https://github.com/jcornwell-river/dsiprouter/commit/396c062ec0629ed16a30c714463422979ad83202)  
 > Date: Wed, 6 Feb 2019 23:33:58 +0000  
 > Author: root (root@ip-172-31-38-36.us-east-2.compute.internal)  
 > Committer: root (root@ip-172-31-38-36.us-east-2.compute.internal)  
@@ -8553,7 +9229,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f4008680a09bb4faeb340deaa9b81cdd09ec7216)
 ### Inbound DID Mapping Sort By Name
 
-> Commit: [f4008680a09bb4faeb340deaa9b81cdd09ec7216](https://git.flyball.co/dsiprouter/enterprise/commit/f4008680a09bb4faeb340deaa9b81cdd09ec7216)  
+> Commit: [f4008680a09bb4faeb340deaa9b81cdd09ec7216](https://github.com/jcornwell-river/dsiprouter/commit/f4008680a09bb4faeb340deaa9b81cdd09ec7216)  
 > Date: Wed, 6 Feb 2019 17:36:14 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8572,7 +9248,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 56b3c8974e36565744ffdb592fed64811bbae82d)
 ### Remove Carrier From gwlist On Delete
 
-> Commit: [56b3c8974e36565744ffdb592fed64811bbae82d](https://git.flyball.co/dsiprouter/enterprise/commit/56b3c8974e36565744ffdb592fed64811bbae82d)  
+> Commit: [56b3c8974e36565744ffdb592fed64811bbae82d](https://github.com/jcornwell-river/dsiprouter/commit/56b3c8974e36565744ffdb592fed64811bbae82d)  
 > Date: Wed, 6 Feb 2019 15:17:34 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8590,7 +9266,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c0c3444708304739612bab676095883c823ef96b)
 ### Fix Carrier Modal Actions
 
-> Commit: [c0c3444708304739612bab676095883c823ef96b](https://git.flyball.co/dsiprouter/enterprise/commit/c0c3444708304739612bab676095883c823ef96b)  
+> Commit: [c0c3444708304739612bab676095883c823ef96b](https://github.com/jcornwell-river/dsiprouter/commit/c0c3444708304739612bab676095883c823ef96b)  
 > Date: Tue, 5 Feb 2019 12:28:13 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -8608,7 +9284,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 755e1e7bd6bd44f358588a248e038826672944a9)
 ### Update use-cases.rst
 
-> Commit: [755e1e7bd6bd44f358588a248e038826672944a9](https://git.flyball.co/dsiprouter/enterprise/commit/755e1e7bd6bd44f358588a248e038826672944a9)  
+> Commit: [755e1e7bd6bd44f358588a248e038826672944a9](https://github.com/jcornwell-river/dsiprouter/commit/755e1e7bd6bd44f358588a248e038826672944a9)  
 > Date: Wed, 6 Feb 2019 10:41:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8623,7 +9299,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5ac8de10cb3f1fef840d9d2acbe0ecce293712ee)
 ### Fixed a regression that caused the password not to be set correct when installed on a non-AMI
 
-> Commit: [5ac8de10cb3f1fef840d9d2acbe0ecce293712ee](https://git.flyball.co/dsiprouter/enterprise/commit/5ac8de10cb3f1fef840d9d2acbe0ecce293712ee)  
+> Commit: [5ac8de10cb3f1fef840d9d2acbe0ecce293712ee](https://github.com/jcornwell-river/dsiprouter/commit/5ac8de10cb3f1fef840d9d2acbe0ecce293712ee)  
 > Date: Tue, 5 Feb 2019 19:30:53 +0000  
 > Author: root (root@dSIPRouterMackAMI.localdomain)  
 > Committer: root (root@dSIPRouterMackAMI.localdomain)  
@@ -8638,7 +9314,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c974de72660d7e8ebbcc3f7ce495199837bcd26)
 ### Update use-cases.rst
 
-> Commit: [0c974de72660d7e8ebbcc3f7ce495199837bcd26](https://git.flyball.co/dsiprouter/enterprise/commit/0c974de72660d7e8ebbcc3f7ce495199837bcd26)  
+> Commit: [0c974de72660d7e8ebbcc3f7ce495199837bcd26](https://github.com/jcornwell-river/dsiprouter/commit/0c974de72660d7e8ebbcc3f7ce495199837bcd26)  
 > Date: Tue, 5 Feb 2019 10:23:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8653,7 +9329,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 87c55ef12898069dec92fe13ee704dfac649f33d)
 ### Fixed testing scripts
 
-> Commit: [87c55ef12898069dec92fe13ee704dfac649f33d](https://git.flyball.co/dsiprouter/enterprise/commit/87c55ef12898069dec92fe13ee704dfac649f33d)  
+> Commit: [87c55ef12898069dec92fe13ee704dfac649f33d](https://github.com/jcornwell-river/dsiprouter/commit/87c55ef12898069dec92fe13ee704dfac649f33d)  
 > Date: Tue, 5 Feb 2019 06:49:27 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -8668,7 +9344,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6fe68a149f51a757953ca35bcf08591f8a349f67)
 ### Added support for NOTIFY messages from PBX - which is used to update MWI
 
-> Commit: [6fe68a149f51a757953ca35bcf08591f8a349f67](https://git.flyball.co/dsiprouter/enterprise/commit/6fe68a149f51a757953ca35bcf08591f8a349f67)  
+> Commit: [6fe68a149f51a757953ca35bcf08591f8a349f67](https://github.com/jcornwell-river/dsiprouter/commit/6fe68a149f51a757953ca35bcf08591f8a349f67)  
 > Date: Mon, 4 Feb 2019 21:30:19 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -8683,7 +9359,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cad9957616e80eb216a8269ad552c105da553861)
 ### Update use-cases.rst
 
-> Commit: [cad9957616e80eb216a8269ad552c105da553861](https://git.flyball.co/dsiprouter/enterprise/commit/cad9957616e80eb216a8269ad552c105da553861)  
+> Commit: [cad9957616e80eb216a8269ad552c105da553861](https://github.com/jcornwell-river/dsiprouter/commit/cad9957616e80eb216a8269ad552c105da553861)  
 > Date: Mon, 4 Feb 2019 12:34:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8698,7 +9374,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 51ebf27bd815180fe84a7813b4f7160d63e09abd)
 ### Update use-cases.rst
 
-> Commit: [51ebf27bd815180fe84a7813b4f7160d63e09abd](https://git.flyball.co/dsiprouter/enterprise/commit/51ebf27bd815180fe84a7813b4f7160d63e09abd)  
+> Commit: [51ebf27bd815180fe84a7813b4f7160d63e09abd](https://github.com/jcornwell-river/dsiprouter/commit/51ebf27bd815180fe84a7813b4f7160d63e09abd)  
 > Date: Mon, 4 Feb 2019 12:13:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8713,7 +9389,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9ff4531b0227acd84946a6ebd4f40928036442b2)
 ### Update use-cases.rst
 
-> Commit: [9ff4531b0227acd84946a6ebd4f40928036442b2](https://git.flyball.co/dsiprouter/enterprise/commit/9ff4531b0227acd84946a6ebd4f40928036442b2)  
+> Commit: [9ff4531b0227acd84946a6ebd4f40928036442b2](https://github.com/jcornwell-river/dsiprouter/commit/9ff4531b0227acd84946a6ebd4f40928036442b2)  
 > Date: Mon, 4 Feb 2019 12:09:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8728,7 +9404,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 045c47dc9118fb22a20579c908d071342d3be8ca)
 ### Update use-cases.rst
 
-> Commit: [045c47dc9118fb22a20579c908d071342d3be8ca](https://git.flyball.co/dsiprouter/enterprise/commit/045c47dc9118fb22a20579c908d071342d3be8ca)  
+> Commit: [045c47dc9118fb22a20579c908d071342d3be8ca](https://github.com/jcornwell-river/dsiprouter/commit/045c47dc9118fb22a20579c908d071342d3be8ca)  
 > Date: Mon, 4 Feb 2019 12:01:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8743,7 +9419,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1b24a410cd70e3c1a09130db33b66ecdc123524c)
 ### Update use-cases.rst
 
-> Commit: [1b24a410cd70e3c1a09130db33b66ecdc123524c](https://git.flyball.co/dsiprouter/enterprise/commit/1b24a410cd70e3c1a09130db33b66ecdc123524c)  
+> Commit: [1b24a410cd70e3c1a09130db33b66ecdc123524c](https://github.com/jcornwell-river/dsiprouter/commit/1b24a410cd70e3c1a09130db33b66ecdc123524c)  
 > Date: Mon, 4 Feb 2019 11:44:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8758,7 +9434,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6312d09c44a26d0cd989ea283200bdf11bf985bd)
 ### Update use-cases.rst
 
-> Commit: [6312d09c44a26d0cd989ea283200bdf11bf985bd](https://git.flyball.co/dsiprouter/enterprise/commit/6312d09c44a26d0cd989ea283200bdf11bf985bd)  
+> Commit: [6312d09c44a26d0cd989ea283200bdf11bf985bd](https://github.com/jcornwell-river/dsiprouter/commit/6312d09c44a26d0cd989ea283200bdf11bf985bd)  
 > Date: Mon, 4 Feb 2019 11:34:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8773,7 +9449,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 936c72146ac85c3a490de4c3441084c4d403ae29)
 ### Update use-cases.rst
 
-> Commit: [936c72146ac85c3a490de4c3441084c4d403ae29](https://git.flyball.co/dsiprouter/enterprise/commit/936c72146ac85c3a490de4c3441084c4d403ae29)  
+> Commit: [936c72146ac85c3a490de4c3441084c4d403ae29](https://github.com/jcornwell-river/dsiprouter/commit/936c72146ac85c3a490de4c3441084c4d403ae29)  
 > Date: Mon, 4 Feb 2019 11:31:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8788,7 +9464,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3e8f145578cf290075c710ce46dcdcafabb88898)
 ### Update use-cases.rst
 
-> Commit: [3e8f145578cf290075c710ce46dcdcafabb88898](https://git.flyball.co/dsiprouter/enterprise/commit/3e8f145578cf290075c710ce46dcdcafabb88898)  
+> Commit: [3e8f145578cf290075c710ce46dcdcafabb88898](https://github.com/jcornwell-river/dsiprouter/commit/3e8f145578cf290075c710ce46dcdcafabb88898)  
 > Date: Mon, 4 Feb 2019 11:29:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8803,7 +9479,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4618758b9f80847d459dd053b6c5b60a26bb580)
 ### Update use-cases.rst
 
-> Commit: [e4618758b9f80847d459dd053b6c5b60a26bb580](https://git.flyball.co/dsiprouter/enterprise/commit/e4618758b9f80847d459dd053b6c5b60a26bb580)  
+> Commit: [e4618758b9f80847d459dd053b6c5b60a26bb580](https://github.com/jcornwell-river/dsiprouter/commit/e4618758b9f80847d459dd053b6c5b60a26bb580)  
 > Date: Mon, 4 Feb 2019 11:11:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8818,7 +9494,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0842d2135ade287427a82842735f404d09b807dd)
 ### Rename troubleshooting.rst.txt to troubleshooting.rst
 
-> Commit: [0842d2135ade287427a82842735f404d09b807dd](https://git.flyball.co/dsiprouter/enterprise/commit/0842d2135ade287427a82842735f404d09b807dd)  
+> Commit: [0842d2135ade287427a82842735f404d09b807dd](https://github.com/jcornwell-river/dsiprouter/commit/0842d2135ade287427a82842735f404d09b807dd)  
 > Date: Mon, 4 Feb 2019 10:27:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8833,7 +9509,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 73c0c257d966bae0c310dcd841fb37d997df9483)
 ### Update troubleshooting.rst.txt
 
-> Commit: [73c0c257d966bae0c310dcd841fb37d997df9483](https://git.flyball.co/dsiprouter/enterprise/commit/73c0c257d966bae0c310dcd841fb37d997df9483)  
+> Commit: [73c0c257d966bae0c310dcd841fb37d997df9483](https://github.com/jcornwell-river/dsiprouter/commit/73c0c257d966bae0c310dcd841fb37d997df9483)  
 > Date: Mon, 4 Feb 2019 10:25:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8848,7 +9524,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dce6af8d9c49166c1619fc762874ef274fc36913)
 ### Update troubleshooting.rst
 
-> Commit: [dce6af8d9c49166c1619fc762874ef274fc36913](https://git.flyball.co/dsiprouter/enterprise/commit/dce6af8d9c49166c1619fc762874ef274fc36913)  
+> Commit: [dce6af8d9c49166c1619fc762874ef274fc36913](https://github.com/jcornwell-river/dsiprouter/commit/dce6af8d9c49166c1619fc762874ef274fc36913)  
 > Date: Mon, 4 Feb 2019 09:45:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8863,7 +9539,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2442d0d467e47af0e62e1a55059a242b2789ff3c)
 ### Rename troubleshooting.rst.txt to troubleshooting.rst
 
-> Commit: [2442d0d467e47af0e62e1a55059a242b2789ff3c](https://git.flyball.co/dsiprouter/enterprise/commit/2442d0d467e47af0e62e1a55059a242b2789ff3c)  
+> Commit: [2442d0d467e47af0e62e1a55059a242b2789ff3c](https://github.com/jcornwell-river/dsiprouter/commit/2442d0d467e47af0e62e1a55059a242b2789ff3c)  
 > Date: Mon, 4 Feb 2019 09:40:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8878,7 +9554,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c45597efaa5fa9ad6a98deca8c1b9f4ba0c7b388)
 ### Fixed the directory path that points to the rsyslog and logrotate settings
 
-> Commit: [c45597efaa5fa9ad6a98deca8c1b9f4ba0c7b388](https://git.flyball.co/dsiprouter/enterprise/commit/c45597efaa5fa9ad6a98deca8c1b9f4ba0c7b388)  
+> Commit: [c45597efaa5fa9ad6a98deca8c1b9f4ba0c7b388](https://github.com/jcornwell-river/dsiprouter/commit/c45597efaa5fa9ad6a98deca8c1b9f4ba0c7b388)  
 > Date: Mon, 4 Feb 2019 10:59:09 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -8893,7 +9569,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f5e2d7155ff1f7d69f9d32fb02fc00c728ca0534)
 ### Moved the logrotate and syslog to the resouces directory
 
-> Commit: [f5e2d7155ff1f7d69f9d32fb02fc00c728ca0534](https://git.flyball.co/dsiprouter/enterprise/commit/f5e2d7155ff1f7d69f9d32fb02fc00c728ca0534)  
+> Commit: [f5e2d7155ff1f7d69f9d32fb02fc00c728ca0534](https://github.com/jcornwell-river/dsiprouter/commit/f5e2d7155ff1f7d69f9d32fb02fc00c728ca0534)  
 > Date: Mon, 4 Feb 2019 10:05:36 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -8908,7 +9584,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 565bf63ac62792464caaeaf7fef7e12e6ee55424)
 ### Unit test for testing Denial of Service (DoS) Attacks
 
-> Commit: [565bf63ac62792464caaeaf7fef7e12e6ee55424](https://git.flyball.co/dsiprouter/enterprise/commit/565bf63ac62792464caaeaf7fef7e12e6ee55424)  
+> Commit: [565bf63ac62792464caaeaf7fef7e12e6ee55424](https://github.com/jcornwell-river/dsiprouter/commit/565bf63ac62792464caaeaf7fef7e12e6ee55424)  
 > Date: Fri, 1 Feb 2019 11:37:20 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -8923,7 +9599,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7a5f4f11da1b0219626e642c4183311b745ee3b)
 ### Fixed the SQL script so that it works with the newer versions of MariaDB
 
-> Commit: [e7a5f4f11da1b0219626e642c4183311b745ee3b](https://git.flyball.co/dsiprouter/enterprise/commit/e7a5f4f11da1b0219626e642c4183311b745ee3b)  
+> Commit: [e7a5f4f11da1b0219626e642c4183311b745ee3b](https://github.com/jcornwell-river/dsiprouter/commit/e7a5f4f11da1b0219626e642c4183311b745ee3b)  
 > Date: Fri, 1 Feb 2019 11:31:56 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -8938,7 +9614,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8d5d0bb12e5cd91db0edf18448c5704b5639d4f8)
 ### Fixed issue with enabling PIKE
 
-> Commit: [8d5d0bb12e5cd91db0edf18448c5704b5639d4f8](https://git.flyball.co/dsiprouter/enterprise/commit/8d5d0bb12e5cd91db0edf18448c5704b5639d4f8)  
+> Commit: [8d5d0bb12e5cd91db0edf18448c5704b5639d4f8](https://github.com/jcornwell-river/dsiprouter/commit/8d5d0bb12e5cd91db0edf18448c5704b5639d4f8)  
 > Date: Thu, 31 Jan 2019 17:39:16 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -8953,7 +9629,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 55f8ec2471c4df074ee237fe1ec5adbba32db24a)
 ### Update README.md
 
-> Commit: [55f8ec2471c4df074ee237fe1ec5adbba32db24a](https://git.flyball.co/dsiprouter/enterprise/commit/55f8ec2471c4df074ee237fe1ec5adbba32db24a)  
+> Commit: [55f8ec2471c4df074ee237fe1ec5adbba32db24a](https://github.com/jcornwell-river/dsiprouter/commit/55f8ec2471c4df074ee237fe1ec5adbba32db24a)  
 > Date: Thu, 31 Jan 2019 12:29:28 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8968,7 +9644,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 843b6e0db426bacbf21994b137d27fffdc13222d)
 ### Update README.md
 
-> Commit: [843b6e0db426bacbf21994b137d27fffdc13222d](https://git.flyball.co/dsiprouter/enterprise/commit/843b6e0db426bacbf21994b137d27fffdc13222d)  
+> Commit: [843b6e0db426bacbf21994b137d27fffdc13222d](https://github.com/jcornwell-river/dsiprouter/commit/843b6e0db426bacbf21994b137d27fffdc13222d)  
 > Date: Thu, 31 Jan 2019 12:28:47 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -8983,7 +9659,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f979796b0c2a29a5e77e6c72dd933cc922a3a610)
 ### Moved the server_signature parameter
 
-> Commit: [f979796b0c2a29a5e77e6c72dd933cc922a3a610](https://git.flyball.co/dsiprouter/enterprise/commit/f979796b0c2a29a5e77e6c72dd933cc922a3a610)  
+> Commit: [f979796b0c2a29a5e77e6c72dd933cc922a3a610](https://github.com/jcornwell-river/dsiprouter/commit/f979796b0c2a29a5e77e6c72dd933cc922a3a610)  
 > Date: Thu, 31 Jan 2019 17:01:01 +0000  
 > Author: root (root@dsiprouterMackKamsec.localdomain)  
 > Committer: root (root@dsiprouterMackKamsec.localdomain)  
@@ -8998,7 +9674,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679)
 ### Added a record route before relaying to endpoints to ensure they route all traffic thru the proxy
 
-> Commit: [0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679](https://git.flyball.co/dsiprouter/enterprise/commit/0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679)  
+> Commit: [0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679](https://github.com/jcornwell-river/dsiprouter/commit/0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679)  
 > Date: Thu, 31 Jan 2019 10:36:18 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -9011,9 +9687,9 @@ END_SECTION COMMITS)
 
 [//]: # (END_SECTION 0b0a6abd67a44d8f3a219e9794ca9fb5dd9c3679)
 [//]: # (START_SECTION 34e4ff3b7f27b17a0e7b6c0cdbb53bd68e012ea1)
-### Added commit [776f17bd9ba1cb7a623803a4bc3f54e6d5954565](https://git.flyball.co/dsiprouter/enterprise/commit/776f17bd9ba1cb7a623803a4bc3f54e6d5954565) by MatMurdock into the template file
+### Added commit [776f17bd9ba1cb7a623803a4bc3f54e6d5954565](https://github.com/jcornwell-river/dsiprouter/commit/776f17bd9ba1cb7a623803a4bc3f54e6d5954565) by MatMurdock into the template file
 
-> Commit: [34e4ff3b7f27b17a0e7b6c0cdbb53bd68e012ea1](https://git.flyball.co/dsiprouter/enterprise/commit/34e4ff3b7f27b17a0e7b6c0cdbb53bd68e012ea1)  
+> Commit: [34e4ff3b7f27b17a0e7b6c0cdbb53bd68e012ea1](https://github.com/jcornwell-river/dsiprouter/commit/34e4ff3b7f27b17a0e7b6c0cdbb53bd68e012ea1)  
 > Date: Thu, 31 Jan 2019 10:15:53 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -9028,7 +9704,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eddbd60d7351d594c8f56e46a09f7e878424d9eb)
 ### Fixed an issue with the initial startup of RTPEngine
 
-> Commit: [eddbd60d7351d594c8f56e46a09f7e878424d9eb](https://git.flyball.co/dsiprouter/enterprise/commit/eddbd60d7351d594c8f56e46a09f7e878424d9eb)  
+> Commit: [eddbd60d7351d594c8f56e46a09f7e878424d9eb](https://github.com/jcornwell-river/dsiprouter/commit/eddbd60d7351d594c8f56e46a09f7e878424d9eb)  
 > Date: Thu, 31 Jan 2019 09:54:58 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -9043,7 +9719,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8336f450225b1088a02a40c62c6de74818681040)
 ### Fixed an issue with dsiprouter.sh running commands in the wrong directory.
 
-> Commit: [8336f450225b1088a02a40c62c6de74818681040](https://git.flyball.co/dsiprouter/enterprise/commit/8336f450225b1088a02a40c62c6de74818681040)  
+> Commit: [8336f450225b1088a02a40c62c6de74818681040](https://github.com/jcornwell-river/dsiprouter/commit/8336f450225b1088a02a40c62c6de74818681040)  
 > Date: Thu, 31 Jan 2019 08:55:10 +0000  
 > Author: root (root@dsiprouterMackMaster.localdomain)  
 > Committer: root (root@dsiprouterMackMaster.localdomain)  
@@ -9058,7 +9734,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed0782b28b6c89069bd919709e1cf57222bc734e)
 ### Removed set -x
 
-> Commit: [ed0782b28b6c89069bd919709e1cf57222bc734e](https://git.flyball.co/dsiprouter/enterprise/commit/ed0782b28b6c89069bd919709e1cf57222bc734e)  
+> Commit: [ed0782b28b6c89069bd919709e1cf57222bc734e](https://github.com/jcornwell-river/dsiprouter/commit/ed0782b28b6c89069bd919709e1cf57222bc734e)  
 > Date: Thu, 31 Jan 2019 02:58:09 +0000  
 > Author: root (root@dsiprouterMackDocs.localdomain)  
 > Committer: root (root@dsiprouterMackDocs.localdomain)  
@@ -9073,7 +9749,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2d510c904fe14aa029ee9ea96e98f3aadb9a27a9)
 ### Remove the yaml file used for to host our website originally
 
-> Commit: [2d510c904fe14aa029ee9ea96e98f3aadb9a27a9](https://git.flyball.co/dsiprouter/enterprise/commit/2d510c904fe14aa029ee9ea96e98f3aadb9a27a9)  
+> Commit: [2d510c904fe14aa029ee9ea96e98f3aadb9a27a9](https://github.com/jcornwell-river/dsiprouter/commit/2d510c904fe14aa029ee9ea96e98f3aadb9a27a9)  
 > Date: Thu, 31 Jan 2019 02:56:26 +0000  
 > Author: root (root@dsiprouterMackDocs.localdomain)  
 > Committer: root (root@dsiprouterMackDocs.localdomain)  
@@ -9088,7 +9764,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 309d520d70d01ca5cb2911bb2b51889ee265f1dd)
 ### Fixed a regression that caused sipsak to be installed each time dSIPRouter started
 
-> Commit: [309d520d70d01ca5cb2911bb2b51889ee265f1dd](https://git.flyball.co/dsiprouter/enterprise/commit/309d520d70d01ca5cb2911bb2b51889ee265f1dd)  
+> Commit: [309d520d70d01ca5cb2911bb2b51889ee265f1dd](https://github.com/jcornwell-river/dsiprouter/commit/309d520d70d01ca5cb2911bb2b51889ee265f1dd)  
 > Date: Thu, 31 Jan 2019 02:52:24 +0000  
 > Author: root (root@dsiprouterMackDocs.localdomain)  
 > Committer: root (root@dsiprouterMackDocs.localdomain)  
@@ -9103,7 +9779,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1ef917eb3b5c3674142c40c8d9c83a2542a097ee)
 ### Started the development of a test plan for Carrier Registration
 
-> Commit: [1ef917eb3b5c3674142c40c8d9c83a2542a097ee](https://git.flyball.co/dsiprouter/enterprise/commit/1ef917eb3b5c3674142c40c8d9c83a2542a097ee)  
+> Commit: [1ef917eb3b5c3674142c40c8d9c83a2542a097ee](https://github.com/jcornwell-river/dsiprouter/commit/1ef917eb3b5c3674142c40c8d9c83a2542a097ee)  
 > Date: Wed, 30 Jan 2019 19:59:01 +0000  
 > Author: root (root@dsiprouterDroplet.localdomain)  
 > Committer: root (root@dsiprouterDroplet.localdomain)  
@@ -9118,7 +9794,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d4490f29327d1eb634369b349edaece42972c6f)
 ### AMI Startup Fixes and General Maintenance
 
-> Commit: [3d4490f29327d1eb634369b349edaece42972c6f](https://git.flyball.co/dsiprouter/enterprise/commit/3d4490f29327d1eb634369b349edaece42972c6f)  
+> Commit: [3d4490f29327d1eb634369b349edaece42972c6f](https://github.com/jcornwell-river/dsiprouter/commit/3d4490f29327d1eb634369b349edaece42972c6f)  
 > Date: Wed, 30 Jan 2019 05:07:37 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9150,7 +9826,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 625d0d43defef73588a349fe4c9ae4c4b5b513ef)
 ### Delete unneeded files
 
-> Commit: [625d0d43defef73588a349fe4c9ae4c4b5b513ef](https://git.flyball.co/dsiprouter/enterprise/commit/625d0d43defef73588a349fe4c9ae4c4b5b513ef)  
+> Commit: [625d0d43defef73588a349fe4c9ae4c4b5b513ef](https://github.com/jcornwell-river/dsiprouter/commit/625d0d43defef73588a349fe4c9ae4c4b5b513ef)  
 > Date: Tue, 29 Jan 2019 23:19:04 +0000  
 > Author: root (root@dsiprouterDroplet.localdomain)  
 > Committer: root (root@dsiprouterDroplet.localdomain)  
@@ -9165,7 +9841,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 371c4ea6c98df00752e0e43ad40c2017c94596b1)
 ### - Added a basic Unit Testing Framework to allow us to test core dSIPRouter functionality - Fixed an issue with CDR's that will allow the SQL needed for CDR's to be ran during install - Added logic to install Sipsak for running Unit Testing and for users that want to troubleshoot SIP message without having a SIP client
 
-> Commit: [371c4ea6c98df00752e0e43ad40c2017c94596b1](https://git.flyball.co/dsiprouter/enterprise/commit/371c4ea6c98df00752e0e43ad40c2017c94596b1)  
+> Commit: [371c4ea6c98df00752e0e43ad40c2017c94596b1](https://github.com/jcornwell-river/dsiprouter/commit/371c4ea6c98df00752e0e43ad40c2017c94596b1)  
 > Date: Tue, 29 Jan 2019 22:31:59 +0000  
 > Author: root (root@dsiprouterDroplet.localdomain)  
 > Committer: root (root@dsiprouterDroplet.localdomain)  
@@ -9180,7 +9856,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION de96347a51d1259827a7feb556d702629363225a)
 ### Syslog Logging Fixes
 
-> Commit: [de96347a51d1259827a7feb556d702629363225a](https://git.flyball.co/dsiprouter/enterprise/commit/de96347a51d1259827a7feb556d702629363225a)  
+> Commit: [de96347a51d1259827a7feb556d702629363225a](https://github.com/jcornwell-river/dsiprouter/commit/de96347a51d1259827a7feb556d702629363225a)  
 > Date: Tue, 29 Jan 2019 10:44:44 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9203,7 +9879,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3559b7e68f7f1ed0c0977ca4dde00c5ba84295a6)
 ### Update Logging
 
-> Commit: [3559b7e68f7f1ed0c0977ca4dde00c5ba84295a6](https://git.flyball.co/dsiprouter/enterprise/commit/3559b7e68f7f1ed0c0977ca4dde00c5ba84295a6)  
+> Commit: [3559b7e68f7f1ed0c0977ca4dde00c5ba84295a6](https://github.com/jcornwell-river/dsiprouter/commit/3559b7e68f7f1ed0c0977ca4dde00c5ba84295a6)  
 > Date: Fri, 25 Jan 2019 17:13:50 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9226,7 +9902,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb6d3af6e64c3bcb5e358f3f690aa1e2e68bce4a)
 ### Added ability for 7 Digit numbers
 
-> Commit: [eb6d3af6e64c3bcb5e358f3f690aa1e2e68bce4a](https://git.flyball.co/dsiprouter/enterprise/commit/eb6d3af6e64c3bcb5e358f3f690aa1e2e68bce4a)  
+> Commit: [eb6d3af6e64c3bcb5e358f3f690aa1e2e68bce4a](https://github.com/jcornwell-river/dsiprouter/commit/eb6d3af6e64c3bcb5e358f3f690aa1e2e68bce4a)  
 > Date: Fri, 25 Jan 2019 14:58:25 -0700  
 > Author: Mat Murdock (mat.murdock@gmail.com)  
 > Committer: Mat Murdock (mat.murdock@gmail.com)  
@@ -9241,7 +9917,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7943f39c2d5d2fe4b4b0e693ab16e1efcc15df14)
 ### Create troubleshooting.rst.txt
 
-> Commit: [7943f39c2d5d2fe4b4b0e693ab16e1efcc15df14](https://git.flyball.co/dsiprouter/enterprise/commit/7943f39c2d5d2fe4b4b0e693ab16e1efcc15df14)  
+> Commit: [7943f39c2d5d2fe4b4b0e693ab16e1efcc15df14](https://github.com/jcornwell-river/dsiprouter/commit/7943f39c2d5d2fe4b4b0e693ab16e1efcc15df14)  
 > Date: Fri, 25 Jan 2019 16:12:07 -0500  
 > Author: Nicole (ncannon@goflyball.com)  
 > Committer: Nicole (ncannon@goflyball.com)  
@@ -9263,7 +9939,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e408ca867b6a5af7cdd9804b1adc42a7fc0b428e)
 ### Added logic to lookup the uac registration info based on the source ip coming from the carrier since I couldn't grab the realm - Fixed issue #98
 
-> Commit: [e408ca867b6a5af7cdd9804b1adc42a7fc0b428e](https://git.flyball.co/dsiprouter/enterprise/commit/e408ca867b6a5af7cdd9804b1adc42a7fc0b428e)  
+> Commit: [e408ca867b6a5af7cdd9804b1adc42a7fc0b428e](https://github.com/jcornwell-river/dsiprouter/commit/e408ca867b6a5af7cdd9804b1adc42a7fc0b428e)  
 > Date: Fri, 25 Jan 2019 00:46:48 +0000  
 > Author: root (root@dsiprouter.localdomain)  
 > Committer: root (root@dsiprouter.localdomain)  
@@ -9278,7 +9954,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c7d4923d98be9c4a4b9fed8d8e22d72c99a8a66d)
 ### Update global_outbound_routes.rst
 
-> Commit: [c7d4923d98be9c4a4b9fed8d8e22d72c99a8a66d](https://git.flyball.co/dsiprouter/enterprise/commit/c7d4923d98be9c4a4b9fed8d8e22d72c99a8a66d)  
+> Commit: [c7d4923d98be9c4a4b9fed8d8e22d72c99a8a66d](https://github.com/jcornwell-river/dsiprouter/commit/c7d4923d98be9c4a4b9fed8d8e22d72c99a8a66d)  
 > Date: Tue, 22 Jan 2019 11:42:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9293,7 +9969,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8a2eb618c88996ce96f2b9651945086a9911987b)
 ### Added Pike and disbabled User Agent String
 
-> Commit: [8a2eb618c88996ce96f2b9651945086a9911987b](https://git.flyball.co/dsiprouter/enterprise/commit/8a2eb618c88996ce96f2b9651945086a9911987b)  
+> Commit: [8a2eb618c88996ce96f2b9651945086a9911987b](https://github.com/jcornwell-river/dsiprouter/commit/8a2eb618c88996ce96f2b9651945086a9911987b)  
 > Date: Fri, 18 Jan 2019 22:40:54 +0000  
 > Author: root (root@debian-s-1vcpu-1gb-tor1-01.localdomain)  
 > Committer: root (root@debian-s-1vcpu-1gb-tor1-01.localdomain)  
@@ -9308,7 +9984,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15d9cb64ccb64e28c7a8a31e8c70d7b11bb8ca45)
 ### Added Pike and disbabled User Agent String
 
-> Commit: [15d9cb64ccb64e28c7a8a31e8c70d7b11bb8ca45](https://git.flyball.co/dsiprouter/enterprise/commit/15d9cb64ccb64e28c7a8a31e8c70d7b11bb8ca45)  
+> Commit: [15d9cb64ccb64e28c7a8a31e8c70d7b11bb8ca45](https://github.com/jcornwell-river/dsiprouter/commit/15d9cb64ccb64e28c7a8a31e8c70d7b11bb8ca45)  
 > Date: Fri, 18 Jan 2019 22:18:54 +0000  
 > Author: root (root@debian-s-1vcpu-1gb-tor1-01.localdomain)  
 > Committer: root (root@debian-s-1vcpu-1gb-tor1-01.localdomain)  
@@ -9323,7 +9999,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 06a2374ea824885faeb8423146f78977e585c921)
 ### ChanSIP Documentation
 
-> Commit: [06a2374ea824885faeb8423146f78977e585c921](https://git.flyball.co/dsiprouter/enterprise/commit/06a2374ea824885faeb8423146f78977e585c921)  
+> Commit: [06a2374ea824885faeb8423146f78977e585c921](https://github.com/jcornwell-river/dsiprouter/commit/06a2374ea824885faeb8423146f78977e585c921)  
 > Date: Thu, 17 Jan 2019 13:33:50 -0500  
 > Author: Nicole (ncannon@goflyball.com)  
 > Committer: Nicole (ncannon@goflyball.com)  
@@ -9340,7 +10016,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d752b7dadc3e93935c4473643ac459501855f69f)
 ### Install Script Fixes
 
-> Commit: [d752b7dadc3e93935c4473643ac459501855f69f](https://git.flyball.co/dsiprouter/enterprise/commit/d752b7dadc3e93935c4473643ac459501855f69f)  
+> Commit: [d752b7dadc3e93935c4473643ac459501855f69f](https://github.com/jcornwell-river/dsiprouter/commit/d752b7dadc3e93935c4473643ac459501855f69f)  
 > Date: Mon, 14 Jan 2019 17:21:32 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9357,7 +10033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 32f6c5185b7017a86944ab21ed861f3cda67ead2)
 ### Install Script Improvement
 
-> Commit: [32f6c5185b7017a86944ab21ed861f3cda67ead2](https://git.flyball.co/dsiprouter/enterprise/commit/32f6c5185b7017a86944ab21ed861f3cda67ead2)  
+> Commit: [32f6c5185b7017a86944ab21ed861f3cda67ead2](https://github.com/jcornwell-river/dsiprouter/commit/32f6c5185b7017a86944ab21ed861f3cda67ead2)  
 > Date: Mon, 14 Jan 2019 15:19:01 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9375,7 +10051,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 763f35552506f642325d124def537b738dade694)
 ### Merge with Master
 
-> Commit: [763f35552506f642325d124def537b738dade694](https://git.flyball.co/dsiprouter/enterprise/commit/763f35552506f642325d124def537b738dade694)  
+> Commit: [763f35552506f642325d124def537b738dade694](https://github.com/jcornwell-river/dsiprouter/commit/763f35552506f642325d124def537b738dade694)  
 > Date: Mon, 14 Jan 2019 14:29:25 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9392,7 +10068,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e17357b54f0392ae5559328fd404a1c02ad3373f)
 ### AMI updates
 
-> Commit: [e17357b54f0392ae5559328fd404a1c02ad3373f](https://git.flyball.co/dsiprouter/enterprise/commit/e17357b54f0392ae5559328fd404a1c02ad3373f)  
+> Commit: [e17357b54f0392ae5559328fd404a1c02ad3373f](https://github.com/jcornwell-river/dsiprouter/commit/e17357b54f0392ae5559328fd404a1c02ad3373f)  
 > Date: Thu, 10 Jan 2019 13:12:12 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9414,7 +10090,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 494fc460f3533bca4e81fbb3cac52f381f0169ce)
 ### Update use-cases.rst
 
-> Commit: [494fc460f3533bca4e81fbb3cac52f381f0169ce](https://git.flyball.co/dsiprouter/enterprise/commit/494fc460f3533bca4e81fbb3cac52f381f0169ce)  
+> Commit: [494fc460f3533bca4e81fbb3cac52f381f0169ce](https://github.com/jcornwell-river/dsiprouter/commit/494fc460f3533bca4e81fbb3cac52f381f0169ce)  
 > Date: Wed, 9 Jan 2019 15:46:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9429,7 +10105,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 353887e5360d94ce4ff5a0a891814aa2f03c1be0)
 ### Add Changelog
 
-> Commit: [353887e5360d94ce4ff5a0a891814aa2f03c1be0](https://git.flyball.co/dsiprouter/enterprise/commit/353887e5360d94ce4ff5a0a891814aa2f03c1be0)  
+> Commit: [353887e5360d94ce4ff5a0a891814aa2f03c1be0](https://github.com/jcornwell-river/dsiprouter/commit/353887e5360d94ce4ff5a0a891814aa2f03c1be0)  
 > Date: Wed, 9 Jan 2019 09:27:47 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9447,7 +10123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f673d614f9955d79b613eb248288d317349c5777)
 ### Update to Commit 2e7acf4
 
-> Commit: [f673d614f9955d79b613eb248288d317349c5777](https://git.flyball.co/dsiprouter/enterprise/commit/f673d614f9955d79b613eb248288d317349c5777)  
+> Commit: [f673d614f9955d79b613eb248288d317349c5777](https://github.com/jcornwell-river/dsiprouter/commit/f673d614f9955d79b613eb248288d317349c5777)  
 > Date: Mon, 7 Jan 2019 16:42:13 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9464,7 +10140,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2e7acf4fe904c02ec796c6e8aebe73aa4364c073)
 ### AWS Image Debian Support
 
-> Commit: [2e7acf4fe904c02ec796c6e8aebe73aa4364c073](https://git.flyball.co/dsiprouter/enterprise/commit/2e7acf4fe904c02ec796c6e8aebe73aa4364c073)  
+> Commit: [2e7acf4fe904c02ec796c6e8aebe73aa4364c073](https://github.com/jcornwell-river/dsiprouter/commit/2e7acf4fe904c02ec796c6e8aebe73aa4364c073)  
 > Date: Mon, 7 Jan 2019 16:34:28 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9481,7 +10157,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b6f4f1481ed3a36c3d6ae02cbca9a2877ddf6702)
 ### External IP BUG fix
 
-> Commit: [b6f4f1481ed3a36c3d6ae02cbca9a2877ddf6702](https://git.flyball.co/dsiprouter/enterprise/commit/b6f4f1481ed3a36c3d6ae02cbca9a2877ddf6702)  
+> Commit: [b6f4f1481ed3a36c3d6ae02cbca9a2877ddf6702](https://github.com/jcornwell-river/dsiprouter/commit/b6f4f1481ed3a36c3d6ae02cbca9a2877ddf6702)  
 > Date: Fri, 4 Jan 2019 15:35:12 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9499,7 +10175,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e892735488702df24d6bc4d9b6847e5c13c57caa)
 ### Update use-cases.rst
 
-> Commit: [e892735488702df24d6bc4d9b6847e5c13c57caa](https://git.flyball.co/dsiprouter/enterprise/commit/e892735488702df24d6bc4d9b6847e5c13c57caa)  
+> Commit: [e892735488702df24d6bc4d9b6847e5c13c57caa](https://github.com/jcornwell-river/dsiprouter/commit/e892735488702df24d6bc4d9b6847e5c13c57caa)  
 > Date: Thu, 3 Jan 2019 23:29:41 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9514,7 +10190,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c23f6f166ea3ee2e3a9c659b5e1763edc823420c)
 ### Updates for AMI install
 
-> Commit: [c23f6f166ea3ee2e3a9c659b5e1763edc823420c](https://git.flyball.co/dsiprouter/enterprise/commit/c23f6f166ea3ee2e3a9c659b5e1763edc823420c)  
+> Commit: [c23f6f166ea3ee2e3a9c659b5e1763edc823420c](https://github.com/jcornwell-river/dsiprouter/commit/c23f6f166ea3ee2e3a9c659b5e1763edc823420c)  
 > Date: Wed, 2 Jan 2019 09:21:48 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9530,7 +10206,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5c2c32cf69b65865957b495122ea3252a1b74715)
 ### Update upgrade.rst
 
-> Commit: [5c2c32cf69b65865957b495122ea3252a1b74715](https://git.flyball.co/dsiprouter/enterprise/commit/5c2c32cf69b65865957b495122ea3252a1b74715)  
+> Commit: [5c2c32cf69b65865957b495122ea3252a1b74715](https://github.com/jcornwell-river/dsiprouter/commit/5c2c32cf69b65865957b495122ea3252a1b74715)  
 > Date: Sat, 29 Dec 2018 14:47:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9545,7 +10221,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8319ce82acb079246cb64d185d99835bf195a11c)
 ### Fixed the install function so that dSIPRouter starts up after the install
 
-> Commit: [8319ce82acb079246cb64d185d99835bf195a11c](https://git.flyball.co/dsiprouter/enterprise/commit/8319ce82acb079246cb64d185d99835bf195a11c)  
+> Commit: [8319ce82acb079246cb64d185d99835bf195a11c](https://github.com/jcornwell-river/dsiprouter/commit/8319ce82acb079246cb64d185d99835bf195a11c)  
 > Date: Sat, 29 Dec 2018 19:13:47 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9560,7 +10236,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a7b5433d897630789f687d9504b1d58cfaadb6ba)
 ### Update centos-install.rst
 
-> Commit: [a7b5433d897630789f687d9504b1d58cfaadb6ba](https://git.flyball.co/dsiprouter/enterprise/commit/a7b5433d897630789f687d9504b1d58cfaadb6ba)  
+> Commit: [a7b5433d897630789f687d9504b1d58cfaadb6ba](https://github.com/jcornwell-river/dsiprouter/commit/a7b5433d897630789f687d9504b1d58cfaadb6ba)  
 > Date: Fri, 28 Dec 2018 18:17:17 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9575,7 +10251,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 68f9b1f66a6579f058026aac150edf7d260c1e1b)
 ### Update centos-install.rst
 
-> Commit: [68f9b1f66a6579f058026aac150edf7d260c1e1b](https://git.flyball.co/dsiprouter/enterprise/commit/68f9b1f66a6579f058026aac150edf7d260c1e1b)  
+> Commit: [68f9b1f66a6579f058026aac150edf7d260c1e1b](https://github.com/jcornwell-river/dsiprouter/commit/68f9b1f66a6579f058026aac150edf7d260c1e1b)  
 > Date: Fri, 28 Dec 2018 18:16:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9590,7 +10266,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa306ebbebfe90ed57cecbf5d170a5670efc2151)
 ### Fixed an issue that stoped dSIPRouter from starting up after the install.  Also, started to decouple the dSIPRouter UI from the rest of the install - Docker here we come
 
-> Commit: [fa306ebbebfe90ed57cecbf5d170a5670efc2151](https://git.flyball.co/dsiprouter/enterprise/commit/fa306ebbebfe90ed57cecbf5d170a5670efc2151)  
+> Commit: [fa306ebbebfe90ed57cecbf5d170a5670efc2151](https://github.com/jcornwell-river/dsiprouter/commit/fa306ebbebfe90ed57cecbf5d170a5670efc2151)  
 > Date: Fri, 28 Dec 2018 23:14:33 +0000  
 > Author: root (mack@dsiprouter.org)  
 > Committer: root (mack@dsiprouter.org)  
@@ -9605,7 +10281,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a77115c64ec17be4382284d7e7da7ceffd81b796)
 ### Update centos-install.rst
 
-> Commit: [a77115c64ec17be4382284d7e7da7ceffd81b796](https://git.flyball.co/dsiprouter/enterprise/commit/a77115c64ec17be4382284d7e7da7ceffd81b796)  
+> Commit: [a77115c64ec17be4382284d7e7da7ceffd81b796](https://github.com/jcornwell-river/dsiprouter/commit/a77115c64ec17be4382284d7e7da7ceffd81b796)  
 > Date: Fri, 28 Dec 2018 16:44:29 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9620,7 +10296,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c7e1cf85df43725857ab626818bb4f464a5fbed)
 ### Update centos-install.rst
 
-> Commit: [7c7e1cf85df43725857ab626818bb4f464a5fbed](https://git.flyball.co/dsiprouter/enterprise/commit/7c7e1cf85df43725857ab626818bb4f464a5fbed)  
+> Commit: [7c7e1cf85df43725857ab626818bb4f464a5fbed](https://github.com/jcornwell-river/dsiprouter/commit/7c7e1cf85df43725857ab626818bb4f464a5fbed)  
 > Date: Fri, 28 Dec 2018 16:26:47 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9635,7 +10311,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ba0abf4fe1b23978a2479d2e47d38777e88fe8da)
 ### Update centos-install.rst
 
-> Commit: [ba0abf4fe1b23978a2479d2e47d38777e88fe8da](https://git.flyball.co/dsiprouter/enterprise/commit/ba0abf4fe1b23978a2479d2e47d38777e88fe8da)  
+> Commit: [ba0abf4fe1b23978a2479d2e47d38777e88fe8da](https://github.com/jcornwell-river/dsiprouter/commit/ba0abf4fe1b23978a2479d2e47d38777e88fe8da)  
 > Date: Fri, 28 Dec 2018 09:29:15 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9650,7 +10326,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5c9045fce266d3460c68c8a91db8c0bae73928d4)
 ### Update centos-install.rst
 
-> Commit: [5c9045fce266d3460c68c8a91db8c0bae73928d4](https://git.flyball.co/dsiprouter/enterprise/commit/5c9045fce266d3460c68c8a91db8c0bae73928d4)  
+> Commit: [5c9045fce266d3460c68c8a91db8c0bae73928d4](https://github.com/jcornwell-river/dsiprouter/commit/5c9045fce266d3460c68c8a91db8c0bae73928d4)  
 > Date: Fri, 28 Dec 2018 09:27:50 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9665,7 +10341,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 213dadb37638d3907b081787817dd0bd29c7801d)
 ### Update installing.rst
 
-> Commit: [213dadb37638d3907b081787817dd0bd29c7801d](https://git.flyball.co/dsiprouter/enterprise/commit/213dadb37638d3907b081787817dd0bd29c7801d)  
+> Commit: [213dadb37638d3907b081787817dd0bd29c7801d](https://github.com/jcornwell-river/dsiprouter/commit/213dadb37638d3907b081787817dd0bd29c7801d)  
 > Date: Fri, 28 Dec 2018 08:55:49 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9680,7 +10356,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5dac9a380d67d645ef6ee855bc8db7bb2fa240f4)
 ### Update installing.rst
 
-> Commit: [5dac9a380d67d645ef6ee855bc8db7bb2fa240f4](https://git.flyball.co/dsiprouter/enterprise/commit/5dac9a380d67d645ef6ee855bc8db7bb2fa240f4)  
+> Commit: [5dac9a380d67d645ef6ee855bc8db7bb2fa240f4](https://github.com/jcornwell-river/dsiprouter/commit/5dac9a380d67d645ef6ee855bc8db7bb2fa240f4)  
 > Date: Fri, 28 Dec 2018 08:49:36 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9695,7 +10371,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 56aadb779fa63e3751a4fe096fbf0f6fe0b8c6ff)
 ### Update centos-install.rst
 
-> Commit: [56aadb779fa63e3751a4fe096fbf0f6fe0b8c6ff](https://git.flyball.co/dsiprouter/enterprise/commit/56aadb779fa63e3751a4fe096fbf0f6fe0b8c6ff)  
+> Commit: [56aadb779fa63e3751a4fe096fbf0f6fe0b8c6ff](https://github.com/jcornwell-river/dsiprouter/commit/56aadb779fa63e3751a4fe096fbf0f6fe0b8c6ff)  
 > Date: Fri, 28 Dec 2018 08:48:39 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9710,7 +10386,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 380777056cadabb8b2088bc504764f6f5a988e3a)
 ### Update centos-install.rst
 
-> Commit: [380777056cadabb8b2088bc504764f6f5a988e3a](https://git.flyball.co/dsiprouter/enterprise/commit/380777056cadabb8b2088bc504764f6f5a988e3a)  
+> Commit: [380777056cadabb8b2088bc504764f6f5a988e3a](https://github.com/jcornwell-river/dsiprouter/commit/380777056cadabb8b2088bc504764f6f5a988e3a)  
 > Date: Fri, 28 Dec 2018 08:48:15 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9725,7 +10401,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8e12884d2b5b749d7f004a76bff484938ae9949)
 ### Create centos-install.rst
 
-> Commit: [f8e12884d2b5b749d7f004a76bff484938ae9949](https://git.flyball.co/dsiprouter/enterprise/commit/f8e12884d2b5b749d7f004a76bff484938ae9949)  
+> Commit: [f8e12884d2b5b749d7f004a76bff484938ae9949](https://github.com/jcornwell-river/dsiprouter/commit/f8e12884d2b5b749d7f004a76bff484938ae9949)  
 > Date: Fri, 28 Dec 2018 08:45:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9740,7 +10416,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ff9cfc9e20b5804ed54ffac937af1c1d923c4b52)
 ### Update installing.rst
 
-> Commit: [ff9cfc9e20b5804ed54ffac937af1c1d923c4b52](https://git.flyball.co/dsiprouter/enterprise/commit/ff9cfc9e20b5804ed54ffac937af1c1d923c4b52)  
+> Commit: [ff9cfc9e20b5804ed54ffac937af1c1d923c4b52](https://github.com/jcornwell-river/dsiprouter/commit/ff9cfc9e20b5804ed54ffac937af1c1d923c4b52)  
 > Date: Fri, 28 Dec 2018 08:44:38 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9755,7 +10431,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 11f42d1ca38c9a24d8c86d1e6f3b4f5697b62a50)
 ### Update debian_install.rst
 
-> Commit: [11f42d1ca38c9a24d8c86d1e6f3b4f5697b62a50](https://git.flyball.co/dsiprouter/enterprise/commit/11f42d1ca38c9a24d8c86d1e6f3b4f5697b62a50)  
+> Commit: [11f42d1ca38c9a24d8c86d1e6f3b4f5697b62a50](https://github.com/jcornwell-river/dsiprouter/commit/11f42d1ca38c9a24d8c86d1e6f3b4f5697b62a50)  
 > Date: Fri, 28 Dec 2018 08:43:17 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9770,7 +10446,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8cd24935a6a68bc5da3f95ed7b8098c639b286a8)
 ### Update installing.rst
 
-> Commit: [8cd24935a6a68bc5da3f95ed7b8098c639b286a8](https://git.flyball.co/dsiprouter/enterprise/commit/8cd24935a6a68bc5da3f95ed7b8098c639b286a8)  
+> Commit: [8cd24935a6a68bc5da3f95ed7b8098c639b286a8](https://github.com/jcornwell-river/dsiprouter/commit/8cd24935a6a68bc5da3f95ed7b8098c639b286a8)  
 > Date: Fri, 28 Dec 2018 08:41:57 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9785,7 +10461,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 44db64adf744fca1005aaad64cb679c8e46480b9)
 ### Create debian_install.rst
 
-> Commit: [44db64adf744fca1005aaad64cb679c8e46480b9](https://git.flyball.co/dsiprouter/enterprise/commit/44db64adf744fca1005aaad64cb679c8e46480b9)  
+> Commit: [44db64adf744fca1005aaad64cb679c8e46480b9](https://github.com/jcornwell-river/dsiprouter/commit/44db64adf744fca1005aaad64cb679c8e46480b9)  
 > Date: Fri, 28 Dec 2018 08:35:38 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9800,7 +10476,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 07a29500e828892fd6f9f3bd32791daa93523c33)
 ### Update installing.rst
 
-> Commit: [07a29500e828892fd6f9f3bd32791daa93523c33](https://git.flyball.co/dsiprouter/enterprise/commit/07a29500e828892fd6f9f3bd32791daa93523c33)  
+> Commit: [07a29500e828892fd6f9f3bd32791daa93523c33](https://github.com/jcornwell-river/dsiprouter/commit/07a29500e828892fd6f9f3bd32791daa93523c33)  
 > Date: Fri, 28 Dec 2018 08:34:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -9815,7 +10491,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 00d60f84e5beb610ad2d414caa16071ee8318c20)
 ### Fixed the CentOS 7 install so that MariaDB starts before Kamailio
 
-> Commit: [00d60f84e5beb610ad2d414caa16071ee8318c20](https://git.flyball.co/dsiprouter/enterprise/commit/00d60f84e5beb610ad2d414caa16071ee8318c20)  
+> Commit: [00d60f84e5beb610ad2d414caa16071ee8318c20](https://github.com/jcornwell-river/dsiprouter/commit/00d60f84e5beb610ad2d414caa16071ee8318c20)  
 > Date: Fri, 28 Dec 2018 13:31:54 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9830,7 +10506,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e6165884c69419cc706edbe695ee44bf594201c)
 ### Fixed RTPEngine
 
-> Commit: [9e6165884c69419cc706edbe695ee44bf594201c](https://git.flyball.co/dsiprouter/enterprise/commit/9e6165884c69419cc706edbe695ee44bf594201c)  
+> Commit: [9e6165884c69419cc706edbe695ee44bf594201c](https://github.com/jcornwell-river/dsiprouter/commit/9e6165884c69419cc706edbe695ee44bf594201c)  
 > Date: Fri, 28 Dec 2018 10:04:49 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9845,7 +10521,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION db85442c55b983a53acf28b630c26156f5c78a7a)
 ### Removed the yum update from the RTPEngine install section for CentOS - it was causing us to reboot before completing the install of RTPEngine
 
-> Commit: [db85442c55b983a53acf28b630c26156f5c78a7a](https://git.flyball.co/dsiprouter/enterprise/commit/db85442c55b983a53acf28b630c26156f5c78a7a)  
+> Commit: [db85442c55b983a53acf28b630c26156f5c78a7a](https://github.com/jcornwell-river/dsiprouter/commit/db85442c55b983a53acf28b630c26156f5c78a7a)  
 > Date: Fri, 28 Dec 2018 09:03:40 +0000  
 > Author: root (mack.hendricks@gmail.com)  
 > Committer: root (mack.hendricks@gmail.com)  
@@ -9860,7 +10536,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a39c1523d84b91a9fb2153966c01f40545d263a9)
 ### Fixed issues with installing on CentOS 7
 
-> Commit: [a39c1523d84b91a9fb2153966c01f40545d263a9](https://git.flyball.co/dsiprouter/enterprise/commit/a39c1523d84b91a9fb2153966c01f40545d263a9)  
+> Commit: [a39c1523d84b91a9fb2153966c01f40545d263a9](https://github.com/jcornwell-river/dsiprouter/commit/a39c1523d84b91a9fb2153966c01f40545d263a9)  
 > Date: Fri, 28 Dec 2018 08:30:51 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9875,7 +10551,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4c32ffe5e1ae60996f08362524f0a31e156e580)
 ### Fixed the hostname of the service that provides the external ip of the server
 
-> Commit: [e4c32ffe5e1ae60996f08362524f0a31e156e580](https://git.flyball.co/dsiprouter/enterprise/commit/e4c32ffe5e1ae60996f08362524f0a31e156e580)  
+> Commit: [e4c32ffe5e1ae60996f08362524f0a31e156e580](https://github.com/jcornwell-river/dsiprouter/commit/e4c32ffe5e1ae60996f08362524f0a31e156e580)  
 > Date: Thu, 27 Dec 2018 20:23:43 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9890,7 +10566,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 53f6940f23637c92e9b3c7f2590489f1a04fee8b)
 ### Fixed the hostname of the service that provides the external ip of the server
 
-> Commit: [53f6940f23637c92e9b3c7f2590489f1a04fee8b](https://git.flyball.co/dsiprouter/enterprise/commit/53f6940f23637c92e9b3c7f2590489f1a04fee8b)  
+> Commit: [53f6940f23637c92e9b3c7f2590489f1a04fee8b](https://github.com/jcornwell-river/dsiprouter/commit/53f6940f23637c92e9b3c7f2590489f1a04fee8b)  
 > Date: Thu, 27 Dec 2018 20:23:43 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -9905,7 +10581,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a31a5aab83265cae124030e31afb2d8161517a49)
 ### AMI build updates
 
-> Commit: [a31a5aab83265cae124030e31afb2d8161517a49](https://git.flyball.co/dsiprouter/enterprise/commit/a31a5aab83265cae124030e31afb2d8161517a49)  
+> Commit: [a31a5aab83265cae124030e31afb2d8161517a49](https://github.com/jcornwell-river/dsiprouter/commit/a31a5aab83265cae124030e31afb2d8161517a49)  
 > Date: Fri, 21 Dec 2018 16:35:14 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9926,7 +10602,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4e66d02f7be46804f4291e52a2913dca11398bb4)
 ### AMI image pw reset fix
 
-> Commit: [4e66d02f7be46804f4291e52a2913dca11398bb4](https://git.flyball.co/dsiprouter/enterprise/commit/4e66d02f7be46804f4291e52a2913dca11398bb4)  
+> Commit: [4e66d02f7be46804f4291e52a2913dca11398bb4](https://github.com/jcornwell-river/dsiprouter/commit/4e66d02f7be46804f4291e52a2913dca11398bb4)  
 > Date: Fri, 21 Dec 2018 13:50:05 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9942,7 +10618,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9c9a4e85c250fdfc52889e313e88bab93361a67)
 ### Fix AMI bootstrap file
 
-> Commit: [d9c9a4e85c250fdfc52889e313e88bab93361a67](https://git.flyball.co/dsiprouter/enterprise/commit/d9c9a4e85c250fdfc52889e313e88bab93361a67)  
+> Commit: [d9c9a4e85c250fdfc52889e313e88bab93361a67](https://github.com/jcornwell-river/dsiprouter/commit/d9c9a4e85c250fdfc52889e313e88bab93361a67)  
 > Date: Fri, 21 Dec 2018 13:32:35 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9958,7 +10634,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d427e156f02e5ae80971c5adedab736e4570218)
 ### Updates for AMI image install
 
-> Commit: [3d427e156f02e5ae80971c5adedab736e4570218](https://git.flyball.co/dsiprouter/enterprise/commit/3d427e156f02e5ae80971c5adedab736e4570218)  
+> Commit: [3d427e156f02e5ae80971c5adedab736e4570218](https://github.com/jcornwell-river/dsiprouter/commit/3d427e156f02e5ae80971c5adedab736e4570218)  
 > Date: Fri, 21 Dec 2018 12:34:30 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9976,7 +10652,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2817457d03d14b9b8c919d14a4398ad11a9724f2)
 ### Fixes to AMI image support
 
-> Commit: [2817457d03d14b9b8c919d14a4398ad11a9724f2](https://git.flyball.co/dsiprouter/enterprise/commit/2817457d03d14b9b8c919d14a4398ad11a9724f2)  
+> Commit: [2817457d03d14b9b8c919d14a4398ad11a9724f2](https://github.com/jcornwell-river/dsiprouter/commit/2817457d03d14b9b8c919d14a4398ad11a9724f2)  
 > Date: Fri, 21 Dec 2018 11:50:49 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -9993,7 +10669,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cf8d21c1423bee2d235b7d2997fb08b13cb2576c)
 ### Updated restart message for AMI instances.
 
-> Commit: [cf8d21c1423bee2d235b7d2997fb08b13cb2576c](https://git.flyball.co/dsiprouter/enterprise/commit/cf8d21c1423bee2d235b7d2997fb08b13cb2576c)  
+> Commit: [cf8d21c1423bee2d235b7d2997fb08b13cb2576c](https://github.com/jcornwell-river/dsiprouter/commit/cf8d21c1423bee2d235b7d2997fb08b13cb2576c)  
 > Date: Fri, 21 Dec 2018 11:34:04 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -10008,7 +10684,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 461216e738dfa7790d86d0bf5fa32a94f22f6b30)
 ### Add support for AMI images
 
-> Commit: [461216e738dfa7790d86d0bf5fa32a94f22f6b30](https://git.flyball.co/dsiprouter/enterprise/commit/461216e738dfa7790d86d0bf5fa32a94f22f6b30)  
+> Commit: [461216e738dfa7790d86d0bf5fa32a94f22f6b30](https://github.com/jcornwell-river/dsiprouter/commit/461216e738dfa7790d86d0bf5fa32a94f22f6b30)  
 > Date: Fri, 21 Dec 2018 11:21:36 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -10027,7 +10703,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6fb37dafdc35a91ac066c8b82598db9a565c5c6a)
 ### Add files via upload
 
-> Commit: [6fb37dafdc35a91ac066c8b82598db9a565c5c6a](https://git.flyball.co/dsiprouter/enterprise/commit/6fb37dafdc35a91ac066c8b82598db9a565c5c6a)  
+> Commit: [6fb37dafdc35a91ac066c8b82598db9a565c5c6a](https://github.com/jcornwell-river/dsiprouter/commit/6fb37dafdc35a91ac066c8b82598db9a565c5c6a)  
 > Date: Wed, 19 Dec 2018 15:03:28 -0600  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10042,7 +10718,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dcda7bacf833e3388f96f369bc8e1a713cfff943)
 ### Update use-cases.rst
 
-> Commit: [dcda7bacf833e3388f96f369bc8e1a713cfff943](https://git.flyball.co/dsiprouter/enterprise/commit/dcda7bacf833e3388f96f369bc8e1a713cfff943)  
+> Commit: [dcda7bacf833e3388f96f369bc8e1a713cfff943](https://github.com/jcornwell-river/dsiprouter/commit/dcda7bacf833e3388f96f369bc8e1a713cfff943)  
 > Date: Wed, 19 Dec 2018 10:18:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10057,7 +10733,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6b7441318d53089d8178c5fd92d47b625836c38c)
 ### Update use-cases.rst
 
-> Commit: [6b7441318d53089d8178c5fd92d47b625836c38c](https://git.flyball.co/dsiprouter/enterprise/commit/6b7441318d53089d8178c5fd92d47b625836c38c)  
+> Commit: [6b7441318d53089d8178c5fd92d47b625836c38c](https://github.com/jcornwell-river/dsiprouter/commit/6b7441318d53089d8178c5fd92d47b625836c38c)  
 > Date: Wed, 19 Dec 2018 10:12:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10072,7 +10748,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed1d68e393d336f3860968921d17a19c080f82ef)
 ### Update use-cases.rst
 
-> Commit: [ed1d68e393d336f3860968921d17a19c080f82ef](https://git.flyball.co/dsiprouter/enterprise/commit/ed1d68e393d336f3860968921d17a19c080f82ef)  
+> Commit: [ed1d68e393d336f3860968921d17a19c080f82ef](https://github.com/jcornwell-river/dsiprouter/commit/ed1d68e393d336f3860968921d17a19c080f82ef)  
 > Date: Wed, 19 Dec 2018 10:11:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10087,7 +10763,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5165fdbdf164623a319c97df2d3a1dda239bc350)
 ### Update use-cases.rst
 
-> Commit: [5165fdbdf164623a319c97df2d3a1dda239bc350](https://git.flyball.co/dsiprouter/enterprise/commit/5165fdbdf164623a319c97df2d3a1dda239bc350)  
+> Commit: [5165fdbdf164623a319c97df2d3a1dda239bc350](https://github.com/jcornwell-river/dsiprouter/commit/5165fdbdf164623a319c97df2d3a1dda239bc350)  
 > Date: Wed, 19 Dec 2018 10:10:04 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10102,7 +10778,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION edcd5b42498f1658c88938b38d66ef23b3e997b0)
 ### Update use-cases.rst
 
-> Commit: [edcd5b42498f1658c88938b38d66ef23b3e997b0](https://git.flyball.co/dsiprouter/enterprise/commit/edcd5b42498f1658c88938b38d66ef23b3e997b0)  
+> Commit: [edcd5b42498f1658c88938b38d66ef23b3e997b0](https://github.com/jcornwell-river/dsiprouter/commit/edcd5b42498f1658c88938b38d66ef23b3e997b0)  
 > Date: Wed, 19 Dec 2018 10:07:45 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10117,7 +10793,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a8f51d584f6de535a545173d2e714c34c9f057d5)
 ### Update use-cases.rst
 
-> Commit: [a8f51d584f6de535a545173d2e714c34c9f057d5](https://git.flyball.co/dsiprouter/enterprise/commit/a8f51d584f6de535a545173d2e714c34c9f057d5)  
+> Commit: [a8f51d584f6de535a545173d2e714c34c9f057d5](https://github.com/jcornwell-river/dsiprouter/commit/a8f51d584f6de535a545173d2e714c34c9f057d5)  
 > Date: Wed, 19 Dec 2018 10:05:32 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10132,7 +10808,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 921ad20d8c0baebf6ad19398fca666347e17305b)
 ### Update use-cases.rst
 
-> Commit: [921ad20d8c0baebf6ad19398fca666347e17305b](https://git.flyball.co/dsiprouter/enterprise/commit/921ad20d8c0baebf6ad19398fca666347e17305b)  
+> Commit: [921ad20d8c0baebf6ad19398fca666347e17305b](https://github.com/jcornwell-river/dsiprouter/commit/921ad20d8c0baebf6ad19398fca666347e17305b)  
 > Date: Wed, 19 Dec 2018 09:59:21 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10147,7 +10823,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 44fe70810398f30422f01c23f0b4d5119e5ac269)
 ### Update use-cases.rst
 
-> Commit: [44fe70810398f30422f01c23f0b4d5119e5ac269](https://git.flyball.co/dsiprouter/enterprise/commit/44fe70810398f30422f01c23f0b4d5119e5ac269)  
+> Commit: [44fe70810398f30422f01c23f0b4d5119e5ac269](https://github.com/jcornwell-river/dsiprouter/commit/44fe70810398f30422f01c23f0b4d5119e5ac269)  
 > Date: Wed, 19 Dec 2018 09:57:55 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10162,7 +10838,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 04d3d7dbe9aa5b49e4e6edcabaa73de93a99007b)
 ### Update use-cases.rst
 
-> Commit: [04d3d7dbe9aa5b49e4e6edcabaa73de93a99007b](https://git.flyball.co/dsiprouter/enterprise/commit/04d3d7dbe9aa5b49e4e6edcabaa73de93a99007b)  
+> Commit: [04d3d7dbe9aa5b49e4e6edcabaa73de93a99007b](https://github.com/jcornwell-river/dsiprouter/commit/04d3d7dbe9aa5b49e4e6edcabaa73de93a99007b)  
 > Date: Wed, 19 Dec 2018 09:57:05 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10177,7 +10853,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eed48aadbcb3a0099d6339b16d0ca256efd5b2eb)
 ### Update use-cases.rst
 
-> Commit: [eed48aadbcb3a0099d6339b16d0ca256efd5b2eb](https://git.flyball.co/dsiprouter/enterprise/commit/eed48aadbcb3a0099d6339b16d0ca256efd5b2eb)  
+> Commit: [eed48aadbcb3a0099d6339b16d0ca256efd5b2eb](https://github.com/jcornwell-river/dsiprouter/commit/eed48aadbcb3a0099d6339b16d0ca256efd5b2eb)  
 > Date: Wed, 19 Dec 2018 06:59:11 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10192,7 +10868,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77f487b70306be50873167a363b7cbc455ac7a1e)
 ### Update use-cases.rst
 
-> Commit: [77f487b70306be50873167a363b7cbc455ac7a1e](https://git.flyball.co/dsiprouter/enterprise/commit/77f487b70306be50873167a363b7cbc455ac7a1e)  
+> Commit: [77f487b70306be50873167a363b7cbc455ac7a1e](https://github.com/jcornwell-river/dsiprouter/commit/77f487b70306be50873167a363b7cbc455ac7a1e)  
 > Date: Wed, 19 Dec 2018 06:57:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10207,7 +10883,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bdc2997ed709155a166218a613f78877bc8adf99)
 ### Fixed the BYE issue #56 for FusionPBX as well
 
-> Commit: [bdc2997ed709155a166218a613f78877bc8adf99](https://git.flyball.co/dsiprouter/enterprise/commit/bdc2997ed709155a166218a613f78877bc8adf99)  
+> Commit: [bdc2997ed709155a166218a613f78877bc8adf99](https://github.com/jcornwell-river/dsiprouter/commit/bdc2997ed709155a166218a613f78877bc8adf99)  
 > Date: Wed, 19 Dec 2018 19:05:34 +0000  
 > Author: root (root@debian-post51.localdomain)  
 > Committer: root (root@debian-post51.localdomain)  
@@ -10222,7 +10898,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e5f2cd20edad11523f89f70fb5a9a0bbe976e220)
 ### Fixed issue #56
 
-> Commit: [e5f2cd20edad11523f89f70fb5a9a0bbe976e220](https://git.flyball.co/dsiprouter/enterprise/commit/e5f2cd20edad11523f89f70fb5a9a0bbe976e220)  
+> Commit: [e5f2cd20edad11523f89f70fb5a9a0bbe976e220](https://github.com/jcornwell-river/dsiprouter/commit/e5f2cd20edad11523f89f70fb5a9a0bbe976e220)  
 > Date: Wed, 19 Dec 2018 17:40:05 +0000  
 > Author: root (root@demo-dsiprouter.localdomain)  
 > Committer: root (root@demo-dsiprouter.localdomain)  
@@ -10237,7 +10913,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c8f7d9b4118bae93328cd9937a42cf078e12c989)
 ### Update use-cases.rst
 
-> Commit: [c8f7d9b4118bae93328cd9937a42cf078e12c989](https://git.flyball.co/dsiprouter/enterprise/commit/c8f7d9b4118bae93328cd9937a42cf078e12c989)  
+> Commit: [c8f7d9b4118bae93328cd9937a42cf078e12c989](https://github.com/jcornwell-river/dsiprouter/commit/c8f7d9b4118bae93328cd9937a42cf078e12c989)  
 > Date: Wed, 19 Dec 2018 10:29:40 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10252,7 +10928,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3255032cd4fa5aaa8339ae3307fcc40e2c1e5526)
 ### Update use-cases.rst
 
-> Commit: [3255032cd4fa5aaa8339ae3307fcc40e2c1e5526](https://git.flyball.co/dsiprouter/enterprise/commit/3255032cd4fa5aaa8339ae3307fcc40e2c1e5526)  
+> Commit: [3255032cd4fa5aaa8339ae3307fcc40e2c1e5526](https://github.com/jcornwell-river/dsiprouter/commit/3255032cd4fa5aaa8339ae3307fcc40e2c1e5526)  
 > Date: Wed, 19 Dec 2018 10:20:09 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10267,7 +10943,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fcb9686346d364b4d16eb7bebaebef1c9bbee05b)
 ### Update use-cases.rst
 
-> Commit: [fcb9686346d364b4d16eb7bebaebef1c9bbee05b](https://git.flyball.co/dsiprouter/enterprise/commit/fcb9686346d364b4d16eb7bebaebef1c9bbee05b)  
+> Commit: [fcb9686346d364b4d16eb7bebaebef1c9bbee05b](https://github.com/jcornwell-river/dsiprouter/commit/fcb9686346d364b4d16eb7bebaebef1c9bbee05b)  
 > Date: Wed, 19 Dec 2018 10:18:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10282,7 +10958,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 453da82b53c59342919230bb97ac103e7d19f5ca)
 ### Update use-cases.rst
 
-> Commit: [453da82b53c59342919230bb97ac103e7d19f5ca](https://git.flyball.co/dsiprouter/enterprise/commit/453da82b53c59342919230bb97ac103e7d19f5ca)  
+> Commit: [453da82b53c59342919230bb97ac103e7d19f5ca](https://github.com/jcornwell-river/dsiprouter/commit/453da82b53c59342919230bb97ac103e7d19f5ca)  
 > Date: Wed, 19 Dec 2018 10:12:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10297,7 +10973,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5df0b5ada91bead8b0c1ce43133ce31bb988721d)
 ### Update use-cases.rst
 
-> Commit: [5df0b5ada91bead8b0c1ce43133ce31bb988721d](https://git.flyball.co/dsiprouter/enterprise/commit/5df0b5ada91bead8b0c1ce43133ce31bb988721d)  
+> Commit: [5df0b5ada91bead8b0c1ce43133ce31bb988721d](https://github.com/jcornwell-river/dsiprouter/commit/5df0b5ada91bead8b0c1ce43133ce31bb988721d)  
 > Date: Wed, 19 Dec 2018 10:11:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10312,7 +10988,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c92eda77ba173040b0a35da9232869f02e23b31)
 ### Update use-cases.rst
 
-> Commit: [0c92eda77ba173040b0a35da9232869f02e23b31](https://git.flyball.co/dsiprouter/enterprise/commit/0c92eda77ba173040b0a35da9232869f02e23b31)  
+> Commit: [0c92eda77ba173040b0a35da9232869f02e23b31](https://github.com/jcornwell-river/dsiprouter/commit/0c92eda77ba173040b0a35da9232869f02e23b31)  
 > Date: Wed, 19 Dec 2018 10:10:04 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10327,7 +11003,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c7f3890d56ca343518535df5254586262c26ca14)
 ### Update use-cases.rst
 
-> Commit: [c7f3890d56ca343518535df5254586262c26ca14](https://git.flyball.co/dsiprouter/enterprise/commit/c7f3890d56ca343518535df5254586262c26ca14)  
+> Commit: [c7f3890d56ca343518535df5254586262c26ca14](https://github.com/jcornwell-river/dsiprouter/commit/c7f3890d56ca343518535df5254586262c26ca14)  
 > Date: Wed, 19 Dec 2018 10:07:45 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10342,7 +11018,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f3622aab4b6f207b1ce84f7997dc3650f3f50a4e)
 ### Update use-cases.rst
 
-> Commit: [f3622aab4b6f207b1ce84f7997dc3650f3f50a4e](https://git.flyball.co/dsiprouter/enterprise/commit/f3622aab4b6f207b1ce84f7997dc3650f3f50a4e)  
+> Commit: [f3622aab4b6f207b1ce84f7997dc3650f3f50a4e](https://github.com/jcornwell-river/dsiprouter/commit/f3622aab4b6f207b1ce84f7997dc3650f3f50a4e)  
 > Date: Wed, 19 Dec 2018 10:05:32 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10357,7 +11033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ee463965c59f9fd8f31c162345be3784dd08ae92)
 ### Update use-cases.rst
 
-> Commit: [ee463965c59f9fd8f31c162345be3784dd08ae92](https://git.flyball.co/dsiprouter/enterprise/commit/ee463965c59f9fd8f31c162345be3784dd08ae92)  
+> Commit: [ee463965c59f9fd8f31c162345be3784dd08ae92](https://github.com/jcornwell-river/dsiprouter/commit/ee463965c59f9fd8f31c162345be3784dd08ae92)  
 > Date: Wed, 19 Dec 2018 09:59:21 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10372,7 +11048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0616d64521ad05f27ec02c43467f4246d20439d3)
 ### Update use-cases.rst
 
-> Commit: [0616d64521ad05f27ec02c43467f4246d20439d3](https://git.flyball.co/dsiprouter/enterprise/commit/0616d64521ad05f27ec02c43467f4246d20439d3)  
+> Commit: [0616d64521ad05f27ec02c43467f4246d20439d3](https://github.com/jcornwell-river/dsiprouter/commit/0616d64521ad05f27ec02c43467f4246d20439d3)  
 > Date: Wed, 19 Dec 2018 09:57:55 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10387,7 +11063,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 97fe92ebc2bba8e18fdf11834703cd25a9889e55)
 ### Update use-cases.rst
 
-> Commit: [97fe92ebc2bba8e18fdf11834703cd25a9889e55](https://git.flyball.co/dsiprouter/enterprise/commit/97fe92ebc2bba8e18fdf11834703cd25a9889e55)  
+> Commit: [97fe92ebc2bba8e18fdf11834703cd25a9889e55](https://github.com/jcornwell-river/dsiprouter/commit/97fe92ebc2bba8e18fdf11834703cd25a9889e55)  
 > Date: Wed, 19 Dec 2018 09:57:05 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10402,7 +11078,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8cc732379d61f12545214351227b96d33e81d6c8)
 ### Add files via upload
 
-> Commit: [8cc732379d61f12545214351227b96d33e81d6c8](https://git.flyball.co/dsiprouter/enterprise/commit/8cc732379d61f12545214351227b96d33e81d6c8)  
+> Commit: [8cc732379d61f12545214351227b96d33e81d6c8](https://github.com/jcornwell-river/dsiprouter/commit/8cc732379d61f12545214351227b96d33e81d6c8)  
 > Date: Wed, 19 Dec 2018 08:56:39 -0600  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10417,7 +11093,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0817c9ad7c76c8dc9f6c04a5b64230ceac788eb8)
 ### Update use-cases.rst
 
-> Commit: [0817c9ad7c76c8dc9f6c04a5b64230ceac788eb8](https://git.flyball.co/dsiprouter/enterprise/commit/0817c9ad7c76c8dc9f6c04a5b64230ceac788eb8)  
+> Commit: [0817c9ad7c76c8dc9f6c04a5b64230ceac788eb8](https://github.com/jcornwell-river/dsiprouter/commit/0817c9ad7c76c8dc9f6c04a5b64230ceac788eb8)  
 > Date: Wed, 19 Dec 2018 06:59:11 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10432,7 +11108,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION daab25528053c5430942d3734593046b09c0735a)
 ### Update use-cases.rst
 
-> Commit: [daab25528053c5430942d3734593046b09c0735a](https://git.flyball.co/dsiprouter/enterprise/commit/daab25528053c5430942d3734593046b09c0735a)  
+> Commit: [daab25528053c5430942d3734593046b09c0735a](https://github.com/jcornwell-river/dsiprouter/commit/daab25528053c5430942d3734593046b09c0735a)  
 > Date: Wed, 19 Dec 2018 06:57:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10447,7 +11123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a30501a6e9356518a6d47951b7d201ae7462c00)
 ### Added files for documenting FreePBX - Pass Thru
 
-> Commit: [6a30501a6e9356518a6d47951b7d201ae7462c00](https://git.flyball.co/dsiprouter/enterprise/commit/6a30501a6e9356518a6d47951b7d201ae7462c00)  
+> Commit: [6a30501a6e9356518a6d47951b7d201ae7462c00](https://github.com/jcornwell-river/dsiprouter/commit/6a30501a6e9356518a6d47951b7d201ae7462c00)  
 > Date: Wed, 19 Dec 2018 05:53:52 -0600  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10462,7 +11138,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa8222a169bfa56c56addb8cfb8e2782a0b291c1)
 ### Update index.rst
 
-> Commit: [fa8222a169bfa56c56addb8cfb8e2782a0b291c1](https://git.flyball.co/dsiprouter/enterprise/commit/fa8222a169bfa56c56addb8cfb8e2782a0b291c1)  
+> Commit: [fa8222a169bfa56c56addb8cfb8e2782a0b291c1](https://github.com/jcornwell-river/dsiprouter/commit/fa8222a169bfa56c56addb8cfb8e2782a0b291c1)  
 > Date: Tue, 18 Dec 2018 05:43:29 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10477,7 +11153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 609550397bb6bde78991a8eea0701a9380113af6)
 ### Update upgrade.rst
 
-> Commit: [609550397bb6bde78991a8eea0701a9380113af6](https://git.flyball.co/dsiprouter/enterprise/commit/609550397bb6bde78991a8eea0701a9380113af6)  
+> Commit: [609550397bb6bde78991a8eea0701a9380113af6](https://github.com/jcornwell-river/dsiprouter/commit/609550397bb6bde78991a8eea0701a9380113af6)  
 > Date: Tue, 18 Dec 2018 05:28:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10492,7 +11168,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d47aeae457dcaf92ed21b63d134359ed50e1af3)
 ### Update index.rst
 
-> Commit: [3d47aeae457dcaf92ed21b63d134359ed50e1af3](https://git.flyball.co/dsiprouter/enterprise/commit/3d47aeae457dcaf92ed21b63d134359ed50e1af3)  
+> Commit: [3d47aeae457dcaf92ed21b63d134359ed50e1af3](https://github.com/jcornwell-river/dsiprouter/commit/3d47aeae457dcaf92ed21b63d134359ed50e1af3)  
 > Date: Mon, 17 Dec 2018 10:22:00 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10507,7 +11183,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f3543191335117632af7ee612dc7b1f5e65f92ba)
 ### Update index.rst
 
-> Commit: [f3543191335117632af7ee612dc7b1f5e65f92ba](https://git.flyball.co/dsiprouter/enterprise/commit/f3543191335117632af7ee612dc7b1f5e65f92ba)  
+> Commit: [f3543191335117632af7ee612dc7b1f5e65f92ba](https://github.com/jcornwell-river/dsiprouter/commit/f3543191335117632af7ee612dc7b1f5e65f92ba)  
 > Date: Mon, 17 Dec 2018 10:21:30 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10522,7 +11198,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9dfa4e37ad094fb0c2076e0d03f547700c9a2250)
 ### Fixed domain support
 
-> Commit: [9dfa4e37ad094fb0c2076e0d03f547700c9a2250](https://git.flyball.co/dsiprouter/enterprise/commit/9dfa4e37ad094fb0c2076e0d03f547700c9a2250)  
+> Commit: [9dfa4e37ad094fb0c2076e0d03f547700c9a2250](https://github.com/jcornwell-river/dsiprouter/commit/9dfa4e37ad094fb0c2076e0d03f547700c9a2250)  
 > Date: Mon, 17 Dec 2018 12:02:33 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -10537,7 +11213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c6ca8da2268aeb7471a4a7e7ecb0a91b6c1403f7)
 ### Update index.rst
 
-> Commit: [c6ca8da2268aeb7471a4a7e7ecb0a91b6c1403f7](https://git.flyball.co/dsiprouter/enterprise/commit/c6ca8da2268aeb7471a4a7e7ecb0a91b6c1403f7)  
+> Commit: [c6ca8da2268aeb7471a4a7e7ecb0a91b6c1403f7](https://github.com/jcornwell-river/dsiprouter/commit/c6ca8da2268aeb7471a4a7e7ecb0a91b6c1403f7)  
 > Date: Sat, 15 Dec 2018 04:37:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10552,7 +11228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a2ea8cd20379fda7bde5886f59498235de34ad2d)
 ### Update upgrade.rst
 
-> Commit: [a2ea8cd20379fda7bde5886f59498235de34ad2d](https://git.flyball.co/dsiprouter/enterprise/commit/a2ea8cd20379fda7bde5886f59498235de34ad2d)  
+> Commit: [a2ea8cd20379fda7bde5886f59498235de34ad2d](https://github.com/jcornwell-river/dsiprouter/commit/a2ea8cd20379fda7bde5886f59498235de34ad2d)  
 > Date: Fri, 14 Dec 2018 15:46:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10567,7 +11243,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cbd26d3ca965a86c1ca286e0291ea0b7cd6faf31)
 ### Update upgrade.rst
 
-> Commit: [cbd26d3ca965a86c1ca286e0291ea0b7cd6faf31](https://git.flyball.co/dsiprouter/enterprise/commit/cbd26d3ca965a86c1ca286e0291ea0b7cd6faf31)  
+> Commit: [cbd26d3ca965a86c1ca286e0291ea0b7cd6faf31](https://github.com/jcornwell-river/dsiprouter/commit/cbd26d3ca965a86c1ca286e0291ea0b7cd6faf31)  
 > Date: Fri, 14 Dec 2018 15:41:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10582,7 +11258,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce8adf1b5273038f21dfc5dd8b7b74249e395a95)
 ### Update upgrade.rst
 
-> Commit: [ce8adf1b5273038f21dfc5dd8b7b74249e395a95](https://git.flyball.co/dsiprouter/enterprise/commit/ce8adf1b5273038f21dfc5dd8b7b74249e395a95)  
+> Commit: [ce8adf1b5273038f21dfc5dd8b7b74249e395a95](https://github.com/jcornwell-river/dsiprouter/commit/ce8adf1b5273038f21dfc5dd8b7b74249e395a95)  
 > Date: Fri, 14 Dec 2018 15:35:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10597,7 +11273,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3dc44779f8e0875e678ea03c20e17c9d445024ad)
 ### Update upgrade.rst
 
-> Commit: [3dc44779f8e0875e678ea03c20e17c9d445024ad](https://git.flyball.co/dsiprouter/enterprise/commit/3dc44779f8e0875e678ea03c20e17c9d445024ad)  
+> Commit: [3dc44779f8e0875e678ea03c20e17c9d445024ad](https://github.com/jcornwell-river/dsiprouter/commit/3dc44779f8e0875e678ea03c20e17c9d445024ad)  
 > Date: Fri, 14 Dec 2018 15:15:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10612,7 +11288,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6237b951c3b52feae6841d91aa8e10a25f583921)
 ### Update upgrade.rst
 
-> Commit: [6237b951c3b52feae6841d91aa8e10a25f583921](https://git.flyball.co/dsiprouter/enterprise/commit/6237b951c3b52feae6841d91aa8e10a25f583921)  
+> Commit: [6237b951c3b52feae6841d91aa8e10a25f583921](https://github.com/jcornwell-river/dsiprouter/commit/6237b951c3b52feae6841d91aa8e10a25f583921)  
 > Date: Fri, 14 Dec 2018 15:13:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10627,7 +11303,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b8346484331f3344c4b5c1f9caa75cdc542861e2)
 ### Add files via upload
 
-> Commit: [b8346484331f3344c4b5c1f9caa75cdc542861e2](https://git.flyball.co/dsiprouter/enterprise/commit/b8346484331f3344c4b5c1f9caa75cdc542861e2)  
+> Commit: [b8346484331f3344c4b5c1f9caa75cdc542861e2](https://github.com/jcornwell-river/dsiprouter/commit/b8346484331f3344c4b5c1f9caa75cdc542861e2)  
 > Date: Fri, 14 Dec 2018 15:12:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10642,7 +11318,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 03adc3156bd16c5fcdbb83619bc0770524930361)
 ### Update upgrade.rst
 
-> Commit: [03adc3156bd16c5fcdbb83619bc0770524930361](https://git.flyball.co/dsiprouter/enterprise/commit/03adc3156bd16c5fcdbb83619bc0770524930361)  
+> Commit: [03adc3156bd16c5fcdbb83619bc0770524930361](https://github.com/jcornwell-river/dsiprouter/commit/03adc3156bd16c5fcdbb83619bc0770524930361)  
 > Date: Fri, 14 Dec 2018 15:11:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10657,7 +11333,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3cb41569351838ab46ff9f533d06d9b4ae3d89fc)
 ### Update upgrade.rst
 
-> Commit: [3cb41569351838ab46ff9f533d06d9b4ae3d89fc](https://git.flyball.co/dsiprouter/enterprise/commit/3cb41569351838ab46ff9f533d06d9b4ae3d89fc)  
+> Commit: [3cb41569351838ab46ff9f533d06d9b4ae3d89fc](https://github.com/jcornwell-river/dsiprouter/commit/3cb41569351838ab46ff9f533d06d9b4ae3d89fc)  
 > Date: Fri, 14 Dec 2018 15:01:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10672,7 +11348,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f01c855e592c9851b9c55d7db90b5969fd426868)
 ### Update upgrade.rst
 
-> Commit: [f01c855e592c9851b9c55d7db90b5969fd426868](https://git.flyball.co/dsiprouter/enterprise/commit/f01c855e592c9851b9c55d7db90b5969fd426868)  
+> Commit: [f01c855e592c9851b9c55d7db90b5969fd426868](https://github.com/jcornwell-river/dsiprouter/commit/f01c855e592c9851b9c55d7db90b5969fd426868)  
 > Date: Fri, 14 Dec 2018 14:59:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10687,7 +11363,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 57395c0f477f7c865266322d3556c7583a5e72a6)
 ### Update upgrade.rst
 
-> Commit: [57395c0f477f7c865266322d3556c7583a5e72a6](https://git.flyball.co/dsiprouter/enterprise/commit/57395c0f477f7c865266322d3556c7583a5e72a6)  
+> Commit: [57395c0f477f7c865266322d3556c7583a5e72a6](https://github.com/jcornwell-river/dsiprouter/commit/57395c0f477f7c865266322d3556c7583a5e72a6)  
 > Date: Fri, 14 Dec 2018 14:51:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10702,7 +11378,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8aa1830a3e65eb9e093a055d59110c69094d6242)
 ### Update upgrade.rst
 
-> Commit: [8aa1830a3e65eb9e093a055d59110c69094d6242](https://git.flyball.co/dsiprouter/enterprise/commit/8aa1830a3e65eb9e093a055d59110c69094d6242)  
+> Commit: [8aa1830a3e65eb9e093a055d59110c69094d6242](https://github.com/jcornwell-river/dsiprouter/commit/8aa1830a3e65eb9e093a055d59110c69094d6242)  
 > Date: Fri, 14 Dec 2018 14:49:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10717,7 +11393,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9f19dcce147e3b82ba5d8a3fea49332c13503366)
 ### Update upgrade.rst
 
-> Commit: [9f19dcce147e3b82ba5d8a3fea49332c13503366](https://git.flyball.co/dsiprouter/enterprise/commit/9f19dcce147e3b82ba5d8a3fea49332c13503366)  
+> Commit: [9f19dcce147e3b82ba5d8a3fea49332c13503366](https://github.com/jcornwell-river/dsiprouter/commit/9f19dcce147e3b82ba5d8a3fea49332c13503366)  
 > Date: Fri, 14 Dec 2018 14:21:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10732,7 +11408,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 746ec4c40b56b3f5cf26d83e5c1bc11a4f21359b)
 ### Update index.rst
 
-> Commit: [746ec4c40b56b3f5cf26d83e5c1bc11a4f21359b](https://git.flyball.co/dsiprouter/enterprise/commit/746ec4c40b56b3f5cf26d83e5c1bc11a4f21359b)  
+> Commit: [746ec4c40b56b3f5cf26d83e5c1bc11a4f21359b](https://github.com/jcornwell-river/dsiprouter/commit/746ec4c40b56b3f5cf26d83e5c1bc11a4f21359b)  
 > Date: Fri, 14 Dec 2018 14:18:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10747,7 +11423,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c1c4292af8ec1c90c5b070aa9048bd430f1844b)
 ### Create upgrade.rst
 
-> Commit: [3c1c4292af8ec1c90c5b070aa9048bd430f1844b](https://git.flyball.co/dsiprouter/enterprise/commit/3c1c4292af8ec1c90c5b070aa9048bd430f1844b)  
+> Commit: [3c1c4292af8ec1c90c5b070aa9048bd430f1844b](https://github.com/jcornwell-river/dsiprouter/commit/3c1c4292af8ec1c90c5b070aa9048bd430f1844b)  
 > Date: Fri, 14 Dec 2018 14:14:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10762,7 +11438,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a59a27bda0a5ba38bc4221b9e7855319e7ab36c1)
 ### Update index.rst
 
-> Commit: [a59a27bda0a5ba38bc4221b9e7855319e7ab36c1](https://git.flyball.co/dsiprouter/enterprise/commit/a59a27bda0a5ba38bc4221b9e7855319e7ab36c1)  
+> Commit: [a59a27bda0a5ba38bc4221b9e7855319e7ab36c1](https://github.com/jcornwell-river/dsiprouter/commit/a59a27bda0a5ba38bc4221b9e7855319e7ab36c1)  
 > Date: Fri, 14 Dec 2018 14:12:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10777,7 +11453,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 09bf9da137d19cbb57e15cdece55bff490238364)
 ### Update README.md
 
-> Commit: [09bf9da137d19cbb57e15cdece55bff490238364](https://git.flyball.co/dsiprouter/enterprise/commit/09bf9da137d19cbb57e15cdece55bff490238364)  
+> Commit: [09bf9da137d19cbb57e15cdece55bff490238364](https://github.com/jcornwell-river/dsiprouter/commit/09bf9da137d19cbb57e15cdece55bff490238364)  
 > Date: Fri, 14 Dec 2018 13:40:17 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10792,7 +11468,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f9afd41bcdc50468b2b12333789f3ecaa598443c)
 ### Update README.md
 
-> Commit: [f9afd41bcdc50468b2b12333789f3ecaa598443c](https://git.flyball.co/dsiprouter/enterprise/commit/f9afd41bcdc50468b2b12333789f3ecaa598443c)  
+> Commit: [f9afd41bcdc50468b2b12333789f3ecaa598443c](https://github.com/jcornwell-river/dsiprouter/commit/f9afd41bcdc50468b2b12333789f3ecaa598443c)  
 > Date: Fri, 14 Dec 2018 13:39:57 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10807,7 +11483,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0835acd461d8403200f1dcbdc6840146651d3dc5)
 ### Update index.rst
 
-> Commit: [0835acd461d8403200f1dcbdc6840146651d3dc5](https://git.flyball.co/dsiprouter/enterprise/commit/0835acd461d8403200f1dcbdc6840146651d3dc5)  
+> Commit: [0835acd461d8403200f1dcbdc6840146651d3dc5](https://github.com/jcornwell-river/dsiprouter/commit/0835acd461d8403200f1dcbdc6840146651d3dc5)  
 > Date: Fri, 14 Dec 2018 13:13:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10822,7 +11498,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0bc8459a29b18b69b630ff293e1b5cbdfe240353)
 ### Update resources.rst
 
-> Commit: [0bc8459a29b18b69b630ff293e1b5cbdfe240353](https://git.flyball.co/dsiprouter/enterprise/commit/0bc8459a29b18b69b630ff293e1b5cbdfe240353)  
+> Commit: [0bc8459a29b18b69b630ff293e1b5cbdfe240353](https://github.com/jcornwell-river/dsiprouter/commit/0bc8459a29b18b69b630ff293e1b5cbdfe240353)  
 > Date: Fri, 14 Dec 2018 13:11:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10837,7 +11513,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0d81ecee5c630442421dd4bef7825de9841e189e)
 ### Update configuring.rst
 
-> Commit: [0d81ecee5c630442421dd4bef7825de9841e189e](https://git.flyball.co/dsiprouter/enterprise/commit/0d81ecee5c630442421dd4bef7825de9841e189e)  
+> Commit: [0d81ecee5c630442421dd4bef7825de9841e189e](https://github.com/jcornwell-river/dsiprouter/commit/0d81ecee5c630442421dd4bef7825de9841e189e)  
 > Date: Fri, 14 Dec 2018 13:08:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10852,7 +11528,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 392844aa937cc2abb498a179debd22f8b48b8072)
 ### Update resources.rst
 
-> Commit: [392844aa937cc2abb498a179debd22f8b48b8072](https://git.flyball.co/dsiprouter/enterprise/commit/392844aa937cc2abb498a179debd22f8b48b8072)  
+> Commit: [392844aa937cc2abb498a179debd22f8b48b8072](https://github.com/jcornwell-river/dsiprouter/commit/392844aa937cc2abb498a179debd22f8b48b8072)  
 > Date: Fri, 14 Dec 2018 13:06:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10867,7 +11543,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92f73f2a4e887e1a18c4fbbf58e6e29f0672990e)
 ### Update configuring.rst
 
-> Commit: [92f73f2a4e887e1a18c4fbbf58e6e29f0672990e](https://git.flyball.co/dsiprouter/enterprise/commit/92f73f2a4e887e1a18c4fbbf58e6e29f0672990e)  
+> Commit: [92f73f2a4e887e1a18c4fbbf58e6e29f0672990e](https://github.com/jcornwell-river/dsiprouter/commit/92f73f2a4e887e1a18c4fbbf58e6e29f0672990e)  
 > Date: Fri, 14 Dec 2018 13:04:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10882,7 +11558,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9d43e76dd04598dff4e2d90dc086ce1126c75a8f)
 ### Update index.rst
 
-> Commit: [9d43e76dd04598dff4e2d90dc086ce1126c75a8f](https://git.flyball.co/dsiprouter/enterprise/commit/9d43e76dd04598dff4e2d90dc086ce1126c75a8f)  
+> Commit: [9d43e76dd04598dff4e2d90dc086ce1126c75a8f](https://github.com/jcornwell-river/dsiprouter/commit/9d43e76dd04598dff4e2d90dc086ce1126c75a8f)  
 > Date: Fri, 14 Dec 2018 12:55:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10897,7 +11573,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 94d678fd6d46196d9c35a0eef6ba84ae9b794b5b)
 ### Fixed the Global Outbound Route issue that prevented routes from being saved
 
-> Commit: [94d678fd6d46196d9c35a0eef6ba84ae9b794b5b](https://git.flyball.co/dsiprouter/enterprise/commit/94d678fd6d46196d9c35a0eef6ba84ae9b794b5b)  
+> Commit: [94d678fd6d46196d9c35a0eef6ba84ae9b794b5b](https://github.com/jcornwell-river/dsiprouter/commit/94d678fd6d46196d9c35a0eef6ba84ae9b794b5b)  
 > Date: Fri, 14 Dec 2018 17:50:50 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -10912,7 +11588,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c49f296e9184f7e2bcbfada9de19d2dca8d315f)
 ### Update configuring.rst
 
-> Commit: [1c49f296e9184f7e2bcbfada9de19d2dca8d315f](https://git.flyball.co/dsiprouter/enterprise/commit/1c49f296e9184f7e2bcbfada9de19d2dca8d315f)  
+> Commit: [1c49f296e9184f7e2bcbfada9de19d2dca8d315f](https://github.com/jcornwell-river/dsiprouter/commit/1c49f296e9184f7e2bcbfada9de19d2dca8d315f)  
 > Date: Fri, 14 Dec 2018 12:50:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10927,7 +11603,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0434d161c35d7fd70eb1a28a9376fdd55e8af2ea)
 ### Update index.rst
 
-> Commit: [0434d161c35d7fd70eb1a28a9376fdd55e8af2ea](https://git.flyball.co/dsiprouter/enterprise/commit/0434d161c35d7fd70eb1a28a9376fdd55e8af2ea)  
+> Commit: [0434d161c35d7fd70eb1a28a9376fdd55e8af2ea](https://github.com/jcornwell-river/dsiprouter/commit/0434d161c35d7fd70eb1a28a9376fdd55e8af2ea)  
 > Date: Fri, 14 Dec 2018 12:48:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10942,7 +11618,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4922aad478a5f06bdacec005c741dd4fef76a13f)
 ### Update configuring.rst
 
-> Commit: [4922aad478a5f06bdacec005c741dd4fef76a13f](https://git.flyball.co/dsiprouter/enterprise/commit/4922aad478a5f06bdacec005c741dd4fef76a13f)  
+> Commit: [4922aad478a5f06bdacec005c741dd4fef76a13f](https://github.com/jcornwell-river/dsiprouter/commit/4922aad478a5f06bdacec005c741dd4fef76a13f)  
 > Date: Fri, 14 Dec 2018 12:02:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10957,7 +11633,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a490a980257e7fbd63b67accfbecfaeab2ee6150)
 ### Update index.rst
 
-> Commit: [a490a980257e7fbd63b67accfbecfaeab2ee6150](https://git.flyball.co/dsiprouter/enterprise/commit/a490a980257e7fbd63b67accfbecfaeab2ee6150)  
+> Commit: [a490a980257e7fbd63b67accfbecfaeab2ee6150](https://github.com/jcornwell-river/dsiprouter/commit/a490a980257e7fbd63b67accfbecfaeab2ee6150)  
 > Date: Fri, 14 Dec 2018 11:58:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10972,7 +11648,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c1200780b220e4b1793e392ef033325e1feb371c)
 ### Update use-cases.rst
 
-> Commit: [c1200780b220e4b1793e392ef033325e1feb371c](https://git.flyball.co/dsiprouter/enterprise/commit/c1200780b220e4b1793e392ef033325e1feb371c)  
+> Commit: [c1200780b220e4b1793e392ef033325e1feb371c](https://github.com/jcornwell-river/dsiprouter/commit/c1200780b220e4b1793e392ef033325e1feb371c)  
 > Date: Fri, 14 Dec 2018 11:29:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -10987,7 +11663,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a725efdb0090b911f25c5d59c2c80fc2fc4e71f5)
 ### Update use-cases.rst
 
-> Commit: [a725efdb0090b911f25c5d59c2c80fc2fc4e71f5](https://git.flyball.co/dsiprouter/enterprise/commit/a725efdb0090b911f25c5d59c2c80fc2fc4e71f5)  
+> Commit: [a725efdb0090b911f25c5d59c2c80fc2fc4e71f5](https://github.com/jcornwell-river/dsiprouter/commit/a725efdb0090b911f25c5d59c2c80fc2fc4e71f5)  
 > Date: Fri, 14 Dec 2018 11:25:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11002,7 +11678,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 09aa41c30a0f6f4f22f4f10680ddb540acfbe892)
 ### Update use-cases.rst
 
-> Commit: [09aa41c30a0f6f4f22f4f10680ddb540acfbe892](https://git.flyball.co/dsiprouter/enterprise/commit/09aa41c30a0f6f4f22f4f10680ddb540acfbe892)  
+> Commit: [09aa41c30a0f6f4f22f4f10680ddb540acfbe892](https://github.com/jcornwell-river/dsiprouter/commit/09aa41c30a0f6f4f22f4f10680ddb540acfbe892)  
 > Date: Fri, 14 Dec 2018 11:25:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11017,7 +11693,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f4f8ab64127207693ac48d3ff6cf3ddfdfa41aea)
 ### Update use-cases.rst
 
-> Commit: [f4f8ab64127207693ac48d3ff6cf3ddfdfa41aea](https://git.flyball.co/dsiprouter/enterprise/commit/f4f8ab64127207693ac48d3ff6cf3ddfdfa41aea)  
+> Commit: [f4f8ab64127207693ac48d3ff6cf3ddfdfa41aea](https://github.com/jcornwell-river/dsiprouter/commit/f4f8ab64127207693ac48d3ff6cf3ddfdfa41aea)  
 > Date: Fri, 14 Dec 2018 11:22:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11032,7 +11708,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8f68f34dfaffc9a8f17f12472a5e5fb8581e5219)
 ### Add files via upload
 
-> Commit: [8f68f34dfaffc9a8f17f12472a5e5fb8581e5219](https://git.flyball.co/dsiprouter/enterprise/commit/8f68f34dfaffc9a8f17f12472a5e5fb8581e5219)  
+> Commit: [8f68f34dfaffc9a8f17f12472a5e5fb8581e5219](https://github.com/jcornwell-river/dsiprouter/commit/8f68f34dfaffc9a8f17f12472a5e5fb8581e5219)  
 > Date: Fri, 14 Dec 2018 11:21:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11047,7 +11723,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 96a104220f748e43a43efd15249e1ee2fe932144)
 ### Update use-cases.rst
 
-> Commit: [96a104220f748e43a43efd15249e1ee2fe932144](https://git.flyball.co/dsiprouter/enterprise/commit/96a104220f748e43a43efd15249e1ee2fe932144)  
+> Commit: [96a104220f748e43a43efd15249e1ee2fe932144](https://github.com/jcornwell-river/dsiprouter/commit/96a104220f748e43a43efd15249e1ee2fe932144)  
 > Date: Fri, 14 Dec 2018 10:34:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11062,7 +11738,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cda111f1c8a28c8abdc93ce2843b2c5193173b89)
 ### Update use-cases.rst
 
-> Commit: [cda111f1c8a28c8abdc93ce2843b2c5193173b89](https://git.flyball.co/dsiprouter/enterprise/commit/cda111f1c8a28c8abdc93ce2843b2c5193173b89)  
+> Commit: [cda111f1c8a28c8abdc93ce2843b2c5193173b89](https://github.com/jcornwell-river/dsiprouter/commit/cda111f1c8a28c8abdc93ce2843b2c5193173b89)  
 > Date: Thu, 13 Dec 2018 21:34:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11077,7 +11753,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 10d61b696779138984cd6393a3de536d90c4102e)
 ### Update use-cases.rst
 
-> Commit: [10d61b696779138984cd6393a3de536d90c4102e](https://git.flyball.co/dsiprouter/enterprise/commit/10d61b696779138984cd6393a3de536d90c4102e)  
+> Commit: [10d61b696779138984cd6393a3de536d90c4102e](https://github.com/jcornwell-river/dsiprouter/commit/10d61b696779138984cd6393a3de536d90c4102e)  
 > Date: Thu, 13 Dec 2018 21:33:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11092,7 +11768,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 60cebcc2a64b4b9bd3e80cbdeffc0b8ffa6ddd24)
 ### Update use-cases.rst
 
-> Commit: [60cebcc2a64b4b9bd3e80cbdeffc0b8ffa6ddd24](https://git.flyball.co/dsiprouter/enterprise/commit/60cebcc2a64b4b9bd3e80cbdeffc0b8ffa6ddd24)  
+> Commit: [60cebcc2a64b4b9bd3e80cbdeffc0b8ffa6ddd24](https://github.com/jcornwell-river/dsiprouter/commit/60cebcc2a64b4b9bd3e80cbdeffc0b8ffa6ddd24)  
 > Date: Thu, 13 Dec 2018 21:11:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11107,7 +11783,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0b6851cee7a0aca9664ec2f09091514374cdd819)
 ### Update use-cases.rst
 
-> Commit: [0b6851cee7a0aca9664ec2f09091514374cdd819](https://git.flyball.co/dsiprouter/enterprise/commit/0b6851cee7a0aca9664ec2f09091514374cdd819)  
+> Commit: [0b6851cee7a0aca9664ec2f09091514374cdd819](https://github.com/jcornwell-river/dsiprouter/commit/0b6851cee7a0aca9664ec2f09091514374cdd819)  
 > Date: Thu, 13 Dec 2018 21:10:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11122,7 +11798,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2b7aedc107c5b7e8cf17d71e96ee760f6d0b38f3)
 ### Update use-cases.rst
 
-> Commit: [2b7aedc107c5b7e8cf17d71e96ee760f6d0b38f3](https://git.flyball.co/dsiprouter/enterprise/commit/2b7aedc107c5b7e8cf17d71e96ee760f6d0b38f3)  
+> Commit: [2b7aedc107c5b7e8cf17d71e96ee760f6d0b38f3](https://github.com/jcornwell-river/dsiprouter/commit/2b7aedc107c5b7e8cf17d71e96ee760f6d0b38f3)  
 > Date: Thu, 13 Dec 2018 21:05:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11137,7 +11813,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 663bc588faa0d3c7773adc1d841bee6379b9d46f)
 ### Add files via upload
 
-> Commit: [663bc588faa0d3c7773adc1d841bee6379b9d46f](https://git.flyball.co/dsiprouter/enterprise/commit/663bc588faa0d3c7773adc1d841bee6379b9d46f)  
+> Commit: [663bc588faa0d3c7773adc1d841bee6379b9d46f](https://github.com/jcornwell-river/dsiprouter/commit/663bc588faa0d3c7773adc1d841bee6379b9d46f)  
 > Date: Thu, 13 Dec 2018 21:04:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11152,7 +11828,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 60f17c1538c2db3020056e6ef23c76456f738b90)
 ### Update use-cases.rst
 
-> Commit: [60f17c1538c2db3020056e6ef23c76456f738b90](https://git.flyball.co/dsiprouter/enterprise/commit/60f17c1538c2db3020056e6ef23c76456f738b90)  
+> Commit: [60f17c1538c2db3020056e6ef23c76456f738b90](https://github.com/jcornwell-river/dsiprouter/commit/60f17c1538c2db3020056e6ef23c76456f738b90)  
 > Date: Thu, 13 Dec 2018 21:03:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11167,7 +11843,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 55e5e7ea66be6e2f2b0a2f98e6ea78312ba3dc1c)
 ### Add files via upload
 
-> Commit: [55e5e7ea66be6e2f2b0a2f98e6ea78312ba3dc1c](https://git.flyball.co/dsiprouter/enterprise/commit/55e5e7ea66be6e2f2b0a2f98e6ea78312ba3dc1c)  
+> Commit: [55e5e7ea66be6e2f2b0a2f98e6ea78312ba3dc1c](https://github.com/jcornwell-river/dsiprouter/commit/55e5e7ea66be6e2f2b0a2f98e6ea78312ba3dc1c)  
 > Date: Thu, 13 Dec 2018 20:51:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11182,7 +11858,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 922f88419d1403bc1e08e30b49070594081ce187)
 ### Update use-cases.rst
 
-> Commit: [922f88419d1403bc1e08e30b49070594081ce187](https://git.flyball.co/dsiprouter/enterprise/commit/922f88419d1403bc1e08e30b49070594081ce187)  
+> Commit: [922f88419d1403bc1e08e30b49070594081ce187](https://github.com/jcornwell-river/dsiprouter/commit/922f88419d1403bc1e08e30b49070594081ce187)  
 > Date: Thu, 13 Dec 2018 20:50:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11197,7 +11873,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 08da76f6d09eb31073cc12c71bca1f645a66cec3)
 ### Update use-cases.rst
 
-> Commit: [08da76f6d09eb31073cc12c71bca1f645a66cec3](https://git.flyball.co/dsiprouter/enterprise/commit/08da76f6d09eb31073cc12c71bca1f645a66cec3)  
+> Commit: [08da76f6d09eb31073cc12c71bca1f645a66cec3](https://github.com/jcornwell-river/dsiprouter/commit/08da76f6d09eb31073cc12c71bca1f645a66cec3)  
 > Date: Thu, 13 Dec 2018 20:45:03 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11212,7 +11888,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a56861ee45b5ff1b1d90fff3f905785ba6484a9e)
 ### Update use-cases.rst
 
-> Commit: [a56861ee45b5ff1b1d90fff3f905785ba6484a9e](https://git.flyball.co/dsiprouter/enterprise/commit/a56861ee45b5ff1b1d90fff3f905785ba6484a9e)  
+> Commit: [a56861ee45b5ff1b1d90fff3f905785ba6484a9e](https://github.com/jcornwell-river/dsiprouter/commit/a56861ee45b5ff1b1d90fff3f905785ba6484a9e)  
 > Date: Thu, 13 Dec 2018 20:43:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11227,7 +11903,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2a5e280ea37fdb94fcc120d03369b5ede10e128d)
 ### Update use-cases.rst
 
-> Commit: [2a5e280ea37fdb94fcc120d03369b5ede10e128d](https://git.flyball.co/dsiprouter/enterprise/commit/2a5e280ea37fdb94fcc120d03369b5ede10e128d)  
+> Commit: [2a5e280ea37fdb94fcc120d03369b5ede10e128d](https://github.com/jcornwell-river/dsiprouter/commit/2a5e280ea37fdb94fcc120d03369b5ede10e128d)  
 > Date: Thu, 13 Dec 2018 20:41:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11242,7 +11918,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d1aa338f6885a69c3e695e3cb3efe83d62caaa09)
 ### Update use-cases.rst
 
-> Commit: [d1aa338f6885a69c3e695e3cb3efe83d62caaa09](https://git.flyball.co/dsiprouter/enterprise/commit/d1aa338f6885a69c3e695e3cb3efe83d62caaa09)  
+> Commit: [d1aa338f6885a69c3e695e3cb3efe83d62caaa09](https://github.com/jcornwell-river/dsiprouter/commit/d1aa338f6885a69c3e695e3cb3efe83d62caaa09)  
 > Date: Thu, 13 Dec 2018 20:38:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11257,7 +11933,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6ba9817c4b49b3d3d5624d8f28026b4ff4a2cddd)
 ### Update use-cases.rst
 
-> Commit: [6ba9817c4b49b3d3d5624d8f28026b4ff4a2cddd](https://git.flyball.co/dsiprouter/enterprise/commit/6ba9817c4b49b3d3d5624d8f28026b4ff4a2cddd)  
+> Commit: [6ba9817c4b49b3d3d5624d8f28026b4ff4a2cddd](https://github.com/jcornwell-river/dsiprouter/commit/6ba9817c4b49b3d3d5624d8f28026b4ff4a2cddd)  
 > Date: Thu, 13 Dec 2018 20:36:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11272,7 +11948,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 39f04ba4cee1077a03d713be74b12e1d72040060)
 ### Update use-cases.rst
 
-> Commit: [39f04ba4cee1077a03d713be74b12e1d72040060](https://git.flyball.co/dsiprouter/enterprise/commit/39f04ba4cee1077a03d713be74b12e1d72040060)  
+> Commit: [39f04ba4cee1077a03d713be74b12e1d72040060](https://github.com/jcornwell-river/dsiprouter/commit/39f04ba4cee1077a03d713be74b12e1d72040060)  
 > Date: Thu, 13 Dec 2018 20:32:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11287,7 +11963,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e215925241dd1e34b67b1cc5f948096769ac2ada)
 ### Update use-cases.rst
 
-> Commit: [e215925241dd1e34b67b1cc5f948096769ac2ada](https://git.flyball.co/dsiprouter/enterprise/commit/e215925241dd1e34b67b1cc5f948096769ac2ada)  
+> Commit: [e215925241dd1e34b67b1cc5f948096769ac2ada](https://github.com/jcornwell-river/dsiprouter/commit/e215925241dd1e34b67b1cc5f948096769ac2ada)  
 > Date: Thu, 13 Dec 2018 20:19:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11302,7 +11978,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3486102b7ce136fe13d4fcaeba2e8af2b9a15e63)
 ### Update use-cases.rst
 
-> Commit: [3486102b7ce136fe13d4fcaeba2e8af2b9a15e63](https://git.flyball.co/dsiprouter/enterprise/commit/3486102b7ce136fe13d4fcaeba2e8af2b9a15e63)  
+> Commit: [3486102b7ce136fe13d4fcaeba2e8af2b9a15e63](https://github.com/jcornwell-river/dsiprouter/commit/3486102b7ce136fe13d4fcaeba2e8af2b9a15e63)  
 > Date: Thu, 13 Dec 2018 20:17:17 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11317,7 +11993,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 115df31ed442fdc46f586ad953306fa5ae3d375e)
 ### Add files via upload
 
-> Commit: [115df31ed442fdc46f586ad953306fa5ae3d375e](https://git.flyball.co/dsiprouter/enterprise/commit/115df31ed442fdc46f586ad953306fa5ae3d375e)  
+> Commit: [115df31ed442fdc46f586ad953306fa5ae3d375e](https://github.com/jcornwell-river/dsiprouter/commit/115df31ed442fdc46f586ad953306fa5ae3d375e)  
 > Date: Thu, 13 Dec 2018 20:15:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11332,7 +12008,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 060b00fc8acc7fc52e3b6d944e5b306170393850)
 ### Update use-cases.rst
 
-> Commit: [060b00fc8acc7fc52e3b6d944e5b306170393850](https://git.flyball.co/dsiprouter/enterprise/commit/060b00fc8acc7fc52e3b6d944e5b306170393850)  
+> Commit: [060b00fc8acc7fc52e3b6d944e5b306170393850](https://github.com/jcornwell-river/dsiprouter/commit/060b00fc8acc7fc52e3b6d944e5b306170393850)  
 > Date: Thu, 13 Dec 2018 20:11:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11347,7 +12023,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5069e7ddda117ad784c8124d6d29081ab8ad53a4)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [5069e7ddda117ad784c8124d6d29081ab8ad53a4](https://git.flyball.co/dsiprouter/enterprise/commit/5069e7ddda117ad784c8124d6d29081ab8ad53a4)  
+> Commit: [5069e7ddda117ad784c8124d6d29081ab8ad53a4](https://github.com/jcornwell-river/dsiprouter/commit/5069e7ddda117ad784c8124d6d29081ab8ad53a4)  
 > Date: Thu, 13 Dec 2018 13:06:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11362,7 +12038,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6598db3e26ae44c4ac858e846963c4a24c209dfa)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [6598db3e26ae44c4ac858e846963c4a24c209dfa](https://git.flyball.co/dsiprouter/enterprise/commit/6598db3e26ae44c4ac858e846963c4a24c209dfa)  
+> Commit: [6598db3e26ae44c4ac858e846963c4a24c209dfa](https://github.com/jcornwell-river/dsiprouter/commit/6598db3e26ae44c4ac858e846963c4a24c209dfa)  
 > Date: Thu, 13 Dec 2018 13:03:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11377,7 +12053,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b39e2701253246c1ddbb41a7c4ace9bdbf88c587)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [b39e2701253246c1ddbb41a7c4ace9bdbf88c587](https://git.flyball.co/dsiprouter/enterprise/commit/b39e2701253246c1ddbb41a7c4ace9bdbf88c587)  
+> Commit: [b39e2701253246c1ddbb41a7c4ace9bdbf88c587](https://github.com/jcornwell-river/dsiprouter/commit/b39e2701253246c1ddbb41a7c4ace9bdbf88c587)  
 > Date: Thu, 13 Dec 2018 13:00:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11392,7 +12068,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cf978ec560f604e6d9e2ac00c94af68ab8321620)
 ### Update use-cases.rst
 
-> Commit: [cf978ec560f604e6d9e2ac00c94af68ab8321620](https://git.flyball.co/dsiprouter/enterprise/commit/cf978ec560f604e6d9e2ac00c94af68ab8321620)  
+> Commit: [cf978ec560f604e6d9e2ac00c94af68ab8321620](https://github.com/jcornwell-river/dsiprouter/commit/cf978ec560f604e6d9e2ac00c94af68ab8321620)  
 > Date: Thu, 13 Dec 2018 11:17:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11407,7 +12083,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8973ac89c3fbb08f72f46fd6785bcdd3f4cac8dd)
 ### Update use-cases.rst
 
-> Commit: [8973ac89c3fbb08f72f46fd6785bcdd3f4cac8dd](https://git.flyball.co/dsiprouter/enterprise/commit/8973ac89c3fbb08f72f46fd6785bcdd3f4cac8dd)  
+> Commit: [8973ac89c3fbb08f72f46fd6785bcdd3f4cac8dd](https://github.com/jcornwell-river/dsiprouter/commit/8973ac89c3fbb08f72f46fd6785bcdd3f4cac8dd)  
 > Date: Thu, 13 Dec 2018 10:43:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11422,7 +12098,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b30a139ad0c87fb0f02c90f29481f40f12ca808b)
 ### Update use-cases.rst
 
-> Commit: [b30a139ad0c87fb0f02c90f29481f40f12ca808b](https://git.flyball.co/dsiprouter/enterprise/commit/b30a139ad0c87fb0f02c90f29481f40f12ca808b)  
+> Commit: [b30a139ad0c87fb0f02c90f29481f40f12ca808b](https://github.com/jcornwell-river/dsiprouter/commit/b30a139ad0c87fb0f02c90f29481f40f12ca808b)  
 > Date: Thu, 13 Dec 2018 10:16:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11437,7 +12113,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION db3bc54cf0fee96e609fd94e8714f02a064a91b7)
 ### Update use-cases.rst
 
-> Commit: [db3bc54cf0fee96e609fd94e8714f02a064a91b7](https://git.flyball.co/dsiprouter/enterprise/commit/db3bc54cf0fee96e609fd94e8714f02a064a91b7)  
+> Commit: [db3bc54cf0fee96e609fd94e8714f02a064a91b7](https://github.com/jcornwell-river/dsiprouter/commit/db3bc54cf0fee96e609fd94e8714f02a064a91b7)  
 > Date: Thu, 13 Dec 2018 10:12:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11452,7 +12128,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f3353970df8f5514290769b898a9368d369b7f4a)
 ### Update use-cases.rst
 
-> Commit: [f3353970df8f5514290769b898a9368d369b7f4a](https://git.flyball.co/dsiprouter/enterprise/commit/f3353970df8f5514290769b898a9368d369b7f4a)  
+> Commit: [f3353970df8f5514290769b898a9368d369b7f4a](https://github.com/jcornwell-river/dsiprouter/commit/f3353970df8f5514290769b898a9368d369b7f4a)  
 > Date: Thu, 13 Dec 2018 10:08:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11467,7 +12143,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION af41bfe6cb1e93304b43a2b806ce9de97d0a3677)
 ### Update use-cases.rst
 
-> Commit: [af41bfe6cb1e93304b43a2b806ce9de97d0a3677](https://git.flyball.co/dsiprouter/enterprise/commit/af41bfe6cb1e93304b43a2b806ce9de97d0a3677)  
+> Commit: [af41bfe6cb1e93304b43a2b806ce9de97d0a3677](https://github.com/jcornwell-river/dsiprouter/commit/af41bfe6cb1e93304b43a2b806ce9de97d0a3677)  
 > Date: Thu, 13 Dec 2018 10:06:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11482,7 +12158,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1fbcbd0f6fbf67d8f84918621833e1d6e63de439)
 ### Update use-cases.rst
 
-> Commit: [1fbcbd0f6fbf67d8f84918621833e1d6e63de439](https://git.flyball.co/dsiprouter/enterprise/commit/1fbcbd0f6fbf67d8f84918621833e1d6e63de439)  
+> Commit: [1fbcbd0f6fbf67d8f84918621833e1d6e63de439](https://github.com/jcornwell-river/dsiprouter/commit/1fbcbd0f6fbf67d8f84918621833e1d6e63de439)  
 > Date: Thu, 13 Dec 2018 10:02:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11497,7 +12173,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20933ae40f783684e90147b154933d86028867f5)
 ### Update use-cases.rst
 
-> Commit: [20933ae40f783684e90147b154933d86028867f5](https://git.flyball.co/dsiprouter/enterprise/commit/20933ae40f783684e90147b154933d86028867f5)  
+> Commit: [20933ae40f783684e90147b154933d86028867f5](https://github.com/jcornwell-river/dsiprouter/commit/20933ae40f783684e90147b154933d86028867f5)  
 > Date: Thu, 13 Dec 2018 10:01:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11512,7 +12188,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9441c946a1b67c621e7647c0bf93c3ecbfc2ad38)
 ### Update use-cases.rst
 
-> Commit: [9441c946a1b67c621e7647c0bf93c3ecbfc2ad38](https://git.flyball.co/dsiprouter/enterprise/commit/9441c946a1b67c621e7647c0bf93c3ecbfc2ad38)  
+> Commit: [9441c946a1b67c621e7647c0bf93c3ecbfc2ad38](https://github.com/jcornwell-river/dsiprouter/commit/9441c946a1b67c621e7647c0bf93c3ecbfc2ad38)  
 > Date: Thu, 13 Dec 2018 09:58:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11527,7 +12203,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3ff193d807dfd3b4511a567bcaa5db5ccf717d39)
 ### Update use-cases.rst
 
-> Commit: [3ff193d807dfd3b4511a567bcaa5db5ccf717d39](https://git.flyball.co/dsiprouter/enterprise/commit/3ff193d807dfd3b4511a567bcaa5db5ccf717d39)  
+> Commit: [3ff193d807dfd3b4511a567bcaa5db5ccf717d39](https://github.com/jcornwell-river/dsiprouter/commit/3ff193d807dfd3b4511a567bcaa5db5ccf717d39)  
 > Date: Thu, 13 Dec 2018 09:57:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11542,7 +12218,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ff658fa38a9f9e038357decb831e35181656b0a7)
 ### Update use-cases.rst
 
-> Commit: [ff658fa38a9f9e038357decb831e35181656b0a7](https://git.flyball.co/dsiprouter/enterprise/commit/ff658fa38a9f9e038357decb831e35181656b0a7)  
+> Commit: [ff658fa38a9f9e038357decb831e35181656b0a7](https://github.com/jcornwell-river/dsiprouter/commit/ff658fa38a9f9e038357decb831e35181656b0a7)  
 > Date: Thu, 13 Dec 2018 09:55:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11557,7 +12233,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc5465e7b036b3f8b15200103f8006ba54207617)
 ### Update use-cases.rst
 
-> Commit: [bc5465e7b036b3f8b15200103f8006ba54207617](https://git.flyball.co/dsiprouter/enterprise/commit/bc5465e7b036b3f8b15200103f8006ba54207617)  
+> Commit: [bc5465e7b036b3f8b15200103f8006ba54207617](https://github.com/jcornwell-river/dsiprouter/commit/bc5465e7b036b3f8b15200103f8006ba54207617)  
 > Date: Thu, 13 Dec 2018 09:54:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11572,7 +12248,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5928ca15b6f45e8fafd468d09000c4da765b3267)
 ### Fixed Javascript error
 
-> Commit: [5928ca15b6f45e8fafd468d09000c4da765b3267](https://git.flyball.co/dsiprouter/enterprise/commit/5928ca15b6f45e8fafd468d09000c4da765b3267)  
+> Commit: [5928ca15b6f45e8fafd468d09000c4da765b3267](https://github.com/jcornwell-river/dsiprouter/commit/5928ca15b6f45e8fafd468d09000c4da765b3267)  
 > Date: Thu, 13 Dec 2018 14:22:16 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -11587,7 +12263,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 65afd1f6e7515175ba2ecd3b6d86e34c39a3a143)
 ### Rename Resources.rst to resources.rst
 
-> Commit: [65afd1f6e7515175ba2ecd3b6d86e34c39a3a143](https://git.flyball.co/dsiprouter/enterprise/commit/65afd1f6e7515175ba2ecd3b6d86e34c39a3a143)  
+> Commit: [65afd1f6e7515175ba2ecd3b6d86e34c39a3a143](https://github.com/jcornwell-river/dsiprouter/commit/65afd1f6e7515175ba2ecd3b6d86e34c39a3a143)  
 > Date: Wed, 12 Dec 2018 15:20:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11602,7 +12278,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7d1c22dc0e55a181f232f58d52ac0adca49f856c)
 ### Update Resources.rst
 
-> Commit: [7d1c22dc0e55a181f232f58d52ac0adca49f856c](https://git.flyball.co/dsiprouter/enterprise/commit/7d1c22dc0e55a181f232f58d52ac0adca49f856c)  
+> Commit: [7d1c22dc0e55a181f232f58d52ac0adca49f856c](https://github.com/jcornwell-river/dsiprouter/commit/7d1c22dc0e55a181f232f58d52ac0adca49f856c)  
 > Date: Wed, 12 Dec 2018 15:19:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11617,7 +12293,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 12b76eb311777c6b1671e6f475b40205d7b804b2)
 ### Update Resources.rst
 
-> Commit: [12b76eb311777c6b1671e6f475b40205d7b804b2](https://git.flyball.co/dsiprouter/enterprise/commit/12b76eb311777c6b1671e6f475b40205d7b804b2)  
+> Commit: [12b76eb311777c6b1671e6f475b40205d7b804b2](https://github.com/jcornwell-river/dsiprouter/commit/12b76eb311777c6b1671e6f475b40205d7b804b2)  
 > Date: Wed, 12 Dec 2018 13:58:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11632,7 +12308,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a721002c199cc70bc0c18557cba3e8c537d6744b)
 ### Update configuring.rst
 
-> Commit: [a721002c199cc70bc0c18557cba3e8c537d6744b](https://git.flyball.co/dsiprouter/enterprise/commit/a721002c199cc70bc0c18557cba3e8c537d6744b)  
+> Commit: [a721002c199cc70bc0c18557cba3e8c537d6744b](https://github.com/jcornwell-river/dsiprouter/commit/a721002c199cc70bc0c18557cba3e8c537d6744b)  
 > Date: Wed, 12 Dec 2018 13:58:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11647,7 +12323,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2642451f9b3d61c5bc1f9a247f38cc695e043ff4)
 ### Update Resources.rst
 
-> Commit: [2642451f9b3d61c5bc1f9a247f38cc695e043ff4](https://git.flyball.co/dsiprouter/enterprise/commit/2642451f9b3d61c5bc1f9a247f38cc695e043ff4)  
+> Commit: [2642451f9b3d61c5bc1f9a247f38cc695e043ff4](https://github.com/jcornwell-river/dsiprouter/commit/2642451f9b3d61c5bc1f9a247f38cc695e043ff4)  
 > Date: Wed, 12 Dec 2018 13:53:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11662,7 +12338,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3717ad63180779f1f3119ce38b8b29c0b637c827)
 ### Create Resources.rst
 
-> Commit: [3717ad63180779f1f3119ce38b8b29c0b637c827](https://git.flyball.co/dsiprouter/enterprise/commit/3717ad63180779f1f3119ce38b8b29c0b637c827)  
+> Commit: [3717ad63180779f1f3119ce38b8b29c0b637c827](https://github.com/jcornwell-river/dsiprouter/commit/3717ad63180779f1f3119ce38b8b29c0b637c827)  
 > Date: Wed, 12 Dec 2018 13:46:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11677,7 +12353,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cf20c150ef0acb3c2c61b4a8fbe6015c8a924ea9)
 ### Add files via upload
 
-> Commit: [cf20c150ef0acb3c2c61b4a8fbe6015c8a924ea9](https://git.flyball.co/dsiprouter/enterprise/commit/cf20c150ef0acb3c2c61b4a8fbe6015c8a924ea9)  
+> Commit: [cf20c150ef0acb3c2c61b4a8fbe6015c8a924ea9](https://github.com/jcornwell-river/dsiprouter/commit/cf20c150ef0acb3c2c61b4a8fbe6015c8a924ea9)  
 > Date: Wed, 12 Dec 2018 13:24:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11692,7 +12368,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 584eb58f48b8ce5365a92c75407db692001878db)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [584eb58f48b8ce5365a92c75407db692001878db](https://git.flyball.co/dsiprouter/enterprise/commit/584eb58f48b8ce5365a92c75407db692001878db)  
+> Commit: [584eb58f48b8ce5365a92c75407db692001878db](https://github.com/jcornwell-river/dsiprouter/commit/584eb58f48b8ce5365a92c75407db692001878db)  
 > Date: Wed, 12 Dec 2018 13:17:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11707,7 +12383,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7555cb78caca688287a315ac3ae44e92e2717488)
 ### Fixed issues with FusionPBX Sync and the ability to delete PBX's
 
-> Commit: [7555cb78caca688287a315ac3ae44e92e2717488](https://git.flyball.co/dsiprouter/enterprise/commit/7555cb78caca688287a315ac3ae44e92e2717488)  
+> Commit: [7555cb78caca688287a315ac3ae44e92e2717488](https://github.com/jcornwell-river/dsiprouter/commit/7555cb78caca688287a315ac3ae44e92e2717488)  
 > Date: Tue, 11 Dec 2018 22:13:47 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -11722,7 +12398,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0f214bed7a7cb4fce58819d54234dc67538f897a)
 ### Update use-cases.rst
 
-> Commit: [0f214bed7a7cb4fce58819d54234dc67538f897a](https://git.flyball.co/dsiprouter/enterprise/commit/0f214bed7a7cb4fce58819d54234dc67538f897a)  
+> Commit: [0f214bed7a7cb4fce58819d54234dc67538f897a](https://github.com/jcornwell-river/dsiprouter/commit/0f214bed7a7cb4fce58819d54234dc67538f897a)  
 > Date: Tue, 11 Dec 2018 12:16:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11737,7 +12413,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c7454dac153ab89baec68da1e74cdff26a5e476)
 ### Add files via upload
 
-> Commit: [1c7454dac153ab89baec68da1e74cdff26a5e476](https://git.flyball.co/dsiprouter/enterprise/commit/1c7454dac153ab89baec68da1e74cdff26a5e476)  
+> Commit: [1c7454dac153ab89baec68da1e74cdff26a5e476](https://github.com/jcornwell-river/dsiprouter/commit/1c7454dac153ab89baec68da1e74cdff26a5e476)  
 > Date: Tue, 11 Dec 2018 12:15:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11752,7 +12428,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 59181b7efd513109142736c54594559c20b99759)
 ### Update use-cases.rst
 
-> Commit: [59181b7efd513109142736c54594559c20b99759](https://git.flyball.co/dsiprouter/enterprise/commit/59181b7efd513109142736c54594559c20b99759)  
+> Commit: [59181b7efd513109142736c54594559c20b99759](https://github.com/jcornwell-river/dsiprouter/commit/59181b7efd513109142736c54594559c20b99759)  
 > Date: Tue, 11 Dec 2018 12:13:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11767,7 +12443,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7132baa5bd7686de6190e63dcd538aa0392db08a)
 ### Update use-cases.rst
 
-> Commit: [7132baa5bd7686de6190e63dcd538aa0392db08a](https://git.flyball.co/dsiprouter/enterprise/commit/7132baa5bd7686de6190e63dcd538aa0392db08a)  
+> Commit: [7132baa5bd7686de6190e63dcd538aa0392db08a](https://github.com/jcornwell-river/dsiprouter/commit/7132baa5bd7686de6190e63dcd538aa0392db08a)  
 > Date: Tue, 11 Dec 2018 12:11:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11782,7 +12458,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e2070fe65954daff51a8bc6839b499b3eef6bbe4)
 ### Update use-cases.rst
 
-> Commit: [e2070fe65954daff51a8bc6839b499b3eef6bbe4](https://git.flyball.co/dsiprouter/enterprise/commit/e2070fe65954daff51a8bc6839b499b3eef6bbe4)  
+> Commit: [e2070fe65954daff51a8bc6839b499b3eef6bbe4](https://github.com/jcornwell-river/dsiprouter/commit/e2070fe65954daff51a8bc6839b499b3eef6bbe4)  
 > Date: Tue, 11 Dec 2018 12:09:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11797,7 +12473,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ac1a77631ec67159ddffc6009e23606b1803d9f1)
 ### Add files via upload
 
-> Commit: [ac1a77631ec67159ddffc6009e23606b1803d9f1](https://git.flyball.co/dsiprouter/enterprise/commit/ac1a77631ec67159ddffc6009e23606b1803d9f1)  
+> Commit: [ac1a77631ec67159ddffc6009e23606b1803d9f1](https://github.com/jcornwell-river/dsiprouter/commit/ac1a77631ec67159ddffc6009e23606b1803d9f1)  
 > Date: Tue, 11 Dec 2018 12:05:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11812,7 +12488,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 75b3dfb19728dbe76654eb4f633bae7a2dcafe85)
 ### Update use-cases.rst
 
-> Commit: [75b3dfb19728dbe76654eb4f633bae7a2dcafe85](https://git.flyball.co/dsiprouter/enterprise/commit/75b3dfb19728dbe76654eb4f633bae7a2dcafe85)  
+> Commit: [75b3dfb19728dbe76654eb4f633bae7a2dcafe85](https://github.com/jcornwell-river/dsiprouter/commit/75b3dfb19728dbe76654eb4f633bae7a2dcafe85)  
 > Date: Tue, 11 Dec 2018 09:34:03 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11827,7 +12503,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7fa9cee31dd7c3cad756282f7ff64ea8d120c2fa)
 ### Update use-cases.rst
 
-> Commit: [7fa9cee31dd7c3cad756282f7ff64ea8d120c2fa](https://git.flyball.co/dsiprouter/enterprise/commit/7fa9cee31dd7c3cad756282f7ff64ea8d120c2fa)  
+> Commit: [7fa9cee31dd7c3cad756282f7ff64ea8d120c2fa](https://github.com/jcornwell-river/dsiprouter/commit/7fa9cee31dd7c3cad756282f7ff64ea8d120c2fa)  
 > Date: Mon, 10 Dec 2018 15:30:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11842,7 +12518,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1e65dda2670080e312ad1553169b1d3ea4976632)
 ### Fixed the creation of static routes
 
-> Commit: [1e65dda2670080e312ad1553169b1d3ea4976632](https://git.flyball.co/dsiprouter/enterprise/commit/1e65dda2670080e312ad1553169b1d3ea4976632)  
+> Commit: [1e65dda2670080e312ad1553169b1d3ea4976632](https://github.com/jcornwell-river/dsiprouter/commit/1e65dda2670080e312ad1553169b1d3ea4976632)  
 > Date: Sun, 9 Dec 2018 13:08:25 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -11857,7 +12533,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9a87f3a42bb3f2456840d4d98a9dd51d2e3418f4)
 ### Simplfied the Multidomain support
 
-> Commit: [9a87f3a42bb3f2456840d4d98a9dd51d2e3418f4](https://git.flyball.co/dsiprouter/enterprise/commit/9a87f3a42bb3f2456840d4d98a9dd51d2e3418f4)  
+> Commit: [9a87f3a42bb3f2456840d4d98a9dd51d2e3418f4](https://github.com/jcornwell-river/dsiprouter/commit/9a87f3a42bb3f2456840d4d98a9dd51d2e3418f4)  
 > Date: Sat, 8 Dec 2018 19:56:09 +0000  
 > Author: root (root@debian-dsip-test.localdomain)  
 > Committer: root (root@debian-dsip-test.localdomain)  
@@ -11872,7 +12548,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1e7644e62946bf52d247663ff2514226fde46138)
 ### Update installing.rst
 
-> Commit: [1e7644e62946bf52d247663ff2514226fde46138](https://git.flyball.co/dsiprouter/enterprise/commit/1e7644e62946bf52d247663ff2514226fde46138)  
+> Commit: [1e7644e62946bf52d247663ff2514226fde46138](https://github.com/jcornwell-river/dsiprouter/commit/1e7644e62946bf52d247663ff2514226fde46138)  
 > Date: Sat, 8 Dec 2018 12:24:48 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11887,7 +12563,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9a6f944d187ce553b84ee511d1ea936e1770d6e9)
 ### Update installing.rst
 
-> Commit: [9a6f944d187ce553b84ee511d1ea936e1770d6e9](https://git.flyball.co/dsiprouter/enterprise/commit/9a6f944d187ce553b84ee511d1ea936e1770d6e9)  
+> Commit: [9a6f944d187ce553b84ee511d1ea936e1770d6e9](https://github.com/jcornwell-river/dsiprouter/commit/9a6f944d187ce553b84ee511d1ea936e1770d6e9)  
 > Date: Sat, 8 Dec 2018 12:21:50 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11902,7 +12578,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aadc0547f85cc28ac730b88b809d8b6b58d99f13)
 ### Changes to fix the GUI
 
-> Commit: [aadc0547f85cc28ac730b88b809d8b6b58d99f13](https://git.flyball.co/dsiprouter/enterprise/commit/aadc0547f85cc28ac730b88b809d8b6b58d99f13)  
+> Commit: [aadc0547f85cc28ac730b88b809d8b6b58d99f13](https://github.com/jcornwell-river/dsiprouter/commit/aadc0547f85cc28ac730b88b809d8b6b58d99f13)  
 > Date: Sat, 8 Dec 2018 16:58:59 +0000  
 > Author: root (root@debian-v51.localdomain)  
 > Committer: root (root@debian-v51.localdomain)  
@@ -11917,7 +12593,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3e99df7b4ccc1fd40a5739257186ea24ac292c4e)
 ### Fixed an issue Javascript error that was preventing Fusion Support toggle button from working
 
-> Commit: [3e99df7b4ccc1fd40a5739257186ea24ac292c4e](https://git.flyball.co/dsiprouter/enterprise/commit/3e99df7b4ccc1fd40a5739257186ea24ac292c4e)  
+> Commit: [3e99df7b4ccc1fd40a5739257186ea24ac292c4e](https://github.com/jcornwell-river/dsiprouter/commit/3e99df7b4ccc1fd40a5739257186ea24ac292c4e)  
 > Date: Sat, 8 Dec 2018 15:49:54 +0000  
 > Author: root (root@debian-v51.localdomain)  
 > Committer: root (root@debian-v51.localdomain)  
@@ -11932,7 +12608,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 916b4adc6c3af117a9a7992b872d6b95047adc63)
 ### Fixed an issue with datatables that was causing a JS error
 
-> Commit: [916b4adc6c3af117a9a7992b872d6b95047adc63](https://git.flyball.co/dsiprouter/enterprise/commit/916b4adc6c3af117a9a7992b872d6b95047adc63)  
+> Commit: [916b4adc6c3af117a9a7992b872d6b95047adc63](https://github.com/jcornwell-river/dsiprouter/commit/916b4adc6c3af117a9a7992b872d6b95047adc63)  
 > Date: Sat, 8 Dec 2018 14:46:09 +0000  
 > Author: root (root@debian-v51.localdomain)  
 > Committer: root (root@debian-v51.localdomain)  
@@ -11947,7 +12623,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cf311b3f8941a68b155e4190c2f00a5fbd5f53fa)
 ### Update command_line_options.rst
 
-> Commit: [cf311b3f8941a68b155e4190c2f00a5fbd5f53fa](https://git.flyball.co/dsiprouter/enterprise/commit/cf311b3f8941a68b155e4190c2f00a5fbd5f53fa)  
+> Commit: [cf311b3f8941a68b155e4190c2f00a5fbd5f53fa](https://github.com/jcornwell-river/dsiprouter/commit/cf311b3f8941a68b155e4190c2f00a5fbd5f53fa)  
 > Date: Fri, 7 Dec 2018 22:54:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11962,7 +12638,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed16d248270e4aa1a5cab2af65b009c685ee1c65)
 ### Update command_line_options.rst
 
-> Commit: [ed16d248270e4aa1a5cab2af65b009c685ee1c65](https://git.flyball.co/dsiprouter/enterprise/commit/ed16d248270e4aa1a5cab2af65b009c685ee1c65)  
+> Commit: [ed16d248270e4aa1a5cab2af65b009c685ee1c65](https://github.com/jcornwell-river/dsiprouter/commit/ed16d248270e4aa1a5cab2af65b009c685ee1c65)  
 > Date: Fri, 7 Dec 2018 22:44:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11977,7 +12653,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 050b95e0f8ad833d5233a6691bea89b6fc6168dd)
 ### Update command_line_options.rst
 
-> Commit: [050b95e0f8ad833d5233a6691bea89b6fc6168dd](https://git.flyball.co/dsiprouter/enterprise/commit/050b95e0f8ad833d5233a6691bea89b6fc6168dd)  
+> Commit: [050b95e0f8ad833d5233a6691bea89b6fc6168dd](https://github.com/jcornwell-river/dsiprouter/commit/050b95e0f8ad833d5233a6691bea89b6fc6168dd)  
 > Date: Fri, 7 Dec 2018 22:43:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -11992,7 +12668,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 638fcacb4433104acaf7d59b0c29a34a9f063681)
 ### Update command_line_options.rst
 
-> Commit: [638fcacb4433104acaf7d59b0c29a34a9f063681](https://git.flyball.co/dsiprouter/enterprise/commit/638fcacb4433104acaf7d59b0c29a34a9f063681)  
+> Commit: [638fcacb4433104acaf7d59b0c29a34a9f063681](https://github.com/jcornwell-river/dsiprouter/commit/638fcacb4433104acaf7d59b0c29a34a9f063681)  
 > Date: Fri, 7 Dec 2018 22:37:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12007,7 +12683,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 79e0aa07c41d4f4c94d80184af13f9f8fbbd89a2)
 ### Update install_option
 
-> Commit: [79e0aa07c41d4f4c94d80184af13f9f8fbbd89a2](https://git.flyball.co/dsiprouter/enterprise/commit/79e0aa07c41d4f4c94d80184af13f9f8fbbd89a2)  
+> Commit: [79e0aa07c41d4f4c94d80184af13f9f8fbbd89a2](https://github.com/jcornwell-river/dsiprouter/commit/79e0aa07c41d4f4c94d80184af13f9f8fbbd89a2)  
 > Date: Fri, 7 Dec 2018 22:33:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12022,7 +12698,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5fd7d73cb7ab0f751e5ecddce95d0f85bcb30bb0)
 ### Update command_line_options.rst
 
-> Commit: [5fd7d73cb7ab0f751e5ecddce95d0f85bcb30bb0](https://git.flyball.co/dsiprouter/enterprise/commit/5fd7d73cb7ab0f751e5ecddce95d0f85bcb30bb0)  
+> Commit: [5fd7d73cb7ab0f751e5ecddce95d0f85bcb30bb0](https://github.com/jcornwell-river/dsiprouter/commit/5fd7d73cb7ab0f751e5ecddce95d0f85bcb30bb0)  
 > Date: Fri, 7 Dec 2018 22:30:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12037,7 +12713,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a95423bc1dfb8763f4d702e9e15995e2634a44dc)
 ### Create install_option
 
-> Commit: [a95423bc1dfb8763f4d702e9e15995e2634a44dc](https://git.flyball.co/dsiprouter/enterprise/commit/a95423bc1dfb8763f4d702e9e15995e2634a44dc)  
+> Commit: [a95423bc1dfb8763f4d702e9e15995e2634a44dc](https://github.com/jcornwell-river/dsiprouter/commit/a95423bc1dfb8763f4d702e9e15995e2634a44dc)  
 > Date: Fri, 7 Dec 2018 22:29:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12052,7 +12728,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 33477e607dfcbe3d005b919de124af3ae1b7701c)
 ### Update command_line_options.rst
 
-> Commit: [33477e607dfcbe3d005b919de124af3ae1b7701c](https://git.flyball.co/dsiprouter/enterprise/commit/33477e607dfcbe3d005b919de124af3ae1b7701c)  
+> Commit: [33477e607dfcbe3d005b919de124af3ae1b7701c](https://github.com/jcornwell-river/dsiprouter/commit/33477e607dfcbe3d005b919de124af3ae1b7701c)  
 > Date: Fri, 7 Dec 2018 19:30:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12067,7 +12743,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3cb688818101f47ef7adc65e0a5aa189c89cf3d)
 ### Update command_line_options.rst
 
-> Commit: [a3cb688818101f47ef7adc65e0a5aa189c89cf3d](https://git.flyball.co/dsiprouter/enterprise/commit/a3cb688818101f47ef7adc65e0a5aa189c89cf3d)  
+> Commit: [a3cb688818101f47ef7adc65e0a5aa189c89cf3d](https://github.com/jcornwell-river/dsiprouter/commit/a3cb688818101f47ef7adc65e0a5aa189c89cf3d)  
 > Date: Fri, 7 Dec 2018 19:25:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12082,7 +12758,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 85494ea42dba92740cad9829b0231e303a5db0d9)
 ### Update command_line_options.rst
 
-> Commit: [85494ea42dba92740cad9829b0231e303a5db0d9](https://git.flyball.co/dsiprouter/enterprise/commit/85494ea42dba92740cad9829b0231e303a5db0d9)  
+> Commit: [85494ea42dba92740cad9829b0231e303a5db0d9](https://github.com/jcornwell-river/dsiprouter/commit/85494ea42dba92740cad9829b0231e303a5db0d9)  
 > Date: Fri, 7 Dec 2018 17:52:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12097,7 +12773,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 89da2706398db81653a1a5b6509e6c0ec990cc6d)
 ### Update command_line_options.rst
 
-> Commit: [89da2706398db81653a1a5b6509e6c0ec990cc6d](https://git.flyball.co/dsiprouter/enterprise/commit/89da2706398db81653a1a5b6509e6c0ec990cc6d)  
+> Commit: [89da2706398db81653a1a5b6509e6c0ec990cc6d](https://github.com/jcornwell-river/dsiprouter/commit/89da2706398db81653a1a5b6509e6c0ec990cc6d)  
 > Date: Fri, 7 Dec 2018 15:37:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12112,7 +12788,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c72fda263ead57ae45ccf2eb28ab1ce92962bced)
 ### Update command_line_options.rst
 
-> Commit: [c72fda263ead57ae45ccf2eb28ab1ce92962bced](https://git.flyball.co/dsiprouter/enterprise/commit/c72fda263ead57ae45ccf2eb28ab1ce92962bced)  
+> Commit: [c72fda263ead57ae45ccf2eb28ab1ce92962bced](https://github.com/jcornwell-river/dsiprouter/commit/c72fda263ead57ae45ccf2eb28ab1ce92962bced)  
 > Date: Fri, 7 Dec 2018 15:35:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12127,7 +12803,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 765375ae09d8e3cc08b8c389ec856f75f1f7ba4d)
 ### Update command_line_options.rst
 
-> Commit: [765375ae09d8e3cc08b8c389ec856f75f1f7ba4d](https://git.flyball.co/dsiprouter/enterprise/commit/765375ae09d8e3cc08b8c389ec856f75f1f7ba4d)  
+> Commit: [765375ae09d8e3cc08b8c389ec856f75f1f7ba4d](https://github.com/jcornwell-river/dsiprouter/commit/765375ae09d8e3cc08b8c389ec856f75f1f7ba4d)  
 > Date: Fri, 7 Dec 2018 14:48:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12142,7 +12818,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61c5967288d6a33d938d769c02d25f68d9ba4926)
 ### Update command_line_options.rst
 
-> Commit: [61c5967288d6a33d938d769c02d25f68d9ba4926](https://git.flyball.co/dsiprouter/enterprise/commit/61c5967288d6a33d938d769c02d25f68d9ba4926)  
+> Commit: [61c5967288d6a33d938d769c02d25f68d9ba4926](https://github.com/jcornwell-river/dsiprouter/commit/61c5967288d6a33d938d769c02d25f68d9ba4926)  
 > Date: Fri, 7 Dec 2018 14:40:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12157,7 +12833,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ca7f16cd52c720561b40ccdd6beec26f88cbbe5e)
 ### Update command_line_options.rst
 
-> Commit: [ca7f16cd52c720561b40ccdd6beec26f88cbbe5e](https://git.flyball.co/dsiprouter/enterprise/commit/ca7f16cd52c720561b40ccdd6beec26f88cbbe5e)  
+> Commit: [ca7f16cd52c720561b40ccdd6beec26f88cbbe5e](https://github.com/jcornwell-river/dsiprouter/commit/ca7f16cd52c720561b40ccdd6beec26f88cbbe5e)  
 > Date: Fri, 7 Dec 2018 14:37:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12172,7 +12848,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f23b864a3cb3d5526a99a2d75ca3a69ac795bd3d)
 ### Update use-cases.rst
 
-> Commit: [f23b864a3cb3d5526a99a2d75ca3a69ac795bd3d](https://git.flyball.co/dsiprouter/enterprise/commit/f23b864a3cb3d5526a99a2d75ca3a69ac795bd3d)  
+> Commit: [f23b864a3cb3d5526a99a2d75ca3a69ac795bd3d](https://github.com/jcornwell-river/dsiprouter/commit/f23b864a3cb3d5526a99a2d75ca3a69ac795bd3d)  
 > Date: Fri, 7 Dec 2018 10:54:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12187,7 +12863,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 76f8d5f07325ef4942885103453f986ea3782f14)
 ### Update use-cases.rst
 
-> Commit: [76f8d5f07325ef4942885103453f986ea3782f14](https://git.flyball.co/dsiprouter/enterprise/commit/76f8d5f07325ef4942885103453f986ea3782f14)  
+> Commit: [76f8d5f07325ef4942885103453f986ea3782f14](https://github.com/jcornwell-river/dsiprouter/commit/76f8d5f07325ef4942885103453f986ea3782f14)  
 > Date: Fri, 7 Dec 2018 10:53:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12202,7 +12878,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce8acb42553ccf7eb76360b5f65ce778bd6d099f)
 ### Update use-cases.rst
 
-> Commit: [ce8acb42553ccf7eb76360b5f65ce778bd6d099f](https://git.flyball.co/dsiprouter/enterprise/commit/ce8acb42553ccf7eb76360b5f65ce778bd6d099f)  
+> Commit: [ce8acb42553ccf7eb76360b5f65ce778bd6d099f](https://github.com/jcornwell-river/dsiprouter/commit/ce8acb42553ccf7eb76360b5f65ce778bd6d099f)  
 > Date: Fri, 7 Dec 2018 10:51:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12217,7 +12893,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fe9ffc06953ccbe5c65ec134efd7070dbf6310f9)
 ### Update use-cases.rst
 
-> Commit: [fe9ffc06953ccbe5c65ec134efd7070dbf6310f9](https://git.flyball.co/dsiprouter/enterprise/commit/fe9ffc06953ccbe5c65ec134efd7070dbf6310f9)  
+> Commit: [fe9ffc06953ccbe5c65ec134efd7070dbf6310f9](https://github.com/jcornwell-river/dsiprouter/commit/fe9ffc06953ccbe5c65ec134efd7070dbf6310f9)  
 > Date: Fri, 7 Dec 2018 10:48:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12232,7 +12908,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62c0b4fae5e8b9cc366a7de5d3b349d0fc263065)
 ### Update use-cases.rst
 
-> Commit: [62c0b4fae5e8b9cc366a7de5d3b349d0fc263065](https://git.flyball.co/dsiprouter/enterprise/commit/62c0b4fae5e8b9cc366a7de5d3b349d0fc263065)  
+> Commit: [62c0b4fae5e8b9cc366a7de5d3b349d0fc263065](https://github.com/jcornwell-river/dsiprouter/commit/62c0b4fae5e8b9cc366a7de5d3b349d0fc263065)  
 > Date: Fri, 7 Dec 2018 10:48:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12247,7 +12923,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c1b112fbb2b12dfca47b63646b77af1eaecea8e)
 ### Delete list_of_domains1.PNG
 
-> Commit: [9c1b112fbb2b12dfca47b63646b77af1eaecea8e](https://git.flyball.co/dsiprouter/enterprise/commit/9c1b112fbb2b12dfca47b63646b77af1eaecea8e)  
+> Commit: [9c1b112fbb2b12dfca47b63646b77af1eaecea8e](https://github.com/jcornwell-river/dsiprouter/commit/9c1b112fbb2b12dfca47b63646b77af1eaecea8e)  
 > Date: Fri, 7 Dec 2018 10:46:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12262,7 +12938,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ac1ebe0c86d4bb1b5d21db0eb29e1313defa8f41)
 ### Update use-cases.rst
 
-> Commit: [ac1ebe0c86d4bb1b5d21db0eb29e1313defa8f41](https://git.flyball.co/dsiprouter/enterprise/commit/ac1ebe0c86d4bb1b5d21db0eb29e1313defa8f41)  
+> Commit: [ac1ebe0c86d4bb1b5d21db0eb29e1313defa8f41](https://github.com/jcornwell-river/dsiprouter/commit/ac1ebe0c86d4bb1b5d21db0eb29e1313defa8f41)  
 > Date: Fri, 7 Dec 2018 10:43:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12277,7 +12953,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8a7f7ba79856092d3d1202eb41ed585cd294cc52)
 ### Update use-cases.rst
 
-> Commit: [8a7f7ba79856092d3d1202eb41ed585cd294cc52](https://git.flyball.co/dsiprouter/enterprise/commit/8a7f7ba79856092d3d1202eb41ed585cd294cc52)  
+> Commit: [8a7f7ba79856092d3d1202eb41ed585cd294cc52](https://github.com/jcornwell-river/dsiprouter/commit/8a7f7ba79856092d3d1202eb41ed585cd294cc52)  
 > Date: Fri, 7 Dec 2018 10:41:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12292,7 +12968,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aea234264abda28edee90db41d92dd6df1dfcc6b)
 ### Update use-cases.rst
 
-> Commit: [aea234264abda28edee90db41d92dd6df1dfcc6b](https://git.flyball.co/dsiprouter/enterprise/commit/aea234264abda28edee90db41d92dd6df1dfcc6b)  
+> Commit: [aea234264abda28edee90db41d92dd6df1dfcc6b](https://github.com/jcornwell-river/dsiprouter/commit/aea234264abda28edee90db41d92dd6df1dfcc6b)  
 > Date: Fri, 7 Dec 2018 10:38:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12307,7 +12983,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 148e79032178755f8fbd7dd6dd15840ae02e96fa)
 ### Update command_line_options.rst
 
-> Commit: [148e79032178755f8fbd7dd6dd15840ae02e96fa](https://git.flyball.co/dsiprouter/enterprise/commit/148e79032178755f8fbd7dd6dd15840ae02e96fa)  
+> Commit: [148e79032178755f8fbd7dd6dd15840ae02e96fa](https://github.com/jcornwell-river/dsiprouter/commit/148e79032178755f8fbd7dd6dd15840ae02e96fa)  
 > Date: Fri, 7 Dec 2018 09:11:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12322,7 +12998,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9019969a7522958aab1a4bbc30140a5f1f5df983)
 ### Update command_line_options.rst
 
-> Commit: [9019969a7522958aab1a4bbc30140a5f1f5df983](https://git.flyball.co/dsiprouter/enterprise/commit/9019969a7522958aab1a4bbc30140a5f1f5df983)  
+> Commit: [9019969a7522958aab1a4bbc30140a5f1f5df983](https://github.com/jcornwell-river/dsiprouter/commit/9019969a7522958aab1a4bbc30140a5f1f5df983)  
 > Date: Fri, 7 Dec 2018 09:09:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12337,7 +13013,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6ceb6692fc981af823fe43e16e59a6fa1410a398)
 ### Update command_line_options.rst
 
-> Commit: [6ceb6692fc981af823fe43e16e59a6fa1410a398](https://git.flyball.co/dsiprouter/enterprise/commit/6ceb6692fc981af823fe43e16e59a6fa1410a398)  
+> Commit: [6ceb6692fc981af823fe43e16e59a6fa1410a398](https://github.com/jcornwell-river/dsiprouter/commit/6ceb6692fc981af823fe43e16e59a6fa1410a398)  
 > Date: Fri, 7 Dec 2018 09:09:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12352,7 +13028,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f15008333f58a883ef8e5caa27ef99bca6de1611)
 ### Update command_line_options.rst
 
-> Commit: [f15008333f58a883ef8e5caa27ef99bca6de1611](https://git.flyball.co/dsiprouter/enterprise/commit/f15008333f58a883ef8e5caa27ef99bca6de1611)  
+> Commit: [f15008333f58a883ef8e5caa27ef99bca6de1611](https://github.com/jcornwell-river/dsiprouter/commit/f15008333f58a883ef8e5caa27ef99bca6de1611)  
 > Date: Fri, 7 Dec 2018 09:01:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12367,7 +13043,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ec07d7c56028a9076dd834a835a76ebcaf570d94)
 ### Update command_line_options.rst
 
-> Commit: [ec07d7c56028a9076dd834a835a76ebcaf570d94](https://git.flyball.co/dsiprouter/enterprise/commit/ec07d7c56028a9076dd834a835a76ebcaf570d94)  
+> Commit: [ec07d7c56028a9076dd834a835a76ebcaf570d94](https://github.com/jcornwell-river/dsiprouter/commit/ec07d7c56028a9076dd834a835a76ebcaf570d94)  
 > Date: Fri, 7 Dec 2018 09:00:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12382,7 +13058,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d97d0cbaa0ca851eec37585bea0e5357e4d6544e)
 ### Update command_line_options.rst
 
-> Commit: [d97d0cbaa0ca851eec37585bea0e5357e4d6544e](https://git.flyball.co/dsiprouter/enterprise/commit/d97d0cbaa0ca851eec37585bea0e5357e4d6544e)  
+> Commit: [d97d0cbaa0ca851eec37585bea0e5357e4d6544e](https://github.com/jcornwell-river/dsiprouter/commit/d97d0cbaa0ca851eec37585bea0e5357e4d6544e)  
 > Date: Fri, 7 Dec 2018 08:59:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12397,7 +13073,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 289886ee032f60c41fee15f3b5bba6e671e327e9)
 ### Update use-cases.rst
 
-> Commit: [289886ee032f60c41fee15f3b5bba6e671e327e9](https://git.flyball.co/dsiprouter/enterprise/commit/289886ee032f60c41fee15f3b5bba6e671e327e9)  
+> Commit: [289886ee032f60c41fee15f3b5bba6e671e327e9](https://github.com/jcornwell-river/dsiprouter/commit/289886ee032f60c41fee15f3b5bba6e671e327e9)  
 > Date: Thu, 6 Dec 2018 15:17:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12412,7 +13088,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f5cc37a37fc4b71a37dacdb993ce07b0e0c2ef79)
 ### Update use-cases.rst
 
-> Commit: [f5cc37a37fc4b71a37dacdb993ce07b0e0c2ef79](https://git.flyball.co/dsiprouter/enterprise/commit/f5cc37a37fc4b71a37dacdb993ce07b0e0c2ef79)  
+> Commit: [f5cc37a37fc4b71a37dacdb993ce07b0e0c2ef79](https://github.com/jcornwell-river/dsiprouter/commit/f5cc37a37fc4b71a37dacdb993ce07b0e0c2ef79)  
 > Date: Thu, 6 Dec 2018 15:17:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12427,7 +13103,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d6fb1c05de68b63a38282b87d220cb5736d07fcb)
 ### Update use-cases.rst
 
-> Commit: [d6fb1c05de68b63a38282b87d220cb5736d07fcb](https://git.flyball.co/dsiprouter/enterprise/commit/d6fb1c05de68b63a38282b87d220cb5736d07fcb)  
+> Commit: [d6fb1c05de68b63a38282b87d220cb5736d07fcb](https://github.com/jcornwell-river/dsiprouter/commit/d6fb1c05de68b63a38282b87d220cb5736d07fcb)  
 > Date: Thu, 6 Dec 2018 15:14:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12442,7 +13118,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bfc9a572d9ad25e1755002f8d03b31edf7b5fc9b)
 ### Update use-cases.rst
 
-> Commit: [bfc9a572d9ad25e1755002f8d03b31edf7b5fc9b](https://git.flyball.co/dsiprouter/enterprise/commit/bfc9a572d9ad25e1755002f8d03b31edf7b5fc9b)  
+> Commit: [bfc9a572d9ad25e1755002f8d03b31edf7b5fc9b](https://github.com/jcornwell-river/dsiprouter/commit/bfc9a572d9ad25e1755002f8d03b31edf7b5fc9b)  
 > Date: Thu, 6 Dec 2018 15:12:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12457,7 +13133,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6b70420a51f716b3ab5842db978d551dfef88434)
 ### Update use-cases.rst
 
-> Commit: [6b70420a51f716b3ab5842db978d551dfef88434](https://git.flyball.co/dsiprouter/enterprise/commit/6b70420a51f716b3ab5842db978d551dfef88434)  
+> Commit: [6b70420a51f716b3ab5842db978d551dfef88434](https://github.com/jcornwell-river/dsiprouter/commit/6b70420a51f716b3ab5842db978d551dfef88434)  
 > Date: Thu, 6 Dec 2018 15:11:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12472,7 +13148,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 393344f5571828dc6e58888245f3718035bdcae3)
 ### Update use-cases.rst
 
-> Commit: [393344f5571828dc6e58888245f3718035bdcae3](https://git.flyball.co/dsiprouter/enterprise/commit/393344f5571828dc6e58888245f3718035bdcae3)  
+> Commit: [393344f5571828dc6e58888245f3718035bdcae3](https://github.com/jcornwell-river/dsiprouter/commit/393344f5571828dc6e58888245f3718035bdcae3)  
 > Date: Thu, 6 Dec 2018 15:10:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12487,7 +13163,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d5ecbcd2b61f92b5cc10a863f6e95ed8b0b96898)
 ### Update use-cases.rst
 
-> Commit: [d5ecbcd2b61f92b5cc10a863f6e95ed8b0b96898](https://git.flyball.co/dsiprouter/enterprise/commit/d5ecbcd2b61f92b5cc10a863f6e95ed8b0b96898)  
+> Commit: [d5ecbcd2b61f92b5cc10a863f6e95ed8b0b96898](https://github.com/jcornwell-river/dsiprouter/commit/d5ecbcd2b61f92b5cc10a863f6e95ed8b0b96898)  
 > Date: Thu, 6 Dec 2018 15:08:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12502,7 +13178,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ff2a454b25c17ebbd4428ea41992bfdd71096fba)
 ### Update use-cases.rst
 
-> Commit: [ff2a454b25c17ebbd4428ea41992bfdd71096fba](https://git.flyball.co/dsiprouter/enterprise/commit/ff2a454b25c17ebbd4428ea41992bfdd71096fba)  
+> Commit: [ff2a454b25c17ebbd4428ea41992bfdd71096fba](https://github.com/jcornwell-river/dsiprouter/commit/ff2a454b25c17ebbd4428ea41992bfdd71096fba)  
 > Date: Thu, 6 Dec 2018 15:06:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12517,7 +13193,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 98046aaaea3c7c203fe80e1c8d2f61618ba7b63e)
 ### Update command_line_options.rst
 
-> Commit: [98046aaaea3c7c203fe80e1c8d2f61618ba7b63e](https://git.flyball.co/dsiprouter/enterprise/commit/98046aaaea3c7c203fe80e1c8d2f61618ba7b63e)  
+> Commit: [98046aaaea3c7c203fe80e1c8d2f61618ba7b63e](https://github.com/jcornwell-river/dsiprouter/commit/98046aaaea3c7c203fe80e1c8d2f61618ba7b63e)  
 > Date: Thu, 6 Dec 2018 15:05:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12532,7 +13208,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 667b9288e5ee41e2e7cfcf2d4fb7a428503c549f)
 ### Update command_line_options.rst
 
-> Commit: [667b9288e5ee41e2e7cfcf2d4fb7a428503c549f](https://git.flyball.co/dsiprouter/enterprise/commit/667b9288e5ee41e2e7cfcf2d4fb7a428503c549f)  
+> Commit: [667b9288e5ee41e2e7cfcf2d4fb7a428503c549f](https://github.com/jcornwell-river/dsiprouter/commit/667b9288e5ee41e2e7cfcf2d4fb7a428503c549f)  
 > Date: Thu, 6 Dec 2018 15:05:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12547,7 +13223,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd06d7a2a94f1abbf466516694c2cfe2149bf56d)
 ### Update command_line_options.rst
 
-> Commit: [cd06d7a2a94f1abbf466516694c2cfe2149bf56d](https://git.flyball.co/dsiprouter/enterprise/commit/cd06d7a2a94f1abbf466516694c2cfe2149bf56d)  
+> Commit: [cd06d7a2a94f1abbf466516694c2cfe2149bf56d](https://github.com/jcornwell-river/dsiprouter/commit/cd06d7a2a94f1abbf466516694c2cfe2149bf56d)  
 > Date: Thu, 6 Dec 2018 15:04:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12562,7 +13238,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7178b68ba8542d149578874d7fbd5290786ffb4)
 ### Update command_line_options.rst
 
-> Commit: [b7178b68ba8542d149578874d7fbd5290786ffb4](https://git.flyball.co/dsiprouter/enterprise/commit/b7178b68ba8542d149578874d7fbd5290786ffb4)  
+> Commit: [b7178b68ba8542d149578874d7fbd5290786ffb4](https://github.com/jcornwell-river/dsiprouter/commit/b7178b68ba8542d149578874d7fbd5290786ffb4)  
 > Date: Thu, 6 Dec 2018 15:03:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12577,7 +13253,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fd2328046e3788c440fa48192a63dbbbc1c79264)
 ### Update use-cases.rst
 
-> Commit: [fd2328046e3788c440fa48192a63dbbbc1c79264](https://git.flyball.co/dsiprouter/enterprise/commit/fd2328046e3788c440fa48192a63dbbbc1c79264)  
+> Commit: [fd2328046e3788c440fa48192a63dbbbc1c79264](https://github.com/jcornwell-river/dsiprouter/commit/fd2328046e3788c440fa48192a63dbbbc1c79264)  
 > Date: Thu, 6 Dec 2018 15:01:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12592,7 +13268,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dd099c2ff2f187389bd5ed69a5a6e462490c2c86)
 ### Update use-cases.rst
 
-> Commit: [dd099c2ff2f187389bd5ed69a5a6e462490c2c86](https://git.flyball.co/dsiprouter/enterprise/commit/dd099c2ff2f187389bd5ed69a5a6e462490c2c86)  
+> Commit: [dd099c2ff2f187389bd5ed69a5a6e462490c2c86](https://github.com/jcornwell-river/dsiprouter/commit/dd099c2ff2f187389bd5ed69a5a6e462490c2c86)  
 > Date: Thu, 6 Dec 2018 14:56:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12607,7 +13283,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 28f686349a9d05b79cf399468027ad5936a20bc1)
 ### Update use-cases.rst
 
-> Commit: [28f686349a9d05b79cf399468027ad5936a20bc1](https://git.flyball.co/dsiprouter/enterprise/commit/28f686349a9d05b79cf399468027ad5936a20bc1)  
+> Commit: [28f686349a9d05b79cf399468027ad5936a20bc1](https://github.com/jcornwell-river/dsiprouter/commit/28f686349a9d05b79cf399468027ad5936a20bc1)  
 > Date: Thu, 6 Dec 2018 14:55:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12622,7 +13298,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e4033dba0d8728cc8de62cd453027b01af2020e)
 ### Add files via upload
 
-> Commit: [9e4033dba0d8728cc8de62cd453027b01af2020e](https://git.flyball.co/dsiprouter/enterprise/commit/9e4033dba0d8728cc8de62cd453027b01af2020e)  
+> Commit: [9e4033dba0d8728cc8de62cd453027b01af2020e](https://github.com/jcornwell-river/dsiprouter/commit/9e4033dba0d8728cc8de62cd453027b01af2020e)  
 > Date: Thu, 6 Dec 2018 14:54:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12637,7 +13313,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 16a8b5a62341f818a591d178760850fc8bd283a0)
 ### Delete zoiper_example.PNG
 
-> Commit: [16a8b5a62341f818a591d178760850fc8bd283a0](https://git.flyball.co/dsiprouter/enterprise/commit/16a8b5a62341f818a591d178760850fc8bd283a0)  
+> Commit: [16a8b5a62341f818a591d178760850fc8bd283a0](https://github.com/jcornwell-river/dsiprouter/commit/16a8b5a62341f818a591d178760850fc8bd283a0)  
 > Date: Thu, 6 Dec 2018 14:54:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12652,7 +13328,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 588cb3c20dfa3ec6ed041cfce7aa391e37b75f16)
 ### Update use-cases.rst
 
-> Commit: [588cb3c20dfa3ec6ed041cfce7aa391e37b75f16](https://git.flyball.co/dsiprouter/enterprise/commit/588cb3c20dfa3ec6ed041cfce7aa391e37b75f16)  
+> Commit: [588cb3c20dfa3ec6ed041cfce7aa391e37b75f16](https://github.com/jcornwell-river/dsiprouter/commit/588cb3c20dfa3ec6ed041cfce7aa391e37b75f16)  
 > Date: Thu, 6 Dec 2018 14:53:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12667,7 +13343,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d1fbdfde5a0296973a89f90794e14985e89386a)
 ### Update use-cases.rst
 
-> Commit: [5d1fbdfde5a0296973a89f90794e14985e89386a](https://git.flyball.co/dsiprouter/enterprise/commit/5d1fbdfde5a0296973a89f90794e14985e89386a)  
+> Commit: [5d1fbdfde5a0296973a89f90794e14985e89386a](https://github.com/jcornwell-river/dsiprouter/commit/5d1fbdfde5a0296973a89f90794e14985e89386a)  
 > Date: Thu, 6 Dec 2018 14:49:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12682,7 +13358,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 344be156abed478f0065bef75c3be54679183204)
 ### Update use-cases.rst
 
-> Commit: [344be156abed478f0065bef75c3be54679183204](https://git.flyball.co/dsiprouter/enterprise/commit/344be156abed478f0065bef75c3be54679183204)  
+> Commit: [344be156abed478f0065bef75c3be54679183204](https://github.com/jcornwell-river/dsiprouter/commit/344be156abed478f0065bef75c3be54679183204)  
 > Date: Thu, 6 Dec 2018 14:47:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12697,7 +13373,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8a878d60cfed669c02afb1eda3d0f6cc8c9d4948)
 ### Update use-cases.rst
 
-> Commit: [8a878d60cfed669c02afb1eda3d0f6cc8c9d4948](https://git.flyball.co/dsiprouter/enterprise/commit/8a878d60cfed669c02afb1eda3d0f6cc8c9d4948)  
+> Commit: [8a878d60cfed669c02afb1eda3d0f6cc8c9d4948](https://github.com/jcornwell-river/dsiprouter/commit/8a878d60cfed669c02afb1eda3d0f6cc8c9d4948)  
 > Date: Thu, 6 Dec 2018 14:46:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12712,7 +13388,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5aab7b87b93d0326fb5e15630ce01aee03c30741)
 ### Add files via upload
 
-> Commit: [5aab7b87b93d0326fb5e15630ce01aee03c30741](https://git.flyball.co/dsiprouter/enterprise/commit/5aab7b87b93d0326fb5e15630ce01aee03c30741)  
+> Commit: [5aab7b87b93d0326fb5e15630ce01aee03c30741](https://github.com/jcornwell-river/dsiprouter/commit/5aab7b87b93d0326fb5e15630ce01aee03c30741)  
 > Date: Thu, 6 Dec 2018 14:44:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12727,7 +13403,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42c6aea2f3ca18499804d48de4bcb70023f37a72)
 ### Update use-cases.rst
 
-> Commit: [42c6aea2f3ca18499804d48de4bcb70023f37a72](https://git.flyball.co/dsiprouter/enterprise/commit/42c6aea2f3ca18499804d48de4bcb70023f37a72)  
+> Commit: [42c6aea2f3ca18499804d48de4bcb70023f37a72](https://github.com/jcornwell-river/dsiprouter/commit/42c6aea2f3ca18499804d48de4bcb70023f37a72)  
 > Date: Thu, 6 Dec 2018 14:26:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12742,7 +13418,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74223b3c883d1f7aa53469454f0a1c5e3e5681f5)
 ### Update use-cases.rst
 
-> Commit: [74223b3c883d1f7aa53469454f0a1c5e3e5681f5](https://git.flyball.co/dsiprouter/enterprise/commit/74223b3c883d1f7aa53469454f0a1c5e3e5681f5)  
+> Commit: [74223b3c883d1f7aa53469454f0a1c5e3e5681f5](https://github.com/jcornwell-river/dsiprouter/commit/74223b3c883d1f7aa53469454f0a1c5e3e5681f5)  
 > Date: Thu, 6 Dec 2018 14:12:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12757,7 +13433,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47f956b156d70d77dd477dc8e92aa99b4858d4dc)
 ### Update use-cases.rst
 
-> Commit: [47f956b156d70d77dd477dc8e92aa99b4858d4dc](https://git.flyball.co/dsiprouter/enterprise/commit/47f956b156d70d77dd477dc8e92aa99b4858d4dc)  
+> Commit: [47f956b156d70d77dd477dc8e92aa99b4858d4dc](https://github.com/jcornwell-river/dsiprouter/commit/47f956b156d70d77dd477dc8e92aa99b4858d4dc)  
 > Date: Thu, 6 Dec 2018 14:06:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12772,7 +13448,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bb15224b49be4422bac517b6e18f6aa410ee2571)
 ### Add files via upload
 
-> Commit: [bb15224b49be4422bac517b6e18f6aa410ee2571](https://git.flyball.co/dsiprouter/enterprise/commit/bb15224b49be4422bac517b6e18f6aa410ee2571)  
+> Commit: [bb15224b49be4422bac517b6e18f6aa410ee2571](https://github.com/jcornwell-river/dsiprouter/commit/bb15224b49be4422bac517b6e18f6aa410ee2571)  
 > Date: Thu, 6 Dec 2018 14:05:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12787,7 +13463,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d0b75705955ed383f676fe3bb4dc966cecd8583)
 ### Update use-cases.rst
 
-> Commit: [5d0b75705955ed383f676fe3bb4dc966cecd8583](https://git.flyball.co/dsiprouter/enterprise/commit/5d0b75705955ed383f676fe3bb4dc966cecd8583)  
+> Commit: [5d0b75705955ed383f676fe3bb4dc966cecd8583](https://github.com/jcornwell-river/dsiprouter/commit/5d0b75705955ed383f676fe3bb4dc966cecd8583)  
 > Date: Thu, 6 Dec 2018 14:05:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12802,7 +13478,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f29f670b6a9d4454d42679475c05d5933084344c)
 ### Update command_line_options.rst
 
-> Commit: [f29f670b6a9d4454d42679475c05d5933084344c](https://git.flyball.co/dsiprouter/enterprise/commit/f29f670b6a9d4454d42679475c05d5933084344c)  
+> Commit: [f29f670b6a9d4454d42679475c05d5933084344c](https://github.com/jcornwell-river/dsiprouter/commit/f29f670b6a9d4454d42679475c05d5933084344c)  
 > Date: Thu, 6 Dec 2018 13:12:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12817,7 +13493,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0aeb7ee3f572865c6ed1d00cb7d94830ee435fef)
 ### Update command_line_options.rst
 
-> Commit: [0aeb7ee3f572865c6ed1d00cb7d94830ee435fef](https://git.flyball.co/dsiprouter/enterprise/commit/0aeb7ee3f572865c6ed1d00cb7d94830ee435fef)  
+> Commit: [0aeb7ee3f572865c6ed1d00cb7d94830ee435fef](https://github.com/jcornwell-river/dsiprouter/commit/0aeb7ee3f572865c6ed1d00cb7d94830ee435fef)  
 > Date: Thu, 6 Dec 2018 13:11:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12832,7 +13508,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2daab6b71f884cccd363b6b05a19293cb3fee2b2)
 ### Update command_line_options.rst
 
-> Commit: [2daab6b71f884cccd363b6b05a19293cb3fee2b2](https://git.flyball.co/dsiprouter/enterprise/commit/2daab6b71f884cccd363b6b05a19293cb3fee2b2)  
+> Commit: [2daab6b71f884cccd363b6b05a19293cb3fee2b2](https://github.com/jcornwell-river/dsiprouter/commit/2daab6b71f884cccd363b6b05a19293cb3fee2b2)  
 > Date: Thu, 6 Dec 2018 13:11:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12847,7 +13523,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 602ad423fccd8eb6d7f4ebd297fbc68cd2b08d01)
 ### Update command_line_options.rst
 
-> Commit: [602ad423fccd8eb6d7f4ebd297fbc68cd2b08d01](https://git.flyball.co/dsiprouter/enterprise/commit/602ad423fccd8eb6d7f4ebd297fbc68cd2b08d01)  
+> Commit: [602ad423fccd8eb6d7f4ebd297fbc68cd2b08d01](https://github.com/jcornwell-river/dsiprouter/commit/602ad423fccd8eb6d7f4ebd297fbc68cd2b08d01)  
 > Date: Thu, 6 Dec 2018 13:07:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12862,7 +13538,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 983eee72f935a7ce70d28a7b6d35e6c263fc2fdf)
 ### Update command_line_options.rst
 
-> Commit: [983eee72f935a7ce70d28a7b6d35e6c263fc2fdf](https://git.flyball.co/dsiprouter/enterprise/commit/983eee72f935a7ce70d28a7b6d35e6c263fc2fdf)  
+> Commit: [983eee72f935a7ce70d28a7b6d35e6c263fc2fdf](https://github.com/jcornwell-river/dsiprouter/commit/983eee72f935a7ce70d28a7b6d35e6c263fc2fdf)  
 > Date: Thu, 6 Dec 2018 13:06:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12877,7 +13553,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 085797c33219df01c930dbe27c29cb11398f03d3)
 ### Update command_line_options.rst
 
-> Commit: [085797c33219df01c930dbe27c29cb11398f03d3](https://git.flyball.co/dsiprouter/enterprise/commit/085797c33219df01c930dbe27c29cb11398f03d3)  
+> Commit: [085797c33219df01c930dbe27c29cb11398f03d3](https://github.com/jcornwell-river/dsiprouter/commit/085797c33219df01c930dbe27c29cb11398f03d3)  
 > Date: Thu, 6 Dec 2018 13:06:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12892,7 +13568,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ef332f0ee789177c64c847302f1725cc42d558ec)
 ### Update command_line_options.rst
 
-> Commit: [ef332f0ee789177c64c847302f1725cc42d558ec](https://git.flyball.co/dsiprouter/enterprise/commit/ef332f0ee789177c64c847302f1725cc42d558ec)  
+> Commit: [ef332f0ee789177c64c847302f1725cc42d558ec](https://github.com/jcornwell-river/dsiprouter/commit/ef332f0ee789177c64c847302f1725cc42d558ec)  
 > Date: Thu, 6 Dec 2018 13:05:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12907,7 +13583,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0695cd31a90572587772fbc3f45dac8d678c8c4e)
 ### Update command_line_options.rst
 
-> Commit: [0695cd31a90572587772fbc3f45dac8d678c8c4e](https://git.flyball.co/dsiprouter/enterprise/commit/0695cd31a90572587772fbc3f45dac8d678c8c4e)  
+> Commit: [0695cd31a90572587772fbc3f45dac8d678c8c4e](https://github.com/jcornwell-river/dsiprouter/commit/0695cd31a90572587772fbc3f45dac8d678c8c4e)  
 > Date: Thu, 6 Dec 2018 13:05:17 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12922,7 +13598,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 33815785d90440d319fb6efb7866118f310fd419)
 ### Update command_line_options.rst
 
-> Commit: [33815785d90440d319fb6efb7866118f310fd419](https://git.flyball.co/dsiprouter/enterprise/commit/33815785d90440d319fb6efb7866118f310fd419)  
+> Commit: [33815785d90440d319fb6efb7866118f310fd419](https://github.com/jcornwell-river/dsiprouter/commit/33815785d90440d319fb6efb7866118f310fd419)  
 > Date: Thu, 6 Dec 2018 13:04:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12937,7 +13613,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 21a43c9900c59302cbce48fd2b0d8bf34469cc7c)
 ### Update use-cases.rst
 
-> Commit: [21a43c9900c59302cbce48fd2b0d8bf34469cc7c](https://git.flyball.co/dsiprouter/enterprise/commit/21a43c9900c59302cbce48fd2b0d8bf34469cc7c)  
+> Commit: [21a43c9900c59302cbce48fd2b0d8bf34469cc7c](https://github.com/jcornwell-river/dsiprouter/commit/21a43c9900c59302cbce48fd2b0d8bf34469cc7c)  
 > Date: Thu, 6 Dec 2018 12:57:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12952,7 +13628,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc7d7326829a388463a5a7e41c99c7801269d2ad)
 ### Update use-cases.rst
 
-> Commit: [bc7d7326829a388463a5a7e41c99c7801269d2ad](https://git.flyball.co/dsiprouter/enterprise/commit/bc7d7326829a388463a5a7e41c99c7801269d2ad)  
+> Commit: [bc7d7326829a388463a5a7e41c99c7801269d2ad](https://github.com/jcornwell-river/dsiprouter/commit/bc7d7326829a388463a5a7e41c99c7801269d2ad)  
 > Date: Thu, 6 Dec 2018 12:55:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12967,7 +13643,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cce8539090b295ca6ae86ca7a0900960354798c9)
 ### Add files via upload
 
-> Commit: [cce8539090b295ca6ae86ca7a0900960354798c9](https://git.flyball.co/dsiprouter/enterprise/commit/cce8539090b295ca6ae86ca7a0900960354798c9)  
+> Commit: [cce8539090b295ca6ae86ca7a0900960354798c9](https://github.com/jcornwell-river/dsiprouter/commit/cce8539090b295ca6ae86ca7a0900960354798c9)  
 > Date: Thu, 6 Dec 2018 12:54:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12982,7 +13658,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c0fd79d14bdf43cbc69f752624d30e586e9564e)
 ### Delete 11d_dialplan2.PNG
 
-> Commit: [9c0fd79d14bdf43cbc69f752624d30e586e9564e](https://git.flyball.co/dsiprouter/enterprise/commit/9c0fd79d14bdf43cbc69f752624d30e586e9564e)  
+> Commit: [9c0fd79d14bdf43cbc69f752624d30e586e9564e](https://github.com/jcornwell-river/dsiprouter/commit/9c0fd79d14bdf43cbc69f752624d30e586e9564e)  
 > Date: Thu, 6 Dec 2018 12:53:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -12997,7 +13673,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f501053662ee2c79336012b5cf3eeb86539bbadd)
 ### Delete dialplan_11.PNG
 
-> Commit: [f501053662ee2c79336012b5cf3eeb86539bbadd](https://git.flyball.co/dsiprouter/enterprise/commit/f501053662ee2c79336012b5cf3eeb86539bbadd)  
+> Commit: [f501053662ee2c79336012b5cf3eeb86539bbadd](https://github.com/jcornwell-river/dsiprouter/commit/f501053662ee2c79336012b5cf3eeb86539bbadd)  
 > Date: Thu, 6 Dec 2018 12:53:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13012,7 +13688,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b879fa2bdc4a4388efc07e8c9e3f4004abe15e98)
 ### Update use-cases.rst
 
-> Commit: [b879fa2bdc4a4388efc07e8c9e3f4004abe15e98](https://git.flyball.co/dsiprouter/enterprise/commit/b879fa2bdc4a4388efc07e8c9e3f4004abe15e98)  
+> Commit: [b879fa2bdc4a4388efc07e8c9e3f4004abe15e98](https://github.com/jcornwell-river/dsiprouter/commit/b879fa2bdc4a4388efc07e8c9e3f4004abe15e98)  
 > Date: Thu, 6 Dec 2018 12:52:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13027,7 +13703,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 79318e3ef70daf15dad5b620857efa857b2066ed)
 ### Update use-cases.rst
 
-> Commit: [79318e3ef70daf15dad5b620857efa857b2066ed](https://git.flyball.co/dsiprouter/enterprise/commit/79318e3ef70daf15dad5b620857efa857b2066ed)  
+> Commit: [79318e3ef70daf15dad5b620857efa857b2066ed](https://github.com/jcornwell-river/dsiprouter/commit/79318e3ef70daf15dad5b620857efa857b2066ed)  
 > Date: Thu, 6 Dec 2018 12:51:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13042,7 +13718,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8e012438b1cb25abbcc2ff90caf8ebc2ce14ada)
 ### Update use-cases.rst
 
-> Commit: [f8e012438b1cb25abbcc2ff90caf8ebc2ce14ada](https://git.flyball.co/dsiprouter/enterprise/commit/f8e012438b1cb25abbcc2ff90caf8ebc2ce14ada)  
+> Commit: [f8e012438b1cb25abbcc2ff90caf8ebc2ce14ada](https://github.com/jcornwell-river/dsiprouter/commit/f8e012438b1cb25abbcc2ff90caf8ebc2ce14ada)  
 > Date: Thu, 6 Dec 2018 12:50:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13057,7 +13733,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2ec4f03b7976b65d99845fbc0950379a9f6b5a59)
 ### Update use-cases.rst
 
-> Commit: [2ec4f03b7976b65d99845fbc0950379a9f6b5a59](https://git.flyball.co/dsiprouter/enterprise/commit/2ec4f03b7976b65d99845fbc0950379a9f6b5a59)  
+> Commit: [2ec4f03b7976b65d99845fbc0950379a9f6b5a59](https://github.com/jcornwell-river/dsiprouter/commit/2ec4f03b7976b65d99845fbc0950379a9f6b5a59)  
 > Date: Thu, 6 Dec 2018 12:49:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13072,7 +13748,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 13a73ea3062ca6e8977b6257dc0a0e80e9ff0d2f)
 ### Update use-cases.rst
 
-> Commit: [13a73ea3062ca6e8977b6257dc0a0e80e9ff0d2f](https://git.flyball.co/dsiprouter/enterprise/commit/13a73ea3062ca6e8977b6257dc0a0e80e9ff0d2f)  
+> Commit: [13a73ea3062ca6e8977b6257dc0a0e80e9ff0d2f](https://github.com/jcornwell-river/dsiprouter/commit/13a73ea3062ca6e8977b6257dc0a0e80e9ff0d2f)  
 > Date: Thu, 6 Dec 2018 12:45:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13087,7 +13763,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dbb03ebac0d3391ecb09345d7cf45ddc509104ff)
 ### Add files via upload
 
-> Commit: [dbb03ebac0d3391ecb09345d7cf45ddc509104ff](https://git.flyball.co/dsiprouter/enterprise/commit/dbb03ebac0d3391ecb09345d7cf45ddc509104ff)  
+> Commit: [dbb03ebac0d3391ecb09345d7cf45ddc509104ff](https://github.com/jcornwell-river/dsiprouter/commit/dbb03ebac0d3391ecb09345d7cf45ddc509104ff)  
 > Date: Thu, 6 Dec 2018 12:43:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13102,7 +13778,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7535484f98c0098f8358cbdb3d7a82834272f566)
 ### Update use-cases.rst
 
-> Commit: [7535484f98c0098f8358cbdb3d7a82834272f566](https://git.flyball.co/dsiprouter/enterprise/commit/7535484f98c0098f8358cbdb3d7a82834272f566)  
+> Commit: [7535484f98c0098f8358cbdb3d7a82834272f566](https://github.com/jcornwell-river/dsiprouter/commit/7535484f98c0098f8358cbdb3d7a82834272f566)  
 > Date: Thu, 6 Dec 2018 12:42:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13117,7 +13793,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae3d0c71561ce754a77e4b958de94cb494c17ba7)
 ### Update command_line_options.rst
 
-> Commit: [ae3d0c71561ce754a77e4b958de94cb494c17ba7](https://git.flyball.co/dsiprouter/enterprise/commit/ae3d0c71561ce754a77e4b958de94cb494c17ba7)  
+> Commit: [ae3d0c71561ce754a77e4b958de94cb494c17ba7](https://github.com/jcornwell-river/dsiprouter/commit/ae3d0c71561ce754a77e4b958de94cb494c17ba7)  
 > Date: Thu, 6 Dec 2018 12:36:03 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13132,7 +13808,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6475fee6ea6534f2e5641a56510bb36256951327)
 ### Update command_line_options.rst
 
-> Commit: [6475fee6ea6534f2e5641a56510bb36256951327](https://git.flyball.co/dsiprouter/enterprise/commit/6475fee6ea6534f2e5641a56510bb36256951327)  
+> Commit: [6475fee6ea6534f2e5641a56510bb36256951327](https://github.com/jcornwell-river/dsiprouter/commit/6475fee6ea6534f2e5641a56510bb36256951327)  
 > Date: Thu, 6 Dec 2018 12:34:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13147,7 +13823,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 89cbb67300162eea463f9ac40cf533eed2caa6aa)
 ### Update command_line_options.rst
 
-> Commit: [89cbb67300162eea463f9ac40cf533eed2caa6aa](https://git.flyball.co/dsiprouter/enterprise/commit/89cbb67300162eea463f9ac40cf533eed2caa6aa)  
+> Commit: [89cbb67300162eea463f9ac40cf533eed2caa6aa](https://github.com/jcornwell-river/dsiprouter/commit/89cbb67300162eea463f9ac40cf533eed2caa6aa)  
 > Date: Thu, 6 Dec 2018 12:30:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13162,7 +13838,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ca0d3756116e607ea96d3165151f590dbf605d4a)
 ### Update command_line_options.rst
 
-> Commit: [ca0d3756116e607ea96d3165151f590dbf605d4a](https://git.flyball.co/dsiprouter/enterprise/commit/ca0d3756116e607ea96d3165151f590dbf605d4a)  
+> Commit: [ca0d3756116e607ea96d3165151f590dbf605d4a](https://github.com/jcornwell-river/dsiprouter/commit/ca0d3756116e607ea96d3165151f590dbf605d4a)  
 > Date: Thu, 6 Dec 2018 12:26:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13177,7 +13853,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c81cc5897f336db0c8889c06af72db2b3bca30e7)
 ### Update command_line_options.rst
 
-> Commit: [c81cc5897f336db0c8889c06af72db2b3bca30e7](https://git.flyball.co/dsiprouter/enterprise/commit/c81cc5897f336db0c8889c06af72db2b3bca30e7)  
+> Commit: [c81cc5897f336db0c8889c06af72db2b3bca30e7](https://github.com/jcornwell-river/dsiprouter/commit/c81cc5897f336db0c8889c06af72db2b3bca30e7)  
 > Date: Thu, 6 Dec 2018 12:20:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13192,7 +13868,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1b983f297226e77b2800630ad2335da42ba976f3)
 ### Update command_line_options.rst
 
-> Commit: [1b983f297226e77b2800630ad2335da42ba976f3](https://git.flyball.co/dsiprouter/enterprise/commit/1b983f297226e77b2800630ad2335da42ba976f3)  
+> Commit: [1b983f297226e77b2800630ad2335da42ba976f3](https://github.com/jcornwell-river/dsiprouter/commit/1b983f297226e77b2800630ad2335da42ba976f3)  
 > Date: Thu, 6 Dec 2018 12:20:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13207,7 +13883,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3596c39c740ef83457b75261b774a48894c4420a)
 ### Update command_line_options.rst
 
-> Commit: [3596c39c740ef83457b75261b774a48894c4420a](https://git.flyball.co/dsiprouter/enterprise/commit/3596c39c740ef83457b75261b774a48894c4420a)  
+> Commit: [3596c39c740ef83457b75261b774a48894c4420a](https://github.com/jcornwell-river/dsiprouter/commit/3596c39c740ef83457b75261b774a48894c4420a)  
 > Date: Thu, 6 Dec 2018 12:19:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13222,7 +13898,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 22d83a156b253fc2f203a2e08d0538a7241675cc)
 ### Update command_line_options.rst
 
-> Commit: [22d83a156b253fc2f203a2e08d0538a7241675cc](https://git.flyball.co/dsiprouter/enterprise/commit/22d83a156b253fc2f203a2e08d0538a7241675cc)  
+> Commit: [22d83a156b253fc2f203a2e08d0538a7241675cc](https://github.com/jcornwell-river/dsiprouter/commit/22d83a156b253fc2f203a2e08d0538a7241675cc)  
 > Date: Thu, 6 Dec 2018 11:56:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13237,7 +13913,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 41d9b947ac9c7c7a2bf53d488b84c31ff436953f)
 ### Update command_line_options.rst
 
-> Commit: [41d9b947ac9c7c7a2bf53d488b84c31ff436953f](https://git.flyball.co/dsiprouter/enterprise/commit/41d9b947ac9c7c7a2bf53d488b84c31ff436953f)  
+> Commit: [41d9b947ac9c7c7a2bf53d488b84c31ff436953f](https://github.com/jcornwell-river/dsiprouter/commit/41d9b947ac9c7c7a2bf53d488b84c31ff436953f)  
 > Date: Thu, 6 Dec 2018 11:19:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13252,7 +13928,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 79621819717360f647e693c07704ba1d7c30b16c)
 ### Update command_line_options.rst
 
-> Commit: [79621819717360f647e693c07704ba1d7c30b16c](https://git.flyball.co/dsiprouter/enterprise/commit/79621819717360f647e693c07704ba1d7c30b16c)  
+> Commit: [79621819717360f647e693c07704ba1d7c30b16c](https://github.com/jcornwell-river/dsiprouter/commit/79621819717360f647e693c07704ba1d7c30b16c)  
 > Date: Thu, 6 Dec 2018 11:17:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13267,7 +13943,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7d0e8562eb97199081bb7b9f84c68e218d0b557)
 ### Update command_line_options.rst
 
-> Commit: [e7d0e8562eb97199081bb7b9f84c68e218d0b557](https://git.flyball.co/dsiprouter/enterprise/commit/e7d0e8562eb97199081bb7b9f84c68e218d0b557)  
+> Commit: [e7d0e8562eb97199081bb7b9f84c68e218d0b557](https://github.com/jcornwell-river/dsiprouter/commit/e7d0e8562eb97199081bb7b9f84c68e218d0b557)  
 > Date: Thu, 6 Dec 2018 11:17:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13282,7 +13958,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b5ebe5ff4f5d9a1e2f5158ee99e1d2bd08f0582f)
 ### Update command_line_options.rst
 
-> Commit: [b5ebe5ff4f5d9a1e2f5158ee99e1d2bd08f0582f](https://git.flyball.co/dsiprouter/enterprise/commit/b5ebe5ff4f5d9a1e2f5158ee99e1d2bd08f0582f)  
+> Commit: [b5ebe5ff4f5d9a1e2f5158ee99e1d2bd08f0582f](https://github.com/jcornwell-river/dsiprouter/commit/b5ebe5ff4f5d9a1e2f5158ee99e1d2bd08f0582f)  
 > Date: Thu, 6 Dec 2018 11:16:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13297,7 +13973,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b02dbcb157172a3c6ccd5eadfb2a78477557799a)
 ### Update command_line_options.rst
 
-> Commit: [b02dbcb157172a3c6ccd5eadfb2a78477557799a](https://git.flyball.co/dsiprouter/enterprise/commit/b02dbcb157172a3c6ccd5eadfb2a78477557799a)  
+> Commit: [b02dbcb157172a3c6ccd5eadfb2a78477557799a](https://github.com/jcornwell-river/dsiprouter/commit/b02dbcb157172a3c6ccd5eadfb2a78477557799a)  
 > Date: Thu, 6 Dec 2018 11:15:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13312,7 +13988,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6098b9f4d04820329d615ec01f8332748132a6de)
 ### Update command_line_options.rst
 
-> Commit: [6098b9f4d04820329d615ec01f8332748132a6de](https://git.flyball.co/dsiprouter/enterprise/commit/6098b9f4d04820329d615ec01f8332748132a6de)  
+> Commit: [6098b9f4d04820329d615ec01f8332748132a6de](https://github.com/jcornwell-river/dsiprouter/commit/6098b9f4d04820329d615ec01f8332748132a6de)  
 > Date: Thu, 6 Dec 2018 11:13:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13327,7 +14003,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dab249698fd794f5c70475ec326165f2733107a6)
 ### Update command_line_options.rst
 
-> Commit: [dab249698fd794f5c70475ec326165f2733107a6](https://git.flyball.co/dsiprouter/enterprise/commit/dab249698fd794f5c70475ec326165f2733107a6)  
+> Commit: [dab249698fd794f5c70475ec326165f2733107a6](https://github.com/jcornwell-river/dsiprouter/commit/dab249698fd794f5c70475ec326165f2733107a6)  
 > Date: Thu, 6 Dec 2018 11:11:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13342,7 +14018,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7e0faf08240b1026784dab219fc93fbfc88ddab9)
 ### Update command_line_options.rst
 
-> Commit: [7e0faf08240b1026784dab219fc93fbfc88ddab9](https://git.flyball.co/dsiprouter/enterprise/commit/7e0faf08240b1026784dab219fc93fbfc88ddab9)  
+> Commit: [7e0faf08240b1026784dab219fc93fbfc88ddab9](https://github.com/jcornwell-river/dsiprouter/commit/7e0faf08240b1026784dab219fc93fbfc88ddab9)  
 > Date: Thu, 6 Dec 2018 11:11:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13357,7 +14033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5caadc2dd4f99cdb4055f94e82247ac7b4644c82)
 ### Update command_line_options.rst
 
-> Commit: [5caadc2dd4f99cdb4055f94e82247ac7b4644c82](https://git.flyball.co/dsiprouter/enterprise/commit/5caadc2dd4f99cdb4055f94e82247ac7b4644c82)  
+> Commit: [5caadc2dd4f99cdb4055f94e82247ac7b4644c82](https://github.com/jcornwell-river/dsiprouter/commit/5caadc2dd4f99cdb4055f94e82247ac7b4644c82)  
 > Date: Thu, 6 Dec 2018 11:11:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13372,7 +14048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eeae319e6fba19122867592373a6cf625ead92a0)
 ### Update command_line_options.rst
 
-> Commit: [eeae319e6fba19122867592373a6cf625ead92a0](https://git.flyball.co/dsiprouter/enterprise/commit/eeae319e6fba19122867592373a6cf625ead92a0)  
+> Commit: [eeae319e6fba19122867592373a6cf625ead92a0](https://github.com/jcornwell-river/dsiprouter/commit/eeae319e6fba19122867592373a6cf625ead92a0)  
 > Date: Thu, 6 Dec 2018 11:09:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13387,7 +14063,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 151d86f75adc877b7d11cc35540cc848fce6d4a2)
 ### Update command_line_options.rst
 
-> Commit: [151d86f75adc877b7d11cc35540cc848fce6d4a2](https://git.flyball.co/dsiprouter/enterprise/commit/151d86f75adc877b7d11cc35540cc848fce6d4a2)  
+> Commit: [151d86f75adc877b7d11cc35540cc848fce6d4a2](https://github.com/jcornwell-river/dsiprouter/commit/151d86f75adc877b7d11cc35540cc848fce6d4a2)  
 > Date: Thu, 6 Dec 2018 11:08:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13402,7 +14078,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 54b9e6b4096e25aa496d37571a8528afc7f6d586)
 ### Update command_line_options.rst
 
-> Commit: [54b9e6b4096e25aa496d37571a8528afc7f6d586](https://git.flyball.co/dsiprouter/enterprise/commit/54b9e6b4096e25aa496d37571a8528afc7f6d586)  
+> Commit: [54b9e6b4096e25aa496d37571a8528afc7f6d586](https://github.com/jcornwell-river/dsiprouter/commit/54b9e6b4096e25aa496d37571a8528afc7f6d586)  
 > Date: Thu, 6 Dec 2018 11:07:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13417,7 +14093,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c3d0d364edf4d383ff904e23008821396e3cbf28)
 ### Update command_line_options.rst
 
-> Commit: [c3d0d364edf4d383ff904e23008821396e3cbf28](https://git.flyball.co/dsiprouter/enterprise/commit/c3d0d364edf4d383ff904e23008821396e3cbf28)  
+> Commit: [c3d0d364edf4d383ff904e23008821396e3cbf28](https://github.com/jcornwell-river/dsiprouter/commit/c3d0d364edf4d383ff904e23008821396e3cbf28)  
 > Date: Thu, 6 Dec 2018 11:06:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13432,7 +14108,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 202ecb65234c571f146226d3c8421f7ec53011b1)
 ### Update command_line_options.rst
 
-> Commit: [202ecb65234c571f146226d3c8421f7ec53011b1](https://git.flyball.co/dsiprouter/enterprise/commit/202ecb65234c571f146226d3c8421f7ec53011b1)  
+> Commit: [202ecb65234c571f146226d3c8421f7ec53011b1](https://github.com/jcornwell-river/dsiprouter/commit/202ecb65234c571f146226d3c8421f7ec53011b1)  
 > Date: Thu, 6 Dec 2018 11:05:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13447,7 +14123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8f4e543faab2ba15f0609321876286d3d98149b5)
 ### Update command_line_options.rst
 
-> Commit: [8f4e543faab2ba15f0609321876286d3d98149b5](https://git.flyball.co/dsiprouter/enterprise/commit/8f4e543faab2ba15f0609321876286d3d98149b5)  
+> Commit: [8f4e543faab2ba15f0609321876286d3d98149b5](https://github.com/jcornwell-river/dsiprouter/commit/8f4e543faab2ba15f0609321876286d3d98149b5)  
 > Date: Thu, 6 Dec 2018 11:04:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13462,7 +14138,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7e8dff20e515cb91bcc486e3573714d5f53e68b)
 ### Update command_line_options.rst
 
-> Commit: [b7e8dff20e515cb91bcc486e3573714d5f53e68b](https://git.flyball.co/dsiprouter/enterprise/commit/b7e8dff20e515cb91bcc486e3573714d5f53e68b)  
+> Commit: [b7e8dff20e515cb91bcc486e3573714d5f53e68b](https://github.com/jcornwell-river/dsiprouter/commit/b7e8dff20e515cb91bcc486e3573714d5f53e68b)  
 > Date: Thu, 6 Dec 2018 11:02:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13477,7 +14153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d5258fa6c34c0b4d238f6f9c484495b07e42bc70)
 ### Update command_line_options.rst
 
-> Commit: [d5258fa6c34c0b4d238f6f9c484495b07e42bc70](https://git.flyball.co/dsiprouter/enterprise/commit/d5258fa6c34c0b4d238f6f9c484495b07e42bc70)  
+> Commit: [d5258fa6c34c0b4d238f6f9c484495b07e42bc70](https://github.com/jcornwell-river/dsiprouter/commit/d5258fa6c34c0b4d238f6f9c484495b07e42bc70)  
 > Date: Thu, 6 Dec 2018 11:00:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13492,7 +14168,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d1f5701490e421feacd1f2f83526c343524a126e)
 ### Update command_line_options.rst
 
-> Commit: [d1f5701490e421feacd1f2f83526c343524a126e](https://git.flyball.co/dsiprouter/enterprise/commit/d1f5701490e421feacd1f2f83526c343524a126e)  
+> Commit: [d1f5701490e421feacd1f2f83526c343524a126e](https://github.com/jcornwell-river/dsiprouter/commit/d1f5701490e421feacd1f2f83526c343524a126e)  
 > Date: Thu, 6 Dec 2018 10:56:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13507,7 +14183,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 16ba0130857f157b8ca2d25ca970628b2d6e81b6)
 ### Update use-cases.rst
 
-> Commit: [16ba0130857f157b8ca2d25ca970628b2d6e81b6](https://git.flyball.co/dsiprouter/enterprise/commit/16ba0130857f157b8ca2d25ca970628b2d6e81b6)  
+> Commit: [16ba0130857f157b8ca2d25ca970628b2d6e81b6](https://github.com/jcornwell-river/dsiprouter/commit/16ba0130857f157b8ca2d25ca970628b2d6e81b6)  
 > Date: Thu, 6 Dec 2018 10:29:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13522,7 +14198,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b876bb46ad10a9e6b835dbf8017e36716fe566e9)
 ### Update use-cases.rst
 
-> Commit: [b876bb46ad10a9e6b835dbf8017e36716fe566e9](https://git.flyball.co/dsiprouter/enterprise/commit/b876bb46ad10a9e6b835dbf8017e36716fe566e9)  
+> Commit: [b876bb46ad10a9e6b835dbf8017e36716fe566e9](https://github.com/jcornwell-river/dsiprouter/commit/b876bb46ad10a9e6b835dbf8017e36716fe566e9)  
 > Date: Thu, 6 Dec 2018 10:28:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13537,7 +14213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b286809dea53c2a2ea82ffec535bd4519f5c9e8a)
 ### Add files via upload
 
-> Commit: [b286809dea53c2a2ea82ffec535bd4519f5c9e8a](https://git.flyball.co/dsiprouter/enterprise/commit/b286809dea53c2a2ea82ffec535bd4519f5c9e8a)  
+> Commit: [b286809dea53c2a2ea82ffec535bd4519f5c9e8a](https://github.com/jcornwell-river/dsiprouter/commit/b286809dea53c2a2ea82ffec535bd4519f5c9e8a)  
 > Date: Thu, 6 Dec 2018 10:27:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13552,7 +14228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61f9af2883329b93f18c7878535f9f97a6b9461c)
 ### Update use-cases.rst
 
-> Commit: [61f9af2883329b93f18c7878535f9f97a6b9461c](https://git.flyball.co/dsiprouter/enterprise/commit/61f9af2883329b93f18c7878535f9f97a6b9461c)  
+> Commit: [61f9af2883329b93f18c7878535f9f97a6b9461c](https://github.com/jcornwell-river/dsiprouter/commit/61f9af2883329b93f18c7878535f9f97a6b9461c)  
 > Date: Thu, 6 Dec 2018 10:22:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13567,7 +14243,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 003a349e1cd36f53ee8c76d0aa7f451b14d09fff)
 ### Add files via upload
 
-> Commit: [003a349e1cd36f53ee8c76d0aa7f451b14d09fff](https://git.flyball.co/dsiprouter/enterprise/commit/003a349e1cd36f53ee8c76d0aa7f451b14d09fff)  
+> Commit: [003a349e1cd36f53ee8c76d0aa7f451b14d09fff](https://github.com/jcornwell-river/dsiprouter/commit/003a349e1cd36f53ee8c76d0aa7f451b14d09fff)  
 > Date: Thu, 6 Dec 2018 10:21:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13582,7 +14258,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 725ceeb3a0a11c0395f58b8524db7a5dc482f3b1)
 ### Delete 11d_dialplan2.PNG
 
-> Commit: [725ceeb3a0a11c0395f58b8524db7a5dc482f3b1](https://git.flyball.co/dsiprouter/enterprise/commit/725ceeb3a0a11c0395f58b8524db7a5dc482f3b1)  
+> Commit: [725ceeb3a0a11c0395f58b8524db7a5dc482f3b1](https://github.com/jcornwell-river/dsiprouter/commit/725ceeb3a0a11c0395f58b8524db7a5dc482f3b1)  
 > Date: Thu, 6 Dec 2018 10:19:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13597,7 +14273,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b36d14fb3160a67bef18ef1e98f81822d9f97ebe)
 ### Update command_line_options.rst
 
-> Commit: [b36d14fb3160a67bef18ef1e98f81822d9f97ebe](https://git.flyball.co/dsiprouter/enterprise/commit/b36d14fb3160a67bef18ef1e98f81822d9f97ebe)  
+> Commit: [b36d14fb3160a67bef18ef1e98f81822d9f97ebe](https://github.com/jcornwell-river/dsiprouter/commit/b36d14fb3160a67bef18ef1e98f81822d9f97ebe)  
 > Date: Thu, 6 Dec 2018 09:42:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13612,7 +14288,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 04439585a81b86bc2b6efa84ed95c22ed6b4aa2b)
 ### Fixed an issue with sync'ing with FusionPBX servers
 
-> Commit: [04439585a81b86bc2b6efa84ed95c22ed6b4aa2b](https://git.flyball.co/dsiprouter/enterprise/commit/04439585a81b86bc2b6efa84ed95c22ed6b4aa2b)  
+> Commit: [04439585a81b86bc2b6efa84ed95c22ed6b4aa2b](https://github.com/jcornwell-river/dsiprouter/commit/04439585a81b86bc2b6efa84ed95c22ed6b4aa2b)  
 > Date: Wed, 5 Dec 2018 21:40:25 +0000  
 > Author: root (root@debian-v51.localdomain)  
 > Committer: root (root@debian-v51.localdomain)  
@@ -13627,7 +14303,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 817cdea62dfacc1a2b26d76a5585473bdbdf80b2)
 ### Update command_line_options.rst
 
-> Commit: [817cdea62dfacc1a2b26d76a5585473bdbdf80b2](https://git.flyball.co/dsiprouter/enterprise/commit/817cdea62dfacc1a2b26d76a5585473bdbdf80b2)  
+> Commit: [817cdea62dfacc1a2b26d76a5585473bdbdf80b2](https://github.com/jcornwell-river/dsiprouter/commit/817cdea62dfacc1a2b26d76a5585473bdbdf80b2)  
 > Date: Wed, 5 Dec 2018 16:10:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13642,7 +14318,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a67b89861bdcd4e46669fddaf9c9e7c4447a7c75)
 ### Update command_line_options.rst
 
-> Commit: [a67b89861bdcd4e46669fddaf9c9e7c4447a7c75](https://git.flyball.co/dsiprouter/enterprise/commit/a67b89861bdcd4e46669fddaf9c9e7c4447a7c75)  
+> Commit: [a67b89861bdcd4e46669fddaf9c9e7c4447a7c75](https://github.com/jcornwell-river/dsiprouter/commit/a67b89861bdcd4e46669fddaf9c9e7c4447a7c75)  
 > Date: Wed, 5 Dec 2018 16:09:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13657,7 +14333,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2fe18f670331c8858287495c2440c218a480eaf4)
 ### Update command_line_options.rst
 
-> Commit: [2fe18f670331c8858287495c2440c218a480eaf4](https://git.flyball.co/dsiprouter/enterprise/commit/2fe18f670331c8858287495c2440c218a480eaf4)  
+> Commit: [2fe18f670331c8858287495c2440c218a480eaf4](https://github.com/jcornwell-river/dsiprouter/commit/2fe18f670331c8858287495c2440c218a480eaf4)  
 > Date: Wed, 5 Dec 2018 16:08:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13672,7 +14348,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 70fe86b3691b34c50faf1aa9d78f0d7bd29826f4)
 ### Update command_line_options.rst
 
-> Commit: [70fe86b3691b34c50faf1aa9d78f0d7bd29826f4](https://git.flyball.co/dsiprouter/enterprise/commit/70fe86b3691b34c50faf1aa9d78f0d7bd29826f4)  
+> Commit: [70fe86b3691b34c50faf1aa9d78f0d7bd29826f4](https://github.com/jcornwell-river/dsiprouter/commit/70fe86b3691b34c50faf1aa9d78f0d7bd29826f4)  
 > Date: Wed, 5 Dec 2018 16:08:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13687,7 +14363,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 176580d083e975678c1cb0204af07ec1f4d1e377)
 ### Update command_line_options.rst
 
-> Commit: [176580d083e975678c1cb0204af07ec1f4d1e377](https://git.flyball.co/dsiprouter/enterprise/commit/176580d083e975678c1cb0204af07ec1f4d1e377)  
+> Commit: [176580d083e975678c1cb0204af07ec1f4d1e377](https://github.com/jcornwell-river/dsiprouter/commit/176580d083e975678c1cb0204af07ec1f4d1e377)  
 > Date: Wed, 5 Dec 2018 16:07:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13702,7 +14378,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2031fbe4e584fd9ff239912990afb64bd8465206)
 ### Update command_line_options.rst
 
-> Commit: [2031fbe4e584fd9ff239912990afb64bd8465206](https://git.flyball.co/dsiprouter/enterprise/commit/2031fbe4e584fd9ff239912990afb64bd8465206)  
+> Commit: [2031fbe4e584fd9ff239912990afb64bd8465206](https://github.com/jcornwell-river/dsiprouter/commit/2031fbe4e584fd9ff239912990afb64bd8465206)  
 > Date: Wed, 5 Dec 2018 16:06:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13717,7 +14393,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 60e2fdab00f8f20d4204e4822909fbf15f2b80a9)
 ### Update command_line_options.rst
 
-> Commit: [60e2fdab00f8f20d4204e4822909fbf15f2b80a9](https://git.flyball.co/dsiprouter/enterprise/commit/60e2fdab00f8f20d4204e4822909fbf15f2b80a9)  
+> Commit: [60e2fdab00f8f20d4204e4822909fbf15f2b80a9](https://github.com/jcornwell-river/dsiprouter/commit/60e2fdab00f8f20d4204e4822909fbf15f2b80a9)  
 > Date: Wed, 5 Dec 2018 16:06:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13732,7 +14408,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ace41e37436366b3b48f28150875d1da8683f971)
 ### Update command_line_options.rst
 
-> Commit: [ace41e37436366b3b48f28150875d1da8683f971](https://git.flyball.co/dsiprouter/enterprise/commit/ace41e37436366b3b48f28150875d1da8683f971)  
+> Commit: [ace41e37436366b3b48f28150875d1da8683f971](https://github.com/jcornwell-river/dsiprouter/commit/ace41e37436366b3b48f28150875d1da8683f971)  
 > Date: Wed, 5 Dec 2018 16:05:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13747,7 +14423,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c190e513d8762ca6cbd34203d4e7f34409718350)
 ### Update command_line_options.rst
 
-> Commit: [c190e513d8762ca6cbd34203d4e7f34409718350](https://git.flyball.co/dsiprouter/enterprise/commit/c190e513d8762ca6cbd34203d4e7f34409718350)  
+> Commit: [c190e513d8762ca6cbd34203d4e7f34409718350](https://github.com/jcornwell-river/dsiprouter/commit/c190e513d8762ca6cbd34203d4e7f34409718350)  
 > Date: Wed, 5 Dec 2018 16:05:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13762,7 +14438,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dbe86a1d276ffe751749d78b7644bf53d727b235)
 ### Update command_line_options.rst
 
-> Commit: [dbe86a1d276ffe751749d78b7644bf53d727b235](https://git.flyball.co/dsiprouter/enterprise/commit/dbe86a1d276ffe751749d78b7644bf53d727b235)  
+> Commit: [dbe86a1d276ffe751749d78b7644bf53d727b235](https://github.com/jcornwell-river/dsiprouter/commit/dbe86a1d276ffe751749d78b7644bf53d727b235)  
 > Date: Wed, 5 Dec 2018 16:04:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13777,7 +14453,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92f54bd32c64650744622d29e7639e8495298709)
 ### Update command_line_options.rst
 
-> Commit: [92f54bd32c64650744622d29e7639e8495298709](https://git.flyball.co/dsiprouter/enterprise/commit/92f54bd32c64650744622d29e7639e8495298709)  
+> Commit: [92f54bd32c64650744622d29e7639e8495298709](https://github.com/jcornwell-river/dsiprouter/commit/92f54bd32c64650744622d29e7639e8495298709)  
 > Date: Wed, 5 Dec 2018 16:03:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13792,7 +14468,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 974cede9e228fb9f90ea1f02b56762ca3e343a6a)
 ### Update command_line_options.rst
 
-> Commit: [974cede9e228fb9f90ea1f02b56762ca3e343a6a](https://git.flyball.co/dsiprouter/enterprise/commit/974cede9e228fb9f90ea1f02b56762ca3e343a6a)  
+> Commit: [974cede9e228fb9f90ea1f02b56762ca3e343a6a](https://github.com/jcornwell-river/dsiprouter/commit/974cede9e228fb9f90ea1f02b56762ca3e343a6a)  
 > Date: Wed, 5 Dec 2018 16:02:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13807,7 +14483,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c5f9ef05f2ac1df72a2c2790e0ce4a85196f899)
 ### Update command_line_options.rst
 
-> Commit: [1c5f9ef05f2ac1df72a2c2790e0ce4a85196f899](https://git.flyball.co/dsiprouter/enterprise/commit/1c5f9ef05f2ac1df72a2c2790e0ce4a85196f899)  
+> Commit: [1c5f9ef05f2ac1df72a2c2790e0ce4a85196f899](https://github.com/jcornwell-river/dsiprouter/commit/1c5f9ef05f2ac1df72a2c2790e0ce4a85196f899)  
 > Date: Wed, 5 Dec 2018 16:02:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13822,7 +14498,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ad56241386f50a1853c92bd6bc9de657d460e228)
 ### Update command_line_options.rst
 
-> Commit: [ad56241386f50a1853c92bd6bc9de657d460e228](https://git.flyball.co/dsiprouter/enterprise/commit/ad56241386f50a1853c92bd6bc9de657d460e228)  
+> Commit: [ad56241386f50a1853c92bd6bc9de657d460e228](https://github.com/jcornwell-river/dsiprouter/commit/ad56241386f50a1853c92bd6bc9de657d460e228)  
 > Date: Wed, 5 Dec 2018 16:01:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13837,7 +14513,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ea5e2e2a8a5282c92355f12c5c12210eeb7993d6)
 ### Update command_line_options.rst
 
-> Commit: [ea5e2e2a8a5282c92355f12c5c12210eeb7993d6](https://git.flyball.co/dsiprouter/enterprise/commit/ea5e2e2a8a5282c92355f12c5c12210eeb7993d6)  
+> Commit: [ea5e2e2a8a5282c92355f12c5c12210eeb7993d6](https://github.com/jcornwell-river/dsiprouter/commit/ea5e2e2a8a5282c92355f12c5c12210eeb7993d6)  
 > Date: Wed, 5 Dec 2018 16:01:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13852,7 +14528,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14c551b7293d696bfdcafd1c662291f094a1bfaf)
 ### Update command_line_options.rst
 
-> Commit: [14c551b7293d696bfdcafd1c662291f094a1bfaf](https://git.flyball.co/dsiprouter/enterprise/commit/14c551b7293d696bfdcafd1c662291f094a1bfaf)  
+> Commit: [14c551b7293d696bfdcafd1c662291f094a1bfaf](https://github.com/jcornwell-river/dsiprouter/commit/14c551b7293d696bfdcafd1c662291f094a1bfaf)  
 > Date: Wed, 5 Dec 2018 16:01:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13867,7 +14543,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25fc05cbf29e3dd7978c5c3ff98c2af837fe6393)
 ### Update command_line_options.rst
 
-> Commit: [25fc05cbf29e3dd7978c5c3ff98c2af837fe6393](https://git.flyball.co/dsiprouter/enterprise/commit/25fc05cbf29e3dd7978c5c3ff98c2af837fe6393)  
+> Commit: [25fc05cbf29e3dd7978c5c3ff98c2af837fe6393](https://github.com/jcornwell-river/dsiprouter/commit/25fc05cbf29e3dd7978c5c3ff98c2af837fe6393)  
 > Date: Wed, 5 Dec 2018 16:00:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13882,7 +14558,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 44dd4bdf4e26c1dd93494f1aff23a31f1f7a9e79)
 ### Update command_line_options.rst
 
-> Commit: [44dd4bdf4e26c1dd93494f1aff23a31f1f7a9e79](https://git.flyball.co/dsiprouter/enterprise/commit/44dd4bdf4e26c1dd93494f1aff23a31f1f7a9e79)  
+> Commit: [44dd4bdf4e26c1dd93494f1aff23a31f1f7a9e79](https://github.com/jcornwell-river/dsiprouter/commit/44dd4bdf4e26c1dd93494f1aff23a31f1f7a9e79)  
 > Date: Wed, 5 Dec 2018 15:59:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13897,7 +14573,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 09821b0afdefd29f0a2d8f1d16d07bfbf4993d65)
 ### Update command_line_options.rst
 
-> Commit: [09821b0afdefd29f0a2d8f1d16d07bfbf4993d65](https://git.flyball.co/dsiprouter/enterprise/commit/09821b0afdefd29f0a2d8f1d16d07bfbf4993d65)  
+> Commit: [09821b0afdefd29f0a2d8f1d16d07bfbf4993d65](https://github.com/jcornwell-river/dsiprouter/commit/09821b0afdefd29f0a2d8f1d16d07bfbf4993d65)  
 > Date: Wed, 5 Dec 2018 15:50:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13912,7 +14588,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b190587fe5a11c9bd30338dca34d8ffc5a3cb9a5)
 ### Update command_line_options.rst
 
-> Commit: [b190587fe5a11c9bd30338dca34d8ffc5a3cb9a5](https://git.flyball.co/dsiprouter/enterprise/commit/b190587fe5a11c9bd30338dca34d8ffc5a3cb9a5)  
+> Commit: [b190587fe5a11c9bd30338dca34d8ffc5a3cb9a5](https://github.com/jcornwell-river/dsiprouter/commit/b190587fe5a11c9bd30338dca34d8ffc5a3cb9a5)  
 > Date: Wed, 5 Dec 2018 15:49:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13927,7 +14603,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5b3223187d5d3c66ba4ac176a28d9d445af3a05d)
 ### Update command_line_options.rst
 
-> Commit: [5b3223187d5d3c66ba4ac176a28d9d445af3a05d](https://git.flyball.co/dsiprouter/enterprise/commit/5b3223187d5d3c66ba4ac176a28d9d445af3a05d)  
+> Commit: [5b3223187d5d3c66ba4ac176a28d9d445af3a05d](https://github.com/jcornwell-river/dsiprouter/commit/5b3223187d5d3c66ba4ac176a28d9d445af3a05d)  
 > Date: Wed, 5 Dec 2018 15:49:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13942,7 +14618,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 30711d7e9e349183490fb405f8309d463dfe75c5)
 ### Update command_line_options.rst
 
-> Commit: [30711d7e9e349183490fb405f8309d463dfe75c5](https://git.flyball.co/dsiprouter/enterprise/commit/30711d7e9e349183490fb405f8309d463dfe75c5)  
+> Commit: [30711d7e9e349183490fb405f8309d463dfe75c5](https://github.com/jcornwell-river/dsiprouter/commit/30711d7e9e349183490fb405f8309d463dfe75c5)  
 > Date: Wed, 5 Dec 2018 15:48:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13957,7 +14633,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 466d3cbed9a7de0143d2c409e39e477c2c437665)
 ### Update command_line_options.rst
 
-> Commit: [466d3cbed9a7de0143d2c409e39e477c2c437665](https://git.flyball.co/dsiprouter/enterprise/commit/466d3cbed9a7de0143d2c409e39e477c2c437665)  
+> Commit: [466d3cbed9a7de0143d2c409e39e477c2c437665](https://github.com/jcornwell-river/dsiprouter/commit/466d3cbed9a7de0143d2c409e39e477c2c437665)  
 > Date: Wed, 5 Dec 2018 15:46:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13972,7 +14648,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 87ffe7fe3b93ee0a27d4d22c89869325573a7386)
 ### Update command_line_options.rst
 
-> Commit: [87ffe7fe3b93ee0a27d4d22c89869325573a7386](https://git.flyball.co/dsiprouter/enterprise/commit/87ffe7fe3b93ee0a27d4d22c89869325573a7386)  
+> Commit: [87ffe7fe3b93ee0a27d4d22c89869325573a7386](https://github.com/jcornwell-river/dsiprouter/commit/87ffe7fe3b93ee0a27d4d22c89869325573a7386)  
 > Date: Wed, 5 Dec 2018 15:45:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -13987,7 +14663,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a825793487ed70e3969d94660ddf17905edd3d78)
 ### Update command_line_options.rst
 
-> Commit: [a825793487ed70e3969d94660ddf17905edd3d78](https://git.flyball.co/dsiprouter/enterprise/commit/a825793487ed70e3969d94660ddf17905edd3d78)  
+> Commit: [a825793487ed70e3969d94660ddf17905edd3d78](https://github.com/jcornwell-river/dsiprouter/commit/a825793487ed70e3969d94660ddf17905edd3d78)  
 > Date: Wed, 5 Dec 2018 15:44:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14002,7 +14678,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 127fb5fea981bda64d6d17c298789f1187fcecfd)
 ### Update command_line_options.rst
 
-> Commit: [127fb5fea981bda64d6d17c298789f1187fcecfd](https://git.flyball.co/dsiprouter/enterprise/commit/127fb5fea981bda64d6d17c298789f1187fcecfd)  
+> Commit: [127fb5fea981bda64d6d17c298789f1187fcecfd](https://github.com/jcornwell-river/dsiprouter/commit/127fb5fea981bda64d6d17c298789f1187fcecfd)  
 > Date: Wed, 5 Dec 2018 15:40:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14017,7 +14693,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63814bd3e27245dcfc5d4ba11f765c6ecd727838)
 ### Update command_line_options.rst
 
-> Commit: [63814bd3e27245dcfc5d4ba11f765c6ecd727838](https://git.flyball.co/dsiprouter/enterprise/commit/63814bd3e27245dcfc5d4ba11f765c6ecd727838)  
+> Commit: [63814bd3e27245dcfc5d4ba11f765c6ecd727838](https://github.com/jcornwell-river/dsiprouter/commit/63814bd3e27245dcfc5d4ba11f765c6ecd727838)  
 > Date: Wed, 5 Dec 2018 15:40:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14032,7 +14708,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2461fc8fd838e233301fd6268c73e227ea812483)
 ### Update command_line_options.rst
 
-> Commit: [2461fc8fd838e233301fd6268c73e227ea812483](https://git.flyball.co/dsiprouter/enterprise/commit/2461fc8fd838e233301fd6268c73e227ea812483)  
+> Commit: [2461fc8fd838e233301fd6268c73e227ea812483](https://github.com/jcornwell-river/dsiprouter/commit/2461fc8fd838e233301fd6268c73e227ea812483)  
 > Date: Wed, 5 Dec 2018 15:39:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14047,7 +14723,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 39a8cbf850140154611de7842acbe94da5ebf3d5)
 ### Update command_line_options.rst
 
-> Commit: [39a8cbf850140154611de7842acbe94da5ebf3d5](https://git.flyball.co/dsiprouter/enterprise/commit/39a8cbf850140154611de7842acbe94da5ebf3d5)  
+> Commit: [39a8cbf850140154611de7842acbe94da5ebf3d5](https://github.com/jcornwell-river/dsiprouter/commit/39a8cbf850140154611de7842acbe94da5ebf3d5)  
 > Date: Wed, 5 Dec 2018 15:38:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14062,7 +14738,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 23b0452d3f57e7e1f1a04e9b65ac79ebf45fe94c)
 ### Update command_line_options.rst
 
-> Commit: [23b0452d3f57e7e1f1a04e9b65ac79ebf45fe94c](https://git.flyball.co/dsiprouter/enterprise/commit/23b0452d3f57e7e1f1a04e9b65ac79ebf45fe94c)  
+> Commit: [23b0452d3f57e7e1f1a04e9b65ac79ebf45fe94c](https://github.com/jcornwell-river/dsiprouter/commit/23b0452d3f57e7e1f1a04e9b65ac79ebf45fe94c)  
 > Date: Wed, 5 Dec 2018 15:37:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14077,7 +14753,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63a6cedf489fe45966aa661ba42ef14cfb50af7f)
 ### Update command_line_options.rst
 
-> Commit: [63a6cedf489fe45966aa661ba42ef14cfb50af7f](https://git.flyball.co/dsiprouter/enterprise/commit/63a6cedf489fe45966aa661ba42ef14cfb50af7f)  
+> Commit: [63a6cedf489fe45966aa661ba42ef14cfb50af7f](https://github.com/jcornwell-river/dsiprouter/commit/63a6cedf489fe45966aa661ba42ef14cfb50af7f)  
 > Date: Wed, 5 Dec 2018 15:33:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14092,7 +14768,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8861b4b932ea90f9ed891893eecfd4b6e360ad32)
 ### Update command_line_options.rst
 
-> Commit: [8861b4b932ea90f9ed891893eecfd4b6e360ad32](https://git.flyball.co/dsiprouter/enterprise/commit/8861b4b932ea90f9ed891893eecfd4b6e360ad32)  
+> Commit: [8861b4b932ea90f9ed891893eecfd4b6e360ad32](https://github.com/jcornwell-river/dsiprouter/commit/8861b4b932ea90f9ed891893eecfd4b6e360ad32)  
 > Date: Wed, 5 Dec 2018 15:33:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14107,7 +14783,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e47c3301943a66984671a3fc238fc8d2c48804d7)
 ### Update command_line_options.rst
 
-> Commit: [e47c3301943a66984671a3fc238fc8d2c48804d7](https://git.flyball.co/dsiprouter/enterprise/commit/e47c3301943a66984671a3fc238fc8d2c48804d7)  
+> Commit: [e47c3301943a66984671a3fc238fc8d2c48804d7](https://github.com/jcornwell-river/dsiprouter/commit/e47c3301943a66984671a3fc238fc8d2c48804d7)  
 > Date: Wed, 5 Dec 2018 15:32:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14122,7 +14798,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b5551d43be75252f3f08d9ba1984be8af9b0161b)
 ### Update command_line_options.rst
 
-> Commit: [b5551d43be75252f3f08d9ba1984be8af9b0161b](https://git.flyball.co/dsiprouter/enterprise/commit/b5551d43be75252f3f08d9ba1984be8af9b0161b)  
+> Commit: [b5551d43be75252f3f08d9ba1984be8af9b0161b](https://github.com/jcornwell-river/dsiprouter/commit/b5551d43be75252f3f08d9ba1984be8af9b0161b)  
 > Date: Wed, 5 Dec 2018 15:27:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14137,7 +14813,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ca51e56e4fad9d83d97dd625061a726c6737a127)
 ### Update command_line_options.rst
 
-> Commit: [ca51e56e4fad9d83d97dd625061a726c6737a127](https://git.flyball.co/dsiprouter/enterprise/commit/ca51e56e4fad9d83d97dd625061a726c6737a127)  
+> Commit: [ca51e56e4fad9d83d97dd625061a726c6737a127](https://github.com/jcornwell-river/dsiprouter/commit/ca51e56e4fad9d83d97dd625061a726c6737a127)  
 > Date: Wed, 5 Dec 2018 15:26:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14152,7 +14828,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cb77b48b62a1149bbf016cacb19529328700942e)
 ### Update command_line_options.rst
 
-> Commit: [cb77b48b62a1149bbf016cacb19529328700942e](https://git.flyball.co/dsiprouter/enterprise/commit/cb77b48b62a1149bbf016cacb19529328700942e)  
+> Commit: [cb77b48b62a1149bbf016cacb19529328700942e](https://github.com/jcornwell-river/dsiprouter/commit/cb77b48b62a1149bbf016cacb19529328700942e)  
 > Date: Wed, 5 Dec 2018 15:25:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14167,7 +14843,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e0cb8ca5c167da59831038ac75b1896648b844ad)
 ### Update command_line_options.rst
 
-> Commit: [e0cb8ca5c167da59831038ac75b1896648b844ad](https://git.flyball.co/dsiprouter/enterprise/commit/e0cb8ca5c167da59831038ac75b1896648b844ad)  
+> Commit: [e0cb8ca5c167da59831038ac75b1896648b844ad](https://github.com/jcornwell-river/dsiprouter/commit/e0cb8ca5c167da59831038ac75b1896648b844ad)  
 > Date: Wed, 5 Dec 2018 15:24:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14182,7 +14858,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 56ed04546303de03c403ca658c16909edea8e265)
 ### Update and rename uninstalling.rst to command_line_options.rst
 
-> Commit: [56ed04546303de03c403ca658c16909edea8e265](https://git.flyball.co/dsiprouter/enterprise/commit/56ed04546303de03c403ca658c16909edea8e265)  
+> Commit: [56ed04546303de03c403ca658c16909edea8e265](https://github.com/jcornwell-river/dsiprouter/commit/56ed04546303de03c403ca658c16909edea8e265)  
 > Date: Wed, 5 Dec 2018 12:39:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14197,7 +14873,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2ebbf629ddc5fbe7141f961c7a5d819a62d5f194)
 ### Update configuring.rst
 
-> Commit: [2ebbf629ddc5fbe7141f961c7a5d819a62d5f194](https://git.flyball.co/dsiprouter/enterprise/commit/2ebbf629ddc5fbe7141f961c7a5d819a62d5f194)  
+> Commit: [2ebbf629ddc5fbe7141f961c7a5d819a62d5f194](https://github.com/jcornwell-river/dsiprouter/commit/2ebbf629ddc5fbe7141f961c7a5d819a62d5f194)  
 > Date: Wed, 5 Dec 2018 12:38:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14212,7 +14888,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f5ed526604dda2ea27d924e008fb8822a40b3b40)
 ### Update configuring.rst
 
-> Commit: [f5ed526604dda2ea27d924e008fb8822a40b3b40](https://git.flyball.co/dsiprouter/enterprise/commit/f5ed526604dda2ea27d924e008fb8822a40b3b40)  
+> Commit: [f5ed526604dda2ea27d924e008fb8822a40b3b40](https://github.com/jcornwell-river/dsiprouter/commit/f5ed526604dda2ea27d924e008fb8822a40b3b40)  
 > Date: Wed, 5 Dec 2018 12:09:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14227,7 +14903,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 68dbc78ea23bc3c094df7de434fb829cf5f71291)
 ### Update uninstalling.rst
 
-> Commit: [68dbc78ea23bc3c094df7de434fb829cf5f71291](https://git.flyball.co/dsiprouter/enterprise/commit/68dbc78ea23bc3c094df7de434fb829cf5f71291)  
+> Commit: [68dbc78ea23bc3c094df7de434fb829cf5f71291](https://github.com/jcornwell-river/dsiprouter/commit/68dbc78ea23bc3c094df7de434fb829cf5f71291)  
 > Date: Wed, 5 Dec 2018 12:05:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14242,7 +14918,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d7ae04bc83484c23119be8595a4b02dc8fca604d)
 ### Update uninstalling.rst
 
-> Commit: [d7ae04bc83484c23119be8595a4b02dc8fca604d](https://git.flyball.co/dsiprouter/enterprise/commit/d7ae04bc83484c23119be8595a4b02dc8fca604d)  
+> Commit: [d7ae04bc83484c23119be8595a4b02dc8fca604d](https://github.com/jcornwell-river/dsiprouter/commit/d7ae04bc83484c23119be8595a4b02dc8fca604d)  
 > Date: Wed, 5 Dec 2018 12:04:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14257,7 +14933,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 747a95f491ea34c7e070d8f277b1385df9e4e233)
 ### Update and rename uninstalling dSIPRouter.rst to uninstalling.rst
 
-> Commit: [747a95f491ea34c7e070d8f277b1385df9e4e233](https://git.flyball.co/dsiprouter/enterprise/commit/747a95f491ea34c7e070d8f277b1385df9e4e233)  
+> Commit: [747a95f491ea34c7e070d8f277b1385df9e4e233](https://github.com/jcornwell-river/dsiprouter/commit/747a95f491ea34c7e070d8f277b1385df9e4e233)  
 > Date: Wed, 5 Dec 2018 11:54:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14272,7 +14948,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1e46a6d9596d8f7b37f5fe4b532c45bd534d9341)
 ### Create uninstalling dSIPRouter.rst
 
-> Commit: [1e46a6d9596d8f7b37f5fe4b532c45bd534d9341](https://git.flyball.co/dsiprouter/enterprise/commit/1e46a6d9596d8f7b37f5fe4b532c45bd534d9341)  
+> Commit: [1e46a6d9596d8f7b37f5fe4b532c45bd534d9341](https://github.com/jcornwell-river/dsiprouter/commit/1e46a6d9596d8f7b37f5fe4b532c45bd534d9341)  
 > Date: Wed, 5 Dec 2018 11:52:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14287,7 +14963,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 042000aa2f4103516b675429826aae27ee630cff)
 ### Update use-cases.rst
 
-> Commit: [042000aa2f4103516b675429826aae27ee630cff](https://git.flyball.co/dsiprouter/enterprise/commit/042000aa2f4103516b675429826aae27ee630cff)  
+> Commit: [042000aa2f4103516b675429826aae27ee630cff](https://github.com/jcornwell-river/dsiprouter/commit/042000aa2f4103516b675429826aae27ee630cff)  
 > Date: Wed, 5 Dec 2018 11:50:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14302,7 +14978,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 063cf906081d3894fb0dbe20e2233075d290b259)
 ### Update use-cases.rst
 
-> Commit: [063cf906081d3894fb0dbe20e2233075d290b259](https://git.flyball.co/dsiprouter/enterprise/commit/063cf906081d3894fb0dbe20e2233075d290b259)  
+> Commit: [063cf906081d3894fb0dbe20e2233075d290b259](https://github.com/jcornwell-river/dsiprouter/commit/063cf906081d3894fb0dbe20e2233075d290b259)  
 > Date: Wed, 5 Dec 2018 11:49:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14317,7 +14993,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e1a6b9565e264379026199507a5f12e9b18d244)
 ### Update use-cases.rst
 
-> Commit: [9e1a6b9565e264379026199507a5f12e9b18d244](https://git.flyball.co/dsiprouter/enterprise/commit/9e1a6b9565e264379026199507a5f12e9b18d244)  
+> Commit: [9e1a6b9565e264379026199507a5f12e9b18d244](https://github.com/jcornwell-river/dsiprouter/commit/9e1a6b9565e264379026199507a5f12e9b18d244)  
 > Date: Wed, 5 Dec 2018 11:48:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14332,7 +15008,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8805ecf84743bc0cfeae3becde69e9b930a41bbc)
 ### Update use-cases.rst
 
-> Commit: [8805ecf84743bc0cfeae3becde69e9b930a41bbc](https://git.flyball.co/dsiprouter/enterprise/commit/8805ecf84743bc0cfeae3becde69e9b930a41bbc)  
+> Commit: [8805ecf84743bc0cfeae3becde69e9b930a41bbc](https://github.com/jcornwell-river/dsiprouter/commit/8805ecf84743bc0cfeae3becde69e9b930a41bbc)  
 > Date: Tue, 4 Dec 2018 14:59:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14347,7 +15023,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 90b4ac84b052fd1eb963ae9ef179de54d17b9339)
 ### Update use-cases.rst
 
-> Commit: [90b4ac84b052fd1eb963ae9ef179de54d17b9339](https://git.flyball.co/dsiprouter/enterprise/commit/90b4ac84b052fd1eb963ae9ef179de54d17b9339)  
+> Commit: [90b4ac84b052fd1eb963ae9ef179de54d17b9339](https://github.com/jcornwell-river/dsiprouter/commit/90b4ac84b052fd1eb963ae9ef179de54d17b9339)  
 > Date: Tue, 4 Dec 2018 14:57:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14362,7 +15038,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20bb8fad54023738be95050b43c584376eb38547)
 ### Update use-cases.rst
 
-> Commit: [20bb8fad54023738be95050b43c584376eb38547](https://git.flyball.co/dsiprouter/enterprise/commit/20bb8fad54023738be95050b43c584376eb38547)  
+> Commit: [20bb8fad54023738be95050b43c584376eb38547](https://github.com/jcornwell-river/dsiprouter/commit/20bb8fad54023738be95050b43c584376eb38547)  
 > Date: Tue, 4 Dec 2018 14:47:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14377,7 +15053,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c764685364cda45cd7f76ee61026fa92b3435e32)
 ### Delete dialplan_11d.PNG
 
-> Commit: [c764685364cda45cd7f76ee61026fa92b3435e32](https://git.flyball.co/dsiprouter/enterprise/commit/c764685364cda45cd7f76ee61026fa92b3435e32)  
+> Commit: [c764685364cda45cd7f76ee61026fa92b3435e32](https://github.com/jcornwell-river/dsiprouter/commit/c764685364cda45cd7f76ee61026fa92b3435e32)  
 > Date: Tue, 4 Dec 2018 14:41:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14392,7 +15068,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7be3b97d5edc74d655caee605512830105737e9b)
 ### Update use-cases.rst
 
-> Commit: [7be3b97d5edc74d655caee605512830105737e9b](https://git.flyball.co/dsiprouter/enterprise/commit/7be3b97d5edc74d655caee605512830105737e9b)  
+> Commit: [7be3b97d5edc74d655caee605512830105737e9b](https://github.com/jcornwell-river/dsiprouter/commit/7be3b97d5edc74d655caee605512830105737e9b)  
 > Date: Tue, 4 Dec 2018 14:36:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14407,7 +15083,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6e258008f3fe925994e072daaa9d75c9dbb7760a)
 ### Add files via upload
 
-> Commit: [6e258008f3fe925994e072daaa9d75c9dbb7760a](https://git.flyball.co/dsiprouter/enterprise/commit/6e258008f3fe925994e072daaa9d75c9dbb7760a)  
+> Commit: [6e258008f3fe925994e072daaa9d75c9dbb7760a](https://github.com/jcornwell-river/dsiprouter/commit/6e258008f3fe925994e072daaa9d75c9dbb7760a)  
 > Date: Tue, 4 Dec 2018 14:35:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14422,7 +15098,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c7ff8ae6f595b6655eac2bb180b6eb7eb157445a)
 ### Update use-cases.rst
 
-> Commit: [c7ff8ae6f595b6655eac2bb180b6eb7eb157445a](https://git.flyball.co/dsiprouter/enterprise/commit/c7ff8ae6f595b6655eac2bb180b6eb7eb157445a)  
+> Commit: [c7ff8ae6f595b6655eac2bb180b6eb7eb157445a](https://github.com/jcornwell-river/dsiprouter/commit/c7ff8ae6f595b6655eac2bb180b6eb7eb157445a)  
 > Date: Tue, 4 Dec 2018 14:27:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14437,7 +15113,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ab13610276804818c8fc149180fbfe5f4529dbe4)
 ### Update use-cases.rst
 
-> Commit: [ab13610276804818c8fc149180fbfe5f4529dbe4](https://git.flyball.co/dsiprouter/enterprise/commit/ab13610276804818c8fc149180fbfe5f4529dbe4)  
+> Commit: [ab13610276804818c8fc149180fbfe5f4529dbe4](https://github.com/jcornwell-river/dsiprouter/commit/ab13610276804818c8fc149180fbfe5f4529dbe4)  
 > Date: Tue, 4 Dec 2018 10:26:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14452,7 +15128,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dabb36bfa7ea0d68ad7f36e2d15a3f603ad86ac9)
 ### Update use-cases.rst
 
-> Commit: [dabb36bfa7ea0d68ad7f36e2d15a3f603ad86ac9](https://git.flyball.co/dsiprouter/enterprise/commit/dabb36bfa7ea0d68ad7f36e2d15a3f603ad86ac9)  
+> Commit: [dabb36bfa7ea0d68ad7f36e2d15a3f603ad86ac9](https://github.com/jcornwell-river/dsiprouter/commit/dabb36bfa7ea0d68ad7f36e2d15a3f603ad86ac9)  
 > Date: Tue, 4 Dec 2018 10:24:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14467,7 +15143,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 66f3b4e7aa86a9192c64fe6d1122ae5a29339b9f)
 ### Update use-cases.rst
 
-> Commit: [66f3b4e7aa86a9192c64fe6d1122ae5a29339b9f](https://git.flyball.co/dsiprouter/enterprise/commit/66f3b4e7aa86a9192c64fe6d1122ae5a29339b9f)  
+> Commit: [66f3b4e7aa86a9192c64fe6d1122ae5a29339b9f](https://github.com/jcornwell-river/dsiprouter/commit/66f3b4e7aa86a9192c64fe6d1122ae5a29339b9f)  
 > Date: Tue, 4 Dec 2018 10:20:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14482,7 +15158,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a0d919e4c908cc6ac5720f4b147ed8733ebe9608)
 ### Update use-cases.rst
 
-> Commit: [a0d919e4c908cc6ac5720f4b147ed8733ebe9608](https://git.flyball.co/dsiprouter/enterprise/commit/a0d919e4c908cc6ac5720f4b147ed8733ebe9608)  
+> Commit: [a0d919e4c908cc6ac5720f4b147ed8733ebe9608](https://github.com/jcornwell-river/dsiprouter/commit/a0d919e4c908cc6ac5720f4b147ed8733ebe9608)  
 > Date: Tue, 4 Dec 2018 10:17:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14497,7 +15173,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a7c1280523780c351501ca0e25bd897de61c81a6)
 ### Update use-cases.rst
 
-> Commit: [a7c1280523780c351501ca0e25bd897de61c81a6](https://git.flyball.co/dsiprouter/enterprise/commit/a7c1280523780c351501ca0e25bd897de61c81a6)  
+> Commit: [a7c1280523780c351501ca0e25bd897de61c81a6](https://github.com/jcornwell-river/dsiprouter/commit/a7c1280523780c351501ca0e25bd897de61c81a6)  
 > Date: Tue, 4 Dec 2018 10:04:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14512,7 +15188,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 16e58ef3a16052bdcc77f8f7379dbfa8ce60571a)
 ### Add files via upload
 
-> Commit: [16e58ef3a16052bdcc77f8f7379dbfa8ce60571a](https://git.flyball.co/dsiprouter/enterprise/commit/16e58ef3a16052bdcc77f8f7379dbfa8ce60571a)  
+> Commit: [16e58ef3a16052bdcc77f8f7379dbfa8ce60571a](https://github.com/jcornwell-river/dsiprouter/commit/16e58ef3a16052bdcc77f8f7379dbfa8ce60571a)  
 > Date: Tue, 4 Dec 2018 10:02:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14527,7 +15203,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 66d404c23738071205eba79bf92da94c49f8618d)
 ### Update use-cases.rst
 
-> Commit: [66d404c23738071205eba79bf92da94c49f8618d](https://git.flyball.co/dsiprouter/enterprise/commit/66d404c23738071205eba79bf92da94c49f8618d)  
+> Commit: [66d404c23738071205eba79bf92da94c49f8618d](https://github.com/jcornwell-river/dsiprouter/commit/66d404c23738071205eba79bf92da94c49f8618d)  
 > Date: Tue, 4 Dec 2018 09:46:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14542,7 +15218,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 29721571915c3304053c2a6564255d40fcb09e5f)
 ### Update use-cases.rst
 
-> Commit: [29721571915c3304053c2a6564255d40fcb09e5f](https://git.flyball.co/dsiprouter/enterprise/commit/29721571915c3304053c2a6564255d40fcb09e5f)  
+> Commit: [29721571915c3304053c2a6564255d40fcb09e5f](https://github.com/jcornwell-river/dsiprouter/commit/29721571915c3304053c2a6564255d40fcb09e5f)  
 > Date: Tue, 4 Dec 2018 09:43:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14557,7 +15233,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fc6564b7b42dcdc3b00384909c4b21ef8fcb3993)
 ### Update use-cases.rst
 
-> Commit: [fc6564b7b42dcdc3b00384909c4b21ef8fcb3993](https://git.flyball.co/dsiprouter/enterprise/commit/fc6564b7b42dcdc3b00384909c4b21ef8fcb3993)  
+> Commit: [fc6564b7b42dcdc3b00384909c4b21ef8fcb3993](https://github.com/jcornwell-river/dsiprouter/commit/fc6564b7b42dcdc3b00384909c4b21ef8fcb3993)  
 > Date: Mon, 3 Dec 2018 14:48:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14572,7 +15248,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a28988b075950add016891cb1c0d76f28dfbeb21)
 ### Update use-cases.rst
 
-> Commit: [a28988b075950add016891cb1c0d76f28dfbeb21](https://git.flyball.co/dsiprouter/enterprise/commit/a28988b075950add016891cb1c0d76f28dfbeb21)  
+> Commit: [a28988b075950add016891cb1c0d76f28dfbeb21](https://github.com/jcornwell-river/dsiprouter/commit/a28988b075950add016891cb1c0d76f28dfbeb21)  
 > Date: Mon, 3 Dec 2018 14:18:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14587,7 +15263,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d083afdf332473516db6956c822b751574d059b)
 ### Update use-cases.rst
 
-> Commit: [3d083afdf332473516db6956c822b751574d059b](https://git.flyball.co/dsiprouter/enterprise/commit/3d083afdf332473516db6956c822b751574d059b)  
+> Commit: [3d083afdf332473516db6956c822b751574d059b](https://github.com/jcornwell-river/dsiprouter/commit/3d083afdf332473516db6956c822b751574d059b)  
 > Date: Mon, 3 Dec 2018 14:16:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14602,7 +15278,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 539c024c671d37fa48ab31cbb977af73913825aa)
 ### Update use-cases.rst
 
-> Commit: [539c024c671d37fa48ab31cbb977af73913825aa](https://git.flyball.co/dsiprouter/enterprise/commit/539c024c671d37fa48ab31cbb977af73913825aa)  
+> Commit: [539c024c671d37fa48ab31cbb977af73913825aa](https://github.com/jcornwell-river/dsiprouter/commit/539c024c671d37fa48ab31cbb977af73913825aa)  
 > Date: Mon, 3 Dec 2018 14:15:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14617,7 +15293,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8be239fc61a6cba28bea5190d8885e1d1e25b598)
 ### Update use-cases.rst
 
-> Commit: [8be239fc61a6cba28bea5190d8885e1d1e25b598](https://git.flyball.co/dsiprouter/enterprise/commit/8be239fc61a6cba28bea5190d8885e1d1e25b598)  
+> Commit: [8be239fc61a6cba28bea5190d8885e1d1e25b598](https://github.com/jcornwell-river/dsiprouter/commit/8be239fc61a6cba28bea5190d8885e1d1e25b598)  
 > Date: Mon, 3 Dec 2018 14:13:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14632,7 +15308,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 69e69bd2d6d42ded7df8e31e78581df9167d35ef)
 ### Update use-cases.rst
 
-> Commit: [69e69bd2d6d42ded7df8e31e78581df9167d35ef](https://git.flyball.co/dsiprouter/enterprise/commit/69e69bd2d6d42ded7df8e31e78581df9167d35ef)  
+> Commit: [69e69bd2d6d42ded7df8e31e78581df9167d35ef](https://github.com/jcornwell-river/dsiprouter/commit/69e69bd2d6d42ded7df8e31e78581df9167d35ef)  
 > Date: Mon, 3 Dec 2018 14:11:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14647,7 +15323,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 018693e7ebd8c5cb202964177d5de298de356ec9)
 ### Add files via upload
 
-> Commit: [018693e7ebd8c5cb202964177d5de298de356ec9](https://git.flyball.co/dsiprouter/enterprise/commit/018693e7ebd8c5cb202964177d5de298de356ec9)  
+> Commit: [018693e7ebd8c5cb202964177d5de298de356ec9](https://github.com/jcornwell-river/dsiprouter/commit/018693e7ebd8c5cb202964177d5de298de356ec9)  
 > Date: Mon, 3 Dec 2018 14:10:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14662,7 +15338,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2373ea2a423fbf98ce4dd0c556bf1c7797ad14b2)
 ### Delete fusionpbx_hosting2.PNG
 
-> Commit: [2373ea2a423fbf98ce4dd0c556bf1c7797ad14b2](https://git.flyball.co/dsiprouter/enterprise/commit/2373ea2a423fbf98ce4dd0c556bf1c7797ad14b2)  
+> Commit: [2373ea2a423fbf98ce4dd0c556bf1c7797ad14b2](https://github.com/jcornwell-river/dsiprouter/commit/2373ea2a423fbf98ce4dd0c556bf1c7797ad14b2)  
 > Date: Mon, 3 Dec 2018 14:09:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14677,7 +15353,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6e9f2b2e48b22d581ba1f26630c7f442e9ae5f82)
 ### Update use-cases.rst
 
-> Commit: [6e9f2b2e48b22d581ba1f26630c7f442e9ae5f82](https://git.flyball.co/dsiprouter/enterprise/commit/6e9f2b2e48b22d581ba1f26630c7f442e9ae5f82)  
+> Commit: [6e9f2b2e48b22d581ba1f26630c7f442e9ae5f82](https://github.com/jcornwell-river/dsiprouter/commit/6e9f2b2e48b22d581ba1f26630c7f442e9ae5f82)  
 > Date: Mon, 3 Dec 2018 13:59:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14692,7 +15368,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2358e58442d261aa832a397f09f62d71ad1c9771)
 ### Update use-cases.rst
 
-> Commit: [2358e58442d261aa832a397f09f62d71ad1c9771](https://git.flyball.co/dsiprouter/enterprise/commit/2358e58442d261aa832a397f09f62d71ad1c9771)  
+> Commit: [2358e58442d261aa832a397f09f62d71ad1c9771](https://github.com/jcornwell-river/dsiprouter/commit/2358e58442d261aa832a397f09f62d71ad1c9771)  
 > Date: Mon, 3 Dec 2018 13:58:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14707,7 +15383,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9a156aa2b8e8249e65999f5b08f81d6fe4ca53e2)
 ### Update use-cases.rst
 
-> Commit: [9a156aa2b8e8249e65999f5b08f81d6fe4ca53e2](https://git.flyball.co/dsiprouter/enterprise/commit/9a156aa2b8e8249e65999f5b08f81d6fe4ca53e2)  
+> Commit: [9a156aa2b8e8249e65999f5b08f81d6fe4ca53e2](https://github.com/jcornwell-river/dsiprouter/commit/9a156aa2b8e8249e65999f5b08f81d6fe4ca53e2)  
 > Date: Mon, 3 Dec 2018 13:56:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14722,7 +15398,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6290ec80b465320bbd966c90f4bbc38a55a7bc76)
 ### Update use-cases.rst
 
-> Commit: [6290ec80b465320bbd966c90f4bbc38a55a7bc76](https://git.flyball.co/dsiprouter/enterprise/commit/6290ec80b465320bbd966c90f4bbc38a55a7bc76)  
+> Commit: [6290ec80b465320bbd966c90f4bbc38a55a7bc76](https://github.com/jcornwell-river/dsiprouter/commit/6290ec80b465320bbd966c90f4bbc38a55a7bc76)  
 > Date: Mon, 3 Dec 2018 13:55:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14737,7 +15413,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dab065f980de93e5d53e031a1cb95a980b90b814)
 ### Update use-cases.rst
 
-> Commit: [dab065f980de93e5d53e031a1cb95a980b90b814](https://git.flyball.co/dsiprouter/enterprise/commit/dab065f980de93e5d53e031a1cb95a980b90b814)  
+> Commit: [dab065f980de93e5d53e031a1cb95a980b90b814](https://github.com/jcornwell-river/dsiprouter/commit/dab065f980de93e5d53e031a1cb95a980b90b814)  
 > Date: Mon, 3 Dec 2018 13:53:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14752,7 +15428,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9bc941fa9f3270a5c8db6bad9574f30482f2fc10)
 ### Update use-cases.rst
 
-> Commit: [9bc941fa9f3270a5c8db6bad9574f30482f2fc10](https://git.flyball.co/dsiprouter/enterprise/commit/9bc941fa9f3270a5c8db6bad9574f30482f2fc10)  
+> Commit: [9bc941fa9f3270a5c8db6bad9574f30482f2fc10](https://github.com/jcornwell-river/dsiprouter/commit/9bc941fa9f3270a5c8db6bad9574f30482f2fc10)  
 > Date: Mon, 3 Dec 2018 13:50:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14767,7 +15443,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aa092df23f44030cc5996d6ccd8df0cffe4e8cfe)
 ### Update use-cases.rst
 
-> Commit: [aa092df23f44030cc5996d6ccd8df0cffe4e8cfe](https://git.flyball.co/dsiprouter/enterprise/commit/aa092df23f44030cc5996d6ccd8df0cffe4e8cfe)  
+> Commit: [aa092df23f44030cc5996d6ccd8df0cffe4e8cfe](https://github.com/jcornwell-river/dsiprouter/commit/aa092df23f44030cc5996d6ccd8df0cffe4e8cfe)  
 > Date: Mon, 3 Dec 2018 13:49:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14782,7 +15458,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3160ab71dadf831e17091cc7215dd9f90d7d96af)
 ### Update use-cases.rst
 
-> Commit: [3160ab71dadf831e17091cc7215dd9f90d7d96af](https://git.flyball.co/dsiprouter/enterprise/commit/3160ab71dadf831e17091cc7215dd9f90d7d96af)  
+> Commit: [3160ab71dadf831e17091cc7215dd9f90d7d96af](https://github.com/jcornwell-river/dsiprouter/commit/3160ab71dadf831e17091cc7215dd9f90d7d96af)  
 > Date: Mon, 3 Dec 2018 13:47:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14797,7 +15473,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92811fc87431326cb07f661db5d9ef72d9ce4e9a)
 ### Update use-cases.rst
 
-> Commit: [92811fc87431326cb07f661db5d9ef72d9ce4e9a](https://git.flyball.co/dsiprouter/enterprise/commit/92811fc87431326cb07f661db5d9ef72d9ce4e9a)  
+> Commit: [92811fc87431326cb07f661db5d9ef72d9ce4e9a](https://github.com/jcornwell-river/dsiprouter/commit/92811fc87431326cb07f661db5d9ef72d9ce4e9a)  
 > Date: Mon, 3 Dec 2018 13:45:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14812,7 +15488,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3320d2b23e9e9d8b31d199dbb83c87351a1325a0)
 ### Update use-cases.rst
 
-> Commit: [3320d2b23e9e9d8b31d199dbb83c87351a1325a0](https://git.flyball.co/dsiprouter/enterprise/commit/3320d2b23e9e9d8b31d199dbb83c87351a1325a0)  
+> Commit: [3320d2b23e9e9d8b31d199dbb83c87351a1325a0](https://github.com/jcornwell-river/dsiprouter/commit/3320d2b23e9e9d8b31d199dbb83c87351a1325a0)  
 > Date: Mon, 3 Dec 2018 13:44:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14827,7 +15503,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a23762fe4157e4cae2715b063624ebb9be06a450)
 ### Update use-cases.rst
 
-> Commit: [a23762fe4157e4cae2715b063624ebb9be06a450](https://git.flyball.co/dsiprouter/enterprise/commit/a23762fe4157e4cae2715b063624ebb9be06a450)  
+> Commit: [a23762fe4157e4cae2715b063624ebb9be06a450](https://github.com/jcornwell-river/dsiprouter/commit/a23762fe4157e4cae2715b063624ebb9be06a450)  
 > Date: Mon, 3 Dec 2018 13:43:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14842,7 +15518,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a0a5a63f38340dce64acae8f23ef26ed1e247064)
 ### Update use-cases.rst
 
-> Commit: [a0a5a63f38340dce64acae8f23ef26ed1e247064](https://git.flyball.co/dsiprouter/enterprise/commit/a0a5a63f38340dce64acae8f23ef26ed1e247064)  
+> Commit: [a0a5a63f38340dce64acae8f23ef26ed1e247064](https://github.com/jcornwell-river/dsiprouter/commit/a0a5a63f38340dce64acae8f23ef26ed1e247064)  
 > Date: Mon, 3 Dec 2018 13:42:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14857,7 +15533,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4e035bebb3622c07f57e392da8c6f2afaebc3261)
 ### Update use-cases.rst
 
-> Commit: [4e035bebb3622c07f57e392da8c6f2afaebc3261](https://git.flyball.co/dsiprouter/enterprise/commit/4e035bebb3622c07f57e392da8c6f2afaebc3261)  
+> Commit: [4e035bebb3622c07f57e392da8c6f2afaebc3261](https://github.com/jcornwell-river/dsiprouter/commit/4e035bebb3622c07f57e392da8c6f2afaebc3261)  
 > Date: Mon, 3 Dec 2018 13:39:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14872,7 +15548,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 22b1a37803ecbb339f016f881f26bbbe5f2f8c46)
 ### Update use-cases.rst
 
-> Commit: [22b1a37803ecbb339f016f881f26bbbe5f2f8c46](https://git.flyball.co/dsiprouter/enterprise/commit/22b1a37803ecbb339f016f881f26bbbe5f2f8c46)  
+> Commit: [22b1a37803ecbb339f016f881f26bbbe5f2f8c46](https://github.com/jcornwell-river/dsiprouter/commit/22b1a37803ecbb339f016f881f26bbbe5f2f8c46)  
 > Date: Mon, 3 Dec 2018 13:34:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14887,7 +15563,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c312d8fb2f94a0f765ef40a7085da271ad8f3601)
 ### Update use-cases.rst
 
-> Commit: [c312d8fb2f94a0f765ef40a7085da271ad8f3601](https://git.flyball.co/dsiprouter/enterprise/commit/c312d8fb2f94a0f765ef40a7085da271ad8f3601)  
+> Commit: [c312d8fb2f94a0f765ef40a7085da271ad8f3601](https://github.com/jcornwell-river/dsiprouter/commit/c312d8fb2f94a0f765ef40a7085da271ad8f3601)  
 > Date: Mon, 3 Dec 2018 13:33:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14902,7 +15578,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e83477e70105080f6daa89859888b9c788b64831)
 ### Update use-cases.rst
 
-> Commit: [e83477e70105080f6daa89859888b9c788b64831](https://git.flyball.co/dsiprouter/enterprise/commit/e83477e70105080f6daa89859888b9c788b64831)  
+> Commit: [e83477e70105080f6daa89859888b9c788b64831](https://github.com/jcornwell-river/dsiprouter/commit/e83477e70105080f6daa89859888b9c788b64831)  
 > Date: Mon, 3 Dec 2018 13:30:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14917,7 +15593,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c40947ea2137dd384adb22367ddf1831d293df15)
 ### Update use-cases.rst
 
-> Commit: [c40947ea2137dd384adb22367ddf1831d293df15](https://git.flyball.co/dsiprouter/enterprise/commit/c40947ea2137dd384adb22367ddf1831d293df15)  
+> Commit: [c40947ea2137dd384adb22367ddf1831d293df15](https://github.com/jcornwell-river/dsiprouter/commit/c40947ea2137dd384adb22367ddf1831d293df15)  
 > Date: Mon, 3 Dec 2018 13:28:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14932,7 +15608,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5625d5f865c3760152f1ec90a35d57c22fdf0c0a)
 ### Update use-cases.rst
 
-> Commit: [5625d5f865c3760152f1ec90a35d57c22fdf0c0a](https://git.flyball.co/dsiprouter/enterprise/commit/5625d5f865c3760152f1ec90a35d57c22fdf0c0a)  
+> Commit: [5625d5f865c3760152f1ec90a35d57c22fdf0c0a](https://github.com/jcornwell-river/dsiprouter/commit/5625d5f865c3760152f1ec90a35d57c22fdf0c0a)  
 > Date: Mon, 3 Dec 2018 13:26:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14947,7 +15623,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3e39fd2ac22d59097105e019c60ef1998508dd7d)
 ### Add files via upload
 
-> Commit: [3e39fd2ac22d59097105e019c60ef1998508dd7d](https://git.flyball.co/dsiprouter/enterprise/commit/3e39fd2ac22d59097105e019c60ef1998508dd7d)  
+> Commit: [3e39fd2ac22d59097105e019c60ef1998508dd7d](https://github.com/jcornwell-river/dsiprouter/commit/3e39fd2ac22d59097105e019c60ef1998508dd7d)  
 > Date: Mon, 3 Dec 2018 13:22:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14962,7 +15638,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dd0049686de8b640ca1123d4dc8f4194021ee887)
 ### Update use-cases.rst
 
-> Commit: [dd0049686de8b640ca1123d4dc8f4194021ee887](https://git.flyball.co/dsiprouter/enterprise/commit/dd0049686de8b640ca1123d4dc8f4194021ee887)  
+> Commit: [dd0049686de8b640ca1123d4dc8f4194021ee887](https://github.com/jcornwell-river/dsiprouter/commit/dd0049686de8b640ca1123d4dc8f4194021ee887)  
 > Date: Mon, 3 Dec 2018 13:22:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14977,7 +15653,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION af1c60e897334324e3d6dd1a7787d50d2e1ee973)
 ### Update use-cases.rst
 
-> Commit: [af1c60e897334324e3d6dd1a7787d50d2e1ee973](https://git.flyball.co/dsiprouter/enterprise/commit/af1c60e897334324e3d6dd1a7787d50d2e1ee973)  
+> Commit: [af1c60e897334324e3d6dd1a7787d50d2e1ee973](https://github.com/jcornwell-river/dsiprouter/commit/af1c60e897334324e3d6dd1a7787d50d2e1ee973)  
 > Date: Mon, 3 Dec 2018 13:20:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -14992,7 +15668,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3f8c6157c4263813331935a2635df856de10c27)
 ### Add files via upload
 
-> Commit: [a3f8c6157c4263813331935a2635df856de10c27](https://git.flyball.co/dsiprouter/enterprise/commit/a3f8c6157c4263813331935a2635df856de10c27)  
+> Commit: [a3f8c6157c4263813331935a2635df856de10c27](https://github.com/jcornwell-river/dsiprouter/commit/a3f8c6157c4263813331935a2635df856de10c27)  
 > Date: Mon, 3 Dec 2018 13:19:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15007,7 +15683,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7b2da29bd66fec284a8ae0ed6e7c1fb58d8a75e5)
 ### Delete 11d_dialplan_2.PNG
 
-> Commit: [7b2da29bd66fec284a8ae0ed6e7c1fb58d8a75e5](https://git.flyball.co/dsiprouter/enterprise/commit/7b2da29bd66fec284a8ae0ed6e7c1fb58d8a75e5)  
+> Commit: [7b2da29bd66fec284a8ae0ed6e7c1fb58d8a75e5](https://github.com/jcornwell-river/dsiprouter/commit/7b2da29bd66fec284a8ae0ed6e7c1fb58d8a75e5)  
 > Date: Mon, 3 Dec 2018 13:19:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15022,7 +15698,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 126d16e9a6419ebc946d76283549d48edf8f577a)
 ### Update use-cases.rst
 
-> Commit: [126d16e9a6419ebc946d76283549d48edf8f577a](https://git.flyball.co/dsiprouter/enterprise/commit/126d16e9a6419ebc946d76283549d48edf8f577a)  
+> Commit: [126d16e9a6419ebc946d76283549d48edf8f577a](https://github.com/jcornwell-river/dsiprouter/commit/126d16e9a6419ebc946d76283549d48edf8f577a)  
 > Date: Mon, 3 Dec 2018 13:18:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15037,7 +15713,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6c2a6d5e2a602bca0e066a4338820cf2520300e5)
 ### Update use-cases.rst
 
-> Commit: [6c2a6d5e2a602bca0e066a4338820cf2520300e5](https://git.flyball.co/dsiprouter/enterprise/commit/6c2a6d5e2a602bca0e066a4338820cf2520300e5)  
+> Commit: [6c2a6d5e2a602bca0e066a4338820cf2520300e5](https://github.com/jcornwell-river/dsiprouter/commit/6c2a6d5e2a602bca0e066a4338820cf2520300e5)  
 > Date: Mon, 3 Dec 2018 12:29:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15052,7 +15728,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b2500941ec0845017e78a79b376305197de374c1)
 ### Update use-cases.rst
 
-> Commit: [b2500941ec0845017e78a79b376305197de374c1](https://git.flyball.co/dsiprouter/enterprise/commit/b2500941ec0845017e78a79b376305197de374c1)  
+> Commit: [b2500941ec0845017e78a79b376305197de374c1](https://github.com/jcornwell-river/dsiprouter/commit/b2500941ec0845017e78a79b376305197de374c1)  
 > Date: Mon, 3 Dec 2018 12:28:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15067,7 +15743,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 53d909fc90bed86c508e9602dd3dff0998a87fb4)
 ### Update use-cases.rst
 
-> Commit: [53d909fc90bed86c508e9602dd3dff0998a87fb4](https://git.flyball.co/dsiprouter/enterprise/commit/53d909fc90bed86c508e9602dd3dff0998a87fb4)  
+> Commit: [53d909fc90bed86c508e9602dd3dff0998a87fb4](https://github.com/jcornwell-river/dsiprouter/commit/53d909fc90bed86c508e9602dd3dff0998a87fb4)  
 > Date: Mon, 3 Dec 2018 12:03:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15082,7 +15758,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 95673cb589c08f7b9b91f0565161fee9b89d252b)
 ### Update use-cases.rst
 
-> Commit: [95673cb589c08f7b9b91f0565161fee9b89d252b](https://git.flyball.co/dsiprouter/enterprise/commit/95673cb589c08f7b9b91f0565161fee9b89d252b)  
+> Commit: [95673cb589c08f7b9b91f0565161fee9b89d252b](https://github.com/jcornwell-river/dsiprouter/commit/95673cb589c08f7b9b91f0565161fee9b89d252b)  
 > Date: Mon, 3 Dec 2018 11:54:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15097,7 +15773,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 283bec8c2dd843bd9f89e4fea6ee6e001877c803)
 ### Update use-cases.rst
 
-> Commit: [283bec8c2dd843bd9f89e4fea6ee6e001877c803](https://git.flyball.co/dsiprouter/enterprise/commit/283bec8c2dd843bd9f89e4fea6ee6e001877c803)  
+> Commit: [283bec8c2dd843bd9f89e4fea6ee6e001877c803](https://github.com/jcornwell-river/dsiprouter/commit/283bec8c2dd843bd9f89e4fea6ee6e001877c803)  
 > Date: Mon, 3 Dec 2018 11:52:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15112,7 +15788,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8ba974019ac339517ab15b654cccd3c9882d3d34)
 ### Update use-cases.rst
 
-> Commit: [8ba974019ac339517ab15b654cccd3c9882d3d34](https://git.flyball.co/dsiprouter/enterprise/commit/8ba974019ac339517ab15b654cccd3c9882d3d34)  
+> Commit: [8ba974019ac339517ab15b654cccd3c9882d3d34](https://github.com/jcornwell-river/dsiprouter/commit/8ba974019ac339517ab15b654cccd3c9882d3d34)  
 > Date: Mon, 3 Dec 2018 11:48:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15127,7 +15803,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77635a5a66d8aaf180316c16152ba6aa245f8996)
 ### Add files via upload
 
-> Commit: [77635a5a66d8aaf180316c16152ba6aa245f8996](https://git.flyball.co/dsiprouter/enterprise/commit/77635a5a66d8aaf180316c16152ba6aa245f8996)  
+> Commit: [77635a5a66d8aaf180316c16152ba6aa245f8996](https://github.com/jcornwell-river/dsiprouter/commit/77635a5a66d8aaf180316c16152ba6aa245f8996)  
 > Date: Mon, 3 Dec 2018 11:38:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15142,7 +15818,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6dd381f8cd69e953a5598a0c26a1088649507964)
 ### Update use-cases.rst
 
-> Commit: [6dd381f8cd69e953a5598a0c26a1088649507964](https://git.flyball.co/dsiprouter/enterprise/commit/6dd381f8cd69e953a5598a0c26a1088649507964)  
+> Commit: [6dd381f8cd69e953a5598a0c26a1088649507964](https://github.com/jcornwell-river/dsiprouter/commit/6dd381f8cd69e953a5598a0c26a1088649507964)  
 > Date: Mon, 3 Dec 2018 11:23:17 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15157,7 +15833,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 80760c1ddc981f6e94f4e3dba1c98ac109806232)
 ### Update use-cases.rst
 
-> Commit: [80760c1ddc981f6e94f4e3dba1c98ac109806232](https://git.flyball.co/dsiprouter/enterprise/commit/80760c1ddc981f6e94f4e3dba1c98ac109806232)  
+> Commit: [80760c1ddc981f6e94f4e3dba1c98ac109806232](https://github.com/jcornwell-river/dsiprouter/commit/80760c1ddc981f6e94f4e3dba1c98ac109806232)  
 > Date: Fri, 30 Nov 2018 11:34:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15172,7 +15848,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e045ec2409c0502e9b049e5566d5dbaf7d6d8788)
 ### Update use-cases.rst
 
-> Commit: [e045ec2409c0502e9b049e5566d5dbaf7d6d8788](https://git.flyball.co/dsiprouter/enterprise/commit/e045ec2409c0502e9b049e5566d5dbaf7d6d8788)  
+> Commit: [e045ec2409c0502e9b049e5566d5dbaf7d6d8788](https://github.com/jcornwell-river/dsiprouter/commit/e045ec2409c0502e9b049e5566d5dbaf7d6d8788)  
 > Date: Fri, 30 Nov 2018 11:30:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15187,7 +15863,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 69bd7624b90d527ed23406b956ec43dc451ccadf)
 ### Update use-cases.rst
 
-> Commit: [69bd7624b90d527ed23406b956ec43dc451ccadf](https://git.flyball.co/dsiprouter/enterprise/commit/69bd7624b90d527ed23406b956ec43dc451ccadf)  
+> Commit: [69bd7624b90d527ed23406b956ec43dc451ccadf](https://github.com/jcornwell-river/dsiprouter/commit/69bd7624b90d527ed23406b956ec43dc451ccadf)  
 > Date: Fri, 30 Nov 2018 11:28:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15202,7 +15878,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c371d7af384e8716ef3e0be02e2f8da6551e84dd)
 ### Update use-cases.rst
 
-> Commit: [c371d7af384e8716ef3e0be02e2f8da6551e84dd](https://git.flyball.co/dsiprouter/enterprise/commit/c371d7af384e8716ef3e0be02e2f8da6551e84dd)  
+> Commit: [c371d7af384e8716ef3e0be02e2f8da6551e84dd](https://github.com/jcornwell-river/dsiprouter/commit/c371d7af384e8716ef3e0be02e2f8da6551e84dd)  
 > Date: Fri, 30 Nov 2018 11:07:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15217,7 +15893,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 041abb29901cd235202e0f22755b7db6b2596932)
 ### Add files via upload
 
-> Commit: [041abb29901cd235202e0f22755b7db6b2596932](https://git.flyball.co/dsiprouter/enterprise/commit/041abb29901cd235202e0f22755b7db6b2596932)  
+> Commit: [041abb29901cd235202e0f22755b7db6b2596932](https://github.com/jcornwell-river/dsiprouter/commit/041abb29901cd235202e0f22755b7db6b2596932)  
 > Date: Fri, 30 Nov 2018 11:03:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15232,7 +15908,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c2b2794dc45b2566c1baa8b061bd60be3530cbe)
 ### Update use-cases.rst
 
-> Commit: [0c2b2794dc45b2566c1baa8b061bd60be3530cbe](https://git.flyball.co/dsiprouter/enterprise/commit/0c2b2794dc45b2566c1baa8b061bd60be3530cbe)  
+> Commit: [0c2b2794dc45b2566c1baa8b061bd60be3530cbe](https://github.com/jcornwell-river/dsiprouter/commit/0c2b2794dc45b2566c1baa8b061bd60be3530cbe)  
 > Date: Fri, 30 Nov 2018 11:01:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15247,7 +15923,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aaedb6a45fa3f154aefdd12b68ca3b10daa45d26)
 ### Update use-cases.rst
 
-> Commit: [aaedb6a45fa3f154aefdd12b68ca3b10daa45d26](https://git.flyball.co/dsiprouter/enterprise/commit/aaedb6a45fa3f154aefdd12b68ca3b10daa45d26)  
+> Commit: [aaedb6a45fa3f154aefdd12b68ca3b10daa45d26](https://github.com/jcornwell-river/dsiprouter/commit/aaedb6a45fa3f154aefdd12b68ca3b10daa45d26)  
 > Date: Thu, 29 Nov 2018 14:20:03 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15262,7 +15938,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3dfd12b73b4c30337f0f007ba299b6c550667f52)
 ### Add files via upload
 
-> Commit: [3dfd12b73b4c30337f0f007ba299b6c550667f52](https://git.flyball.co/dsiprouter/enterprise/commit/3dfd12b73b4c30337f0f007ba299b6c550667f52)  
+> Commit: [3dfd12b73b4c30337f0f007ba299b6c550667f52](https://github.com/jcornwell-river/dsiprouter/commit/3dfd12b73b4c30337f0f007ba299b6c550667f52)  
 > Date: Thu, 29 Nov 2018 14:17:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15277,7 +15953,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4a02d86bc5c0cb808bf8b8962fea0425521d3977)
 ### Update use-cases.rst
 
-> Commit: [4a02d86bc5c0cb808bf8b8962fea0425521d3977](https://git.flyball.co/dsiprouter/enterprise/commit/4a02d86bc5c0cb808bf8b8962fea0425521d3977)  
+> Commit: [4a02d86bc5c0cb808bf8b8962fea0425521d3977](https://github.com/jcornwell-river/dsiprouter/commit/4a02d86bc5c0cb808bf8b8962fea0425521d3977)  
 > Date: Thu, 29 Nov 2018 14:17:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15292,7 +15968,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb6c2b821e0f03e4976a073124f91c3025ca2d06)
 ### Update use-cases.rst
 
-> Commit: [eb6c2b821e0f03e4976a073124f91c3025ca2d06](https://git.flyball.co/dsiprouter/enterprise/commit/eb6c2b821e0f03e4976a073124f91c3025ca2d06)  
+> Commit: [eb6c2b821e0f03e4976a073124f91c3025ca2d06](https://github.com/jcornwell-river/dsiprouter/commit/eb6c2b821e0f03e4976a073124f91c3025ca2d06)  
 > Date: Thu, 29 Nov 2018 13:42:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15307,7 +15983,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7859611f7fe33530e181b48b558af5827a4022dd)
 ### Update use-cases.rst
 
-> Commit: [7859611f7fe33530e181b48b558af5827a4022dd](https://git.flyball.co/dsiprouter/enterprise/commit/7859611f7fe33530e181b48b558af5827a4022dd)  
+> Commit: [7859611f7fe33530e181b48b558af5827a4022dd](https://github.com/jcornwell-river/dsiprouter/commit/7859611f7fe33530e181b48b558af5827a4022dd)  
 > Date: Thu, 29 Nov 2018 13:41:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15322,7 +15998,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e6ab0944d595e85ca3bdb683b42def15d7fa4ddc)
 ### Update use-cases.rst
 
-> Commit: [e6ab0944d595e85ca3bdb683b42def15d7fa4ddc](https://git.flyball.co/dsiprouter/enterprise/commit/e6ab0944d595e85ca3bdb683b42def15d7fa4ddc)  
+> Commit: [e6ab0944d595e85ca3bdb683b42def15d7fa4ddc](https://github.com/jcornwell-river/dsiprouter/commit/e6ab0944d595e85ca3bdb683b42def15d7fa4ddc)  
 > Date: Thu, 29 Nov 2018 13:37:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15337,7 +16013,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c1955b27adfa21f3ae38b54178c69cb604e73ced)
 ### Update use-cases.rst
 
-> Commit: [c1955b27adfa21f3ae38b54178c69cb604e73ced](https://git.flyball.co/dsiprouter/enterprise/commit/c1955b27adfa21f3ae38b54178c69cb604e73ced)  
+> Commit: [c1955b27adfa21f3ae38b54178c69cb604e73ced](https://github.com/jcornwell-river/dsiprouter/commit/c1955b27adfa21f3ae38b54178c69cb604e73ced)  
 > Date: Thu, 29 Nov 2018 13:36:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15352,7 +16028,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 53ba73e1220feab3a4e6b54265338051fa7c9f91)
 ### Update use-cases.rst
 
-> Commit: [53ba73e1220feab3a4e6b54265338051fa7c9f91](https://git.flyball.co/dsiprouter/enterprise/commit/53ba73e1220feab3a4e6b54265338051fa7c9f91)  
+> Commit: [53ba73e1220feab3a4e6b54265338051fa7c9f91](https://github.com/jcornwell-river/dsiprouter/commit/53ba73e1220feab3a4e6b54265338051fa7c9f91)  
 > Date: Thu, 29 Nov 2018 13:33:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15367,7 +16043,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 60594ed03141479578c6a07d11b5bf76753dece0)
 ### Add files via upload
 
-> Commit: [60594ed03141479578c6a07d11b5bf76753dece0](https://git.flyball.co/dsiprouter/enterprise/commit/60594ed03141479578c6a07d11b5bf76753dece0)  
+> Commit: [60594ed03141479578c6a07d11b5bf76753dece0](https://github.com/jcornwell-river/dsiprouter/commit/60594ed03141479578c6a07d11b5bf76753dece0)  
 > Date: Thu, 29 Nov 2018 13:31:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15382,7 +16058,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 038b5e5b1e4e9bb1e6f7d8d7969ce07279d474ec)
 ### Update use-cases.rst
 
-> Commit: [038b5e5b1e4e9bb1e6f7d8d7969ce07279d474ec](https://git.flyball.co/dsiprouter/enterprise/commit/038b5e5b1e4e9bb1e6f7d8d7969ce07279d474ec)  
+> Commit: [038b5e5b1e4e9bb1e6f7d8d7969ce07279d474ec](https://github.com/jcornwell-river/dsiprouter/commit/038b5e5b1e4e9bb1e6f7d8d7969ce07279d474ec)  
 > Date: Thu, 29 Nov 2018 13:31:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15397,7 +16073,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eafa71ff350fe9a4cc5b2ef66fa38117bfe094f7)
 ### Update use-cases.rst
 
-> Commit: [eafa71ff350fe9a4cc5b2ef66fa38117bfe094f7](https://git.flyball.co/dsiprouter/enterprise/commit/eafa71ff350fe9a4cc5b2ef66fa38117bfe094f7)  
+> Commit: [eafa71ff350fe9a4cc5b2ef66fa38117bfe094f7](https://github.com/jcornwell-river/dsiprouter/commit/eafa71ff350fe9a4cc5b2ef66fa38117bfe094f7)  
 > Date: Thu, 29 Nov 2018 13:26:54 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15412,7 +16088,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a370bcdbeace0ae48d100a2fcd2801bd4085126c)
 ### Update use-cases.rst
 
-> Commit: [a370bcdbeace0ae48d100a2fcd2801bd4085126c](https://git.flyball.co/dsiprouter/enterprise/commit/a370bcdbeace0ae48d100a2fcd2801bd4085126c)  
+> Commit: [a370bcdbeace0ae48d100a2fcd2801bd4085126c](https://github.com/jcornwell-river/dsiprouter/commit/a370bcdbeace0ae48d100a2fcd2801bd4085126c)  
 > Date: Thu, 29 Nov 2018 13:23:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15427,7 +16103,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0739c358539a0629bfcb26a661610748909efea1)
 ### Update use-cases.rst
 
-> Commit: [0739c358539a0629bfcb26a661610748909efea1](https://git.flyball.co/dsiprouter/enterprise/commit/0739c358539a0629bfcb26a661610748909efea1)  
+> Commit: [0739c358539a0629bfcb26a661610748909efea1](https://github.com/jcornwell-river/dsiprouter/commit/0739c358539a0629bfcb26a661610748909efea1)  
 > Date: Thu, 29 Nov 2018 13:02:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15442,7 +16118,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8c110668e59f3566b16296b91ea496f20aeecb18)
 ### Update use-cases.rst
 
-> Commit: [8c110668e59f3566b16296b91ea496f20aeecb18](https://git.flyball.co/dsiprouter/enterprise/commit/8c110668e59f3566b16296b91ea496f20aeecb18)  
+> Commit: [8c110668e59f3566b16296b91ea496f20aeecb18](https://github.com/jcornwell-river/dsiprouter/commit/8c110668e59f3566b16296b91ea496f20aeecb18)  
 > Date: Thu, 29 Nov 2018 12:57:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15457,7 +16133,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aac8b80f73e9b221e7dc4370aefe2e43a16df286)
 ### Update use-cases.rst
 
-> Commit: [aac8b80f73e9b221e7dc4370aefe2e43a16df286](https://git.flyball.co/dsiprouter/enterprise/commit/aac8b80f73e9b221e7dc4370aefe2e43a16df286)  
+> Commit: [aac8b80f73e9b221e7dc4370aefe2e43a16df286](https://github.com/jcornwell-river/dsiprouter/commit/aac8b80f73e9b221e7dc4370aefe2e43a16df286)  
 > Date: Thu, 29 Nov 2018 12:56:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15472,7 +16148,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b935064fa71c603cf65127440c336fef96683426)
 ### Update use-cases.rst
 
-> Commit: [b935064fa71c603cf65127440c336fef96683426](https://git.flyball.co/dsiprouter/enterprise/commit/b935064fa71c603cf65127440c336fef96683426)  
+> Commit: [b935064fa71c603cf65127440c336fef96683426](https://github.com/jcornwell-river/dsiprouter/commit/b935064fa71c603cf65127440c336fef96683426)  
 > Date: Thu, 29 Nov 2018 12:55:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15487,7 +16163,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8cc818b9927be4dc0091eb9b93d86477d6c62c00)
 ### Update use-cases.rst
 
-> Commit: [8cc818b9927be4dc0091eb9b93d86477d6c62c00](https://git.flyball.co/dsiprouter/enterprise/commit/8cc818b9927be4dc0091eb9b93d86477d6c62c00)  
+> Commit: [8cc818b9927be4dc0091eb9b93d86477d6c62c00](https://github.com/jcornwell-river/dsiprouter/commit/8cc818b9927be4dc0091eb9b93d86477d6c62c00)  
 > Date: Thu, 29 Nov 2018 12:54:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15502,7 +16178,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cc507c7d912a95f3f01b43188b422a6f268454e7)
 ### Update use-cases.rst
 
-> Commit: [cc507c7d912a95f3f01b43188b422a6f268454e7](https://git.flyball.co/dsiprouter/enterprise/commit/cc507c7d912a95f3f01b43188b422a6f268454e7)  
+> Commit: [cc507c7d912a95f3f01b43188b422a6f268454e7](https://github.com/jcornwell-river/dsiprouter/commit/cc507c7d912a95f3f01b43188b422a6f268454e7)  
 > Date: Thu, 29 Nov 2018 12:51:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15517,7 +16193,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4886f3453e9cdb71203ee66f2487d60ca4203ed)
 ### Update use-cases.rst
 
-> Commit: [e4886f3453e9cdb71203ee66f2487d60ca4203ed](https://git.flyball.co/dsiprouter/enterprise/commit/e4886f3453e9cdb71203ee66f2487d60ca4203ed)  
+> Commit: [e4886f3453e9cdb71203ee66f2487d60ca4203ed](https://github.com/jcornwell-river/dsiprouter/commit/e4886f3453e9cdb71203ee66f2487d60ca4203ed)  
 > Date: Thu, 29 Nov 2018 12:50:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15532,7 +16208,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c6203c29dfa8ad426e201dfdd19c09b21fdc834)
 ### Update use-cases.rst
 
-> Commit: [1c6203c29dfa8ad426e201dfdd19c09b21fdc834](https://git.flyball.co/dsiprouter/enterprise/commit/1c6203c29dfa8ad426e201dfdd19c09b21fdc834)  
+> Commit: [1c6203c29dfa8ad426e201dfdd19c09b21fdc834](https://github.com/jcornwell-river/dsiprouter/commit/1c6203c29dfa8ad426e201dfdd19c09b21fdc834)  
 > Date: Thu, 29 Nov 2018 12:48:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15547,7 +16223,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 260133601bf69ecf226350be74a5fbfd20c85861)
 ### Update use-cases.rst
 
-> Commit: [260133601bf69ecf226350be74a5fbfd20c85861](https://git.flyball.co/dsiprouter/enterprise/commit/260133601bf69ecf226350be74a5fbfd20c85861)  
+> Commit: [260133601bf69ecf226350be74a5fbfd20c85861](https://github.com/jcornwell-river/dsiprouter/commit/260133601bf69ecf226350be74a5fbfd20c85861)  
 > Date: Thu, 29 Nov 2018 12:45:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15562,7 +16238,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 011becafa6b96e37fc37f9944c63a5b4ce2e4af4)
 ### Update use-cases.rst
 
-> Commit: [011becafa6b96e37fc37f9944c63a5b4ce2e4af4](https://git.flyball.co/dsiprouter/enterprise/commit/011becafa6b96e37fc37f9944c63a5b4ce2e4af4)  
+> Commit: [011becafa6b96e37fc37f9944c63a5b4ce2e4af4](https://github.com/jcornwell-river/dsiprouter/commit/011becafa6b96e37fc37f9944c63a5b4ce2e4af4)  
 > Date: Thu, 29 Nov 2018 12:43:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15577,7 +16253,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4c6e863cdc20372bed0b306a76443541989f04cb)
 ### Update use-cases.rst
 
-> Commit: [4c6e863cdc20372bed0b306a76443541989f04cb](https://git.flyball.co/dsiprouter/enterprise/commit/4c6e863cdc20372bed0b306a76443541989f04cb)  
+> Commit: [4c6e863cdc20372bed0b306a76443541989f04cb](https://github.com/jcornwell-river/dsiprouter/commit/4c6e863cdc20372bed0b306a76443541989f04cb)  
 > Date: Thu, 29 Nov 2018 12:41:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15592,7 +16268,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8e3dddd53488518eb2af7aa822408cae39a60ca5)
 ### Update use-cases.rst
 
-> Commit: [8e3dddd53488518eb2af7aa822408cae39a60ca5](https://git.flyball.co/dsiprouter/enterprise/commit/8e3dddd53488518eb2af7aa822408cae39a60ca5)  
+> Commit: [8e3dddd53488518eb2af7aa822408cae39a60ca5](https://github.com/jcornwell-river/dsiprouter/commit/8e3dddd53488518eb2af7aa822408cae39a60ca5)  
 > Date: Thu, 29 Nov 2018 12:38:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15607,7 +16283,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77f8d5efb19a381b5488a846362aff40ece9a3de)
 ### Update use-cases.rst
 
-> Commit: [77f8d5efb19a381b5488a846362aff40ece9a3de](https://git.flyball.co/dsiprouter/enterprise/commit/77f8d5efb19a381b5488a846362aff40ece9a3de)  
+> Commit: [77f8d5efb19a381b5488a846362aff40ece9a3de](https://github.com/jcornwell-river/dsiprouter/commit/77f8d5efb19a381b5488a846362aff40ece9a3de)  
 > Date: Thu, 29 Nov 2018 12:35:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15622,7 +16298,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5eb05ac1c1e72234a30f04a7f52d4604bc8b6c06)
 ### Update use-cases.rst
 
-> Commit: [5eb05ac1c1e72234a30f04a7f52d4604bc8b6c06](https://git.flyball.co/dsiprouter/enterprise/commit/5eb05ac1c1e72234a30f04a7f52d4604bc8b6c06)  
+> Commit: [5eb05ac1c1e72234a30f04a7f52d4604bc8b6c06](https://github.com/jcornwell-river/dsiprouter/commit/5eb05ac1c1e72234a30f04a7f52d4604bc8b6c06)  
 > Date: Thu, 29 Nov 2018 12:34:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15637,7 +16313,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a11b72e26dc9a71430fb3fd5c4bfd5591409906c)
 ### Update use-cases.rst
 
-> Commit: [a11b72e26dc9a71430fb3fd5c4bfd5591409906c](https://git.flyball.co/dsiprouter/enterprise/commit/a11b72e26dc9a71430fb3fd5c4bfd5591409906c)  
+> Commit: [a11b72e26dc9a71430fb3fd5c4bfd5591409906c](https://github.com/jcornwell-river/dsiprouter/commit/a11b72e26dc9a71430fb3fd5c4bfd5591409906c)  
 > Date: Thu, 29 Nov 2018 12:33:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15652,7 +16328,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e37e821ee0e5e768c60afe17f0ef3959a7136f3f)
 ### Update use-cases.rst
 
-> Commit: [e37e821ee0e5e768c60afe17f0ef3959a7136f3f](https://git.flyball.co/dsiprouter/enterprise/commit/e37e821ee0e5e768c60afe17f0ef3959a7136f3f)  
+> Commit: [e37e821ee0e5e768c60afe17f0ef3959a7136f3f](https://github.com/jcornwell-river/dsiprouter/commit/e37e821ee0e5e768c60afe17f0ef3959a7136f3f)  
 > Date: Thu, 29 Nov 2018 12:30:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15667,7 +16343,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 81023b24f5a899da647ae7ce00669c040592430f)
 ### Update use-cases.rst
 
-> Commit: [81023b24f5a899da647ae7ce00669c040592430f](https://git.flyball.co/dsiprouter/enterprise/commit/81023b24f5a899da647ae7ce00669c040592430f)  
+> Commit: [81023b24f5a899da647ae7ce00669c040592430f](https://github.com/jcornwell-river/dsiprouter/commit/81023b24f5a899da647ae7ce00669c040592430f)  
 > Date: Thu, 29 Nov 2018 12:25:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15682,7 +16358,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2245c608ed6b13c94406c9d8b64626ab9dfd3d98)
 ### Update use-cases.rst
 
-> Commit: [2245c608ed6b13c94406c9d8b64626ab9dfd3d98](https://git.flyball.co/dsiprouter/enterprise/commit/2245c608ed6b13c94406c9d8b64626ab9dfd3d98)  
+> Commit: [2245c608ed6b13c94406c9d8b64626ab9dfd3d98](https://github.com/jcornwell-river/dsiprouter/commit/2245c608ed6b13c94406c9d8b64626ab9dfd3d98)  
 > Date: Thu, 29 Nov 2018 12:23:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15697,7 +16373,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77bd401ef2b996e1709999668c2cf3852a691723)
 ### Add files via upload
 
-> Commit: [77bd401ef2b996e1709999668c2cf3852a691723](https://git.flyball.co/dsiprouter/enterprise/commit/77bd401ef2b996e1709999668c2cf3852a691723)  
+> Commit: [77bd401ef2b996e1709999668c2cf3852a691723](https://github.com/jcornwell-river/dsiprouter/commit/77bd401ef2b996e1709999668c2cf3852a691723)  
 > Date: Thu, 29 Nov 2018 12:22:30 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15712,7 +16388,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2ed683ae1298506449b325df1ef81334f94bc79f)
 ### Update use-cases.rst
 
-> Commit: [2ed683ae1298506449b325df1ef81334f94bc79f](https://git.flyball.co/dsiprouter/enterprise/commit/2ed683ae1298506449b325df1ef81334f94bc79f)  
+> Commit: [2ed683ae1298506449b325df1ef81334f94bc79f](https://github.com/jcornwell-river/dsiprouter/commit/2ed683ae1298506449b325df1ef81334f94bc79f)  
 > Date: Thu, 29 Nov 2018 12:21:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15727,7 +16403,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4f8689ee5d22cb18bc88f9d583dc1b083adc0cc1)
 ### Update configuring.rst
 
-> Commit: [4f8689ee5d22cb18bc88f9d583dc1b083adc0cc1](https://git.flyball.co/dsiprouter/enterprise/commit/4f8689ee5d22cb18bc88f9d583dc1b083adc0cc1)  
+> Commit: [4f8689ee5d22cb18bc88f9d583dc1b083adc0cc1](https://github.com/jcornwell-river/dsiprouter/commit/4f8689ee5d22cb18bc88f9d583dc1b083adc0cc1)  
 > Date: Thu, 29 Nov 2018 10:42:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15742,7 +16418,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aa6939f2229a12ef75fe06e5a9476a60fc07f066)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [aa6939f2229a12ef75fe06e5a9476a60fc07f066](https://git.flyball.co/dsiprouter/enterprise/commit/aa6939f2229a12ef75fe06e5a9476a60fc07f066)  
+> Commit: [aa6939f2229a12ef75fe06e5a9476a60fc07f066](https://github.com/jcornwell-river/dsiprouter/commit/aa6939f2229a12ef75fe06e5a9476a60fc07f066)  
 > Date: Thu, 29 Nov 2018 10:40:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15757,7 +16433,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 902370faf90e28437c058e8dcbba8e54b0c5cadd)
 ### Update use-cases.rst
 
-> Commit: [902370faf90e28437c058e8dcbba8e54b0c5cadd](https://git.flyball.co/dsiprouter/enterprise/commit/902370faf90e28437c058e8dcbba8e54b0c5cadd)  
+> Commit: [902370faf90e28437c058e8dcbba8e54b0c5cadd](https://github.com/jcornwell-river/dsiprouter/commit/902370faf90e28437c058e8dcbba8e54b0c5cadd)  
 > Date: Wed, 28 Nov 2018 16:02:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15772,7 +16448,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f694ac7f54a186bdf9ddc123879c97fcb85e8e3f)
 ### Update global_outbound_routes.rst
 
-> Commit: [f694ac7f54a186bdf9ddc123879c97fcb85e8e3f](https://git.flyball.co/dsiprouter/enterprise/commit/f694ac7f54a186bdf9ddc123879c97fcb85e8e3f)  
+> Commit: [f694ac7f54a186bdf9ddc123879c97fcb85e8e3f](https://github.com/jcornwell-river/dsiprouter/commit/f694ac7f54a186bdf9ddc123879c97fcb85e8e3f)  
 > Date: Wed, 28 Nov 2018 16:00:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15787,7 +16463,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ff660123dca05e16b49e4dc31e55e078dc584110)
 ### Update use-cases.rst
 
-> Commit: [ff660123dca05e16b49e4dc31e55e078dc584110](https://git.flyball.co/dsiprouter/enterprise/commit/ff660123dca05e16b49e4dc31e55e078dc584110)  
+> Commit: [ff660123dca05e16b49e4dc31e55e078dc584110](https://github.com/jcornwell-river/dsiprouter/commit/ff660123dca05e16b49e4dc31e55e078dc584110)  
 > Date: Wed, 28 Nov 2018 15:53:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15802,7 +16478,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2a605297459206702f8f3a713577961f49d68b18)
 ### Update use-cases.rst
 
-> Commit: [2a605297459206702f8f3a713577961f49d68b18](https://git.flyball.co/dsiprouter/enterprise/commit/2a605297459206702f8f3a713577961f49d68b18)  
+> Commit: [2a605297459206702f8f3a713577961f49d68b18](https://github.com/jcornwell-river/dsiprouter/commit/2a605297459206702f8f3a713577961f49d68b18)  
 > Date: Wed, 28 Nov 2018 15:35:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15817,7 +16493,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42be0e853e6e504790761eb655f6028771cee855)
 ### Update use-cases.rst
 
-> Commit: [42be0e853e6e504790761eb655f6028771cee855](https://git.flyball.co/dsiprouter/enterprise/commit/42be0e853e6e504790761eb655f6028771cee855)  
+> Commit: [42be0e853e6e504790761eb655f6028771cee855](https://github.com/jcornwell-river/dsiprouter/commit/42be0e853e6e504790761eb655f6028771cee855)  
 > Date: Wed, 28 Nov 2018 15:35:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15832,7 +16508,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e388cae6f1a14f729f86d57ddf430678ac298f43)
 ### Update use-cases.rst
 
-> Commit: [e388cae6f1a14f729f86d57ddf430678ac298f43](https://git.flyball.co/dsiprouter/enterprise/commit/e388cae6f1a14f729f86d57ddf430678ac298f43)  
+> Commit: [e388cae6f1a14f729f86d57ddf430678ac298f43](https://github.com/jcornwell-river/dsiprouter/commit/e388cae6f1a14f729f86d57ddf430678ac298f43)  
 > Date: Wed, 28 Nov 2018 15:32:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15847,7 +16523,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5762ec24ff2ccd9a5731a5204015d347ef3b1dd9)
 ### Update use-cases.rst
 
-> Commit: [5762ec24ff2ccd9a5731a5204015d347ef3b1dd9](https://git.flyball.co/dsiprouter/enterprise/commit/5762ec24ff2ccd9a5731a5204015d347ef3b1dd9)  
+> Commit: [5762ec24ff2ccd9a5731a5204015d347ef3b1dd9](https://github.com/jcornwell-river/dsiprouter/commit/5762ec24ff2ccd9a5731a5204015d347ef3b1dd9)  
 > Date: Wed, 28 Nov 2018 15:31:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15862,7 +16538,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91e1ea02b1fbf3f0066af5f6161b11298fdf5feb)
 ### Update use-cases.rst
 
-> Commit: [91e1ea02b1fbf3f0066af5f6161b11298fdf5feb](https://git.flyball.co/dsiprouter/enterprise/commit/91e1ea02b1fbf3f0066af5f6161b11298fdf5feb)  
+> Commit: [91e1ea02b1fbf3f0066af5f6161b11298fdf5feb](https://github.com/jcornwell-river/dsiprouter/commit/91e1ea02b1fbf3f0066af5f6161b11298fdf5feb)  
 > Date: Wed, 28 Nov 2018 15:26:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15877,7 +16553,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b0dae40725f2be1ada240392874748c7f8f5ecb1)
 ### Update use-cases.rst
 
-> Commit: [b0dae40725f2be1ada240392874748c7f8f5ecb1](https://git.flyball.co/dsiprouter/enterprise/commit/b0dae40725f2be1ada240392874748c7f8f5ecb1)  
+> Commit: [b0dae40725f2be1ada240392874748c7f8f5ecb1](https://github.com/jcornwell-river/dsiprouter/commit/b0dae40725f2be1ada240392874748c7f8f5ecb1)  
 > Date: Wed, 28 Nov 2018 15:25:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15892,7 +16568,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 141dacddf82b531a609d64023e44a0b78db94ad5)
 ### Update use-cases.rst
 
-> Commit: [141dacddf82b531a609d64023e44a0b78db94ad5](https://git.flyball.co/dsiprouter/enterprise/commit/141dacddf82b531a609d64023e44a0b78db94ad5)  
+> Commit: [141dacddf82b531a609d64023e44a0b78db94ad5](https://github.com/jcornwell-river/dsiprouter/commit/141dacddf82b531a609d64023e44a0b78db94ad5)  
 > Date: Wed, 28 Nov 2018 15:24:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15907,7 +16583,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 90b11bf5c894ecb81c395235ef3b036282c648f6)
 ### Update use-cases.rst
 
-> Commit: [90b11bf5c894ecb81c395235ef3b036282c648f6](https://git.flyball.co/dsiprouter/enterprise/commit/90b11bf5c894ecb81c395235ef3b036282c648f6)  
+> Commit: [90b11bf5c894ecb81c395235ef3b036282c648f6](https://github.com/jcornwell-river/dsiprouter/commit/90b11bf5c894ecb81c395235ef3b036282c648f6)  
 > Date: Wed, 28 Nov 2018 15:23:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15922,7 +16598,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c0856b90f4271b5e2281a15dad9fc9edbb75452c)
 ### Update use-cases.rst
 
-> Commit: [c0856b90f4271b5e2281a15dad9fc9edbb75452c](https://git.flyball.co/dsiprouter/enterprise/commit/c0856b90f4271b5e2281a15dad9fc9edbb75452c)  
+> Commit: [c0856b90f4271b5e2281a15dad9fc9edbb75452c](https://github.com/jcornwell-river/dsiprouter/commit/c0856b90f4271b5e2281a15dad9fc9edbb75452c)  
 > Date: Wed, 28 Nov 2018 15:21:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15937,7 +16613,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e752dfd6a77d89fef094c0b3b852f1a2e945b82)
 ### Update use-cases.rst
 
-> Commit: [9e752dfd6a77d89fef094c0b3b852f1a2e945b82](https://git.flyball.co/dsiprouter/enterprise/commit/9e752dfd6a77d89fef094c0b3b852f1a2e945b82)  
+> Commit: [9e752dfd6a77d89fef094c0b3b852f1a2e945b82](https://github.com/jcornwell-river/dsiprouter/commit/9e752dfd6a77d89fef094c0b3b852f1a2e945b82)  
 > Date: Wed, 28 Nov 2018 15:20:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15952,7 +16628,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f6b39da05d9d0c96d73b4b9bb733f70c5a892c1c)
 ### Update use-cases.rst
 
-> Commit: [f6b39da05d9d0c96d73b4b9bb733f70c5a892c1c](https://git.flyball.co/dsiprouter/enterprise/commit/f6b39da05d9d0c96d73b4b9bb733f70c5a892c1c)  
+> Commit: [f6b39da05d9d0c96d73b4b9bb733f70c5a892c1c](https://github.com/jcornwell-river/dsiprouter/commit/f6b39da05d9d0c96d73b4b9bb733f70c5a892c1c)  
 > Date: Wed, 28 Nov 2018 15:19:03 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15967,7 +16643,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8b22d9a12a9cc43e70086231388c4bff00a9b77)
 ### Update use-cases.rst
 
-> Commit: [f8b22d9a12a9cc43e70086231388c4bff00a9b77](https://git.flyball.co/dsiprouter/enterprise/commit/f8b22d9a12a9cc43e70086231388c4bff00a9b77)  
+> Commit: [f8b22d9a12a9cc43e70086231388c4bff00a9b77](https://github.com/jcornwell-river/dsiprouter/commit/f8b22d9a12a9cc43e70086231388c4bff00a9b77)  
 > Date: Wed, 28 Nov 2018 15:15:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15982,7 +16658,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a95d1faa9b969ffe0dbcc8033e3c0da37840560d)
 ### Update use-cases.rst
 
-> Commit: [a95d1faa9b969ffe0dbcc8033e3c0da37840560d](https://git.flyball.co/dsiprouter/enterprise/commit/a95d1faa9b969ffe0dbcc8033e3c0da37840560d)  
+> Commit: [a95d1faa9b969ffe0dbcc8033e3c0da37840560d](https://github.com/jcornwell-river/dsiprouter/commit/a95d1faa9b969ffe0dbcc8033e3c0da37840560d)  
 > Date: Wed, 28 Nov 2018 15:09:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -15997,7 +16673,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 33433486d2acc9e1aa4dee8c39e2478a2a5596f7)
 ### Update use-cases.rst
 
-> Commit: [33433486d2acc9e1aa4dee8c39e2478a2a5596f7](https://git.flyball.co/dsiprouter/enterprise/commit/33433486d2acc9e1aa4dee8c39e2478a2a5596f7)  
+> Commit: [33433486d2acc9e1aa4dee8c39e2478a2a5596f7](https://github.com/jcornwell-river/dsiprouter/commit/33433486d2acc9e1aa4dee8c39e2478a2a5596f7)  
 > Date: Wed, 28 Nov 2018 14:23:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16012,7 +16688,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e3c410eb88521e5453d127fae15cb4ef8e98e3b6)
 ### Update use-cases.rst
 
-> Commit: [e3c410eb88521e5453d127fae15cb4ef8e98e3b6](https://git.flyball.co/dsiprouter/enterprise/commit/e3c410eb88521e5453d127fae15cb4ef8e98e3b6)  
+> Commit: [e3c410eb88521e5453d127fae15cb4ef8e98e3b6](https://github.com/jcornwell-river/dsiprouter/commit/e3c410eb88521e5453d127fae15cb4ef8e98e3b6)  
 > Date: Wed, 28 Nov 2018 14:19:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16027,7 +16703,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5aed2da88eef6ca84b46e16f5085b77bfbcb98bb)
 ### Update use-cases.rst
 
-> Commit: [5aed2da88eef6ca84b46e16f5085b77bfbcb98bb](https://git.flyball.co/dsiprouter/enterprise/commit/5aed2da88eef6ca84b46e16f5085b77bfbcb98bb)  
+> Commit: [5aed2da88eef6ca84b46e16f5085b77bfbcb98bb](https://github.com/jcornwell-river/dsiprouter/commit/5aed2da88eef6ca84b46e16f5085b77bfbcb98bb)  
 > Date: Wed, 28 Nov 2018 14:05:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16042,7 +16718,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed285c33d2b968def5bd3e3e8445d294fa24f244)
 ### Update use-cases.rst
 
-> Commit: [ed285c33d2b968def5bd3e3e8445d294fa24f244](https://git.flyball.co/dsiprouter/enterprise/commit/ed285c33d2b968def5bd3e3e8445d294fa24f244)  
+> Commit: [ed285c33d2b968def5bd3e3e8445d294fa24f244](https://github.com/jcornwell-river/dsiprouter/commit/ed285c33d2b968def5bd3e3e8445d294fa24f244)  
 > Date: Wed, 28 Nov 2018 14:03:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16057,7 +16733,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c9aee0b1847dbc71fdaaa33be01e7d3a65c5408f)
 ### Update use-cases.rst
 
-> Commit: [c9aee0b1847dbc71fdaaa33be01e7d3a65c5408f](https://git.flyball.co/dsiprouter/enterprise/commit/c9aee0b1847dbc71fdaaa33be01e7d3a65c5408f)  
+> Commit: [c9aee0b1847dbc71fdaaa33be01e7d3a65c5408f](https://github.com/jcornwell-river/dsiprouter/commit/c9aee0b1847dbc71fdaaa33be01e7d3a65c5408f)  
 > Date: Wed, 28 Nov 2018 13:01:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16072,7 +16748,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c4dbb41e7b37e9e0fed01bf48eb4c4698bd6456a)
 ### Update use-cases.rst
 
-> Commit: [c4dbb41e7b37e9e0fed01bf48eb4c4698bd6456a](https://git.flyball.co/dsiprouter/enterprise/commit/c4dbb41e7b37e9e0fed01bf48eb4c4698bd6456a)  
+> Commit: [c4dbb41e7b37e9e0fed01bf48eb4c4698bd6456a](https://github.com/jcornwell-river/dsiprouter/commit/c4dbb41e7b37e9e0fed01bf48eb4c4698bd6456a)  
 > Date: Wed, 28 Nov 2018 13:00:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16087,7 +16763,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7c8216d1611dddd849b19920d1407fe68f3a7e0)
 ### Update use-cases.rst
 
-> Commit: [b7c8216d1611dddd849b19920d1407fe68f3a7e0](https://git.flyball.co/dsiprouter/enterprise/commit/b7c8216d1611dddd849b19920d1407fe68f3a7e0)  
+> Commit: [b7c8216d1611dddd849b19920d1407fe68f3a7e0](https://github.com/jcornwell-river/dsiprouter/commit/b7c8216d1611dddd849b19920d1407fe68f3a7e0)  
 > Date: Wed, 28 Nov 2018 12:58:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16102,7 +16778,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 30ec734b5ff705a6b7a18dd7cdd6c5ef0ebd5231)
 ### Update use-cases.rst
 
-> Commit: [30ec734b5ff705a6b7a18dd7cdd6c5ef0ebd5231](https://git.flyball.co/dsiprouter/enterprise/commit/30ec734b5ff705a6b7a18dd7cdd6c5ef0ebd5231)  
+> Commit: [30ec734b5ff705a6b7a18dd7cdd6c5ef0ebd5231](https://github.com/jcornwell-river/dsiprouter/commit/30ec734b5ff705a6b7a18dd7cdd6c5ef0ebd5231)  
 > Date: Wed, 28 Nov 2018 12:57:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16117,7 +16793,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4e9375a0ab4f304a1fee44b01d68d9e30cf0c02a)
 ### Update use-cases.rst
 
-> Commit: [4e9375a0ab4f304a1fee44b01d68d9e30cf0c02a](https://git.flyball.co/dsiprouter/enterprise/commit/4e9375a0ab4f304a1fee44b01d68d9e30cf0c02a)  
+> Commit: [4e9375a0ab4f304a1fee44b01d68d9e30cf0c02a](https://github.com/jcornwell-river/dsiprouter/commit/4e9375a0ab4f304a1fee44b01d68d9e30cf0c02a)  
 > Date: Wed, 28 Nov 2018 12:52:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16132,7 +16808,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4bf3482f0b7032d8b42df232d85ffaac68d9b0e8)
 ### Update use-cases.rst
 
-> Commit: [4bf3482f0b7032d8b42df232d85ffaac68d9b0e8](https://git.flyball.co/dsiprouter/enterprise/commit/4bf3482f0b7032d8b42df232d85ffaac68d9b0e8)  
+> Commit: [4bf3482f0b7032d8b42df232d85ffaac68d9b0e8](https://github.com/jcornwell-river/dsiprouter/commit/4bf3482f0b7032d8b42df232d85ffaac68d9b0e8)  
 > Date: Wed, 28 Nov 2018 12:51:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16147,7 +16823,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fb3da587b3194dbc450734af89119ad69bda4456)
 ### Update use-cases.rst
 
-> Commit: [fb3da587b3194dbc450734af89119ad69bda4456](https://git.flyball.co/dsiprouter/enterprise/commit/fb3da587b3194dbc450734af89119ad69bda4456)  
+> Commit: [fb3da587b3194dbc450734af89119ad69bda4456](https://github.com/jcornwell-river/dsiprouter/commit/fb3da587b3194dbc450734af89119ad69bda4456)  
 > Date: Wed, 28 Nov 2018 12:47:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16162,7 +16838,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eff9bf8e4c3b1ddc6619b6b6ce74238cce74bffb)
 ### Update use-cases.rst
 
-> Commit: [eff9bf8e4c3b1ddc6619b6b6ce74238cce74bffb](https://git.flyball.co/dsiprouter/enterprise/commit/eff9bf8e4c3b1ddc6619b6b6ce74238cce74bffb)  
+> Commit: [eff9bf8e4c3b1ddc6619b6b6ce74238cce74bffb](https://github.com/jcornwell-river/dsiprouter/commit/eff9bf8e4c3b1ddc6619b6b6ce74238cce74bffb)  
 > Date: Wed, 28 Nov 2018 12:45:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16177,7 +16853,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d8926c0360032655ffb5bab4cd1fb6f34d9025de)
 ### Update use-cases.rst
 
-> Commit: [d8926c0360032655ffb5bab4cd1fb6f34d9025de](https://git.flyball.co/dsiprouter/enterprise/commit/d8926c0360032655ffb5bab4cd1fb6f34d9025de)  
+> Commit: [d8926c0360032655ffb5bab4cd1fb6f34d9025de](https://github.com/jcornwell-river/dsiprouter/commit/d8926c0360032655ffb5bab4cd1fb6f34d9025de)  
 > Date: Wed, 28 Nov 2018 12:40:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16192,7 +16868,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0d3ac2dc82d3d2cbd18381aa7ba3c924114d1650)
 ### Update use-cases.rst
 
-> Commit: [0d3ac2dc82d3d2cbd18381aa7ba3c924114d1650](https://git.flyball.co/dsiprouter/enterprise/commit/0d3ac2dc82d3d2cbd18381aa7ba3c924114d1650)  
+> Commit: [0d3ac2dc82d3d2cbd18381aa7ba3c924114d1650](https://github.com/jcornwell-river/dsiprouter/commit/0d3ac2dc82d3d2cbd18381aa7ba3c924114d1650)  
 > Date: Wed, 28 Nov 2018 12:33:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16207,7 +16883,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17e888fb78f4c94277dd9be49b8913966ce80361)
 ### Update use-cases.rst
 
-> Commit: [17e888fb78f4c94277dd9be49b8913966ce80361](https://git.flyball.co/dsiprouter/enterprise/commit/17e888fb78f4c94277dd9be49b8913966ce80361)  
+> Commit: [17e888fb78f4c94277dd9be49b8913966ce80361](https://github.com/jcornwell-river/dsiprouter/commit/17e888fb78f4c94277dd9be49b8913966ce80361)  
 > Date: Wed, 28 Nov 2018 12:28:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16222,7 +16898,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92e94b9a2f2a4daa7d6174b2a19156ce5e3242f4)
 ### Update use-cases.rst
 
-> Commit: [92e94b9a2f2a4daa7d6174b2a19156ce5e3242f4](https://git.flyball.co/dsiprouter/enterprise/commit/92e94b9a2f2a4daa7d6174b2a19156ce5e3242f4)  
+> Commit: [92e94b9a2f2a4daa7d6174b2a19156ce5e3242f4](https://github.com/jcornwell-river/dsiprouter/commit/92e94b9a2f2a4daa7d6174b2a19156ce5e3242f4)  
 > Date: Wed, 28 Nov 2018 12:27:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16237,7 +16913,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15aeaacc15e86c6fe879d131853c4e2aafd404e2)
 ### Update use-cases.rst
 
-> Commit: [15aeaacc15e86c6fe879d131853c4e2aafd404e2](https://git.flyball.co/dsiprouter/enterprise/commit/15aeaacc15e86c6fe879d131853c4e2aafd404e2)  
+> Commit: [15aeaacc15e86c6fe879d131853c4e2aafd404e2](https://github.com/jcornwell-river/dsiprouter/commit/15aeaacc15e86c6fe879d131853c4e2aafd404e2)  
 > Date: Wed, 28 Nov 2018 09:34:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16252,7 +16928,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9b7a09695d8906d7760c4f8a603ee6834639145a)
 ### Update carrier_groups.rst
 
-> Commit: [9b7a09695d8906d7760c4f8a603ee6834639145a](https://git.flyball.co/dsiprouter/enterprise/commit/9b7a09695d8906d7760c4f8a603ee6834639145a)  
+> Commit: [9b7a09695d8906d7760c4f8a603ee6834639145a](https://github.com/jcornwell-river/dsiprouter/commit/9b7a09695d8906d7760c4f8a603ee6834639145a)  
 > Date: Tue, 27 Nov 2018 15:43:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16267,7 +16943,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d254d07482d160713f4962ee83b2ab3ab0a061a5)
 ### Update carrier_groups.rst
 
-> Commit: [d254d07482d160713f4962ee83b2ab3ab0a061a5](https://git.flyball.co/dsiprouter/enterprise/commit/d254d07482d160713f4962ee83b2ab3ab0a061a5)  
+> Commit: [d254d07482d160713f4962ee83b2ab3ab0a061a5](https://github.com/jcornwell-river/dsiprouter/commit/d254d07482d160713f4962ee83b2ab3ab0a061a5)  
 > Date: Tue, 27 Nov 2018 15:42:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16282,7 +16958,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d981beee8af23eb1a88959f273c265893706c36a)
 ### Update carrier_groups.rst
 
-> Commit: [d981beee8af23eb1a88959f273c265893706c36a](https://git.flyball.co/dsiprouter/enterprise/commit/d981beee8af23eb1a88959f273c265893706c36a)  
+> Commit: [d981beee8af23eb1a88959f273c265893706c36a](https://github.com/jcornwell-river/dsiprouter/commit/d981beee8af23eb1a88959f273c265893706c36a)  
 > Date: Tue, 27 Nov 2018 15:38:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16297,7 +16973,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0e829d781bc79e9aafaf07112a252d3989d07ae1)
 ### Update carrier_groups.rst
 
-> Commit: [0e829d781bc79e9aafaf07112a252d3989d07ae1](https://git.flyball.co/dsiprouter/enterprise/commit/0e829d781bc79e9aafaf07112a252d3989d07ae1)  
+> Commit: [0e829d781bc79e9aafaf07112a252d3989d07ae1](https://github.com/jcornwell-river/dsiprouter/commit/0e829d781bc79e9aafaf07112a252d3989d07ae1)  
 > Date: Tue, 27 Nov 2018 15:37:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16312,7 +16988,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 59b8313b93e359e2e953f5759cfbee35555fc6f3)
 ### Update carrier_groups.rst
 
-> Commit: [59b8313b93e359e2e953f5759cfbee35555fc6f3](https://git.flyball.co/dsiprouter/enterprise/commit/59b8313b93e359e2e953f5759cfbee35555fc6f3)  
+> Commit: [59b8313b93e359e2e953f5759cfbee35555fc6f3](https://github.com/jcornwell-river/dsiprouter/commit/59b8313b93e359e2e953f5759cfbee35555fc6f3)  
 > Date: Tue, 27 Nov 2018 15:36:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16327,7 +17003,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a927825f41807b8ba3fe834bb4cdf9b19f380160)
 ### Add files via upload
 
-> Commit: [a927825f41807b8ba3fe834bb4cdf9b19f380160](https://git.flyball.co/dsiprouter/enterprise/commit/a927825f41807b8ba3fe834bb4cdf9b19f380160)  
+> Commit: [a927825f41807b8ba3fe834bb4cdf9b19f380160](https://github.com/jcornwell-river/dsiprouter/commit/a927825f41807b8ba3fe834bb4cdf9b19f380160)  
 > Date: Tue, 27 Nov 2018 15:34:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16342,7 +17018,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 956943487a928049235d880e5756392f7b646766)
 ### Delete IP authenication.PNG
 
-> Commit: [956943487a928049235d880e5756392f7b646766](https://git.flyball.co/dsiprouter/enterprise/commit/956943487a928049235d880e5756392f7b646766)  
+> Commit: [956943487a928049235d880e5756392f7b646766](https://github.com/jcornwell-river/dsiprouter/commit/956943487a928049235d880e5756392f7b646766)  
 > Date: Tue, 27 Nov 2018 15:34:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16357,7 +17033,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 942b24602598af530f0b853e5e99a06786a870bd)
 ### Update carrier_groups.rst
 
-> Commit: [942b24602598af530f0b853e5e99a06786a870bd](https://git.flyball.co/dsiprouter/enterprise/commit/942b24602598af530f0b853e5e99a06786a870bd)  
+> Commit: [942b24602598af530f0b853e5e99a06786a870bd](https://github.com/jcornwell-river/dsiprouter/commit/942b24602598af530f0b853e5e99a06786a870bd)  
 > Date: Tue, 27 Nov 2018 15:34:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16372,7 +17048,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 203831d712b3691c1b9167048326e433475bef56)
 ### Add files via upload
 
-> Commit: [203831d712b3691c1b9167048326e433475bef56](https://git.flyball.co/dsiprouter/enterprise/commit/203831d712b3691c1b9167048326e433475bef56)  
+> Commit: [203831d712b3691c1b9167048326e433475bef56](https://github.com/jcornwell-river/dsiprouter/commit/203831d712b3691c1b9167048326e433475bef56)  
 > Date: Tue, 27 Nov 2018 15:30:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16387,7 +17063,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b77e88e29d7f10ba18566064095cf43575c7ef33)
 ### Update use-cases.rst
 
-> Commit: [b77e88e29d7f10ba18566064095cf43575c7ef33](https://git.flyball.co/dsiprouter/enterprise/commit/b77e88e29d7f10ba18566064095cf43575c7ef33)  
+> Commit: [b77e88e29d7f10ba18566064095cf43575c7ef33](https://github.com/jcornwell-river/dsiprouter/commit/b77e88e29d7f10ba18566064095cf43575c7ef33)  
 > Date: Tue, 27 Nov 2018 15:08:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16402,7 +17078,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9665f3c663cae93a060a8d42345493467b2afaf4)
 ### Update use-cases.rst
 
-> Commit: [9665f3c663cae93a060a8d42345493467b2afaf4](https://git.flyball.co/dsiprouter/enterprise/commit/9665f3c663cae93a060a8d42345493467b2afaf4)  
+> Commit: [9665f3c663cae93a060a8d42345493467b2afaf4](https://github.com/jcornwell-river/dsiprouter/commit/9665f3c663cae93a060a8d42345493467b2afaf4)  
 > Date: Tue, 27 Nov 2018 15:07:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16417,7 +17093,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 75e44d879c72f2d5fe03dcfd1be1730d191c34f1)
 ### Update use-cases.rst
 
-> Commit: [75e44d879c72f2d5fe03dcfd1be1730d191c34f1](https://git.flyball.co/dsiprouter/enterprise/commit/75e44d879c72f2d5fe03dcfd1be1730d191c34f1)  
+> Commit: [75e44d879c72f2d5fe03dcfd1be1730d191c34f1](https://github.com/jcornwell-river/dsiprouter/commit/75e44d879c72f2d5fe03dcfd1be1730d191c34f1)  
 > Date: Tue, 27 Nov 2018 15:05:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16432,7 +17108,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9241e581a68df76911cb74c0d241cdfb98abb97c)
 ### Update use-cases.rst
 
-> Commit: [9241e581a68df76911cb74c0d241cdfb98abb97c](https://git.flyball.co/dsiprouter/enterprise/commit/9241e581a68df76911cb74c0d241cdfb98abb97c)  
+> Commit: [9241e581a68df76911cb74c0d241cdfb98abb97c](https://github.com/jcornwell-river/dsiprouter/commit/9241e581a68df76911cb74c0d241cdfb98abb97c)  
 > Date: Tue, 27 Nov 2018 14:56:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16447,7 +17123,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 589fd170829697735036d0baa90cdcc2c9461e2c)
 ### Update use-cases.rst
 
-> Commit: [589fd170829697735036d0baa90cdcc2c9461e2c](https://git.flyball.co/dsiprouter/enterprise/commit/589fd170829697735036d0baa90cdcc2c9461e2c)  
+> Commit: [589fd170829697735036d0baa90cdcc2c9461e2c](https://github.com/jcornwell-river/dsiprouter/commit/589fd170829697735036d0baa90cdcc2c9461e2c)  
 > Date: Tue, 27 Nov 2018 10:43:19 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16462,7 +17138,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42d9fb33b7cac00cb0bf98dc91556db5978c07b9)
 ### Update global_outbound_routes.rst
 
-> Commit: [42d9fb33b7cac00cb0bf98dc91556db5978c07b9](https://git.flyball.co/dsiprouter/enterprise/commit/42d9fb33b7cac00cb0bf98dc91556db5978c07b9)  
+> Commit: [42d9fb33b7cac00cb0bf98dc91556db5978c07b9](https://github.com/jcornwell-river/dsiprouter/commit/42d9fb33b7cac00cb0bf98dc91556db5978c07b9)  
 > Date: Tue, 27 Nov 2018 10:03:20 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16477,7 +17153,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4c46c9c2c6507485b069901b400ff2fbfdeb58a4)
 ### Create global_outbound_routes.rst
 
-> Commit: [4c46c9c2c6507485b069901b400ff2fbfdeb58a4](https://git.flyball.co/dsiprouter/enterprise/commit/4c46c9c2c6507485b069901b400ff2fbfdeb58a4)  
+> Commit: [4c46c9c2c6507485b069901b400ff2fbfdeb58a4](https://github.com/jcornwell-river/dsiprouter/commit/4c46c9c2c6507485b069901b400ff2fbfdeb58a4)  
 > Date: Tue, 27 Nov 2018 10:02:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16492,7 +17168,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 058c2fd0fbe424772c4ac8da958b108b149fe665)
 ### Update use-cases.rst
 
-> Commit: [058c2fd0fbe424772c4ac8da958b108b149fe665](https://git.flyball.co/dsiprouter/enterprise/commit/058c2fd0fbe424772c4ac8da958b108b149fe665)  
+> Commit: [058c2fd0fbe424772c4ac8da958b108b149fe665](https://github.com/jcornwell-river/dsiprouter/commit/058c2fd0fbe424772c4ac8da958b108b149fe665)  
 > Date: Tue, 27 Nov 2018 10:01:52 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16507,7 +17183,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2779721a299d975eb9b449f9fe7d5b933ad4c541)
 ### Update carrier_groups.rst
 
-> Commit: [2779721a299d975eb9b449f9fe7d5b933ad4c541](https://git.flyball.co/dsiprouter/enterprise/commit/2779721a299d975eb9b449f9fe7d5b933ad4c541)  
+> Commit: [2779721a299d975eb9b449f9fe7d5b933ad4c541](https://github.com/jcornwell-river/dsiprouter/commit/2779721a299d975eb9b449f9fe7d5b933ad4c541)  
 > Date: Tue, 27 Nov 2018 09:58:34 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16522,7 +17198,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6dbc1d7982c8727e149a2c026ab1ebe88d4007a5)
 ### Update use-cases.rst
 
-> Commit: [6dbc1d7982c8727e149a2c026ab1ebe88d4007a5](https://git.flyball.co/dsiprouter/enterprise/commit/6dbc1d7982c8727e149a2c026ab1ebe88d4007a5)  
+> Commit: [6dbc1d7982c8727e149a2c026ab1ebe88d4007a5](https://github.com/jcornwell-river/dsiprouter/commit/6dbc1d7982c8727e149a2c026ab1ebe88d4007a5)  
 > Date: Tue, 27 Nov 2018 09:45:20 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16537,7 +17213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8b1b20920acf629cadbe99b4b06769e8e63912d9)
 ### Update carrier_groups.rst
 
-> Commit: [8b1b20920acf629cadbe99b4b06769e8e63912d9](https://git.flyball.co/dsiprouter/enterprise/commit/8b1b20920acf629cadbe99b4b06769e8e63912d9)  
+> Commit: [8b1b20920acf629cadbe99b4b06769e8e63912d9](https://github.com/jcornwell-river/dsiprouter/commit/8b1b20920acf629cadbe99b4b06769e8e63912d9)  
 > Date: Tue, 27 Nov 2018 09:43:18 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16552,7 +17228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c602d135d6f170f910c7893c96487db949637af)
 ### Update use-cases.rst
 
-> Commit: [3c602d135d6f170f910c7893c96487db949637af](https://git.flyball.co/dsiprouter/enterprise/commit/3c602d135d6f170f910c7893c96487db949637af)  
+> Commit: [3c602d135d6f170f910c7893c96487db949637af](https://github.com/jcornwell-river/dsiprouter/commit/3c602d135d6f170f910c7893c96487db949637af)  
 > Date: Tue, 27 Nov 2018 09:26:36 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16567,7 +17243,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce76652240bca2e369fb7d09cf7d2c90a465e53e)
 ### Letsencrypt will not work since the machine doesn't have a routeable domain name
 
-> Commit: [ce76652240bca2e369fb7d09cf7d2c90a465e53e](https://git.flyball.co/dsiprouter/enterprise/commit/ce76652240bca2e369fb7d09cf7d2c90a465e53e)  
+> Commit: [ce76652240bca2e369fb7d09cf7d2c90a465e53e](https://github.com/jcornwell-river/dsiprouter/commit/ce76652240bca2e369fb7d09cf7d2c90a465e53e)  
 > Date: Tue, 27 Nov 2018 00:22:51 +0000  
 > Author: mhendricks (root@debian-dsip-51-build.localdomain)  
 > Committer: mhendricks (root@debian-dsip-51-build.localdomain)  
@@ -16582,7 +17258,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b88fcccee58017d8eca65fca4188a9d8aeef4721)
 ### Fixed some more conflicts with datatables.js
 
-> Commit: [b88fcccee58017d8eca65fca4188a9d8aeef4721](https://git.flyball.co/dsiprouter/enterprise/commit/b88fcccee58017d8eca65fca4188a9d8aeef4721)  
+> Commit: [b88fcccee58017d8eca65fca4188a9d8aeef4721](https://github.com/jcornwell-river/dsiprouter/commit/b88fcccee58017d8eca65fca4188a9d8aeef4721)  
 > Date: Mon, 26 Nov 2018 20:54:13 +0000  
 > Author: mhendricks (root@debian-dsip-51-build.localdomain)  
 > Committer: mhendricks (root@debian-dsip-51-build.localdomain)  
@@ -16597,7 +17273,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 59044ef87ccf8565906b5fd8a1df49a4d450c621)
 ### Update use-cases.rst
 
-> Commit: [59044ef87ccf8565906b5fd8a1df49a4d450c621](https://git.flyball.co/dsiprouter/enterprise/commit/59044ef87ccf8565906b5fd8a1df49a4d450c621)  
+> Commit: [59044ef87ccf8565906b5fd8a1df49a4d450c621](https://github.com/jcornwell-river/dsiprouter/commit/59044ef87ccf8565906b5fd8a1df49a4d450c621)  
 > Date: Mon, 26 Nov 2018 15:07:45 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16612,7 +17288,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4a42678222549258646340aae4e1cde768f7abc1)
 ### Update use-cases.rst
 
-> Commit: [4a42678222549258646340aae4e1cde768f7abc1](https://git.flyball.co/dsiprouter/enterprise/commit/4a42678222549258646340aae4e1cde768f7abc1)  
+> Commit: [4a42678222549258646340aae4e1cde768f7abc1](https://github.com/jcornwell-river/dsiprouter/commit/4a42678222549258646340aae4e1cde768f7abc1)  
 > Date: Mon, 26 Nov 2018 15:00:14 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16627,7 +17303,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 13b6151582c0f91a91b3af81a79a5c5b71bdbe82)
 ### Add files via upload
 
-> Commit: [13b6151582c0f91a91b3af81a79a5c5b71bdbe82](https://git.flyball.co/dsiprouter/enterprise/commit/13b6151582c0f91a91b3af81a79a5c5b71bdbe82)  
+> Commit: [13b6151582c0f91a91b3af81a79a5c5b71bdbe82](https://github.com/jcornwell-river/dsiprouter/commit/13b6151582c0f91a91b3af81a79a5c5b71bdbe82)  
 > Date: Mon, 26 Nov 2018 14:40:39 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16642,7 +17318,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 16dcdaaf7183e24e0244c572f87567afd3ee43b9)
 ### Delete sip_trunking_freepbx_pjsip.png
 
-> Commit: [16dcdaaf7183e24e0244c572f87567afd3ee43b9](https://git.flyball.co/dsiprouter/enterprise/commit/16dcdaaf7183e24e0244c572f87567afd3ee43b9)  
+> Commit: [16dcdaaf7183e24e0244c572f87567afd3ee43b9](https://github.com/jcornwell-river/dsiprouter/commit/16dcdaaf7183e24e0244c572f87567afd3ee43b9)  
 > Date: Mon, 26 Nov 2018 14:34:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16657,7 +17333,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 513a30c8e55f18e73dae972ce10d9db9563352e8)
 ### Add files via upload
 
-> Commit: [513a30c8e55f18e73dae972ce10d9db9563352e8](https://git.flyball.co/dsiprouter/enterprise/commit/513a30c8e55f18e73dae972ce10d9db9563352e8)  
+> Commit: [513a30c8e55f18e73dae972ce10d9db9563352e8](https://github.com/jcornwell-river/dsiprouter/commit/513a30c8e55f18e73dae972ce10d9db9563352e8)  
 > Date: Sat, 24 Nov 2018 14:50:49 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16672,7 +17348,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f59d5160a28f8f4407c2c989f4d41b8b8312b123)
 ### Update use-cases.rst
 
-> Commit: [f59d5160a28f8f4407c2c989f4d41b8b8312b123](https://git.flyball.co/dsiprouter/enterprise/commit/f59d5160a28f8f4407c2c989f4d41b8b8312b123)  
+> Commit: [f59d5160a28f8f4407c2c989f4d41b8b8312b123](https://github.com/jcornwell-river/dsiprouter/commit/f59d5160a28f8f4407c2c989f4d41b8b8312b123)  
 > Date: Sat, 24 Nov 2018 14:50:11 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16687,7 +17363,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3fa8411d14a191f218d4d13edef3d9858bc2e1f4)
 ### Update use-cases.rst
 
-> Commit: [3fa8411d14a191f218d4d13edef3d9858bc2e1f4](https://git.flyball.co/dsiprouter/enterprise/commit/3fa8411d14a191f218d4d13edef3d9858bc2e1f4)  
+> Commit: [3fa8411d14a191f218d4d13edef3d9858bc2e1f4](https://github.com/jcornwell-river/dsiprouter/commit/3fa8411d14a191f218d4d13edef3d9858bc2e1f4)  
 > Date: Sat, 24 Nov 2018 14:49:29 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16702,7 +17378,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c6976fc95170d3f8ff7ae5b6ffc261b3a0c8ebbf)
 ### Update use-cases.rst
 
-> Commit: [c6976fc95170d3f8ff7ae5b6ffc261b3a0c8ebbf](https://git.flyball.co/dsiprouter/enterprise/commit/c6976fc95170d3f8ff7ae5b6ffc261b3a0c8ebbf)  
+> Commit: [c6976fc95170d3f8ff7ae5b6ffc261b3a0c8ebbf](https://github.com/jcornwell-river/dsiprouter/commit/c6976fc95170d3f8ff7ae5b6ffc261b3a0c8ebbf)  
 > Date: Sat, 24 Nov 2018 13:21:59 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16717,7 +17393,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7e5b1a40b91e62a5c4b3407035d6eadde539374)
 ### Update use-cases.rst
 
-> Commit: [e7e5b1a40b91e62a5c4b3407035d6eadde539374](https://git.flyball.co/dsiprouter/enterprise/commit/e7e5b1a40b91e62a5c4b3407035d6eadde539374)  
+> Commit: [e7e5b1a40b91e62a5c4b3407035d6eadde539374](https://github.com/jcornwell-river/dsiprouter/commit/e7e5b1a40b91e62a5c4b3407035d6eadde539374)  
 > Date: Sat, 24 Nov 2018 13:19:48 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16732,7 +17408,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3bf9b70afc3ba297a2e384a431867f5b0ed00e54)
 ### Update use-cases.rst
 
-> Commit: [3bf9b70afc3ba297a2e384a431867f5b0ed00e54](https://git.flyball.co/dsiprouter/enterprise/commit/3bf9b70afc3ba297a2e384a431867f5b0ed00e54)  
+> Commit: [3bf9b70afc3ba297a2e384a431867f5b0ed00e54](https://github.com/jcornwell-river/dsiprouter/commit/3bf9b70afc3ba297a2e384a431867f5b0ed00e54)  
 > Date: Sat, 24 Nov 2018 13:15:29 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16747,7 +17423,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce56e4d5705b73accffbff60048fb92f75b106bd)
 ### Update use-cases.rst
 
-> Commit: [ce56e4d5705b73accffbff60048fb92f75b106bd](https://git.flyball.co/dsiprouter/enterprise/commit/ce56e4d5705b73accffbff60048fb92f75b106bd)  
+> Commit: [ce56e4d5705b73accffbff60048fb92f75b106bd](https://github.com/jcornwell-river/dsiprouter/commit/ce56e4d5705b73accffbff60048fb92f75b106bd)  
 > Date: Sat, 24 Nov 2018 13:14:37 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16762,7 +17438,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c04f2724aed299780444fe36da320baf4cd58f6b)
 ### Update use-cases.rst
 
-> Commit: [c04f2724aed299780444fe36da320baf4cd58f6b](https://git.flyball.co/dsiprouter/enterprise/commit/c04f2724aed299780444fe36da320baf4cd58f6b)  
+> Commit: [c04f2724aed299780444fe36da320baf4cd58f6b](https://github.com/jcornwell-river/dsiprouter/commit/c04f2724aed299780444fe36da320baf4cd58f6b)  
 > Date: Sat, 24 Nov 2018 13:12:52 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16777,7 +17453,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb5d6336b9f7acfbdc5110ada01bfd8946fc4d73)
 ### Update use-cases.rst
 
-> Commit: [eb5d6336b9f7acfbdc5110ada01bfd8946fc4d73](https://git.flyball.co/dsiprouter/enterprise/commit/eb5d6336b9f7acfbdc5110ada01bfd8946fc4d73)  
+> Commit: [eb5d6336b9f7acfbdc5110ada01bfd8946fc4d73](https://github.com/jcornwell-river/dsiprouter/commit/eb5d6336b9f7acfbdc5110ada01bfd8946fc4d73)  
 > Date: Sat, 24 Nov 2018 08:37:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16792,7 +17468,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c014f58a59a8b657652c9c4babd71ff79f3d7c9)
 ### Applied a patch to deal with the stale database connections, Fixed Carrier Registraton so that the Registrar Server IP is addeded to the Address table, Fixed a conflict with the datatables javascript file that was preventing other javascript from operating correctly
 
-> Commit: [3c014f58a59a8b657652c9c4babd71ff79f3d7c9](https://git.flyball.co/dsiprouter/enterprise/commit/3c014f58a59a8b657652c9c4babd71ff79f3d7c9)  
+> Commit: [3c014f58a59a8b657652c9c4babd71ff79f3d7c9](https://github.com/jcornwell-river/dsiprouter/commit/3c014f58a59a8b657652c9c4babd71ff79f3d7c9)  
 > Date: Mon, 19 Nov 2018 04:00:41 +0000  
 > Author: mhendricks (root@debian-dsip-51-build.localdomain)  
 > Committer: mhendricks (root@debian-dsip-51-build.localdomain)  
@@ -16807,7 +17483,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 457938c59d0867580e96ae978aab47d10424ab2c)
 ### Add files via upload
 
-> Commit: [457938c59d0867580e96ae978aab47d10424ab2c](https://git.flyball.co/dsiprouter/enterprise/commit/457938c59d0867580e96ae978aab47d10424ab2c)  
+> Commit: [457938c59d0867580e96ae978aab47d10424ab2c](https://github.com/jcornwell-river/dsiprouter/commit/457938c59d0867580e96ae978aab47d10424ab2c)  
 > Date: Fri, 16 Nov 2018 14:46:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16822,7 +17498,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 83ecc170dca6746831ee32deeaa692ec5d97fa74)
 ### Update use-cases.rst
 
-> Commit: [83ecc170dca6746831ee32deeaa692ec5d97fa74](https://git.flyball.co/dsiprouter/enterprise/commit/83ecc170dca6746831ee32deeaa692ec5d97fa74)  
+> Commit: [83ecc170dca6746831ee32deeaa692ec5d97fa74](https://github.com/jcornwell-river/dsiprouter/commit/83ecc170dca6746831ee32deeaa692ec5d97fa74)  
 > Date: Fri, 16 Nov 2018 13:10:42 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16837,7 +17513,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 793e678e8c54db07602dc70f5d52112e5e186f62)
 ### Update use-cases.rst
 
-> Commit: [793e678e8c54db07602dc70f5d52112e5e186f62](https://git.flyball.co/dsiprouter/enterprise/commit/793e678e8c54db07602dc70f5d52112e5e186f62)  
+> Commit: [793e678e8c54db07602dc70f5d52112e5e186f62](https://github.com/jcornwell-river/dsiprouter/commit/793e678e8c54db07602dc70f5d52112e5e186f62)  
 > Date: Fri, 16 Nov 2018 13:04:50 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16852,7 +17528,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 86b349224e745fbd675d56e113138227e0574e9e)
 ### Update use-cases.rst
 
-> Commit: [86b349224e745fbd675d56e113138227e0574e9e](https://git.flyball.co/dsiprouter/enterprise/commit/86b349224e745fbd675d56e113138227e0574e9e)  
+> Commit: [86b349224e745fbd675d56e113138227e0574e9e](https://github.com/jcornwell-river/dsiprouter/commit/86b349224e745fbd675d56e113138227e0574e9e)  
 > Date: Fri, 16 Nov 2018 13:02:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16867,7 +17543,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4fdcf23e77468179dafa74a2850e0ff0b3cc72b7)
 ### Add files via upload
 
-> Commit: [4fdcf23e77468179dafa74a2850e0ff0b3cc72b7](https://git.flyball.co/dsiprouter/enterprise/commit/4fdcf23e77468179dafa74a2850e0ff0b3cc72b7)  
+> Commit: [4fdcf23e77468179dafa74a2850e0ff0b3cc72b7](https://github.com/jcornwell-river/dsiprouter/commit/4fdcf23e77468179dafa74a2850e0ff0b3cc72b7)  
 > Date: Fri, 16 Nov 2018 13:00:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16882,7 +17558,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9b2c3db2e020b5728ff8047c254b476008f1a4de)
 ### Update use-cases.rst
 
-> Commit: [9b2c3db2e020b5728ff8047c254b476008f1a4de](https://git.flyball.co/dsiprouter/enterprise/commit/9b2c3db2e020b5728ff8047c254b476008f1a4de)  
+> Commit: [9b2c3db2e020b5728ff8047c254b476008f1a4de](https://github.com/jcornwell-river/dsiprouter/commit/9b2c3db2e020b5728ff8047c254b476008f1a4de)  
 > Date: Fri, 16 Nov 2018 13:00:02 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16897,7 +17573,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bdf63dd83891ea9cddd40d02c2278cc8f4ed009f)
 ### Add files via upload
 
-> Commit: [bdf63dd83891ea9cddd40d02c2278cc8f4ed009f](https://git.flyball.co/dsiprouter/enterprise/commit/bdf63dd83891ea9cddd40d02c2278cc8f4ed009f)  
+> Commit: [bdf63dd83891ea9cddd40d02c2278cc8f4ed009f](https://github.com/jcornwell-river/dsiprouter/commit/bdf63dd83891ea9cddd40d02c2278cc8f4ed009f)  
 > Date: Fri, 16 Nov 2018 12:35:30 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16912,7 +17588,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 84cc1f485cdb313c0e8f2085711f4307bcd931dc)
 ### Create use-cases.rst
 
-> Commit: [84cc1f485cdb313c0e8f2085711f4307bcd931dc](https://git.flyball.co/dsiprouter/enterprise/commit/84cc1f485cdb313c0e8f2085711f4307bcd931dc)  
+> Commit: [84cc1f485cdb313c0e8f2085711f4307bcd931dc](https://github.com/jcornwell-river/dsiprouter/commit/84cc1f485cdb313c0e8f2085711f4307bcd931dc)  
 > Date: Fri, 16 Nov 2018 12:33:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16927,7 +17603,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1209735bc4779ed18949ef75074c7f6f2468d51e)
 ### Add SSL configuratoin to install script
 
-> Commit: [1209735bc4779ed18949ef75074c7f6f2468d51e](https://git.flyball.co/dsiprouter/enterprise/commit/1209735bc4779ed18949ef75074c7f6f2468d51e)  
+> Commit: [1209735bc4779ed18949ef75074c7f6f2468d51e](https://github.com/jcornwell-river/dsiprouter/commit/1209735bc4779ed18949ef75074c7f6f2468d51e)  
 > Date: Thu, 15 Nov 2018 18:29:46 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -16943,7 +17619,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f5a18b7cbe4263f45718a257c2a45f574e8af619)
 ### Fixed an issue that prevented the nginx docker image from starting after the server is rebooted
 
-> Commit: [f5a18b7cbe4263f45718a257c2a45f574e8af619](https://git.flyball.co/dsiprouter/enterprise/commit/f5a18b7cbe4263f45718a257c2a45f574e8af619)  
+> Commit: [f5a18b7cbe4263f45718a257c2a45f574e8af619](https://github.com/jcornwell-river/dsiprouter/commit/f5a18b7cbe4263f45718a257c2a45f574e8af619)  
 > Date: Thu, 15 Nov 2018 22:54:23 +0000  
 > Author: root (root@debian-dsip-51-build.localdomain)  
 > Committer: root (root@debian-dsip-51-build.localdomain)  
@@ -16958,7 +17634,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82eca5ccc5d8b09ce7ab6fe8ebbd95119fdc9484)
 ### Update installing.rst
 
-> Commit: [82eca5ccc5d8b09ce7ab6fe8ebbd95119fdc9484](https://git.flyball.co/dsiprouter/enterprise/commit/82eca5ccc5d8b09ce7ab6fe8ebbd95119fdc9484)  
+> Commit: [82eca5ccc5d8b09ce7ab6fe8ebbd95119fdc9484](https://github.com/jcornwell-river/dsiprouter/commit/82eca5ccc5d8b09ce7ab6fe8ebbd95119fdc9484)  
 > Date: Thu, 15 Nov 2018 14:58:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16973,7 +17649,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ab1d6631e5a193b7ef8902ff2201c4f4618043fa)
 ### Update installing.rst
 
-> Commit: [ab1d6631e5a193b7ef8902ff2201c4f4618043fa](https://git.flyball.co/dsiprouter/enterprise/commit/ab1d6631e5a193b7ef8902ff2201c4f4618043fa)  
+> Commit: [ab1d6631e5a193b7ef8902ff2201c4f4618043fa](https://github.com/jcornwell-river/dsiprouter/commit/ab1d6631e5a193b7ef8902ff2201c4f4618043fa)  
 > Date: Thu, 15 Nov 2018 14:56:47 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -16988,7 +17664,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d3b1682c6b865b5367ecc13e32b2338e2f15a1e)
 ### Update installing.rst
 
-> Commit: [4d3b1682c6b865b5367ecc13e32b2338e2f15a1e](https://git.flyball.co/dsiprouter/enterprise/commit/4d3b1682c6b865b5367ecc13e32b2338e2f15a1e)  
+> Commit: [4d3b1682c6b865b5367ecc13e32b2338e2f15a1e](https://github.com/jcornwell-river/dsiprouter/commit/4d3b1682c6b865b5367ecc13e32b2338e2f15a1e)  
 > Date: Thu, 15 Nov 2018 14:54:40 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17003,7 +17679,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8b592bcdcb4b112516600b4be426f20558492029)
 ### Update installing.rst
 
-> Commit: [8b592bcdcb4b112516600b4be426f20558492029](https://git.flyball.co/dsiprouter/enterprise/commit/8b592bcdcb4b112516600b4be426f20558492029)  
+> Commit: [8b592bcdcb4b112516600b4be426f20558492029](https://github.com/jcornwell-river/dsiprouter/commit/8b592bcdcb4b112516600b4be426f20558492029)  
 > Date: Thu, 15 Nov 2018 14:53:00 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17018,7 +17694,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a60b30d533ddff616416883e153ed1d9fec6a26b)
 ### Update installing.rst
 
-> Commit: [a60b30d533ddff616416883e153ed1d9fec6a26b](https://git.flyball.co/dsiprouter/enterprise/commit/a60b30d533ddff616416883e153ed1d9fec6a26b)  
+> Commit: [a60b30d533ddff616416883e153ed1d9fec6a26b](https://github.com/jcornwell-river/dsiprouter/commit/a60b30d533ddff616416883e153ed1d9fec6a26b)  
 > Date: Thu, 15 Nov 2018 14:50:33 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17033,7 +17709,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91030ad3b9e0b39481dc276fe243e55a7ddc219a)
 ### Turned off the debug statement
 
-> Commit: [91030ad3b9e0b39481dc276fe243e55a7ddc219a](https://git.flyball.co/dsiprouter/enterprise/commit/91030ad3b9e0b39481dc276fe243e55a7ddc219a)  
+> Commit: [91030ad3b9e0b39481dc276fe243e55a7ddc219a](https://github.com/jcornwell-river/dsiprouter/commit/91030ad3b9e0b39481dc276fe243e55a7ddc219a)  
 > Date: Thu, 15 Nov 2018 11:57:05 +0000  
 > Author: root (root@dSIPRouter-v051-build.localdomain)  
 > Committer: root (root@dSIPRouter-v051-build.localdomain)  
@@ -17048,7 +17724,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1165bb26023a7b24757c7360657008438ffeed2e)
 ### Update dsiprouter.sh
 
-> Commit: [1165bb26023a7b24757c7360657008438ffeed2e](https://git.flyball.co/dsiprouter/enterprise/commit/1165bb26023a7b24757c7360657008438ffeed2e)  
+> Commit: [1165bb26023a7b24757c7360657008438ffeed2e](https://github.com/jcornwell-river/dsiprouter/commit/1165bb26023a7b24757c7360657008438ffeed2e)  
 > Date: Thu, 15 Nov 2018 06:50:58 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17063,7 +17739,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b2e277da3de0961b6717a7cc08bc23aa49de6960)
 ### Fixed installer on Debian
 
-> Commit: [b2e277da3de0961b6717a7cc08bc23aa49de6960](https://git.flyball.co/dsiprouter/enterprise/commit/b2e277da3de0961b6717a7cc08bc23aa49de6960)  
+> Commit: [b2e277da3de0961b6717a7cc08bc23aa49de6960](https://github.com/jcornwell-river/dsiprouter/commit/b2e277da3de0961b6717a7cc08bc23aa49de6960)  
 > Date: Thu, 15 Nov 2018 11:39:56 +0000  
 > Author: root (root@dSIPRouter-v051-build.localdomain)  
 > Committer: root (root@dSIPRouter-v051-build.localdomain)  
@@ -17078,7 +17754,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1f767694669f7b7484cf951f7057d05386900a49)
 ### Update installing.rst
 
-> Commit: [1f767694669f7b7484cf951f7057d05386900a49](https://git.flyball.co/dsiprouter/enterprise/commit/1f767694669f7b7484cf951f7057d05386900a49)  
+> Commit: [1f767694669f7b7484cf951f7057d05386900a49](https://github.com/jcornwell-river/dsiprouter/commit/1f767694669f7b7484cf951f7057d05386900a49)  
 > Date: Tue, 13 Nov 2018 19:42:43 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17093,7 +17769,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 778c025c71c48dede13c4da1fe117677a5f9033a)
 ### Update README.md
 
-> Commit: [778c025c71c48dede13c4da1fe117677a5f9033a](https://git.flyball.co/dsiprouter/enterprise/commit/778c025c71c48dede13c4da1fe117677a5f9033a)  
+> Commit: [778c025c71c48dede13c4da1fe117677a5f9033a](https://github.com/jcornwell-river/dsiprouter/commit/778c025c71c48dede13c4da1fe117677a5f9033a)  
 > Date: Tue, 13 Nov 2018 19:37:33 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17108,7 +17784,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5f93fa3171f93c0edc84806c5924d6361644852b)
 ### Update README.md
 
-> Commit: [5f93fa3171f93c0edc84806c5924d6361644852b](https://git.flyball.co/dsiprouter/enterprise/commit/5f93fa3171f93c0edc84806c5924d6361644852b)  
+> Commit: [5f93fa3171f93c0edc84806c5924d6361644852b](https://github.com/jcornwell-river/dsiprouter/commit/5f93fa3171f93c0edc84806c5924d6361644852b)  
 > Date: Tue, 13 Nov 2018 19:12:03 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17123,7 +17799,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1e1a90f319fb0440c6c321e1ecfc6ea37002891)
 ### Update carrier_groups.rst
 
-> Commit: [a1e1a90f319fb0440c6c321e1ecfc6ea37002891](https://git.flyball.co/dsiprouter/enterprise/commit/a1e1a90f319fb0440c6c321e1ecfc6ea37002891)  
+> Commit: [a1e1a90f319fb0440c6c321e1ecfc6ea37002891](https://github.com/jcornwell-river/dsiprouter/commit/a1e1a90f319fb0440c6c321e1ecfc6ea37002891)  
 > Date: Fri, 9 Nov 2018 14:56:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17138,7 +17814,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 75b8116f0e2c8e32e5a1df7efe04582ac9ce46f3)
 ### Update carrier_groups.rst
 
-> Commit: [75b8116f0e2c8e32e5a1df7efe04582ac9ce46f3](https://git.flyball.co/dsiprouter/enterprise/commit/75b8116f0e2c8e32e5a1df7efe04582ac9ce46f3)  
+> Commit: [75b8116f0e2c8e32e5a1df7efe04582ac9ce46f3](https://github.com/jcornwell-river/dsiprouter/commit/75b8116f0e2c8e32e5a1df7efe04582ac9ce46f3)  
 > Date: Fri, 9 Nov 2018 14:55:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17153,7 +17829,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 49a18e01a1dce832861babbd2c15fa2079618389)
 ### Update installing.rst
 
-> Commit: [49a18e01a1dce832861babbd2c15fa2079618389](https://git.flyball.co/dsiprouter/enterprise/commit/49a18e01a1dce832861babbd2c15fa2079618389)  
+> Commit: [49a18e01a1dce832861babbd2c15fa2079618389](https://github.com/jcornwell-river/dsiprouter/commit/49a18e01a1dce832861babbd2c15fa2079618389)  
 > Date: Fri, 9 Nov 2018 14:14:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17168,7 +17844,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 99ae7d5df176c47c5ea230f8392728cffbe02030)
 ### Update installing.rst
 
-> Commit: [99ae7d5df176c47c5ea230f8392728cffbe02030](https://git.flyball.co/dsiprouter/enterprise/commit/99ae7d5df176c47c5ea230f8392728cffbe02030)  
+> Commit: [99ae7d5df176c47c5ea230f8392728cffbe02030](https://github.com/jcornwell-river/dsiprouter/commit/99ae7d5df176c47c5ea230f8392728cffbe02030)  
 > Date: Fri, 9 Nov 2018 14:10:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17183,7 +17859,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 66040b97ed790dc5312dfbc9e8592a35e6910c4e)
 ### Update installing.rst
 
-> Commit: [66040b97ed790dc5312dfbc9e8592a35e6910c4e](https://git.flyball.co/dsiprouter/enterprise/commit/66040b97ed790dc5312dfbc9e8592a35e6910c4e)  
+> Commit: [66040b97ed790dc5312dfbc9e8592a35e6910c4e](https://github.com/jcornwell-river/dsiprouter/commit/66040b97ed790dc5312dfbc9e8592a35e6910c4e)  
 > Date: Fri, 9 Nov 2018 14:09:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17198,7 +17874,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1583b45b01afe9434db335b92fa314a1e1b32f7f)
 ### Update installing.rst
 
-> Commit: [1583b45b01afe9434db335b92fa314a1e1b32f7f](https://git.flyball.co/dsiprouter/enterprise/commit/1583b45b01afe9434db335b92fa314a1e1b32f7f)  
+> Commit: [1583b45b01afe9434db335b92fa314a1e1b32f7f](https://github.com/jcornwell-river/dsiprouter/commit/1583b45b01afe9434db335b92fa314a1e1b32f7f)  
 > Date: Fri, 9 Nov 2018 14:02:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17213,7 +17889,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed8da72e7c2efe2cab3c103e6e2c2645dc1150c7)
 ### Update installing.rst
 
-> Commit: [ed8da72e7c2efe2cab3c103e6e2c2645dc1150c7](https://git.flyball.co/dsiprouter/enterprise/commit/ed8da72e7c2efe2cab3c103e6e2c2645dc1150c7)  
+> Commit: [ed8da72e7c2efe2cab3c103e6e2c2645dc1150c7](https://github.com/jcornwell-river/dsiprouter/commit/ed8da72e7c2efe2cab3c103e6e2c2645dc1150c7)  
 > Date: Fri, 9 Nov 2018 14:00:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17228,7 +17904,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15e06f183af7d908ad11e8b946f575d48323ebec)
 ### Update installing.rst
 
-> Commit: [15e06f183af7d908ad11e8b946f575d48323ebec](https://git.flyball.co/dsiprouter/enterprise/commit/15e06f183af7d908ad11e8b946f575d48323ebec)  
+> Commit: [15e06f183af7d908ad11e8b946f575d48323ebec](https://github.com/jcornwell-river/dsiprouter/commit/15e06f183af7d908ad11e8b946f575d48323ebec)  
 > Date: Fri, 9 Nov 2018 13:57:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17243,7 +17919,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bd863c42a007fb2e991d5312b03ab16fca92efc3)
 ### Update installing.rst
 
-> Commit: [bd863c42a007fb2e991d5312b03ab16fca92efc3](https://git.flyball.co/dsiprouter/enterprise/commit/bd863c42a007fb2e991d5312b03ab16fca92efc3)  
+> Commit: [bd863c42a007fb2e991d5312b03ab16fca92efc3](https://github.com/jcornwell-river/dsiprouter/commit/bd863c42a007fb2e991d5312b03ab16fca92efc3)  
 > Date: Fri, 9 Nov 2018 13:56:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17258,7 +17934,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5caf4a6578033a6e34c335b0b9ba6934eb9e0733)
 ### Update installing.rst
 
-> Commit: [5caf4a6578033a6e34c335b0b9ba6934eb9e0733](https://git.flyball.co/dsiprouter/enterprise/commit/5caf4a6578033a6e34c335b0b9ba6934eb9e0733)  
+> Commit: [5caf4a6578033a6e34c335b0b9ba6934eb9e0733](https://github.com/jcornwell-river/dsiprouter/commit/5caf4a6578033a6e34c335b0b9ba6934eb9e0733)  
 > Date: Fri, 9 Nov 2018 13:54:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17273,7 +17949,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c76115212f20709531696572e531d1808d06eaa7)
 ### Update installing.rst
 
-> Commit: [c76115212f20709531696572e531d1808d06eaa7](https://git.flyball.co/dsiprouter/enterprise/commit/c76115212f20709531696572e531d1808d06eaa7)  
+> Commit: [c76115212f20709531696572e531d1808d06eaa7](https://github.com/jcornwell-river/dsiprouter/commit/c76115212f20709531696572e531d1808d06eaa7)  
 > Date: Fri, 9 Nov 2018 13:51:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17288,7 +17964,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4c8b8da65f27daa006e41869fa6dbcea848134fc)
 ### Update installing.rst
 
-> Commit: [4c8b8da65f27daa006e41869fa6dbcea848134fc](https://git.flyball.co/dsiprouter/enterprise/commit/4c8b8da65f27daa006e41869fa6dbcea848134fc)  
+> Commit: [4c8b8da65f27daa006e41869fa6dbcea848134fc](https://github.com/jcornwell-river/dsiprouter/commit/4c8b8da65f27daa006e41869fa6dbcea848134fc)  
 > Date: Fri, 9 Nov 2018 13:46:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17303,7 +17979,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 99bed286b6b15f62e27a13e614c00ed6688eab1e)
 ### Update installing.rst
 
-> Commit: [99bed286b6b15f62e27a13e614c00ed6688eab1e](https://git.flyball.co/dsiprouter/enterprise/commit/99bed286b6b15f62e27a13e614c00ed6688eab1e)  
+> Commit: [99bed286b6b15f62e27a13e614c00ed6688eab1e](https://github.com/jcornwell-river/dsiprouter/commit/99bed286b6b15f62e27a13e614c00ed6688eab1e)  
 > Date: Fri, 9 Nov 2018 13:44:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17318,7 +17994,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9a98edc95087411000326c3ef635792bf2399b16)
 ### Update installing.rst
 
-> Commit: [9a98edc95087411000326c3ef635792bf2399b16](https://git.flyball.co/dsiprouter/enterprise/commit/9a98edc95087411000326c3ef635792bf2399b16)  
+> Commit: [9a98edc95087411000326c3ef635792bf2399b16](https://github.com/jcornwell-river/dsiprouter/commit/9a98edc95087411000326c3ef635792bf2399b16)  
 > Date: Fri, 9 Nov 2018 13:43:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17333,7 +18009,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2cfd118ad8a498a6a59c04964d85c29d9c3bb99e)
 ### Update domains.rst
 
-> Commit: [2cfd118ad8a498a6a59c04964d85c29d9c3bb99e](https://git.flyball.co/dsiprouter/enterprise/commit/2cfd118ad8a498a6a59c04964d85c29d9c3bb99e)  
+> Commit: [2cfd118ad8a498a6a59c04964d85c29d9c3bb99e](https://github.com/jcornwell-river/dsiprouter/commit/2cfd118ad8a498a6a59c04964d85c29d9c3bb99e)  
 > Date: Fri, 9 Nov 2018 13:18:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17348,7 +18024,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5b3805a2715738d8cb999690f3b441c34de25a05)
 ### Update domains.rst
 
-> Commit: [5b3805a2715738d8cb999690f3b441c34de25a05](https://git.flyball.co/dsiprouter/enterprise/commit/5b3805a2715738d8cb999690f3b441c34de25a05)  
+> Commit: [5b3805a2715738d8cb999690f3b441c34de25a05](https://github.com/jcornwell-river/dsiprouter/commit/5b3805a2715738d8cb999690f3b441c34de25a05)  
 > Date: Fri, 9 Nov 2018 13:16:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17363,7 +18039,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c5dee805da8ec12b2c1cdeb67d371fe61f673ce6)
 ### Update domains.rst
 
-> Commit: [c5dee805da8ec12b2c1cdeb67d371fe61f673ce6](https://git.flyball.co/dsiprouter/enterprise/commit/c5dee805da8ec12b2c1cdeb67d371fe61f673ce6)  
+> Commit: [c5dee805da8ec12b2c1cdeb67d371fe61f673ce6](https://github.com/jcornwell-river/dsiprouter/commit/c5dee805da8ec12b2c1cdeb67d371fe61f673ce6)  
 > Date: Fri, 9 Nov 2018 13:12:47 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17378,7 +18054,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c3d12fb7a2be0e0fe22e04b9947b299a700fc06)
 ### Update configuring.rst
 
-> Commit: [7c3d12fb7a2be0e0fe22e04b9947b299a700fc06](https://git.flyball.co/dsiprouter/enterprise/commit/7c3d12fb7a2be0e0fe22e04b9947b299a700fc06)  
+> Commit: [7c3d12fb7a2be0e0fe22e04b9947b299a700fc06](https://github.com/jcornwell-river/dsiprouter/commit/7c3d12fb7a2be0e0fe22e04b9947b299a700fc06)  
 > Date: Fri, 9 Nov 2018 13:11:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17393,7 +18069,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b3e095f30f3b5498926016a3c6825e9982a468eb)
 ### Update domains.rst
 
-> Commit: [b3e095f30f3b5498926016a3c6825e9982a468eb](https://git.flyball.co/dsiprouter/enterprise/commit/b3e095f30f3b5498926016a3c6825e9982a468eb)  
+> Commit: [b3e095f30f3b5498926016a3c6825e9982a468eb](https://github.com/jcornwell-river/dsiprouter/commit/b3e095f30f3b5498926016a3c6825e9982a468eb)  
 > Date: Fri, 9 Nov 2018 12:27:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17408,7 +18084,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 921324ddfa980fcc711de28abc906517ee4c40b6)
 ### Update domains.rst
 
-> Commit: [921324ddfa980fcc711de28abc906517ee4c40b6](https://git.flyball.co/dsiprouter/enterprise/commit/921324ddfa980fcc711de28abc906517ee4c40b6)  
+> Commit: [921324ddfa980fcc711de28abc906517ee4c40b6](https://github.com/jcornwell-river/dsiprouter/commit/921324ddfa980fcc711de28abc906517ee4c40b6)  
 > Date: Fri, 9 Nov 2018 12:19:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17423,7 +18099,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2ecea64d78def7c33892f5cea8d2cf28c6d27108)
 ### Add files via upload
 
-> Commit: [2ecea64d78def7c33892f5cea8d2cf28c6d27108](https://git.flyball.co/dsiprouter/enterprise/commit/2ecea64d78def7c33892f5cea8d2cf28c6d27108)  
+> Commit: [2ecea64d78def7c33892f5cea8d2cf28c6d27108](https://github.com/jcornwell-river/dsiprouter/commit/2ecea64d78def7c33892f5cea8d2cf28c6d27108)  
 > Date: Fri, 9 Nov 2018 12:17:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17438,7 +18114,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2593339f116791259429a6ad1cb1e9712bc19310)
 ### Delete list_of_domains.PNG
 
-> Commit: [2593339f116791259429a6ad1cb1e9712bc19310](https://git.flyball.co/dsiprouter/enterprise/commit/2593339f116791259429a6ad1cb1e9712bc19310)  
+> Commit: [2593339f116791259429a6ad1cb1e9712bc19310](https://github.com/jcornwell-river/dsiprouter/commit/2593339f116791259429a6ad1cb1e9712bc19310)  
 > Date: Fri, 9 Nov 2018 12:16:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17453,7 +18129,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7dd8a17b8153ac0622ba98c720ea260b30b6b194)
 ### Delete add_new_domain2.PNG
 
-> Commit: [7dd8a17b8153ac0622ba98c720ea260b30b6b194](https://git.flyball.co/dsiprouter/enterprise/commit/7dd8a17b8153ac0622ba98c720ea260b30b6b194)  
+> Commit: [7dd8a17b8153ac0622ba98c720ea260b30b6b194](https://github.com/jcornwell-river/dsiprouter/commit/7dd8a17b8153ac0622ba98c720ea260b30b6b194)  
 > Date: Fri, 9 Nov 2018 12:16:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17468,7 +18144,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1750b693ae732cdf6932c1e1b5d5faf57ed4ad94)
 ### Update carrier_groups.rst
 
-> Commit: [1750b693ae732cdf6932c1e1b5d5faf57ed4ad94](https://git.flyball.co/dsiprouter/enterprise/commit/1750b693ae732cdf6932c1e1b5d5faf57ed4ad94)  
+> Commit: [1750b693ae732cdf6932c1e1b5d5faf57ed4ad94](https://github.com/jcornwell-river/dsiprouter/commit/1750b693ae732cdf6932c1e1b5d5faf57ed4ad94)  
 > Date: Fri, 9 Nov 2018 12:05:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17483,7 +18159,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cfb00c047adb0dcb0415d1ded819063bc2ea8d3e)
 ### Add files via upload
 
-> Commit: [cfb00c047adb0dcb0415d1ded819063bc2ea8d3e](https://git.flyball.co/dsiprouter/enterprise/commit/cfb00c047adb0dcb0415d1ded819063bc2ea8d3e)  
+> Commit: [cfb00c047adb0dcb0415d1ded819063bc2ea8d3e](https://github.com/jcornwell-river/dsiprouter/commit/cfb00c047adb0dcb0415d1ded819063bc2ea8d3e)  
 > Date: Fri, 9 Nov 2018 12:04:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17498,7 +18174,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 93a98ff4aa0a6275db7ce16c01acabfb4968deb3)
 ### Update carrier_groups.rst
 
-> Commit: [93a98ff4aa0a6275db7ce16c01acabfb4968deb3](https://git.flyball.co/dsiprouter/enterprise/commit/93a98ff4aa0a6275db7ce16c01acabfb4968deb3)  
+> Commit: [93a98ff4aa0a6275db7ce16c01acabfb4968deb3](https://github.com/jcornwell-river/dsiprouter/commit/93a98ff4aa0a6275db7ce16c01acabfb4968deb3)  
 > Date: Fri, 9 Nov 2018 12:01:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17513,7 +18189,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0d5f2f340ce0326222c34c2d8613ff326ffc2345)
 ### Add files via upload
 
-> Commit: [0d5f2f340ce0326222c34c2d8613ff326ffc2345](https://git.flyball.co/dsiprouter/enterprise/commit/0d5f2f340ce0326222c34c2d8613ff326ffc2345)  
+> Commit: [0d5f2f340ce0326222c34c2d8613ff326ffc2345](https://github.com/jcornwell-river/dsiprouter/commit/0d5f2f340ce0326222c34c2d8613ff326ffc2345)  
 > Date: Fri, 9 Nov 2018 11:57:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17528,7 +18204,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 099d3584c1f3118b18af460c01fad9f6b432cd32)
 ### Update carrier_groups.rst
 
-> Commit: [099d3584c1f3118b18af460c01fad9f6b432cd32](https://git.flyball.co/dsiprouter/enterprise/commit/099d3584c1f3118b18af460c01fad9f6b432cd32)  
+> Commit: [099d3584c1f3118b18af460c01fad9f6b432cd32](https://github.com/jcornwell-river/dsiprouter/commit/099d3584c1f3118b18af460c01fad9f6b432cd32)  
 > Date: Fri, 9 Nov 2018 11:50:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17543,7 +18219,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 882de80116bc399a484d6cd6afbfea244c6e3426)
 ### Update index.rst
 
-> Commit: [882de80116bc399a484d6cd6afbfea244c6e3426](https://git.flyball.co/dsiprouter/enterprise/commit/882de80116bc399a484d6cd6afbfea244c6e3426)  
+> Commit: [882de80116bc399a484d6cd6afbfea244c6e3426](https://github.com/jcornwell-river/dsiprouter/commit/882de80116bc399a484d6cd6afbfea244c6e3426)  
 > Date: Thu, 8 Nov 2018 15:53:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17558,7 +18234,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6157a28a60dc731c02ac8fb31cc8591c04eb918d)
 ### Update index.rst
 
-> Commit: [6157a28a60dc731c02ac8fb31cc8591c04eb918d](https://git.flyball.co/dsiprouter/enterprise/commit/6157a28a60dc731c02ac8fb31cc8591c04eb918d)  
+> Commit: [6157a28a60dc731c02ac8fb31cc8591c04eb918d](https://github.com/jcornwell-river/dsiprouter/commit/6157a28a60dc731c02ac8fb31cc8591c04eb918d)  
 > Date: Thu, 8 Nov 2018 15:51:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17573,7 +18249,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7558d895a2e25800ece0e181ed1b7788e800608b)
 ### Update index.rst
 
-> Commit: [7558d895a2e25800ece0e181ed1b7788e800608b](https://git.flyball.co/dsiprouter/enterprise/commit/7558d895a2e25800ece0e181ed1b7788e800608b)  
+> Commit: [7558d895a2e25800ece0e181ed1b7788e800608b](https://github.com/jcornwell-river/dsiprouter/commit/7558d895a2e25800ece0e181ed1b7788e800608b)  
 > Date: Thu, 8 Nov 2018 15:49:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17588,7 +18264,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION aedfb0d1ee3b89213984234979f2137b2a59df0b)
 ### Update carrier_groups.rst
 
-> Commit: [aedfb0d1ee3b89213984234979f2137b2a59df0b](https://git.flyball.co/dsiprouter/enterprise/commit/aedfb0d1ee3b89213984234979f2137b2a59df0b)  
+> Commit: [aedfb0d1ee3b89213984234979f2137b2a59df0b](https://github.com/jcornwell-river/dsiprouter/commit/aedfb0d1ee3b89213984234979f2137b2a59df0b)  
 > Date: Thu, 8 Nov 2018 15:46:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17603,7 +18279,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa3e1f7bf740445e180fc574fee2a15265d7c08b)
 ### Update carrier_groups.rst
 
-> Commit: [fa3e1f7bf740445e180fc574fee2a15265d7c08b](https://git.flyball.co/dsiprouter/enterprise/commit/fa3e1f7bf740445e180fc574fee2a15265d7c08b)  
+> Commit: [fa3e1f7bf740445e180fc574fee2a15265d7c08b](https://github.com/jcornwell-river/dsiprouter/commit/fa3e1f7bf740445e180fc574fee2a15265d7c08b)  
 > Date: Thu, 8 Nov 2018 15:45:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17618,7 +18294,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9d794dd375b30004efa9c5d0301522ba80ceb6b0)
 ### Update domains.rst
 
-> Commit: [9d794dd375b30004efa9c5d0301522ba80ceb6b0](https://git.flyball.co/dsiprouter/enterprise/commit/9d794dd375b30004efa9c5d0301522ba80ceb6b0)  
+> Commit: [9d794dd375b30004efa9c5d0301522ba80ceb6b0](https://github.com/jcornwell-river/dsiprouter/commit/9d794dd375b30004efa9c5d0301522ba80ceb6b0)  
 > Date: Thu, 8 Nov 2018 15:43:28 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17633,7 +18309,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2b15d386650893591c23669c2ecbfb529556d518)
 ### Update domains.rst
 
-> Commit: [2b15d386650893591c23669c2ecbfb529556d518](https://git.flyball.co/dsiprouter/enterprise/commit/2b15d386650893591c23669c2ecbfb529556d518)  
+> Commit: [2b15d386650893591c23669c2ecbfb529556d518](https://github.com/jcornwell-river/dsiprouter/commit/2b15d386650893591c23669c2ecbfb529556d518)  
 > Date: Thu, 8 Nov 2018 15:42:50 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17648,7 +18324,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 73f6fea1d902e7a9abf341dde9d1725b17e854b9)
 ### Update domains.rst
 
-> Commit: [73f6fea1d902e7a9abf341dde9d1725b17e854b9](https://git.flyball.co/dsiprouter/enterprise/commit/73f6fea1d902e7a9abf341dde9d1725b17e854b9)  
+> Commit: [73f6fea1d902e7a9abf341dde9d1725b17e854b9](https://github.com/jcornwell-river/dsiprouter/commit/73f6fea1d902e7a9abf341dde9d1725b17e854b9)  
 > Date: Thu, 8 Nov 2018 15:32:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17663,7 +18339,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2c9d64d46eee85049b66048fa9eef659d826f9a4)
 ### Update domains.rst
 
-> Commit: [2c9d64d46eee85049b66048fa9eef659d826f9a4](https://git.flyball.co/dsiprouter/enterprise/commit/2c9d64d46eee85049b66048fa9eef659d826f9a4)  
+> Commit: [2c9d64d46eee85049b66048fa9eef659d826f9a4](https://github.com/jcornwell-river/dsiprouter/commit/2c9d64d46eee85049b66048fa9eef659d826f9a4)  
 > Date: Thu, 8 Nov 2018 15:32:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17678,7 +18354,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 235f903c9b8c4897a03df7bfae30f1bf45ee2f1d)
 ### Update domains.rst
 
-> Commit: [235f903c9b8c4897a03df7bfae30f1bf45ee2f1d](https://git.flyball.co/dsiprouter/enterprise/commit/235f903c9b8c4897a03df7bfae30f1bf45ee2f1d)  
+> Commit: [235f903c9b8c4897a03df7bfae30f1bf45ee2f1d](https://github.com/jcornwell-river/dsiprouter/commit/235f903c9b8c4897a03df7bfae30f1bf45ee2f1d)  
 > Date: Thu, 8 Nov 2018 15:31:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17693,7 +18369,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e596e2ce492b51c134c3dad22a1ba4ca35c3b02)
 ### Update domains.rst
 
-> Commit: [9e596e2ce492b51c134c3dad22a1ba4ca35c3b02](https://git.flyball.co/dsiprouter/enterprise/commit/9e596e2ce492b51c134c3dad22a1ba4ca35c3b02)  
+> Commit: [9e596e2ce492b51c134c3dad22a1ba4ca35c3b02](https://github.com/jcornwell-river/dsiprouter/commit/9e596e2ce492b51c134c3dad22a1ba4ca35c3b02)  
 > Date: Thu, 8 Nov 2018 15:30:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17708,7 +18384,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b6f2f27fffabc0b0a28774c450000e24d4567371)
 ### Update domains.rst
 
-> Commit: [b6f2f27fffabc0b0a28774c450000e24d4567371](https://git.flyball.co/dsiprouter/enterprise/commit/b6f2f27fffabc0b0a28774c450000e24d4567371)  
+> Commit: [b6f2f27fffabc0b0a28774c450000e24d4567371](https://github.com/jcornwell-river/dsiprouter/commit/b6f2f27fffabc0b0a28774c450000e24d4567371)  
 > Date: Thu, 8 Nov 2018 15:29:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17723,7 +18399,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7a2199cb5b30f0a8f08a5975aedbb718aae4778c)
 ### Update domains.rst
 
-> Commit: [7a2199cb5b30f0a8f08a5975aedbb718aae4778c](https://git.flyball.co/dsiprouter/enterprise/commit/7a2199cb5b30f0a8f08a5975aedbb718aae4778c)  
+> Commit: [7a2199cb5b30f0a8f08a5975aedbb718aae4778c](https://github.com/jcornwell-river/dsiprouter/commit/7a2199cb5b30f0a8f08a5975aedbb718aae4778c)  
 > Date: Thu, 8 Nov 2018 15:29:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17738,7 +18414,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 66c3fe9e2253315cb6b3150eb23f0ac01f99f6b8)
 ### Update domains.rst
 
-> Commit: [66c3fe9e2253315cb6b3150eb23f0ac01f99f6b8](https://git.flyball.co/dsiprouter/enterprise/commit/66c3fe9e2253315cb6b3150eb23f0ac01f99f6b8)  
+> Commit: [66c3fe9e2253315cb6b3150eb23f0ac01f99f6b8](https://github.com/jcornwell-river/dsiprouter/commit/66c3fe9e2253315cb6b3150eb23f0ac01f99f6b8)  
 > Date: Thu, 8 Nov 2018 15:28:40 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17753,7 +18429,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 960074e6bf4996db7b0c73c908aae5fea252623e)
 ### Update domains.rst
 
-> Commit: [960074e6bf4996db7b0c73c908aae5fea252623e](https://git.flyball.co/dsiprouter/enterprise/commit/960074e6bf4996db7b0c73c908aae5fea252623e)  
+> Commit: [960074e6bf4996db7b0c73c908aae5fea252623e](https://github.com/jcornwell-river/dsiprouter/commit/960074e6bf4996db7b0c73c908aae5fea252623e)  
 > Date: Thu, 8 Nov 2018 15:26:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17768,7 +18444,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 44393a6e59288da83f0611f92e67119cf55b11a4)
 ### Update domains.rst
 
-> Commit: [44393a6e59288da83f0611f92e67119cf55b11a4](https://git.flyball.co/dsiprouter/enterprise/commit/44393a6e59288da83f0611f92e67119cf55b11a4)  
+> Commit: [44393a6e59288da83f0611f92e67119cf55b11a4](https://github.com/jcornwell-river/dsiprouter/commit/44393a6e59288da83f0611f92e67119cf55b11a4)  
 > Date: Thu, 8 Nov 2018 15:25:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17783,7 +18459,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7048f82452877ded0f3aa5dd6c51dc3c9fe3078c)
 ### Update domains.rst
 
-> Commit: [7048f82452877ded0f3aa5dd6c51dc3c9fe3078c](https://git.flyball.co/dsiprouter/enterprise/commit/7048f82452877ded0f3aa5dd6c51dc3c9fe3078c)  
+> Commit: [7048f82452877ded0f3aa5dd6c51dc3c9fe3078c](https://github.com/jcornwell-river/dsiprouter/commit/7048f82452877ded0f3aa5dd6c51dc3c9fe3078c)  
 > Date: Thu, 8 Nov 2018 15:24:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17798,7 +18474,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ba2fb8652c31e34ed00a7b447bbcbca3e17e0dd6)
 ### Add files via upload
 
-> Commit: [ba2fb8652c31e34ed00a7b447bbcbca3e17e0dd6](https://git.flyball.co/dsiprouter/enterprise/commit/ba2fb8652c31e34ed00a7b447bbcbca3e17e0dd6)  
+> Commit: [ba2fb8652c31e34ed00a7b447bbcbca3e17e0dd6](https://github.com/jcornwell-river/dsiprouter/commit/ba2fb8652c31e34ed00a7b447bbcbca3e17e0dd6)  
 > Date: Thu, 8 Nov 2018 15:23:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17813,7 +18489,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5b4c13a16c7ff45c7f7586ae9c2d0d8a9c1cf454)
 ### Update domains.rst
 
-> Commit: [5b4c13a16c7ff45c7f7586ae9c2d0d8a9c1cf454](https://git.flyball.co/dsiprouter/enterprise/commit/5b4c13a16c7ff45c7f7586ae9c2d0d8a9c1cf454)  
+> Commit: [5b4c13a16c7ff45c7f7586ae9c2d0d8a9c1cf454](https://github.com/jcornwell-river/dsiprouter/commit/5b4c13a16c7ff45c7f7586ae9c2d0d8a9c1cf454)  
 > Date: Thu, 8 Nov 2018 15:22:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17828,7 +18504,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cada6f3b68096eabc8f62c8a0b6f52f2f2ac181a)
 ### Update carrier_groups.rst
 
-> Commit: [cada6f3b68096eabc8f62c8a0b6f52f2f2ac181a](https://git.flyball.co/dsiprouter/enterprise/commit/cada6f3b68096eabc8f62c8a0b6f52f2f2ac181a)  
+> Commit: [cada6f3b68096eabc8f62c8a0b6f52f2f2ac181a](https://github.com/jcornwell-river/dsiprouter/commit/cada6f3b68096eabc8f62c8a0b6f52f2f2ac181a)  
 > Date: Thu, 8 Nov 2018 15:20:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17843,7 +18519,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 906b33da57e3aacd23f255616057dd9da460f7c1)
 ### Update carrier_groups.rst
 
-> Commit: [906b33da57e3aacd23f255616057dd9da460f7c1](https://git.flyball.co/dsiprouter/enterprise/commit/906b33da57e3aacd23f255616057dd9da460f7c1)  
+> Commit: [906b33da57e3aacd23f255616057dd9da460f7c1](https://github.com/jcornwell-river/dsiprouter/commit/906b33da57e3aacd23f255616057dd9da460f7c1)  
 > Date: Thu, 8 Nov 2018 15:19:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17858,7 +18534,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6969d79f6b18b40cc065ffbc52191a5bb8e5f786)
 ### Update carrier_groups.rst
 
-> Commit: [6969d79f6b18b40cc065ffbc52191a5bb8e5f786](https://git.flyball.co/dsiprouter/enterprise/commit/6969d79f6b18b40cc065ffbc52191a5bb8e5f786)  
+> Commit: [6969d79f6b18b40cc065ffbc52191a5bb8e5f786](https://github.com/jcornwell-river/dsiprouter/commit/6969d79f6b18b40cc065ffbc52191a5bb8e5f786)  
 > Date: Thu, 8 Nov 2018 15:11:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17873,7 +18549,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20ad3212c883e78ad15895069a6f23b4e5a46ae8)
 ### Update carrier_groups.rst
 
-> Commit: [20ad3212c883e78ad15895069a6f23b4e5a46ae8](https://git.flyball.co/dsiprouter/enterprise/commit/20ad3212c883e78ad15895069a6f23b4e5a46ae8)  
+> Commit: [20ad3212c883e78ad15895069a6f23b4e5a46ae8](https://github.com/jcornwell-river/dsiprouter/commit/20ad3212c883e78ad15895069a6f23b4e5a46ae8)  
 > Date: Thu, 8 Nov 2018 15:10:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17888,7 +18564,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 78b6265a9d3e0a2dc89cbf259b0317e8ebe22762)
 ### Update carrier_groups.rst
 
-> Commit: [78b6265a9d3e0a2dc89cbf259b0317e8ebe22762](https://git.flyball.co/dsiprouter/enterprise/commit/78b6265a9d3e0a2dc89cbf259b0317e8ebe22762)  
+> Commit: [78b6265a9d3e0a2dc89cbf259b0317e8ebe22762](https://github.com/jcornwell-river/dsiprouter/commit/78b6265a9d3e0a2dc89cbf259b0317e8ebe22762)  
 > Date: Thu, 8 Nov 2018 15:10:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17903,7 +18579,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 349e61f8d63ac3e021b9181f92e49c7503678f5f)
 ### Update carrier_groups.rst
 
-> Commit: [349e61f8d63ac3e021b9181f92e49c7503678f5f](https://git.flyball.co/dsiprouter/enterprise/commit/349e61f8d63ac3e021b9181f92e49c7503678f5f)  
+> Commit: [349e61f8d63ac3e021b9181f92e49c7503678f5f](https://github.com/jcornwell-river/dsiprouter/commit/349e61f8d63ac3e021b9181f92e49c7503678f5f)  
 > Date: Thu, 8 Nov 2018 15:09:27 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17918,7 +18594,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14e6cb436f44a7f265c7ed613a2a9d52d313f056)
 ### Update carrier_groups.rst
 
-> Commit: [14e6cb436f44a7f265c7ed613a2a9d52d313f056](https://git.flyball.co/dsiprouter/enterprise/commit/14e6cb436f44a7f265c7ed613a2a9d52d313f056)  
+> Commit: [14e6cb436f44a7f265c7ed613a2a9d52d313f056](https://github.com/jcornwell-river/dsiprouter/commit/14e6cb436f44a7f265c7ed613a2a9d52d313f056)  
 > Date: Thu, 8 Nov 2018 14:51:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17933,7 +18609,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f7ef55ffd6b038fa002c795613e37a1c040ea732)
 ### Update carrier_groups.rst
 
-> Commit: [f7ef55ffd6b038fa002c795613e37a1c040ea732](https://git.flyball.co/dsiprouter/enterprise/commit/f7ef55ffd6b038fa002c795613e37a1c040ea732)  
+> Commit: [f7ef55ffd6b038fa002c795613e37a1c040ea732](https://github.com/jcornwell-river/dsiprouter/commit/f7ef55ffd6b038fa002c795613e37a1c040ea732)  
 > Date: Thu, 8 Nov 2018 14:50:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17948,7 +18624,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 35388acaaa4b66c8f1347d494ec5e3f38f44a4f2)
 ### Update carrier_groups.rst
 
-> Commit: [35388acaaa4b66c8f1347d494ec5e3f38f44a4f2](https://git.flyball.co/dsiprouter/enterprise/commit/35388acaaa4b66c8f1347d494ec5e3f38f44a4f2)  
+> Commit: [35388acaaa4b66c8f1347d494ec5e3f38f44a4f2](https://github.com/jcornwell-river/dsiprouter/commit/35388acaaa4b66c8f1347d494ec5e3f38f44a4f2)  
 > Date: Thu, 8 Nov 2018 14:50:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17963,7 +18639,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ddcbba0a2c19a2ae786675ecbf2bb40ffdab3a19)
 ### Update carrier_groups.rst
 
-> Commit: [ddcbba0a2c19a2ae786675ecbf2bb40ffdab3a19](https://git.flyball.co/dsiprouter/enterprise/commit/ddcbba0a2c19a2ae786675ecbf2bb40ffdab3a19)  
+> Commit: [ddcbba0a2c19a2ae786675ecbf2bb40ffdab3a19](https://github.com/jcornwell-river/dsiprouter/commit/ddcbba0a2c19a2ae786675ecbf2bb40ffdab3a19)  
 > Date: Thu, 8 Nov 2018 14:49:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17978,7 +18654,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6380ca9f409b6ac30e59fcab658ace2587ab45d4)
 ### Update carrier_groups.rst
 
-> Commit: [6380ca9f409b6ac30e59fcab658ace2587ab45d4](https://git.flyball.co/dsiprouter/enterprise/commit/6380ca9f409b6ac30e59fcab658ace2587ab45d4)  
+> Commit: [6380ca9f409b6ac30e59fcab658ace2587ab45d4](https://github.com/jcornwell-river/dsiprouter/commit/6380ca9f409b6ac30e59fcab658ace2587ab45d4)  
 > Date: Thu, 8 Nov 2018 14:47:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -17993,7 +18669,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8322b7b03295246732ec4334f8c66c9073990faa)
 ### Delete add_carrier_details.PNG
 
-> Commit: [8322b7b03295246732ec4334f8c66c9073990faa](https://git.flyball.co/dsiprouter/enterprise/commit/8322b7b03295246732ec4334f8c66c9073990faa)  
+> Commit: [8322b7b03295246732ec4334f8c66c9073990faa](https://github.com/jcornwell-river/dsiprouter/commit/8322b7b03295246732ec4334f8c66c9073990faa)  
 > Date: Thu, 8 Nov 2018 14:46:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18008,7 +18684,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 659de73d00997d6ef6fbe9bace3a4c9939a5df3d)
 ### Delete add_new_carrier_details.JPG
 
-> Commit: [659de73d00997d6ef6fbe9bace3a4c9939a5df3d](https://git.flyball.co/dsiprouter/enterprise/commit/659de73d00997d6ef6fbe9bace3a4c9939a5df3d)  
+> Commit: [659de73d00997d6ef6fbe9bace3a4c9939a5df3d](https://github.com/jcornwell-river/dsiprouter/commit/659de73d00997d6ef6fbe9bace3a4c9939a5df3d)  
 > Date: Thu, 8 Nov 2018 14:45:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18023,7 +18699,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e6ff5cf5cb93dae1a7355a6b495f94bd9c746d55)
 ### Update carrier_groups.rst
 
-> Commit: [e6ff5cf5cb93dae1a7355a6b495f94bd9c746d55](https://git.flyball.co/dsiprouter/enterprise/commit/e6ff5cf5cb93dae1a7355a6b495f94bd9c746d55)  
+> Commit: [e6ff5cf5cb93dae1a7355a6b495f94bd9c746d55](https://github.com/jcornwell-river/dsiprouter/commit/e6ff5cf5cb93dae1a7355a6b495f94bd9c746d55)  
 > Date: Thu, 8 Nov 2018 14:44:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18038,7 +18714,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0bfb0af828d877f5e65004dc3780bda2649e80f6)
 ### Update carrier_groups.rst
 
-> Commit: [0bfb0af828d877f5e65004dc3780bda2649e80f6](https://git.flyball.co/dsiprouter/enterprise/commit/0bfb0af828d877f5e65004dc3780bda2649e80f6)  
+> Commit: [0bfb0af828d877f5e65004dc3780bda2649e80f6](https://github.com/jcornwell-river/dsiprouter/commit/0bfb0af828d877f5e65004dc3780bda2649e80f6)  
 > Date: Thu, 8 Nov 2018 14:44:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18053,7 +18729,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 45dccd21c2191002a5bed33c744a397b895c1b0a)
 ### Add files via upload
 
-> Commit: [45dccd21c2191002a5bed33c744a397b895c1b0a](https://git.flyball.co/dsiprouter/enterprise/commit/45dccd21c2191002a5bed33c744a397b895c1b0a)  
+> Commit: [45dccd21c2191002a5bed33c744a397b895c1b0a](https://github.com/jcornwell-river/dsiprouter/commit/45dccd21c2191002a5bed33c744a397b895c1b0a)  
 > Date: Thu, 8 Nov 2018 14:42:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18068,7 +18744,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d726380487cef794abd00e00b27d3c535e18d92b)
 ### Update carrier_groups.rst
 
-> Commit: [d726380487cef794abd00e00b27d3c535e18d92b](https://git.flyball.co/dsiprouter/enterprise/commit/d726380487cef794abd00e00b27d3c535e18d92b)  
+> Commit: [d726380487cef794abd00e00b27d3c535e18d92b](https://github.com/jcornwell-river/dsiprouter/commit/d726380487cef794abd00e00b27d3c535e18d92b)  
 > Date: Thu, 8 Nov 2018 14:37:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18083,7 +18759,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5357705e425b25400ee584bc84d56ede14667eec)
 ### Update carrier_groups.rst
 
-> Commit: [5357705e425b25400ee584bc84d56ede14667eec](https://git.flyball.co/dsiprouter/enterprise/commit/5357705e425b25400ee584bc84d56ede14667eec)  
+> Commit: [5357705e425b25400ee584bc84d56ede14667eec](https://github.com/jcornwell-river/dsiprouter/commit/5357705e425b25400ee584bc84d56ede14667eec)  
 > Date: Thu, 8 Nov 2018 11:28:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18098,7 +18774,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1409c59deb3714ffab1cba0d486cb3ccb2fa51f)
 ### Update carrier_groups.rst
 
-> Commit: [a1409c59deb3714ffab1cba0d486cb3ccb2fa51f](https://git.flyball.co/dsiprouter/enterprise/commit/a1409c59deb3714ffab1cba0d486cb3ccb2fa51f)  
+> Commit: [a1409c59deb3714ffab1cba0d486cb3ccb2fa51f](https://github.com/jcornwell-river/dsiprouter/commit/a1409c59deb3714ffab1cba0d486cb3ccb2fa51f)  
 > Date: Thu, 8 Nov 2018 11:25:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18113,7 +18789,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 013023749f30c305652c61d35ed73d4f58795809)
 ### Update index.rst
 
-> Commit: [013023749f30c305652c61d35ed73d4f58795809](https://git.flyball.co/dsiprouter/enterprise/commit/013023749f30c305652c61d35ed73d4f58795809)  
+> Commit: [013023749f30c305652c61d35ed73d4f58795809](https://github.com/jcornwell-river/dsiprouter/commit/013023749f30c305652c61d35ed73d4f58795809)  
 > Date: Thu, 8 Nov 2018 11:20:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18128,7 +18804,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c3f97845900139ba10929105a9c3e8dca34c6672)
 ### Update index.rst
 
-> Commit: [c3f97845900139ba10929105a9c3e8dca34c6672](https://git.flyball.co/dsiprouter/enterprise/commit/c3f97845900139ba10929105a9c3e8dca34c6672)  
+> Commit: [c3f97845900139ba10929105a9c3e8dca34c6672](https://github.com/jcornwell-river/dsiprouter/commit/c3f97845900139ba10929105a9c3e8dca34c6672)  
 > Date: Thu, 8 Nov 2018 11:19:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18143,7 +18819,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f7f2a13de3b202ed48ecce83c8f093bcf421bd9)
 ### Update index.rst
 
-> Commit: [3f7f2a13de3b202ed48ecce83c8f093bcf421bd9](https://git.flyball.co/dsiprouter/enterprise/commit/3f7f2a13de3b202ed48ecce83c8f093bcf421bd9)  
+> Commit: [3f7f2a13de3b202ed48ecce83c8f093bcf421bd9](https://github.com/jcornwell-river/dsiprouter/commit/3f7f2a13de3b202ed48ecce83c8f093bcf421bd9)  
 > Date: Thu, 8 Nov 2018 11:18:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18158,7 +18834,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d133ee7a6ae25903e1cc01eb8e6a9384b34ac44)
 ### Update index.rst
 
-> Commit: [3d133ee7a6ae25903e1cc01eb8e6a9384b34ac44](https://git.flyball.co/dsiprouter/enterprise/commit/3d133ee7a6ae25903e1cc01eb8e6a9384b34ac44)  
+> Commit: [3d133ee7a6ae25903e1cc01eb8e6a9384b34ac44](https://github.com/jcornwell-river/dsiprouter/commit/3d133ee7a6ae25903e1cc01eb8e6a9384b34ac44)  
 > Date: Thu, 8 Nov 2018 11:16:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18173,7 +18849,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4a0337f57b3727affc04511ce9547483986bfb77)
 ### Update index.rst
 
-> Commit: [4a0337f57b3727affc04511ce9547483986bfb77](https://git.flyball.co/dsiprouter/enterprise/commit/4a0337f57b3727affc04511ce9547483986bfb77)  
+> Commit: [4a0337f57b3727affc04511ce9547483986bfb77](https://github.com/jcornwell-river/dsiprouter/commit/4a0337f57b3727affc04511ce9547483986bfb77)  
 > Date: Thu, 8 Nov 2018 11:15:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18188,7 +18864,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3674dc9a515e798d00a84ac4dbf22f7198d9e0ba)
 ### Update index.rst
 
-> Commit: [3674dc9a515e798d00a84ac4dbf22f7198d9e0ba](https://git.flyball.co/dsiprouter/enterprise/commit/3674dc9a515e798d00a84ac4dbf22f7198d9e0ba)  
+> Commit: [3674dc9a515e798d00a84ac4dbf22f7198d9e0ba](https://github.com/jcornwell-river/dsiprouter/commit/3674dc9a515e798d00a84ac4dbf22f7198d9e0ba)  
 > Date: Thu, 8 Nov 2018 11:02:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18203,7 +18879,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cef282028674bf43872059c47c179dd4b0170572)
 ### Update index.rst
 
-> Commit: [cef282028674bf43872059c47c179dd4b0170572](https://git.flyball.co/dsiprouter/enterprise/commit/cef282028674bf43872059c47c179dd4b0170572)  
+> Commit: [cef282028674bf43872059c47c179dd4b0170572](https://github.com/jcornwell-river/dsiprouter/commit/cef282028674bf43872059c47c179dd4b0170572)  
 > Date: Thu, 8 Nov 2018 10:56:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18218,7 +18894,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c8404c23592bc4d5b6d932b55932b981a2f63e9)
 ### Update installing.rst
 
-> Commit: [9c8404c23592bc4d5b6d932b55932b981a2f63e9](https://git.flyball.co/dsiprouter/enterprise/commit/9c8404c23592bc4d5b6d932b55932b981a2f63e9)  
+> Commit: [9c8404c23592bc4d5b6d932b55932b981a2f63e9](https://github.com/jcornwell-river/dsiprouter/commit/9c8404c23592bc4d5b6d932b55932b981a2f63e9)  
 > Date: Thu, 8 Nov 2018 07:19:02 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18233,7 +18909,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 67148356831d88c45e6879817903e8c24157b96d)
 ### Update installing.rst
 
-> Commit: [67148356831d88c45e6879817903e8c24157b96d](https://git.flyball.co/dsiprouter/enterprise/commit/67148356831d88c45e6879817903e8c24157b96d)  
+> Commit: [67148356831d88c45e6879817903e8c24157b96d](https://github.com/jcornwell-river/dsiprouter/commit/67148356831d88c45e6879817903e8c24157b96d)  
 > Date: Thu, 8 Nov 2018 07:16:38 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18248,7 +18924,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f7b184afe38ba624148fd86bc3ab5a4da05bd588)
 ### Update index.rst
 
-> Commit: [f7b184afe38ba624148fd86bc3ab5a4da05bd588](https://git.flyball.co/dsiprouter/enterprise/commit/f7b184afe38ba624148fd86bc3ab5a4da05bd588)  
+> Commit: [f7b184afe38ba624148fd86bc3ab5a4da05bd588](https://github.com/jcornwell-river/dsiprouter/commit/f7b184afe38ba624148fd86bc3ab5a4da05bd588)  
 > Date: Thu, 8 Nov 2018 07:12:44 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18263,7 +18939,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d275be3ee2013f36441293189b6af4ded7c7a15)
 ### Update index.rst
 
-> Commit: [3d275be3ee2013f36441293189b6af4ded7c7a15](https://git.flyball.co/dsiprouter/enterprise/commit/3d275be3ee2013f36441293189b6af4ded7c7a15)  
+> Commit: [3d275be3ee2013f36441293189b6af4ded7c7a15](https://github.com/jcornwell-river/dsiprouter/commit/3d275be3ee2013f36441293189b6af4ded7c7a15)  
 > Date: Thu, 8 Nov 2018 07:09:13 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18278,7 +18954,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0708b729cacfcad3fd4d28b10f228bc1c542af74)
 ### Update index.rst
 
-> Commit: [0708b729cacfcad3fd4d28b10f228bc1c542af74](https://git.flyball.co/dsiprouter/enterprise/commit/0708b729cacfcad3fd4d28b10f228bc1c542af74)  
+> Commit: [0708b729cacfcad3fd4d28b10f228bc1c542af74](https://github.com/jcornwell-river/dsiprouter/commit/0708b729cacfcad3fd4d28b10f228bc1c542af74)  
 > Date: Thu, 8 Nov 2018 07:08:41 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18293,7 +18969,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae02588f5a9b9cd669949895c527aee4c70b2774)
 ### Update index.rst
 
-> Commit: [ae02588f5a9b9cd669949895c527aee4c70b2774](https://git.flyball.co/dsiprouter/enterprise/commit/ae02588f5a9b9cd669949895c527aee4c70b2774)  
+> Commit: [ae02588f5a9b9cd669949895c527aee4c70b2774](https://github.com/jcornwell-river/dsiprouter/commit/ae02588f5a9b9cd669949895c527aee4c70b2774)  
 > Date: Thu, 8 Nov 2018 07:08:23 -0800  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18308,7 +18984,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b6936e2311fa65faf0c3a17393d57f8227581f8d)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [b6936e2311fa65faf0c3a17393d57f8227581f8d](https://git.flyball.co/dsiprouter/enterprise/commit/b6936e2311fa65faf0c3a17393d57f8227581f8d)  
+> Commit: [b6936e2311fa65faf0c3a17393d57f8227581f8d](https://github.com/jcornwell-river/dsiprouter/commit/b6936e2311fa65faf0c3a17393d57f8227581f8d)  
 > Date: Thu, 8 Nov 2018 07:32:40 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18323,7 +18999,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 24306942fc9cc6c9d87fbd8d92be46558af62cb2)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [24306942fc9cc6c9d87fbd8d92be46558af62cb2](https://git.flyball.co/dsiprouter/enterprise/commit/24306942fc9cc6c9d87fbd8d92be46558af62cb2)  
+> Commit: [24306942fc9cc6c9d87fbd8d92be46558af62cb2](https://github.com/jcornwell-river/dsiprouter/commit/24306942fc9cc6c9d87fbd8d92be46558af62cb2)  
 > Date: Thu, 8 Nov 2018 07:23:15 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18338,7 +19014,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d81b30cf8af7ba01385391d40474159300a46a2)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [3d81b30cf8af7ba01385391d40474159300a46a2](https://git.flyball.co/dsiprouter/enterprise/commit/3d81b30cf8af7ba01385391d40474159300a46a2)  
+> Commit: [3d81b30cf8af7ba01385391d40474159300a46a2](https://github.com/jcornwell-river/dsiprouter/commit/3d81b30cf8af7ba01385391d40474159300a46a2)  
 > Date: Thu, 8 Nov 2018 07:06:50 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18353,7 +19029,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 645597d5629e3f45fe86c4e3d053aca3733f5d65)
 ### Add files via upload
 
-> Commit: [645597d5629e3f45fe86c4e3d053aca3733f5d65](https://git.flyball.co/dsiprouter/enterprise/commit/645597d5629e3f45fe86c4e3d053aca3733f5d65)  
+> Commit: [645597d5629e3f45fe86c4e3d053aca3733f5d65](https://github.com/jcornwell-river/dsiprouter/commit/645597d5629e3f45fe86c4e3d053aca3733f5d65)  
 > Date: Thu, 8 Nov 2018 06:58:12 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18368,7 +19044,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8fcb849ece00cfcddd2c9f605edeff9a64c21ce6)
 ### Add files via upload
 
-> Commit: [8fcb849ece00cfcddd2c9f605edeff9a64c21ce6](https://git.flyball.co/dsiprouter/enterprise/commit/8fcb849ece00cfcddd2c9f605edeff9a64c21ce6)  
+> Commit: [8fcb849ece00cfcddd2c9f605edeff9a64c21ce6](https://github.com/jcornwell-river/dsiprouter/commit/8fcb849ece00cfcddd2c9f605edeff9a64c21ce6)  
 > Date: Thu, 8 Nov 2018 06:55:24 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18383,7 +19059,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 05c43abafeff549ecbd9e53cc35116bcebde1504)
 ### Update domains.rst
 
-> Commit: [05c43abafeff549ecbd9e53cc35116bcebde1504](https://git.flyball.co/dsiprouter/enterprise/commit/05c43abafeff549ecbd9e53cc35116bcebde1504)  
+> Commit: [05c43abafeff549ecbd9e53cc35116bcebde1504](https://github.com/jcornwell-river/dsiprouter/commit/05c43abafeff549ecbd9e53cc35116bcebde1504)  
 > Date: Wed, 7 Nov 2018 15:21:13 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18398,7 +19074,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6119a97e5eda62f0c9930266736db34df40d9ab5)
 ### Add files via upload
 
-> Commit: [6119a97e5eda62f0c9930266736db34df40d9ab5](https://git.flyball.co/dsiprouter/enterprise/commit/6119a97e5eda62f0c9930266736db34df40d9ab5)  
+> Commit: [6119a97e5eda62f0c9930266736db34df40d9ab5](https://github.com/jcornwell-river/dsiprouter/commit/6119a97e5eda62f0c9930266736db34df40d9ab5)  
 > Date: Wed, 7 Nov 2018 15:19:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18413,7 +19089,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e6afe014e74faf0727ae620fdff2dd9b2620558f)
 ### Delete list_of_domains.PNG
 
-> Commit: [e6afe014e74faf0727ae620fdff2dd9b2620558f](https://git.flyball.co/dsiprouter/enterprise/commit/e6afe014e74faf0727ae620fdff2dd9b2620558f)  
+> Commit: [e6afe014e74faf0727ae620fdff2dd9b2620558f](https://github.com/jcornwell-river/dsiprouter/commit/e6afe014e74faf0727ae620fdff2dd9b2620558f)  
 > Date: Wed, 7 Nov 2018 15:19:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18428,7 +19104,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d824515e08296521080f0715d5b1a2cecab028bf)
 ### Update domains.rst
 
-> Commit: [d824515e08296521080f0715d5b1a2cecab028bf](https://git.flyball.co/dsiprouter/enterprise/commit/d824515e08296521080f0715d5b1a2cecab028bf)  
+> Commit: [d824515e08296521080f0715d5b1a2cecab028bf](https://github.com/jcornwell-river/dsiprouter/commit/d824515e08296521080f0715d5b1a2cecab028bf)  
 > Date: Wed, 7 Nov 2018 15:16:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18443,7 +19119,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e84029b031eaabf3e7b428cac52edb1026e05f57)
 ### Update domains.rst
 
-> Commit: [e84029b031eaabf3e7b428cac52edb1026e05f57](https://git.flyball.co/dsiprouter/enterprise/commit/e84029b031eaabf3e7b428cac52edb1026e05f57)  
+> Commit: [e84029b031eaabf3e7b428cac52edb1026e05f57](https://github.com/jcornwell-river/dsiprouter/commit/e84029b031eaabf3e7b428cac52edb1026e05f57)  
 > Date: Wed, 7 Nov 2018 15:15:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18458,7 +19134,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 84c26dff4642f9f148a8a4fb3a24d24e4ba4c842)
 ### Update domains.rst
 
-> Commit: [84c26dff4642f9f148a8a4fb3a24d24e4ba4c842](https://git.flyball.co/dsiprouter/enterprise/commit/84c26dff4642f9f148a8a4fb3a24d24e4ba4c842)  
+> Commit: [84c26dff4642f9f148a8a4fb3a24d24e4ba4c842](https://github.com/jcornwell-river/dsiprouter/commit/84c26dff4642f9f148a8a4fb3a24d24e4ba4c842)  
 > Date: Wed, 7 Nov 2018 15:03:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18473,7 +19149,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 36adeabb0282fa7aa704023be624704aeaa7737e)
 ### Update domains.rst
 
-> Commit: [36adeabb0282fa7aa704023be624704aeaa7737e](https://git.flyball.co/dsiprouter/enterprise/commit/36adeabb0282fa7aa704023be624704aeaa7737e)  
+> Commit: [36adeabb0282fa7aa704023be624704aeaa7737e](https://github.com/jcornwell-river/dsiprouter/commit/36adeabb0282fa7aa704023be624704aeaa7737e)  
 > Date: Wed, 7 Nov 2018 15:02:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18488,7 +19164,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8c5369e76acb622ae7c9e7b0a9f74a288777ee58)
 ### Add files via upload
 
-> Commit: [8c5369e76acb622ae7c9e7b0a9f74a288777ee58](https://git.flyball.co/dsiprouter/enterprise/commit/8c5369e76acb622ae7c9e7b0a9f74a288777ee58)  
+> Commit: [8c5369e76acb622ae7c9e7b0a9f74a288777ee58](https://github.com/jcornwell-river/dsiprouter/commit/8c5369e76acb622ae7c9e7b0a9f74a288777ee58)  
 > Date: Wed, 7 Nov 2018 14:58:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18503,7 +19179,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bf65ac599de2482fd4016aba17374dd4365c6ab4)
 ### Add files via upload
 
-> Commit: [bf65ac599de2482fd4016aba17374dd4365c6ab4](https://git.flyball.co/dsiprouter/enterprise/commit/bf65ac599de2482fd4016aba17374dd4365c6ab4)  
+> Commit: [bf65ac599de2482fd4016aba17374dd4365c6ab4](https://github.com/jcornwell-river/dsiprouter/commit/bf65ac599de2482fd4016aba17374dd4365c6ab4)  
 > Date: Wed, 7 Nov 2018 14:56:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18518,7 +19194,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ab0422df0420288dfd62d32b0da5f33abfa95058)
 ### Update domains.rst
 
-> Commit: [ab0422df0420288dfd62d32b0da5f33abfa95058](https://git.flyball.co/dsiprouter/enterprise/commit/ab0422df0420288dfd62d32b0da5f33abfa95058)  
+> Commit: [ab0422df0420288dfd62d32b0da5f33abfa95058](https://github.com/jcornwell-river/dsiprouter/commit/ab0422df0420288dfd62d32b0da5f33abfa95058)  
 > Date: Wed, 7 Nov 2018 14:56:12 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18533,7 +19209,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c309d0d097ce264b2c749277e22f6afb96d31fa)
 ### Update domains.rst
 
-> Commit: [1c309d0d097ce264b2c749277e22f6afb96d31fa](https://git.flyball.co/dsiprouter/enterprise/commit/1c309d0d097ce264b2c749277e22f6afb96d31fa)  
+> Commit: [1c309d0d097ce264b2c749277e22f6afb96d31fa](https://github.com/jcornwell-river/dsiprouter/commit/1c309d0d097ce264b2c749277e22f6afb96d31fa)  
 > Date: Wed, 7 Nov 2018 14:40:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18548,7 +19224,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f3c5d0af8f533c56483cc2c32dd59e55ef979553)
 ### Add files via upload
 
-> Commit: [f3c5d0af8f533c56483cc2c32dd59e55ef979553](https://git.flyball.co/dsiprouter/enterprise/commit/f3c5d0af8f533c56483cc2c32dd59e55ef979553)  
+> Commit: [f3c5d0af8f533c56483cc2c32dd59e55ef979553](https://github.com/jcornwell-river/dsiprouter/commit/f3c5d0af8f533c56483cc2c32dd59e55ef979553)  
 > Date: Wed, 7 Nov 2018 14:39:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18563,7 +19239,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9fe740e810c39f990d8281bc33cf6614d0a12aba)
 ### Update carrier_groups.rst
 
-> Commit: [9fe740e810c39f990d8281bc33cf6614d0a12aba](https://git.flyball.co/dsiprouter/enterprise/commit/9fe740e810c39f990d8281bc33cf6614d0a12aba)  
+> Commit: [9fe740e810c39f990d8281bc33cf6614d0a12aba](https://github.com/jcornwell-river/dsiprouter/commit/9fe740e810c39f990d8281bc33cf6614d0a12aba)  
 > Date: Wed, 7 Nov 2018 14:38:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18578,7 +19254,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 44345eab11a70553e1aa7c8561fe587279df20a6)
 ### Update carrier_groups.rst
 
-> Commit: [44345eab11a70553e1aa7c8561fe587279df20a6](https://git.flyball.co/dsiprouter/enterprise/commit/44345eab11a70553e1aa7c8561fe587279df20a6)  
+> Commit: [44345eab11a70553e1aa7c8561fe587279df20a6](https://github.com/jcornwell-river/dsiprouter/commit/44345eab11a70553e1aa7c8561fe587279df20a6)  
 > Date: Wed, 7 Nov 2018 14:37:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18593,7 +19269,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a67776c44afc44deeb53558b02a76fdc9c176a4)
 ### Update domains.rst
 
-> Commit: [6a67776c44afc44deeb53558b02a76fdc9c176a4](https://git.flyball.co/dsiprouter/enterprise/commit/6a67776c44afc44deeb53558b02a76fdc9c176a4)  
+> Commit: [6a67776c44afc44deeb53558b02a76fdc9c176a4](https://github.com/jcornwell-river/dsiprouter/commit/6a67776c44afc44deeb53558b02a76fdc9c176a4)  
 > Date: Wed, 7 Nov 2018 14:35:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18608,7 +19284,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION da8c57e2686d704b3a51357a70176c412816c2f3)
 ### Update domains.rst
 
-> Commit: [da8c57e2686d704b3a51357a70176c412816c2f3](https://git.flyball.co/dsiprouter/enterprise/commit/da8c57e2686d704b3a51357a70176c412816c2f3)  
+> Commit: [da8c57e2686d704b3a51357a70176c412816c2f3](https://github.com/jcornwell-river/dsiprouter/commit/da8c57e2686d704b3a51357a70176c412816c2f3)  
 > Date: Wed, 7 Nov 2018 14:20:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18623,7 +19299,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9e62ccce9363a4e36520ddf53c92023c87fab33)
 ### Update domains.rst
 
-> Commit: [d9e62ccce9363a4e36520ddf53c92023c87fab33](https://git.flyball.co/dsiprouter/enterprise/commit/d9e62ccce9363a4e36520ddf53c92023c87fab33)  
+> Commit: [d9e62ccce9363a4e36520ddf53c92023c87fab33](https://github.com/jcornwell-river/dsiprouter/commit/d9e62ccce9363a4e36520ddf53c92023c87fab33)  
 > Date: Wed, 7 Nov 2018 14:20:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18638,7 +19314,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 838d4db662059e1b0a3dcd9895b33acf606b5d35)
 ### Update domains.rst
 
-> Commit: [838d4db662059e1b0a3dcd9895b33acf606b5d35](https://git.flyball.co/dsiprouter/enterprise/commit/838d4db662059e1b0a3dcd9895b33acf606b5d35)  
+> Commit: [838d4db662059e1b0a3dcd9895b33acf606b5d35](https://github.com/jcornwell-river/dsiprouter/commit/838d4db662059e1b0a3dcd9895b33acf606b5d35)  
 > Date: Wed, 7 Nov 2018 14:20:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18653,7 +19329,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1bfdb1e48899bfe083d359d5cf3a1641bde446fa)
 ### Add files via upload
 
-> Commit: [1bfdb1e48899bfe083d359d5cf3a1641bde446fa](https://git.flyball.co/dsiprouter/enterprise/commit/1bfdb1e48899bfe083d359d5cf3a1641bde446fa)  
+> Commit: [1bfdb1e48899bfe083d359d5cf3a1641bde446fa](https://github.com/jcornwell-river/dsiprouter/commit/1bfdb1e48899bfe083d359d5cf3a1641bde446fa)  
 > Date: Wed, 7 Nov 2018 14:19:17 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18668,7 +19344,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ec2ffb962fe60b2874cd281f5519ba2226620d88)
 ### Update domains.rst
 
-> Commit: [ec2ffb962fe60b2874cd281f5519ba2226620d88](https://git.flyball.co/dsiprouter/enterprise/commit/ec2ffb962fe60b2874cd281f5519ba2226620d88)  
+> Commit: [ec2ffb962fe60b2874cd281f5519ba2226620d88](https://github.com/jcornwell-river/dsiprouter/commit/ec2ffb962fe60b2874cd281f5519ba2226620d88)  
 > Date: Wed, 7 Nov 2018 14:18:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18683,7 +19359,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 087b3022cdd7d6fe2fbd47326f9a9bfdde8105ef)
 ### Update domains.rst
 
-> Commit: [087b3022cdd7d6fe2fbd47326f9a9bfdde8105ef](https://git.flyball.co/dsiprouter/enterprise/commit/087b3022cdd7d6fe2fbd47326f9a9bfdde8105ef)  
+> Commit: [087b3022cdd7d6fe2fbd47326f9a9bfdde8105ef](https://github.com/jcornwell-river/dsiprouter/commit/087b3022cdd7d6fe2fbd47326f9a9bfdde8105ef)  
 > Date: Wed, 7 Nov 2018 14:17:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18698,7 +19374,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f6dec3f751e3625de3027551713e3a04af0940f)
 ### Update carrier_groups.rst
 
-> Commit: [3f6dec3f751e3625de3027551713e3a04af0940f](https://git.flyball.co/dsiprouter/enterprise/commit/3f6dec3f751e3625de3027551713e3a04af0940f)  
+> Commit: [3f6dec3f751e3625de3027551713e3a04af0940f](https://github.com/jcornwell-river/dsiprouter/commit/3f6dec3f751e3625de3027551713e3a04af0940f)  
 > Date: Wed, 7 Nov 2018 14:14:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18713,7 +19389,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77d4d74989a6cd745cfc20b016fd0cb28515ba1a)
 ### Update carrier_groups.rst
 
-> Commit: [77d4d74989a6cd745cfc20b016fd0cb28515ba1a](https://git.flyball.co/dsiprouter/enterprise/commit/77d4d74989a6cd745cfc20b016fd0cb28515ba1a)  
+> Commit: [77d4d74989a6cd745cfc20b016fd0cb28515ba1a](https://github.com/jcornwell-river/dsiprouter/commit/77d4d74989a6cd745cfc20b016fd0cb28515ba1a)  
 > Date: Wed, 7 Nov 2018 14:08:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18728,7 +19404,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6b77313ce0cacfb1dfaf08bbacd804652b763235)
 ### Update carrier_groups.rst
 
-> Commit: [6b77313ce0cacfb1dfaf08bbacd804652b763235](https://git.flyball.co/dsiprouter/enterprise/commit/6b77313ce0cacfb1dfaf08bbacd804652b763235)  
+> Commit: [6b77313ce0cacfb1dfaf08bbacd804652b763235](https://github.com/jcornwell-river/dsiprouter/commit/6b77313ce0cacfb1dfaf08bbacd804652b763235)  
 > Date: Wed, 7 Nov 2018 14:03:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18743,7 +19419,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 515cf15dfc88da8999fa60e018bacf4040f2e64b)
 ### Add files via upload
 
-> Commit: [515cf15dfc88da8999fa60e018bacf4040f2e64b](https://git.flyball.co/dsiprouter/enterprise/commit/515cf15dfc88da8999fa60e018bacf4040f2e64b)  
+> Commit: [515cf15dfc88da8999fa60e018bacf4040f2e64b](https://github.com/jcornwell-river/dsiprouter/commit/515cf15dfc88da8999fa60e018bacf4040f2e64b)  
 > Date: Wed, 7 Nov 2018 14:02:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18758,7 +19434,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a56006401802aa6637d781fcb7216ed8d70d1d00)
 ### Update carrier_groups.rst
 
-> Commit: [a56006401802aa6637d781fcb7216ed8d70d1d00](https://git.flyball.co/dsiprouter/enterprise/commit/a56006401802aa6637d781fcb7216ed8d70d1d00)  
+> Commit: [a56006401802aa6637d781fcb7216ed8d70d1d00](https://github.com/jcornwell-river/dsiprouter/commit/a56006401802aa6637d781fcb7216ed8d70d1d00)  
 > Date: Wed, 7 Nov 2018 13:59:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18773,7 +19449,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6e3d80f7d4a3c6ab51e75d07a58944ce16a196f7)
 ### Update carrier_groups.rst
 
-> Commit: [6e3d80f7d4a3c6ab51e75d07a58944ce16a196f7](https://git.flyball.co/dsiprouter/enterprise/commit/6e3d80f7d4a3c6ab51e75d07a58944ce16a196f7)  
+> Commit: [6e3d80f7d4a3c6ab51e75d07a58944ce16a196f7](https://github.com/jcornwell-river/dsiprouter/commit/6e3d80f7d4a3c6ab51e75d07a58944ce16a196f7)  
 > Date: Wed, 7 Nov 2018 13:58:33 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18788,7 +19464,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e325034ee2f4ed1a4b7929b7a8100cd287d703ff)
 ### Update carrier_groups.rst
 
-> Commit: [e325034ee2f4ed1a4b7929b7a8100cd287d703ff](https://git.flyball.co/dsiprouter/enterprise/commit/e325034ee2f4ed1a4b7929b7a8100cd287d703ff)  
+> Commit: [e325034ee2f4ed1a4b7929b7a8100cd287d703ff](https://github.com/jcornwell-river/dsiprouter/commit/e325034ee2f4ed1a4b7929b7a8100cd287d703ff)  
 > Date: Wed, 7 Nov 2018 13:57:09 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18803,7 +19479,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9ae76d535a2fc2e746b914fbf83dc3b097f2855a)
 ### Update carrier_groups.rst
 
-> Commit: [9ae76d535a2fc2e746b914fbf83dc3b097f2855a](https://git.flyball.co/dsiprouter/enterprise/commit/9ae76d535a2fc2e746b914fbf83dc3b097f2855a)  
+> Commit: [9ae76d535a2fc2e746b914fbf83dc3b097f2855a](https://github.com/jcornwell-river/dsiprouter/commit/9ae76d535a2fc2e746b914fbf83dc3b097f2855a)  
 > Date: Wed, 7 Nov 2018 13:52:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18818,7 +19494,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d807063563a63b7451fdbabe27127f786e4b3ad9)
 ### Update carrier_groups.rst
 
-> Commit: [d807063563a63b7451fdbabe27127f786e4b3ad9](https://git.flyball.co/dsiprouter/enterprise/commit/d807063563a63b7451fdbabe27127f786e4b3ad9)  
+> Commit: [d807063563a63b7451fdbabe27127f786e4b3ad9](https://github.com/jcornwell-river/dsiprouter/commit/d807063563a63b7451fdbabe27127f786e4b3ad9)  
 > Date: Wed, 7 Nov 2018 13:51:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18833,7 +19509,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f2d8742473a1630d56bea75ac5dff0d01d9afa99)
 ### Update carrier_groups.rst
 
-> Commit: [f2d8742473a1630d56bea75ac5dff0d01d9afa99](https://git.flyball.co/dsiprouter/enterprise/commit/f2d8742473a1630d56bea75ac5dff0d01d9afa99)  
+> Commit: [f2d8742473a1630d56bea75ac5dff0d01d9afa99](https://github.com/jcornwell-river/dsiprouter/commit/f2d8742473a1630d56bea75ac5dff0d01d9afa99)  
 > Date: Wed, 7 Nov 2018 13:47:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18848,7 +19524,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a26aee01aa92ab38bc22e8b71a9262a4b617a821)
 ### Update carrier_groups.rst
 
-> Commit: [a26aee01aa92ab38bc22e8b71a9262a4b617a821](https://git.flyball.co/dsiprouter/enterprise/commit/a26aee01aa92ab38bc22e8b71a9262a4b617a821)  
+> Commit: [a26aee01aa92ab38bc22e8b71a9262a4b617a821](https://github.com/jcornwell-river/dsiprouter/commit/a26aee01aa92ab38bc22e8b71a9262a4b617a821)  
 > Date: Wed, 7 Nov 2018 13:46:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18863,7 +19539,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d317f3ee531139dd11203d344e6bbbf9f4487d39)
 ### Add files via upload
 
-> Commit: [d317f3ee531139dd11203d344e6bbbf9f4487d39](https://git.flyball.co/dsiprouter/enterprise/commit/d317f3ee531139dd11203d344e6bbbf9f4487d39)  
+> Commit: [d317f3ee531139dd11203d344e6bbbf9f4487d39](https://github.com/jcornwell-river/dsiprouter/commit/d317f3ee531139dd11203d344e6bbbf9f4487d39)  
 > Date: Wed, 7 Nov 2018 13:45:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18878,7 +19554,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4b77fcd3992a422072251bbeae4132848d80216)
 ### Delete add_carrier_details.PNG
 
-> Commit: [e4b77fcd3992a422072251bbeae4132848d80216](https://git.flyball.co/dsiprouter/enterprise/commit/e4b77fcd3992a422072251bbeae4132848d80216)  
+> Commit: [e4b77fcd3992a422072251bbeae4132848d80216](https://github.com/jcornwell-river/dsiprouter/commit/e4b77fcd3992a422072251bbeae4132848d80216)  
 > Date: Wed, 7 Nov 2018 13:13:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18893,7 +19569,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2d2d33ee45056b4e43d52d731e47bb59f93c1f3f)
 ### Update carrier_groups.rst
 
-> Commit: [2d2d33ee45056b4e43d52d731e47bb59f93c1f3f](https://git.flyball.co/dsiprouter/enterprise/commit/2d2d33ee45056b4e43d52d731e47bb59f93c1f3f)  
+> Commit: [2d2d33ee45056b4e43d52d731e47bb59f93c1f3f](https://github.com/jcornwell-river/dsiprouter/commit/2d2d33ee45056b4e43d52d731e47bb59f93c1f3f)  
 > Date: Wed, 7 Nov 2018 13:09:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18908,7 +19584,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 69c3f84f4636dc56fdec90e2b2ab7dc09ad70a10)
 ### Update carrier_groups.rst
 
-> Commit: [69c3f84f4636dc56fdec90e2b2ab7dc09ad70a10](https://git.flyball.co/dsiprouter/enterprise/commit/69c3f84f4636dc56fdec90e2b2ab7dc09ad70a10)  
+> Commit: [69c3f84f4636dc56fdec90e2b2ab7dc09ad70a10](https://github.com/jcornwell-river/dsiprouter/commit/69c3f84f4636dc56fdec90e2b2ab7dc09ad70a10)  
 > Date: Wed, 7 Nov 2018 13:08:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18923,7 +19599,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 871ca3f67956ee0a8911c9378643e4acafdce45f)
 ### Update carrier_groups.rst
 
-> Commit: [871ca3f67956ee0a8911c9378643e4acafdce45f](https://git.flyball.co/dsiprouter/enterprise/commit/871ca3f67956ee0a8911c9378643e4acafdce45f)  
+> Commit: [871ca3f67956ee0a8911c9378643e4acafdce45f](https://github.com/jcornwell-river/dsiprouter/commit/871ca3f67956ee0a8911c9378643e4acafdce45f)  
 > Date: Wed, 7 Nov 2018 13:01:46 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18938,7 +19614,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47c3c0f1ede32fbe67ae4136eee3a9ba20c6adc5)
 ### Update carrier_groups.rst
 
-> Commit: [47c3c0f1ede32fbe67ae4136eee3a9ba20c6adc5](https://git.flyball.co/dsiprouter/enterprise/commit/47c3c0f1ede32fbe67ae4136eee3a9ba20c6adc5)  
+> Commit: [47c3c0f1ede32fbe67ae4136eee3a9ba20c6adc5](https://github.com/jcornwell-river/dsiprouter/commit/47c3c0f1ede32fbe67ae4136eee3a9ba20c6adc5)  
 > Date: Wed, 7 Nov 2018 13:00:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18953,7 +19629,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3a0ad942a884c78fc01fa88ca4cb46a58c85064c)
 ### Update carrier_groups.rst
 
-> Commit: [3a0ad942a884c78fc01fa88ca4cb46a58c85064c](https://git.flyball.co/dsiprouter/enterprise/commit/3a0ad942a884c78fc01fa88ca4cb46a58c85064c)  
+> Commit: [3a0ad942a884c78fc01fa88ca4cb46a58c85064c](https://github.com/jcornwell-river/dsiprouter/commit/3a0ad942a884c78fc01fa88ca4cb46a58c85064c)  
 > Date: Wed, 7 Nov 2018 13:00:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18968,7 +19644,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fcdff6652036f4ffef6051f1c9454c4527f5e12a)
 ### Add files via upload
 
-> Commit: [fcdff6652036f4ffef6051f1c9454c4527f5e12a](https://git.flyball.co/dsiprouter/enterprise/commit/fcdff6652036f4ffef6051f1c9454c4527f5e12a)  
+> Commit: [fcdff6652036f4ffef6051f1c9454c4527f5e12a](https://github.com/jcornwell-river/dsiprouter/commit/fcdff6652036f4ffef6051f1c9454c4527f5e12a)  
 > Date: Wed, 7 Nov 2018 12:58:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18983,7 +19659,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION efb20947688a815fd2fe6a80f195486fb12881d2)
 ### Add files via upload
 
-> Commit: [efb20947688a815fd2fe6a80f195486fb12881d2](https://git.flyball.co/dsiprouter/enterprise/commit/efb20947688a815fd2fe6a80f195486fb12881d2)  
+> Commit: [efb20947688a815fd2fe6a80f195486fb12881d2](https://github.com/jcornwell-river/dsiprouter/commit/efb20947688a815fd2fe6a80f195486fb12881d2)  
 > Date: Wed, 7 Nov 2018 12:57:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -18998,7 +19674,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7dfc66fe597230c70477ab11cfdde39769ee4695)
 ### Update carrier_groups.rst
 
-> Commit: [7dfc66fe597230c70477ab11cfdde39769ee4695](https://git.flyball.co/dsiprouter/enterprise/commit/7dfc66fe597230c70477ab11cfdde39769ee4695)  
+> Commit: [7dfc66fe597230c70477ab11cfdde39769ee4695](https://github.com/jcornwell-river/dsiprouter/commit/7dfc66fe597230c70477ab11cfdde39769ee4695)  
 > Date: Wed, 7 Nov 2018 12:57:22 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19013,7 +19689,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cc9c143fa472cdbd7805fc7f55b30773b67c1bbf)
 ### Update carrier_groups.rst
 
-> Commit: [cc9c143fa472cdbd7805fc7f55b30773b67c1bbf](https://git.flyball.co/dsiprouter/enterprise/commit/cc9c143fa472cdbd7805fc7f55b30773b67c1bbf)  
+> Commit: [cc9c143fa472cdbd7805fc7f55b30773b67c1bbf](https://github.com/jcornwell-river/dsiprouter/commit/cc9c143fa472cdbd7805fc7f55b30773b67c1bbf)  
 > Date: Wed, 7 Nov 2018 12:52:17 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19028,7 +19704,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 50987ac70b7e56827635bbb7cdf47728d93f630c)
 ### Update carrier_groups.rst
 
-> Commit: [50987ac70b7e56827635bbb7cdf47728d93f630c](https://git.flyball.co/dsiprouter/enterprise/commit/50987ac70b7e56827635bbb7cdf47728d93f630c)  
+> Commit: [50987ac70b7e56827635bbb7cdf47728d93f630c](https://github.com/jcornwell-river/dsiprouter/commit/50987ac70b7e56827635bbb7cdf47728d93f630c)  
 > Date: Wed, 7 Nov 2018 12:47:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19043,7 +19719,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 28cf51f82d6992312b31bb44b6da8ce0524526d0)
 ### Add files via upload
 
-> Commit: [28cf51f82d6992312b31bb44b6da8ce0524526d0](https://git.flyball.co/dsiprouter/enterprise/commit/28cf51f82d6992312b31bb44b6da8ce0524526d0)  
+> Commit: [28cf51f82d6992312b31bb44b6da8ce0524526d0](https://github.com/jcornwell-river/dsiprouter/commit/28cf51f82d6992312b31bb44b6da8ce0524526d0)  
 > Date: Wed, 7 Nov 2018 12:45:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19058,7 +19734,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20d4b7cf6e1e9985858c4ee2d88980ab01d66808)
 ### Update carrier_groups.rst
 
-> Commit: [20d4b7cf6e1e9985858c4ee2d88980ab01d66808](https://git.flyball.co/dsiprouter/enterprise/commit/20d4b7cf6e1e9985858c4ee2d88980ab01d66808)  
+> Commit: [20d4b7cf6e1e9985858c4ee2d88980ab01d66808](https://github.com/jcornwell-river/dsiprouter/commit/20d4b7cf6e1e9985858c4ee2d88980ab01d66808)  
 > Date: Wed, 7 Nov 2018 12:44:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19073,7 +19749,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 808b69afc436d118108029034614c19e52b872db)
 ### Update carrier_groups.rst
 
-> Commit: [808b69afc436d118108029034614c19e52b872db](https://git.flyball.co/dsiprouter/enterprise/commit/808b69afc436d118108029034614c19e52b872db)  
+> Commit: [808b69afc436d118108029034614c19e52b872db](https://github.com/jcornwell-river/dsiprouter/commit/808b69afc436d118108029034614c19e52b872db)  
 > Date: Wed, 7 Nov 2018 12:43:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19088,7 +19764,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0cf97ee957242a8c63993253b38c6907507b413b)
 ### Add files via upload
 
-> Commit: [0cf97ee957242a8c63993253b38c6907507b413b](https://git.flyball.co/dsiprouter/enterprise/commit/0cf97ee957242a8c63993253b38c6907507b413b)  
+> Commit: [0cf97ee957242a8c63993253b38c6907507b413b](https://github.com/jcornwell-river/dsiprouter/commit/0cf97ee957242a8c63993253b38c6907507b413b)  
 > Date: Wed, 7 Nov 2018 12:42:15 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19103,7 +19779,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d958c93d8bb186b6bf27b71b215bf5a43162efef)
 ### Update carrier_groups.rst
 
-> Commit: [d958c93d8bb186b6bf27b71b215bf5a43162efef](https://git.flyball.co/dsiprouter/enterprise/commit/d958c93d8bb186b6bf27b71b215bf5a43162efef)  
+> Commit: [d958c93d8bb186b6bf27b71b215bf5a43162efef](https://github.com/jcornwell-river/dsiprouter/commit/d958c93d8bb186b6bf27b71b215bf5a43162efef)  
 > Date: Wed, 7 Nov 2018 12:38:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19118,7 +19794,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c51b8d173491c8f031d228178411bc7f3c570be9)
 ### Update carrier_groups.rst
 
-> Commit: [c51b8d173491c8f031d228178411bc7f3c570be9](https://git.flyball.co/dsiprouter/enterprise/commit/c51b8d173491c8f031d228178411bc7f3c570be9)  
+> Commit: [c51b8d173491c8f031d228178411bc7f3c570be9](https://github.com/jcornwell-river/dsiprouter/commit/c51b8d173491c8f031d228178411bc7f3c570be9)  
 > Date: Wed, 7 Nov 2018 12:35:37 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19133,7 +19809,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fbe0b0368dbac3168e3b1344149a36f82bce698d)
 ### Update carrier_groups.rst
 
-> Commit: [fbe0b0368dbac3168e3b1344149a36f82bce698d](https://git.flyball.co/dsiprouter/enterprise/commit/fbe0b0368dbac3168e3b1344149a36f82bce698d)  
+> Commit: [fbe0b0368dbac3168e3b1344149a36f82bce698d](https://github.com/jcornwell-river/dsiprouter/commit/fbe0b0368dbac3168e3b1344149a36f82bce698d)  
 > Date: Wed, 7 Nov 2018 12:31:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19148,7 +19824,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 52e8475c0a63aaf90888339b8fc7c09d33b7d62e)
 ### Create domains.rst
 
-> Commit: [52e8475c0a63aaf90888339b8fc7c09d33b7d62e](https://git.flyball.co/dsiprouter/enterprise/commit/52e8475c0a63aaf90888339b8fc7c09d33b7d62e)  
+> Commit: [52e8475c0a63aaf90888339b8fc7c09d33b7d62e](https://github.com/jcornwell-river/dsiprouter/commit/52e8475c0a63aaf90888339b8fc7c09d33b7d62e)  
 > Date: Wed, 7 Nov 2018 10:25:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19163,7 +19839,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74d5d64ea961bd4e5c7c0fd3cc08af9702960a12)
 ### Update configuring.rst
 
-> Commit: [74d5d64ea961bd4e5c7c0fd3cc08af9702960a12](https://git.flyball.co/dsiprouter/enterprise/commit/74d5d64ea961bd4e5c7c0fd3cc08af9702960a12)  
+> Commit: [74d5d64ea961bd4e5c7c0fd3cc08af9702960a12](https://github.com/jcornwell-river/dsiprouter/commit/74d5d64ea961bd4e5c7c0fd3cc08af9702960a12)  
 > Date: Wed, 7 Nov 2018 10:03:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19178,7 +19854,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1011dee05818fc5fcde8cbd554c495378333df72)
 ### Add files via upload
 
-> Commit: [1011dee05818fc5fcde8cbd554c495378333df72](https://git.flyball.co/dsiprouter/enterprise/commit/1011dee05818fc5fcde8cbd554c495378333df72)  
+> Commit: [1011dee05818fc5fcde8cbd554c495378333df72](https://github.com/jcornwell-river/dsiprouter/commit/1011dee05818fc5fcde8cbd554c495378333df72)  
 > Date: Tue, 6 Nov 2018 21:04:54 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19193,7 +19869,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f5c077f3fb4013d56891810f4c6c3a44813d067a)
 ### Delete dSIP_PBX_ADD_New_PBX.png
 
-> Commit: [f5c077f3fb4013d56891810f4c6c3a44813d067a](https://git.flyball.co/dsiprouter/enterprise/commit/f5c077f3fb4013d56891810f4c6c3a44813d067a)  
+> Commit: [f5c077f3fb4013d56891810f4c6c3a44813d067a](https://github.com/jcornwell-river/dsiprouter/commit/f5c077f3fb4013d56891810f4c6c3a44813d067a)  
 > Date: Tue, 6 Nov 2018 21:04:32 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19208,7 +19884,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63d466d3429e1c5e022da92b027ac6f972db6c66)
 ### Add files via upload
 
-> Commit: [63d466d3429e1c5e022da92b027ac6f972db6c66](https://git.flyball.co/dsiprouter/enterprise/commit/63d466d3429e1c5e022da92b027ac6f972db6c66)  
+> Commit: [63d466d3429e1c5e022da92b027ac6f972db6c66](https://github.com/jcornwell-river/dsiprouter/commit/63d466d3429e1c5e022da92b027ac6f972db6c66)  
 > Date: Tue, 6 Nov 2018 21:02:41 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19223,7 +19899,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 97e50e2c965a9f51aad3a29ff0a8d3da9098afb6)
 ### Delete dSIP_PBX_ADD_New_PBX.png
 
-> Commit: [97e50e2c965a9f51aad3a29ff0a8d3da9098afb6](https://git.flyball.co/dsiprouter/enterprise/commit/97e50e2c965a9f51aad3a29ff0a8d3da9098afb6)  
+> Commit: [97e50e2c965a9f51aad3a29ff0a8d3da9098afb6](https://github.com/jcornwell-river/dsiprouter/commit/97e50e2c965a9f51aad3a29ff0a8d3da9098afb6)  
 > Date: Tue, 6 Nov 2018 21:02:17 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19238,7 +19914,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cc0e3c88bd89802b937d7e6086a6efe1890fca4d)
 ### Add files via upload
 
-> Commit: [cc0e3c88bd89802b937d7e6086a6efe1890fca4d](https://git.flyball.co/dsiprouter/enterprise/commit/cc0e3c88bd89802b937d7e6086a6efe1890fca4d)  
+> Commit: [cc0e3c88bd89802b937d7e6086a6efe1890fca4d](https://github.com/jcornwell-river/dsiprouter/commit/cc0e3c88bd89802b937d7e6086a6efe1890fca4d)  
 > Date: Tue, 6 Nov 2018 20:58:16 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19253,7 +19929,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ed4e3511ad2d7d68dd8dc625c0cf369ee3b860aa)
 ### Delete dSIP_dashboard.png
 
-> Commit: [ed4e3511ad2d7d68dd8dc625c0cf369ee3b860aa](https://git.flyball.co/dsiprouter/enterprise/commit/ed4e3511ad2d7d68dd8dc625c0cf369ee3b860aa)  
+> Commit: [ed4e3511ad2d7d68dd8dc625c0cf369ee3b860aa](https://github.com/jcornwell-river/dsiprouter/commit/ed4e3511ad2d7d68dd8dc625c0cf369ee3b860aa)  
 > Date: Tue, 6 Nov 2018 20:57:58 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19268,7 +19944,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 019ed3d873e8befadbddb1f56c43314e9d2cb4f5)
 ### Add files via upload
 
-> Commit: [019ed3d873e8befadbddb1f56c43314e9d2cb4f5](https://git.flyball.co/dsiprouter/enterprise/commit/019ed3d873e8befadbddb1f56c43314e9d2cb4f5)  
+> Commit: [019ed3d873e8befadbddb1f56c43314e9d2cb4f5](https://github.com/jcornwell-river/dsiprouter/commit/019ed3d873e8befadbddb1f56c43314e9d2cb4f5)  
 > Date: Tue, 6 Nov 2018 20:57:31 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19283,7 +19959,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c99ae5928fcfa2ea35b455e3f9b3ff95aa80ebe7)
 ### Delete dSIP_PBX_Add.png
 
-> Commit: [c99ae5928fcfa2ea35b455e3f9b3ff95aa80ebe7](https://git.flyball.co/dsiprouter/enterprise/commit/c99ae5928fcfa2ea35b455e3f9b3ff95aa80ebe7)  
+> Commit: [c99ae5928fcfa2ea35b455e3f9b3ff95aa80ebe7](https://github.com/jcornwell-river/dsiprouter/commit/c99ae5928fcfa2ea35b455e3f9b3ff95aa80ebe7)  
 > Date: Tue, 6 Nov 2018 20:57:13 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19298,7 +19974,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4c5061669b68ab639c5c1d541684722e6731e73f)
 ### Add files via upload
 
-> Commit: [4c5061669b68ab639c5c1d541684722e6731e73f](https://git.flyball.co/dsiprouter/enterprise/commit/4c5061669b68ab639c5c1d541684722e6731e73f)  
+> Commit: [4c5061669b68ab639c5c1d541684722e6731e73f](https://github.com/jcornwell-river/dsiprouter/commit/4c5061669b68ab639c5c1d541684722e6731e73f)  
 > Date: Tue, 6 Nov 2018 20:56:42 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19313,7 +19989,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e1b894edb52211d0f28c06e6f1144cac6b55440a)
 ### Delete dSIP_PBX_ADD_New_PBX.png
 
-> Commit: [e1b894edb52211d0f28c06e6f1144cac6b55440a](https://git.flyball.co/dsiprouter/enterprise/commit/e1b894edb52211d0f28c06e6f1144cac6b55440a)  
+> Commit: [e1b894edb52211d0f28c06e6f1144cac6b55440a](https://github.com/jcornwell-river/dsiprouter/commit/e1b894edb52211d0f28c06e6f1144cac6b55440a)  
 > Date: Tue, 6 Nov 2018 20:56:21 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19328,7 +20004,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ea91bf399e03c75ad6c87138eea3974bf7eacb1e)
 ### Add files via upload
 
-> Commit: [ea91bf399e03c75ad6c87138eea3974bf7eacb1e](https://git.flyball.co/dsiprouter/enterprise/commit/ea91bf399e03c75ad6c87138eea3974bf7eacb1e)  
+> Commit: [ea91bf399e03c75ad6c87138eea3974bf7eacb1e](https://github.com/jcornwell-river/dsiprouter/commit/ea91bf399e03c75ad6c87138eea3974bf7eacb1e)  
 > Date: Tue, 6 Nov 2018 20:55:37 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19343,7 +20019,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4cfca2ca106590bfc26cab6d867d9330393106d1)
 ### Delete dSIP_IN_Manual_Add.png
 
-> Commit: [4cfca2ca106590bfc26cab6d867d9330393106d1](https://git.flyball.co/dsiprouter/enterprise/commit/4cfca2ca106590bfc26cab6d867d9330393106d1)  
+> Commit: [4cfca2ca106590bfc26cab6d867d9330393106d1](https://github.com/jcornwell-river/dsiprouter/commit/4cfca2ca106590bfc26cab6d867d9330393106d1)  
 > Date: Tue, 6 Nov 2018 20:55:19 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19358,7 +20034,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 79fbf8685209d7cd2f796a132a6aa7296106ea65)
 ### Add files via upload
 
-> Commit: [79fbf8685209d7cd2f796a132a6aa7296106ea65](https://git.flyball.co/dsiprouter/enterprise/commit/79fbf8685209d7cd2f796a132a6aa7296106ea65)  
+> Commit: [79fbf8685209d7cd2f796a132a6aa7296106ea65](https://github.com/jcornwell-river/dsiprouter/commit/79fbf8685209d7cd2f796a132a6aa7296106ea65)  
 > Date: Tue, 6 Nov 2018 20:54:42 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19373,7 +20049,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62e57d310d794ccae30840af16211fefdc7b92cc)
 ### Delete dSIP_IN_Import_DID.png
 
-> Commit: [62e57d310d794ccae30840af16211fefdc7b92cc](https://git.flyball.co/dsiprouter/enterprise/commit/62e57d310d794ccae30840af16211fefdc7b92cc)  
+> Commit: [62e57d310d794ccae30840af16211fefdc7b92cc](https://github.com/jcornwell-river/dsiprouter/commit/62e57d310d794ccae30840af16211fefdc7b92cc)  
 > Date: Tue, 6 Nov 2018 20:54:15 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19388,7 +20064,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3bcc40ab1ea1243ffda1e621c15fd8d645998f1)
 ### Add files via upload
 
-> Commit: [a3bcc40ab1ea1243ffda1e621c15fd8d645998f1](https://git.flyball.co/dsiprouter/enterprise/commit/a3bcc40ab1ea1243ffda1e621c15fd8d645998f1)  
+> Commit: [a3bcc40ab1ea1243ffda1e621c15fd8d645998f1](https://github.com/jcornwell-river/dsiprouter/commit/a3bcc40ab1ea1243ffda1e621c15fd8d645998f1)  
 > Date: Tue, 6 Nov 2018 20:53:28 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19403,7 +20079,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 97d82365edb7cb1c4169223f6046b9e7a9a7dbc4)
 ### Delete dSIP_IN_DID_Map.png
 
-> Commit: [97d82365edb7cb1c4169223f6046b9e7a9a7dbc4](https://git.flyball.co/dsiprouter/enterprise/commit/97d82365edb7cb1c4169223f6046b9e7a9a7dbc4)  
+> Commit: [97d82365edb7cb1c4169223f6046b9e7a9a7dbc4](https://github.com/jcornwell-river/dsiprouter/commit/97d82365edb7cb1c4169223f6046b9e7a9a7dbc4)  
 > Date: Tue, 6 Nov 2018 20:53:03 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19418,7 +20094,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7e33fed434bd06a1c57287865e4187ce9237818)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [e7e33fed434bd06a1c57287865e4187ce9237818](https://git.flyball.co/dsiprouter/enterprise/commit/e7e33fed434bd06a1c57287865e4187ce9237818)  
+> Commit: [e7e33fed434bd06a1c57287865e4187ce9237818](https://github.com/jcornwell-river/dsiprouter/commit/e7e33fed434bd06a1c57287865e4187ce9237818)  
 > Date: Tue, 6 Nov 2018 20:40:18 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19433,7 +20109,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 689259043d83b6e3eb598d138adf6bfbcd18f38a)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [689259043d83b6e3eb598d138adf6bfbcd18f38a](https://git.flyball.co/dsiprouter/enterprise/commit/689259043d83b6e3eb598d138adf6bfbcd18f38a)  
+> Commit: [689259043d83b6e3eb598d138adf6bfbcd18f38a](https://github.com/jcornwell-river/dsiprouter/commit/689259043d83b6e3eb598d138adf6bfbcd18f38a)  
 > Date: Tue, 6 Nov 2018 20:31:15 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19448,7 +20124,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 998b0be23813de5e4348296f0728e3eed9e51967)
 ### Add files via upload
 
-> Commit: [998b0be23813de5e4348296f0728e3eed9e51967](https://git.flyball.co/dsiprouter/enterprise/commit/998b0be23813de5e4348296f0728e3eed9e51967)  
+> Commit: [998b0be23813de5e4348296f0728e3eed9e51967](https://github.com/jcornwell-river/dsiprouter/commit/998b0be23813de5e4348296f0728e3eed9e51967)  
 > Date: Tue, 6 Nov 2018 20:29:05 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19463,7 +20139,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2662c086013f5415753cce2c68e1b1b9af86154c)
 ### Add files via upload
 
-> Commit: [2662c086013f5415753cce2c68e1b1b9af86154c](https://git.flyball.co/dsiprouter/enterprise/commit/2662c086013f5415753cce2c68e1b1b9af86154c)  
+> Commit: [2662c086013f5415753cce2c68e1b1b9af86154c](https://github.com/jcornwell-river/dsiprouter/commit/2662c086013f5415753cce2c68e1b1b9af86154c)  
 > Date: Tue, 6 Nov 2018 20:23:05 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19478,7 +20154,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 50434336d76dd930cda3d78b5c783c5fe1fe9247)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [50434336d76dd930cda3d78b5c783c5fe1fe9247](https://git.flyball.co/dsiprouter/enterprise/commit/50434336d76dd930cda3d78b5c783c5fe1fe9247)  
+> Commit: [50434336d76dd930cda3d78b5c783c5fe1fe9247](https://github.com/jcornwell-river/dsiprouter/commit/50434336d76dd930cda3d78b5c783c5fe1fe9247)  
 > Date: Tue, 6 Nov 2018 20:14:20 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19493,7 +20169,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 64e257b489b20a21a51825dc26270887ce65d7dc)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [64e257b489b20a21a51825dc26270887ce65d7dc](https://git.flyball.co/dsiprouter/enterprise/commit/64e257b489b20a21a51825dc26270887ce65d7dc)  
+> Commit: [64e257b489b20a21a51825dc26270887ce65d7dc](https://github.com/jcornwell-river/dsiprouter/commit/64e257b489b20a21a51825dc26270887ce65d7dc)  
 > Date: Tue, 6 Nov 2018 20:07:53 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19508,7 +20184,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8f403c25f510d4214b2b443ab70fda5dcb6e5112)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [8f403c25f510d4214b2b443ab70fda5dcb6e5112](https://git.flyball.co/dsiprouter/enterprise/commit/8f403c25f510d4214b2b443ab70fda5dcb6e5112)  
+> Commit: [8f403c25f510d4214b2b443ab70fda5dcb6e5112](https://github.com/jcornwell-river/dsiprouter/commit/8f403c25f510d4214b2b443ab70fda5dcb6e5112)  
 > Date: Tue, 6 Nov 2018 19:56:22 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19523,7 +20199,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d1079ea98ed68b616e38d0399df138f32c4603e3)
 ### Add files via upload
 
-> Commit: [d1079ea98ed68b616e38d0399df138f32c4603e3](https://git.flyball.co/dsiprouter/enterprise/commit/d1079ea98ed68b616e38d0399df138f32c4603e3)  
+> Commit: [d1079ea98ed68b616e38d0399df138f32c4603e3](https://github.com/jcornwell-river/dsiprouter/commit/d1079ea98ed68b616e38d0399df138f32c4603e3)  
 > Date: Tue, 6 Nov 2018 19:56:12 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19538,7 +20214,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a40809978d10ffa91f7be5d4dba309b99843b5e)
 ### Delete dSIP_IN_Manual_Add.png
 
-> Commit: [6a40809978d10ffa91f7be5d4dba309b99843b5e](https://git.flyball.co/dsiprouter/enterprise/commit/6a40809978d10ffa91f7be5d4dba309b99843b5e)  
+> Commit: [6a40809978d10ffa91f7be5d4dba309b99843b5e](https://github.com/jcornwell-river/dsiprouter/commit/6a40809978d10ffa91f7be5d4dba309b99843b5e)  
 > Date: Tue, 6 Nov 2018 19:55:49 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19553,7 +20229,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 083930d4bdcfab64fa0dee2e5dff0f89a0f0cc00)
 ### Add files via upload
 
-> Commit: [083930d4bdcfab64fa0dee2e5dff0f89a0f0cc00](https://git.flyball.co/dsiprouter/enterprise/commit/083930d4bdcfab64fa0dee2e5dff0f89a0f0cc00)  
+> Commit: [083930d4bdcfab64fa0dee2e5dff0f89a0f0cc00](https://github.com/jcornwell-river/dsiprouter/commit/083930d4bdcfab64fa0dee2e5dff0f89a0f0cc00)  
 > Date: Tue, 6 Nov 2018 19:46:07 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19568,7 +20244,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 56ebe63e308dad18280e711792b7b3639a445bdc)
 ### Update carrier_groups.rst
 
-> Commit: [56ebe63e308dad18280e711792b7b3639a445bdc](https://git.flyball.co/dsiprouter/enterprise/commit/56ebe63e308dad18280e711792b7b3639a445bdc)  
+> Commit: [56ebe63e308dad18280e711792b7b3639a445bdc](https://github.com/jcornwell-river/dsiprouter/commit/56ebe63e308dad18280e711792b7b3639a445bdc)  
 > Date: Tue, 6 Nov 2018 16:32:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19583,7 +20259,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c6ebcbbe2152f441a7d2144378d44b8c241001a7)
 ### Update carrier_groups.rst
 
-> Commit: [c6ebcbbe2152f441a7d2144378d44b8c241001a7](https://git.flyball.co/dsiprouter/enterprise/commit/c6ebcbbe2152f441a7d2144378d44b8c241001a7)  
+> Commit: [c6ebcbbe2152f441a7d2144378d44b8c241001a7](https://github.com/jcornwell-river/dsiprouter/commit/c6ebcbbe2152f441a7d2144378d44b8c241001a7)  
 > Date: Tue, 6 Nov 2018 16:23:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19598,7 +20274,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 55c6d3a8a0bbacbda24099fb569320f0c4e39acd)
 ### Update carrier_groups.rst
 
-> Commit: [55c6d3a8a0bbacbda24099fb569320f0c4e39acd](https://git.flyball.co/dsiprouter/enterprise/commit/55c6d3a8a0bbacbda24099fb569320f0c4e39acd)  
+> Commit: [55c6d3a8a0bbacbda24099fb569320f0c4e39acd](https://github.com/jcornwell-river/dsiprouter/commit/55c6d3a8a0bbacbda24099fb569320f0c4e39acd)  
 > Date: Tue, 6 Nov 2018 16:22:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19613,7 +20289,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 505160dc6af62806f7b7c413686ed997e77ff93b)
 ### Update carrier_groups.rst
 
-> Commit: [505160dc6af62806f7b7c413686ed997e77ff93b](https://git.flyball.co/dsiprouter/enterprise/commit/505160dc6af62806f7b7c413686ed997e77ff93b)  
+> Commit: [505160dc6af62806f7b7c413686ed997e77ff93b](https://github.com/jcornwell-river/dsiprouter/commit/505160dc6af62806f7b7c413686ed997e77ff93b)  
 > Date: Tue, 6 Nov 2018 16:21:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19628,7 +20304,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 610834d41f8405322ab34d03cfe980bdc2a56d84)
 ### Update carrier_groups.rst
 
-> Commit: [610834d41f8405322ab34d03cfe980bdc2a56d84](https://git.flyball.co/dsiprouter/enterprise/commit/610834d41f8405322ab34d03cfe980bdc2a56d84)  
+> Commit: [610834d41f8405322ab34d03cfe980bdc2a56d84](https://github.com/jcornwell-river/dsiprouter/commit/610834d41f8405322ab34d03cfe980bdc2a56d84)  
 > Date: Tue, 6 Nov 2018 16:21:11 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19643,7 +20319,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bdb7edec43840d9dc08ee617189f028a270bae93)
 ### Update carrier_groups.rst
 
-> Commit: [bdb7edec43840d9dc08ee617189f028a270bae93](https://git.flyball.co/dsiprouter/enterprise/commit/bdb7edec43840d9dc08ee617189f028a270bae93)  
+> Commit: [bdb7edec43840d9dc08ee617189f028a270bae93](https://github.com/jcornwell-river/dsiprouter/commit/bdb7edec43840d9dc08ee617189f028a270bae93)  
 > Date: Tue, 6 Nov 2018 16:20:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19658,7 +20334,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e68e584ba418c5666457e1bc32ac203f79f2cc72)
 ### Update carrier_groups.rst
 
-> Commit: [e68e584ba418c5666457e1bc32ac203f79f2cc72](https://git.flyball.co/dsiprouter/enterprise/commit/e68e584ba418c5666457e1bc32ac203f79f2cc72)  
+> Commit: [e68e584ba418c5666457e1bc32ac203f79f2cc72](https://github.com/jcornwell-river/dsiprouter/commit/e68e584ba418c5666457e1bc32ac203f79f2cc72)  
 > Date: Tue, 6 Nov 2018 16:19:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19673,7 +20349,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cde2c99ed797eca9cc70508049de0de621990375)
 ### Update carrier_groups.rst
 
-> Commit: [cde2c99ed797eca9cc70508049de0de621990375](https://git.flyball.co/dsiprouter/enterprise/commit/cde2c99ed797eca9cc70508049de0de621990375)  
+> Commit: [cde2c99ed797eca9cc70508049de0de621990375](https://github.com/jcornwell-river/dsiprouter/commit/cde2c99ed797eca9cc70508049de0de621990375)  
 > Date: Tue, 6 Nov 2018 16:18:53 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19688,7 +20364,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f4eba5be0915806967fd6e14ed3f2b7e3e43374a)
 ### Update carrier_groups.rst
 
-> Commit: [f4eba5be0915806967fd6e14ed3f2b7e3e43374a](https://git.flyball.co/dsiprouter/enterprise/commit/f4eba5be0915806967fd6e14ed3f2b7e3e43374a)  
+> Commit: [f4eba5be0915806967fd6e14ed3f2b7e3e43374a](https://github.com/jcornwell-river/dsiprouter/commit/f4eba5be0915806967fd6e14ed3f2b7e3e43374a)  
 > Date: Tue, 6 Nov 2018 16:18:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19703,7 +20379,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c5fe042405e48e100513c545191cf4a575dd1164)
 ### Update carrier_groups.rst
 
-> Commit: [c5fe042405e48e100513c545191cf4a575dd1164](https://git.flyball.co/dsiprouter/enterprise/commit/c5fe042405e48e100513c545191cf4a575dd1164)  
+> Commit: [c5fe042405e48e100513c545191cf4a575dd1164](https://github.com/jcornwell-river/dsiprouter/commit/c5fe042405e48e100513c545191cf4a575dd1164)  
 > Date: Tue, 6 Nov 2018 16:16:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19718,7 +20394,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8d4c4f9393dc9f301f81265d86383dd56af1ce7a)
 ### Update carrier_groups.rst
 
-> Commit: [8d4c4f9393dc9f301f81265d86383dd56af1ce7a](https://git.flyball.co/dsiprouter/enterprise/commit/8d4c4f9393dc9f301f81265d86383dd56af1ce7a)  
+> Commit: [8d4c4f9393dc9f301f81265d86383dd56af1ce7a](https://github.com/jcornwell-river/dsiprouter/commit/8d4c4f9393dc9f301f81265d86383dd56af1ce7a)  
 > Date: Tue, 6 Nov 2018 16:14:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19733,7 +20409,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 84fb9ac5f657b63463d0bafb64cbceefc8f801db)
 ### Update carrier_groups.rst
 
-> Commit: [84fb9ac5f657b63463d0bafb64cbceefc8f801db](https://git.flyball.co/dsiprouter/enterprise/commit/84fb9ac5f657b63463d0bafb64cbceefc8f801db)  
+> Commit: [84fb9ac5f657b63463d0bafb64cbceefc8f801db](https://github.com/jcornwell-river/dsiprouter/commit/84fb9ac5f657b63463d0bafb64cbceefc8f801db)  
 > Date: Tue, 6 Nov 2018 16:11:44 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19748,7 +20424,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ec2ebaa5bbcba32a227d91376fc372e0dcd51a72)
 ### Update carrier_groups.rst
 
-> Commit: [ec2ebaa5bbcba32a227d91376fc372e0dcd51a72](https://git.flyball.co/dsiprouter/enterprise/commit/ec2ebaa5bbcba32a227d91376fc372e0dcd51a72)  
+> Commit: [ec2ebaa5bbcba32a227d91376fc372e0dcd51a72](https://github.com/jcornwell-river/dsiprouter/commit/ec2ebaa5bbcba32a227d91376fc372e0dcd51a72)  
 > Date: Tue, 6 Nov 2018 16:11:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19763,7 +20439,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c4f07ecf7334ebc66c2b74942cd8ad19c9b80bc1)
 ### Update carrier_groups.rst
 
-> Commit: [c4f07ecf7334ebc66c2b74942cd8ad19c9b80bc1](https://git.flyball.co/dsiprouter/enterprise/commit/c4f07ecf7334ebc66c2b74942cd8ad19c9b80bc1)  
+> Commit: [c4f07ecf7334ebc66c2b74942cd8ad19c9b80bc1](https://github.com/jcornwell-river/dsiprouter/commit/c4f07ecf7334ebc66c2b74942cd8ad19c9b80bc1)  
 > Date: Tue, 6 Nov 2018 16:10:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19778,7 +20454,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a6244ae5ae66857116546a84c64aa70da9fef2c)
 ### Update carrier_groups.rst
 
-> Commit: [6a6244ae5ae66857116546a84c64aa70da9fef2c](https://git.flyball.co/dsiprouter/enterprise/commit/6a6244ae5ae66857116546a84c64aa70da9fef2c)  
+> Commit: [6a6244ae5ae66857116546a84c64aa70da9fef2c](https://github.com/jcornwell-river/dsiprouter/commit/6a6244ae5ae66857116546a84c64aa70da9fef2c)  
 > Date: Tue, 6 Nov 2018 16:06:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19793,7 +20469,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e8c3513f99d1f734281c893f2357374893a689d9)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [e8c3513f99d1f734281c893f2357374893a689d9](https://git.flyball.co/dsiprouter/enterprise/commit/e8c3513f99d1f734281c893f2357374893a689d9)  
+> Commit: [e8c3513f99d1f734281c893f2357374893a689d9](https://github.com/jcornwell-river/dsiprouter/commit/e8c3513f99d1f734281c893f2357374893a689d9)  
 > Date: Tue, 6 Nov 2018 15:55:10 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19808,7 +20484,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b389459485722e58c508fff3829687f038a14d87)
 ### Add files via upload
 
-> Commit: [b389459485722e58c508fff3829687f038a14d87](https://git.flyball.co/dsiprouter/enterprise/commit/b389459485722e58c508fff3829687f038a14d87)  
+> Commit: [b389459485722e58c508fff3829687f038a14d87](https://github.com/jcornwell-river/dsiprouter/commit/b389459485722e58c508fff3829687f038a14d87)  
 > Date: Tue, 6 Nov 2018 15:46:15 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19823,7 +20499,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb75eaf1e8f52081d3ffa19737cf1e386a8e9a69)
 ### Add files via upload
 
-> Commit: [eb75eaf1e8f52081d3ffa19737cf1e386a8e9a69](https://git.flyball.co/dsiprouter/enterprise/commit/eb75eaf1e8f52081d3ffa19737cf1e386a8e9a69)  
+> Commit: [eb75eaf1e8f52081d3ffa19737cf1e386a8e9a69](https://github.com/jcornwell-river/dsiprouter/commit/eb75eaf1e8f52081d3ffa19737cf1e386a8e9a69)  
 > Date: Tue, 6 Nov 2018 15:45:16 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19838,7 +20514,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5de2b94560963733af93ea01cfb48fb3587c3817)
 ### Add files via upload
 
-> Commit: [5de2b94560963733af93ea01cfb48fb3587c3817](https://git.flyball.co/dsiprouter/enterprise/commit/5de2b94560963733af93ea01cfb48fb3587c3817)  
+> Commit: [5de2b94560963733af93ea01cfb48fb3587c3817](https://github.com/jcornwell-river/dsiprouter/commit/5de2b94560963733af93ea01cfb48fb3587c3817)  
 > Date: Tue, 6 Nov 2018 15:44:02 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19853,7 +20529,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82d3f51b5a3f6517489599c678f815f19dbee1eb)
 ### Delete dsiprouter-carriers.jpg
 
-> Commit: [82d3f51b5a3f6517489599c678f815f19dbee1eb](https://git.flyball.co/dsiprouter/enterprise/commit/82d3f51b5a3f6517489599c678f815f19dbee1eb)  
+> Commit: [82d3f51b5a3f6517489599c678f815f19dbee1eb](https://github.com/jcornwell-river/dsiprouter/commit/82d3f51b5a3f6517489599c678f815f19dbee1eb)  
 > Date: Tue, 6 Nov 2018 15:42:34 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19868,7 +20544,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 425983a27b432824a84b090c08b16ee3f2030659)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [425983a27b432824a84b090c08b16ee3f2030659](https://git.flyball.co/dsiprouter/enterprise/commit/425983a27b432824a84b090c08b16ee3f2030659)  
+> Commit: [425983a27b432824a84b090c08b16ee3f2030659](https://github.com/jcornwell-river/dsiprouter/commit/425983a27b432824a84b090c08b16ee3f2030659)  
 > Date: Tue, 6 Nov 2018 15:40:41 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19883,7 +20559,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 22f15c2097c4b895ebc9ee9edcd69dcf4ed055b1)
 ### Update pbxs_and_endpoints.rst
 
-> Commit: [22f15c2097c4b895ebc9ee9edcd69dcf4ed055b1](https://git.flyball.co/dsiprouter/enterprise/commit/22f15c2097c4b895ebc9ee9edcd69dcf4ed055b1)  
+> Commit: [22f15c2097c4b895ebc9ee9edcd69dcf4ed055b1](https://github.com/jcornwell-river/dsiprouter/commit/22f15c2097c4b895ebc9ee9edcd69dcf4ed055b1)  
 > Date: Tue, 6 Nov 2018 15:39:43 -0500  
 > Author: jornsby (44816622+jornsby@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19898,7 +20574,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 456b139ff2fdd8227774fd6e49bbf2249873f9ab)
 ### Update carrier_groups.rst
 
-> Commit: [456b139ff2fdd8227774fd6e49bbf2249873f9ab](https://git.flyball.co/dsiprouter/enterprise/commit/456b139ff2fdd8227774fd6e49bbf2249873f9ab)  
+> Commit: [456b139ff2fdd8227774fd6e49bbf2249873f9ab](https://github.com/jcornwell-river/dsiprouter/commit/456b139ff2fdd8227774fd6e49bbf2249873f9ab)  
 > Date: Tue, 6 Nov 2018 14:36:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19913,7 +20589,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd6fb1e206dc29f01955896415b447752adc9eed)
 ### Update carrier_groups.rst
 
-> Commit: [cd6fb1e206dc29f01955896415b447752adc9eed](https://git.flyball.co/dsiprouter/enterprise/commit/cd6fb1e206dc29f01955896415b447752adc9eed)  
+> Commit: [cd6fb1e206dc29f01955896415b447752adc9eed](https://github.com/jcornwell-river/dsiprouter/commit/cd6fb1e206dc29f01955896415b447752adc9eed)  
 > Date: Tue, 6 Nov 2018 14:35:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19928,7 +20604,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 34c97dae0dd8e3c52a4736fef455eb5c221f6bcc)
 ### Update carrier_groups.rst
 
-> Commit: [34c97dae0dd8e3c52a4736fef455eb5c221f6bcc](https://git.flyball.co/dsiprouter/enterprise/commit/34c97dae0dd8e3c52a4736fef455eb5c221f6bcc)  
+> Commit: [34c97dae0dd8e3c52a4736fef455eb5c221f6bcc](https://github.com/jcornwell-river/dsiprouter/commit/34c97dae0dd8e3c52a4736fef455eb5c221f6bcc)  
 > Date: Tue, 6 Nov 2018 14:29:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19943,7 +20619,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4176de1db50571fe0704de7ac66ae7b33683391)
 ### Delete config pic.PNG
 
-> Commit: [e4176de1db50571fe0704de7ac66ae7b33683391](https://git.flyball.co/dsiprouter/enterprise/commit/e4176de1db50571fe0704de7ac66ae7b33683391)  
+> Commit: [e4176de1db50571fe0704de7ac66ae7b33683391](https://github.com/jcornwell-river/dsiprouter/commit/e4176de1db50571fe0704de7ac66ae7b33683391)  
 > Date: Tue, 6 Nov 2018 14:28:38 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19958,7 +20634,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b63f23f6797f6b07bef9c3080bcc6049785af918)
 ### Update carrier_groups.rst
 
-> Commit: [b63f23f6797f6b07bef9c3080bcc6049785af918](https://git.flyball.co/dsiprouter/enterprise/commit/b63f23f6797f6b07bef9c3080bcc6049785af918)  
+> Commit: [b63f23f6797f6b07bef9c3080bcc6049785af918](https://github.com/jcornwell-river/dsiprouter/commit/b63f23f6797f6b07bef9c3080bcc6049785af918)  
 > Date: Tue, 6 Nov 2018 14:26:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19973,7 +20649,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6db1e3b0addf8721c2afa088efe6e07550413f6b)
 ### Update carrier_groups.rst
 
-> Commit: [6db1e3b0addf8721c2afa088efe6e07550413f6b](https://git.flyball.co/dsiprouter/enterprise/commit/6db1e3b0addf8721c2afa088efe6e07550413f6b)  
+> Commit: [6db1e3b0addf8721c2afa088efe6e07550413f6b](https://github.com/jcornwell-river/dsiprouter/commit/6db1e3b0addf8721c2afa088efe6e07550413f6b)  
 > Date: Tue, 6 Nov 2018 14:25:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -19988,7 +20664,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b578812373655cd5ad6afcae139cea32dcb3350e)
 ### Add files via upload
 
-> Commit: [b578812373655cd5ad6afcae139cea32dcb3350e](https://git.flyball.co/dsiprouter/enterprise/commit/b578812373655cd5ad6afcae139cea32dcb3350e)  
+> Commit: [b578812373655cd5ad6afcae139cea32dcb3350e](https://github.com/jcornwell-river/dsiprouter/commit/b578812373655cd5ad6afcae139cea32dcb3350e)  
 > Date: Tue, 6 Nov 2018 14:20:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20003,7 +20679,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15452463de0bc35b8cd8ba9602221cebbaf452d2)
 ### Update carrier_groups.rst
 
-> Commit: [15452463de0bc35b8cd8ba9602221cebbaf452d2](https://git.flyball.co/dsiprouter/enterprise/commit/15452463de0bc35b8cd8ba9602221cebbaf452d2)  
+> Commit: [15452463de0bc35b8cd8ba9602221cebbaf452d2](https://github.com/jcornwell-river/dsiprouter/commit/15452463de0bc35b8cd8ba9602221cebbaf452d2)  
 > Date: Tue, 6 Nov 2018 14:13:24 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20018,7 +20694,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 46854615c9d3487716ee21defc65158fe9139998)
 ### Add files via upload
 
-> Commit: [46854615c9d3487716ee21defc65158fe9139998](https://git.flyball.co/dsiprouter/enterprise/commit/46854615c9d3487716ee21defc65158fe9139998)  
+> Commit: [46854615c9d3487716ee21defc65158fe9139998](https://github.com/jcornwell-river/dsiprouter/commit/46854615c9d3487716ee21defc65158fe9139998)  
 > Date: Tue, 6 Nov 2018 14:12:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20033,7 +20709,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6098310670e6198e1dc71da0c19b47402b388f4d)
 ### Update carrier_groups.rst
 
-> Commit: [6098310670e6198e1dc71da0c19b47402b388f4d](https://git.flyball.co/dsiprouter/enterprise/commit/6098310670e6198e1dc71da0c19b47402b388f4d)  
+> Commit: [6098310670e6198e1dc71da0c19b47402b388f4d](https://github.com/jcornwell-river/dsiprouter/commit/6098310670e6198e1dc71da0c19b47402b388f4d)  
 > Date: Tue, 6 Nov 2018 14:12:18 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20048,7 +20724,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7026ba379540cd5dbb1cab29b626e7878d69bd0)
 ### Update carrier_groups.rst
 
-> Commit: [b7026ba379540cd5dbb1cab29b626e7878d69bd0](https://git.flyball.co/dsiprouter/enterprise/commit/b7026ba379540cd5dbb1cab29b626e7878d69bd0)  
+> Commit: [b7026ba379540cd5dbb1cab29b626e7878d69bd0](https://github.com/jcornwell-river/dsiprouter/commit/b7026ba379540cd5dbb1cab29b626e7878d69bd0)  
 > Date: Tue, 6 Nov 2018 14:11:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20063,7 +20739,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f95551465323eb8990cddce09f0928a3f20dc9fe)
 ### Update carrier_groups.rst
 
-> Commit: [f95551465323eb8990cddce09f0928a3f20dc9fe](https://git.flyball.co/dsiprouter/enterprise/commit/f95551465323eb8990cddce09f0928a3f20dc9fe)  
+> Commit: [f95551465323eb8990cddce09f0928a3f20dc9fe](https://github.com/jcornwell-river/dsiprouter/commit/f95551465323eb8990cddce09f0928a3f20dc9fe)  
 > Date: Tue, 6 Nov 2018 14:10:26 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20078,7 +20754,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eaedd02a8c38094878bec06cccd5820ced6d729f)
 ### Update carrier_groups.rst
 
-> Commit: [eaedd02a8c38094878bec06cccd5820ced6d729f](https://git.flyball.co/dsiprouter/enterprise/commit/eaedd02a8c38094878bec06cccd5820ced6d729f)  
+> Commit: [eaedd02a8c38094878bec06cccd5820ced6d729f](https://github.com/jcornwell-river/dsiprouter/commit/eaedd02a8c38094878bec06cccd5820ced6d729f)  
 > Date: Tue, 6 Nov 2018 14:05:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20093,7 +20769,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 20cb405ed58d8ea5797ab611a06589a02ab42472)
 ### Update carrier_groups.rst
 
-> Commit: [20cb405ed58d8ea5797ab611a06589a02ab42472](https://git.flyball.co/dsiprouter/enterprise/commit/20cb405ed58d8ea5797ab611a06589a02ab42472)  
+> Commit: [20cb405ed58d8ea5797ab611a06589a02ab42472](https://github.com/jcornwell-river/dsiprouter/commit/20cb405ed58d8ea5797ab611a06589a02ab42472)  
 > Date: Tue, 6 Nov 2018 13:57:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20108,7 +20784,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 341f1bb1b6ebd2f9e2a9e5bc80ecb8e924c9a16e)
 ### Update carrier_groups.rst
 
-> Commit: [341f1bb1b6ebd2f9e2a9e5bc80ecb8e924c9a16e](https://git.flyball.co/dsiprouter/enterprise/commit/341f1bb1b6ebd2f9e2a9e5bc80ecb8e924c9a16e)  
+> Commit: [341f1bb1b6ebd2f9e2a9e5bc80ecb8e924c9a16e](https://github.com/jcornwell-river/dsiprouter/commit/341f1bb1b6ebd2f9e2a9e5bc80ecb8e924c9a16e)  
 > Date: Tue, 6 Nov 2018 13:15:55 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20123,7 +20799,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74b14d739ff92554a2106839daddf0acd7aa4e37)
 ### Update carrier_groups.rst
 
-> Commit: [74b14d739ff92554a2106839daddf0acd7aa4e37](https://git.flyball.co/dsiprouter/enterprise/commit/74b14d739ff92554a2106839daddf0acd7aa4e37)  
+> Commit: [74b14d739ff92554a2106839daddf0acd7aa4e37](https://github.com/jcornwell-river/dsiprouter/commit/74b14d739ff92554a2106839daddf0acd7aa4e37)  
 > Date: Tue, 6 Nov 2018 13:14:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20138,7 +20814,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7df26ba4d81a09c01aa26660744ff0a011d38086)
 ### Update carrier_groups.rst
 
-> Commit: [7df26ba4d81a09c01aa26660744ff0a011d38086](https://git.flyball.co/dsiprouter/enterprise/commit/7df26ba4d81a09c01aa26660744ff0a011d38086)  
+> Commit: [7df26ba4d81a09c01aa26660744ff0a011d38086](https://github.com/jcornwell-river/dsiprouter/commit/7df26ba4d81a09c01aa26660744ff0a011d38086)  
 > Date: Tue, 6 Nov 2018 13:13:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20153,7 +20829,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9fdf5e42cc004a5aa42d57872456c04b94dba276)
 ### Add files via upload
 
-> Commit: [9fdf5e42cc004a5aa42d57872456c04b94dba276](https://git.flyball.co/dsiprouter/enterprise/commit/9fdf5e42cc004a5aa42d57872456c04b94dba276)  
+> Commit: [9fdf5e42cc004a5aa42d57872456c04b94dba276](https://github.com/jcornwell-river/dsiprouter/commit/9fdf5e42cc004a5aa42d57872456c04b94dba276)  
 > Date: Tue, 6 Nov 2018 13:11:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20168,7 +20844,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f9713fb262681100a5b9e99222af4ce02ad87295)
 ### Update carrier_groups.rst
 
-> Commit: [f9713fb262681100a5b9e99222af4ce02ad87295](https://git.flyball.co/dsiprouter/enterprise/commit/f9713fb262681100a5b9e99222af4ce02ad87295)  
+> Commit: [f9713fb262681100a5b9e99222af4ce02ad87295](https://github.com/jcornwell-river/dsiprouter/commit/f9713fb262681100a5b9e99222af4ce02ad87295)  
 > Date: Tue, 6 Nov 2018 13:09:14 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20183,7 +20859,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 658695c588c634cab89ec3a65054f4d89f9af18e)
 ### Update carrier_groups.rst
 
-> Commit: [658695c588c634cab89ec3a65054f4d89f9af18e](https://git.flyball.co/dsiprouter/enterprise/commit/658695c588c634cab89ec3a65054f4d89f9af18e)  
+> Commit: [658695c588c634cab89ec3a65054f4d89f9af18e](https://github.com/jcornwell-river/dsiprouter/commit/658695c588c634cab89ec3a65054f4d89f9af18e)  
 > Date: Tue, 6 Nov 2018 13:08:39 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20198,7 +20874,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e637b7c2da277d8629ab68dab753386d116a233)
 ### Update carrier_groups.rst
 
-> Commit: [9e637b7c2da277d8629ab68dab753386d116a233](https://git.flyball.co/dsiprouter/enterprise/commit/9e637b7c2da277d8629ab68dab753386d116a233)  
+> Commit: [9e637b7c2da277d8629ab68dab753386d116a233](https://github.com/jcornwell-river/dsiprouter/commit/9e637b7c2da277d8629ab68dab753386d116a233)  
 > Date: Tue, 6 Nov 2018 13:07:59 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20213,7 +20889,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 60841ddeb6f74b3691a9969c5f20d28058675287)
 ### Update carrier_groups.rst
 
-> Commit: [60841ddeb6f74b3691a9969c5f20d28058675287](https://git.flyball.co/dsiprouter/enterprise/commit/60841ddeb6f74b3691a9969c5f20d28058675287)  
+> Commit: [60841ddeb6f74b3691a9969c5f20d28058675287](https://github.com/jcornwell-river/dsiprouter/commit/60841ddeb6f74b3691a9969c5f20d28058675287)  
 > Date: Tue, 6 Nov 2018 12:51:20 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20228,7 +20904,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c9fb3ef6d12bf27f6c034c929a30e8213caf829)
 ### Update carrier_groups.rst
 
-> Commit: [0c9fb3ef6d12bf27f6c034c929a30e8213caf829](https://git.flyball.co/dsiprouter/enterprise/commit/0c9fb3ef6d12bf27f6c034c929a30e8213caf829)  
+> Commit: [0c9fb3ef6d12bf27f6c034c929a30e8213caf829](https://github.com/jcornwell-river/dsiprouter/commit/0c9fb3ef6d12bf27f6c034c929a30e8213caf829)  
 > Date: Tue, 6 Nov 2018 12:50:43 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20243,7 +20919,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c0045b2078d2dba2a87185d3665e8666c5b12b5)
 ### Update carrier_groups.rst
 
-> Commit: [1c0045b2078d2dba2a87185d3665e8666c5b12b5](https://git.flyball.co/dsiprouter/enterprise/commit/1c0045b2078d2dba2a87185d3665e8666c5b12b5)  
+> Commit: [1c0045b2078d2dba2a87185d3665e8666c5b12b5](https://github.com/jcornwell-river/dsiprouter/commit/1c0045b2078d2dba2a87185d3665e8666c5b12b5)  
 > Date: Tue, 6 Nov 2018 12:49:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20258,7 +20934,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62a95efd8e94072d5fd7a18448e1973407d144a4)
 ### Update carrier_groups.rst
 
-> Commit: [62a95efd8e94072d5fd7a18448e1973407d144a4](https://git.flyball.co/dsiprouter/enterprise/commit/62a95efd8e94072d5fd7a18448e1973407d144a4)  
+> Commit: [62a95efd8e94072d5fd7a18448e1973407d144a4](https://github.com/jcornwell-river/dsiprouter/commit/62a95efd8e94072d5fd7a18448e1973407d144a4)  
 > Date: Tue, 6 Nov 2018 12:42:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20273,7 +20949,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 95a067a6f1cbf22c965fe6f015f1946d8247de53)
 ### Update carrier_groups.rst
 
-> Commit: [95a067a6f1cbf22c965fe6f015f1946d8247de53](https://git.flyball.co/dsiprouter/enterprise/commit/95a067a6f1cbf22c965fe6f015f1946d8247de53)  
+> Commit: [95a067a6f1cbf22c965fe6f015f1946d8247de53](https://github.com/jcornwell-river/dsiprouter/commit/95a067a6f1cbf22c965fe6f015f1946d8247de53)  
 > Date: Tue, 6 Nov 2018 12:38:07 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20288,7 +20964,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c533fa92e67bf759c63705f3a2ba38bf17cade2)
 ### Update carrier_groups.rst
 
-> Commit: [7c533fa92e67bf759c63705f3a2ba38bf17cade2](https://git.flyball.co/dsiprouter/enterprise/commit/7c533fa92e67bf759c63705f3a2ba38bf17cade2)  
+> Commit: [7c533fa92e67bf759c63705f3a2ba38bf17cade2](https://github.com/jcornwell-river/dsiprouter/commit/7c533fa92e67bf759c63705f3a2ba38bf17cade2)  
 > Date: Tue, 6 Nov 2018 12:35:21 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20303,7 +20979,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f60054085f8d8395cbf020a86f5aef13d172b696)
 ### Update carrier_groups.rst
 
-> Commit: [f60054085f8d8395cbf020a86f5aef13d172b696](https://git.flyball.co/dsiprouter/enterprise/commit/f60054085f8d8395cbf020a86f5aef13d172b696)  
+> Commit: [f60054085f8d8395cbf020a86f5aef13d172b696](https://github.com/jcornwell-river/dsiprouter/commit/f60054085f8d8395cbf020a86f5aef13d172b696)  
 > Date: Tue, 6 Nov 2018 12:19:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20318,7 +20994,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 067e979aff32592a34afc0daba1d4188ea9046c4)
 ### Fixed a number of GUI related issues and fixed issues with sort and search
 
-> Commit: [067e979aff32592a34afc0daba1d4188ea9046c4](https://git.flyball.co/dsiprouter/enterprise/commit/067e979aff32592a34afc0daba1d4188ea9046c4)  
+> Commit: [067e979aff32592a34afc0daba1d4188ea9046c4](https://github.com/jcornwell-river/dsiprouter/commit/067e979aff32592a34afc0daba1d4188ea9046c4)  
 > Date: Tue, 6 Nov 2018 11:58:54 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -20333,7 +21009,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 55020672413646463728c5abf4716302161896f9)
 ### Update configuring.rst
 
-> Commit: [55020672413646463728c5abf4716302161896f9](https://git.flyball.co/dsiprouter/enterprise/commit/55020672413646463728c5abf4716302161896f9)  
+> Commit: [55020672413646463728c5abf4716302161896f9](https://github.com/jcornwell-river/dsiprouter/commit/55020672413646463728c5abf4716302161896f9)  
 > Date: Tue, 6 Nov 2018 06:45:33 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20348,7 +21024,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f282dfac1f383786c9e60c4c43974a0dba9c2a5c)
 ### Update carrier_groups.rst
 
-> Commit: [f282dfac1f383786c9e60c4c43974a0dba9c2a5c](https://git.flyball.co/dsiprouter/enterprise/commit/f282dfac1f383786c9e60c4c43974a0dba9c2a5c)  
+> Commit: [f282dfac1f383786c9e60c4c43974a0dba9c2a5c](https://github.com/jcornwell-river/dsiprouter/commit/f282dfac1f383786c9e60c4c43974a0dba9c2a5c)  
 > Date: Tue, 6 Nov 2018 06:43:23 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20363,7 +21039,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 09c22d175e78ea1bb8c08e55fd6b5c23cf798bd7)
 ### Update carrier_groups.rst
 
-> Commit: [09c22d175e78ea1bb8c08e55fd6b5c23cf798bd7](https://git.flyball.co/dsiprouter/enterprise/commit/09c22d175e78ea1bb8c08e55fd6b5c23cf798bd7)  
+> Commit: [09c22d175e78ea1bb8c08e55fd6b5c23cf798bd7](https://github.com/jcornwell-river/dsiprouter/commit/09c22d175e78ea1bb8c08e55fd6b5c23cf798bd7)  
 > Date: Tue, 6 Nov 2018 06:42:56 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20378,7 +21054,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce2273f8e4556060f2a349a657ab6e78874b45b9)
 ### Add files via upload
 
-> Commit: [ce2273f8e4556060f2a349a657ab6e78874b45b9](https://git.flyball.co/dsiprouter/enterprise/commit/ce2273f8e4556060f2a349a657ab6e78874b45b9)  
+> Commit: [ce2273f8e4556060f2a349a657ab6e78874b45b9](https://github.com/jcornwell-river/dsiprouter/commit/ce2273f8e4556060f2a349a657ab6e78874b45b9)  
 > Date: Tue, 6 Nov 2018 06:42:16 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20393,7 +21069,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ba3328fc3e2c5d0fe0aca3ead4d7abe4bcae0520)
 ### Update carrier_groups.rst
 
-> Commit: [ba3328fc3e2c5d0fe0aca3ead4d7abe4bcae0520](https://git.flyball.co/dsiprouter/enterprise/commit/ba3328fc3e2c5d0fe0aca3ead4d7abe4bcae0520)  
+> Commit: [ba3328fc3e2c5d0fe0aca3ead4d7abe4bcae0520](https://github.com/jcornwell-river/dsiprouter/commit/ba3328fc3e2c5d0fe0aca3ead4d7abe4bcae0520)  
 > Date: Tue, 6 Nov 2018 06:34:47 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20408,7 +21084,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c7ea4c6bfec6a648a34525726f804cdf018d8cb0)
 ### Create pbxs_and_endpoints.rst
 
-> Commit: [c7ea4c6bfec6a648a34525726f804cdf018d8cb0](https://git.flyball.co/dsiprouter/enterprise/commit/c7ea4c6bfec6a648a34525726f804cdf018d8cb0)  
+> Commit: [c7ea4c6bfec6a648a34525726f804cdf018d8cb0](https://github.com/jcornwell-river/dsiprouter/commit/c7ea4c6bfec6a648a34525726f804cdf018d8cb0)  
 > Date: Tue, 6 Nov 2018 06:32:36 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20423,7 +21099,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a21a1dd7725ba3f129d20028e5cd79453eb7f6f)
 ### Update configuring.rst
 
-> Commit: [6a21a1dd7725ba3f129d20028e5cd79453eb7f6f](https://git.flyball.co/dsiprouter/enterprise/commit/6a21a1dd7725ba3f129d20028e5cd79453eb7f6f)  
+> Commit: [6a21a1dd7725ba3f129d20028e5cd79453eb7f6f](https://github.com/jcornwell-river/dsiprouter/commit/6a21a1dd7725ba3f129d20028e5cd79453eb7f6f)  
 > Date: Tue, 6 Nov 2018 06:29:25 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20438,7 +21114,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0e82f5cf587a8ca2fac5229af6e1da04fbb3c458)
 ### Update configuring.rst
 
-> Commit: [0e82f5cf587a8ca2fac5229af6e1da04fbb3c458](https://git.flyball.co/dsiprouter/enterprise/commit/0e82f5cf587a8ca2fac5229af6e1da04fbb3c458)  
+> Commit: [0e82f5cf587a8ca2fac5229af6e1da04fbb3c458](https://github.com/jcornwell-river/dsiprouter/commit/0e82f5cf587a8ca2fac5229af6e1da04fbb3c458)  
 > Date: Tue, 6 Nov 2018 06:27:25 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20453,7 +21129,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 99c76f0bd6098aa3172bdabc7ac0b4210c683d39)
 ### Create configuring.rst
 
-> Commit: [99c76f0bd6098aa3172bdabc7ac0b4210c683d39](https://git.flyball.co/dsiprouter/enterprise/commit/99c76f0bd6098aa3172bdabc7ac0b4210c683d39)  
+> Commit: [99c76f0bd6098aa3172bdabc7ac0b4210c683d39](https://github.com/jcornwell-river/dsiprouter/commit/99c76f0bd6098aa3172bdabc7ac0b4210c683d39)  
 > Date: Tue, 6 Nov 2018 06:24:48 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20468,7 +21144,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82b7b1a39a16fdfdf891096aac36bd6ea7a22849)
 ### Rename configuring.rst to carrier_groups.rst
 
-> Commit: [82b7b1a39a16fdfdf891096aac36bd6ea7a22849](https://git.flyball.co/dsiprouter/enterprise/commit/82b7b1a39a16fdfdf891096aac36bd6ea7a22849)  
+> Commit: [82b7b1a39a16fdfdf891096aac36bd6ea7a22849](https://github.com/jcornwell-river/dsiprouter/commit/82b7b1a39a16fdfdf891096aac36bd6ea7a22849)  
 > Date: Tue, 6 Nov 2018 06:24:06 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20483,7 +21159,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d68e56df12b70ecf354177549c837deff39a10e4)
 ### Update configuring.rst
 
-> Commit: [d68e56df12b70ecf354177549c837deff39a10e4](https://git.flyball.co/dsiprouter/enterprise/commit/d68e56df12b70ecf354177549c837deff39a10e4)  
+> Commit: [d68e56df12b70ecf354177549c837deff39a10e4](https://github.com/jcornwell-river/dsiprouter/commit/d68e56df12b70ecf354177549c837deff39a10e4)  
 > Date: Tue, 6 Nov 2018 06:20:11 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20498,7 +21174,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61a9dccb2b41ea89350d8c9a7e361952207e5d47)
 ### Add files via upload
 
-> Commit: [61a9dccb2b41ea89350d8c9a7e361952207e5d47](https://git.flyball.co/dsiprouter/enterprise/commit/61a9dccb2b41ea89350d8c9a7e361952207e5d47)  
+> Commit: [61a9dccb2b41ea89350d8c9a7e361952207e5d47](https://github.com/jcornwell-river/dsiprouter/commit/61a9dccb2b41ea89350d8c9a7e361952207e5d47)  
 > Date: Tue, 6 Nov 2018 06:17:50 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20513,7 +21189,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cdd0d8a4c465e0abea94f38d4c2cf78326a3845f)
 ### Create configuring.rst
 
-> Commit: [cdd0d8a4c465e0abea94f38d4c2cf78326a3845f](https://git.flyball.co/dsiprouter/enterprise/commit/cdd0d8a4c465e0abea94f38d4c2cf78326a3845f)  
+> Commit: [cdd0d8a4c465e0abea94f38d4c2cf78326a3845f](https://github.com/jcornwell-river/dsiprouter/commit/cdd0d8a4c465e0abea94f38d4c2cf78326a3845f)  
 > Date: Tue, 6 Nov 2018 06:12:18 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20528,7 +21204,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 05dfa018657d794d8678403fac08f7ac841eba8a)
 ### Update installing.rst
 
-> Commit: [05dfa018657d794d8678403fac08f7ac841eba8a](https://git.flyball.co/dsiprouter/enterprise/commit/05dfa018657d794d8678403fac08f7ac841eba8a)  
+> Commit: [05dfa018657d794d8678403fac08f7ac841eba8a](https://github.com/jcornwell-river/dsiprouter/commit/05dfa018657d794d8678403fac08f7ac841eba8a)  
 > Date: Tue, 6 Nov 2018 06:01:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20543,7 +21219,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 852d06bbf8e641b8090d645d5744335f51ae8e13)
 ### Update installing.rst
 
-> Commit: [852d06bbf8e641b8090d645d5744335f51ae8e13](https://git.flyball.co/dsiprouter/enterprise/commit/852d06bbf8e641b8090d645d5744335f51ae8e13)  
+> Commit: [852d06bbf8e641b8090d645d5744335f51ae8e13](https://github.com/jcornwell-river/dsiprouter/commit/852d06bbf8e641b8090d645d5744335f51ae8e13)  
 > Date: Tue, 6 Nov 2018 06:00:54 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20558,7 +21234,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d3cf85d9f3ed1f2d51c557097800b01735e058f0)
 ### Update installing.rst
 
-> Commit: [d3cf85d9f3ed1f2d51c557097800b01735e058f0](https://git.flyball.co/dsiprouter/enterprise/commit/d3cf85d9f3ed1f2d51c557097800b01735e058f0)  
+> Commit: [d3cf85d9f3ed1f2d51c557097800b01735e058f0](https://github.com/jcornwell-river/dsiprouter/commit/d3cf85d9f3ed1f2d51c557097800b01735e058f0)  
 > Date: Tue, 6 Nov 2018 05:59:05 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20573,7 +21249,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bf9af20b132e0e6c51db41fec889aa501601d9a9)
 ### Update installing.rst
 
-> Commit: [bf9af20b132e0e6c51db41fec889aa501601d9a9](https://git.flyball.co/dsiprouter/enterprise/commit/bf9af20b132e0e6c51db41fec889aa501601d9a9)  
+> Commit: [bf9af20b132e0e6c51db41fec889aa501601d9a9](https://github.com/jcornwell-river/dsiprouter/commit/bf9af20b132e0e6c51db41fec889aa501601d9a9)  
 > Date: Tue, 6 Nov 2018 05:57:19 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20588,7 +21264,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3388a9d66fa6f1f3a6f6528c4b862c82c53c7f5d)
 ### Update installing.rst
 
-> Commit: [3388a9d66fa6f1f3a6f6528c4b862c82c53c7f5d](https://git.flyball.co/dsiprouter/enterprise/commit/3388a9d66fa6f1f3a6f6528c4b862c82c53c7f5d)  
+> Commit: [3388a9d66fa6f1f3a6f6528c4b862c82c53c7f5d](https://github.com/jcornwell-river/dsiprouter/commit/3388a9d66fa6f1f3a6f6528c4b862c82c53c7f5d)  
 > Date: Tue, 6 Nov 2018 05:54:18 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20603,7 +21279,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1b4f27e33f6f20e60ee1604935509db03caa03e3)
 ### Update index.rst
 
-> Commit: [1b4f27e33f6f20e60ee1604935509db03caa03e3](https://git.flyball.co/dsiprouter/enterprise/commit/1b4f27e33f6f20e60ee1604935509db03caa03e3)  
+> Commit: [1b4f27e33f6f20e60ee1604935509db03caa03e3](https://github.com/jcornwell-river/dsiprouter/commit/1b4f27e33f6f20e60ee1604935509db03caa03e3)  
 > Date: Tue, 6 Nov 2018 05:52:57 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20618,7 +21294,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 42592fea9dbd6d08eecfb82d5b88954ddfe4e31d)
 ### Update installing.rst
 
-> Commit: [42592fea9dbd6d08eecfb82d5b88954ddfe4e31d](https://git.flyball.co/dsiprouter/enterprise/commit/42592fea9dbd6d08eecfb82d5b88954ddfe4e31d)  
+> Commit: [42592fea9dbd6d08eecfb82d5b88954ddfe4e31d](https://github.com/jcornwell-river/dsiprouter/commit/42592fea9dbd6d08eecfb82d5b88954ddfe4e31d)  
 > Date: Tue, 6 Nov 2018 05:46:33 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20633,7 +21309,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 66c07ef48148c9a3ac21b1c34b6cee146dce63f4)
 ### Update installing.rst
 
-> Commit: [66c07ef48148c9a3ac21b1c34b6cee146dce63f4](https://git.flyball.co/dsiprouter/enterprise/commit/66c07ef48148c9a3ac21b1c34b6cee146dce63f4)  
+> Commit: [66c07ef48148c9a3ac21b1c34b6cee146dce63f4](https://github.com/jcornwell-river/dsiprouter/commit/66c07ef48148c9a3ac21b1c34b6cee146dce63f4)  
 > Date: Tue, 6 Nov 2018 05:43:39 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20648,7 +21324,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91b954a9ea9cb06507ac7eead1ff24349000bc1d)
 ### Update installing.rst
 
-> Commit: [91b954a9ea9cb06507ac7eead1ff24349000bc1d](https://git.flyball.co/dsiprouter/enterprise/commit/91b954a9ea9cb06507ac7eead1ff24349000bc1d)  
+> Commit: [91b954a9ea9cb06507ac7eead1ff24349000bc1d](https://github.com/jcornwell-river/dsiprouter/commit/91b954a9ea9cb06507ac7eead1ff24349000bc1d)  
 > Date: Tue, 6 Nov 2018 05:37:44 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20663,7 +21339,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 210b71f1b902564a4a6d869d9610a580b916c41e)
 ### Update installing.rst
 
-> Commit: [210b71f1b902564a4a6d869d9610a580b916c41e](https://git.flyball.co/dsiprouter/enterprise/commit/210b71f1b902564a4a6d869d9610a580b916c41e)  
+> Commit: [210b71f1b902564a4a6d869d9610a580b916c41e](https://github.com/jcornwell-river/dsiprouter/commit/210b71f1b902564a4a6d869d9610a580b916c41e)  
 > Date: Tue, 6 Nov 2018 05:36:12 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20678,7 +21354,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6e1a4b67aea0c2422a412a481bc999aa29352103)
 ### Update index.rst
 
-> Commit: [6e1a4b67aea0c2422a412a481bc999aa29352103](https://git.flyball.co/dsiprouter/enterprise/commit/6e1a4b67aea0c2422a412a481bc999aa29352103)  
+> Commit: [6e1a4b67aea0c2422a412a481bc999aa29352103](https://github.com/jcornwell-river/dsiprouter/commit/6e1a4b67aea0c2422a412a481bc999aa29352103)  
 > Date: Tue, 6 Nov 2018 05:33:26 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20693,7 +21369,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 225f723393d2840c8de81236bc248ffb9d0bf2ef)
 ### Update installing.rst
 
-> Commit: [225f723393d2840c8de81236bc248ffb9d0bf2ef](https://git.flyball.co/dsiprouter/enterprise/commit/225f723393d2840c8de81236bc248ffb9d0bf2ef)  
+> Commit: [225f723393d2840c8de81236bc248ffb9d0bf2ef](https://github.com/jcornwell-river/dsiprouter/commit/225f723393d2840c8de81236bc248ffb9d0bf2ef)  
 > Date: Tue, 6 Nov 2018 05:30:21 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20708,7 +21384,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c53130200a6ef06497df2296aad1e6c9ed27f292)
 ### Update installing.rst
 
-> Commit: [c53130200a6ef06497df2296aad1e6c9ed27f292](https://git.flyball.co/dsiprouter/enterprise/commit/c53130200a6ef06497df2296aad1e6c9ed27f292)  
+> Commit: [c53130200a6ef06497df2296aad1e6c9ed27f292](https://github.com/jcornwell-river/dsiprouter/commit/c53130200a6ef06497df2296aad1e6c9ed27f292)  
 > Date: Tue, 6 Nov 2018 05:26:09 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20723,7 +21399,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5050ffda7bc5977df6e071fe881a163387002a74)
 ### Update installing.rst
 
-> Commit: [5050ffda7bc5977df6e071fe881a163387002a74](https://git.flyball.co/dsiprouter/enterprise/commit/5050ffda7bc5977df6e071fe881a163387002a74)  
+> Commit: [5050ffda7bc5977df6e071fe881a163387002a74](https://github.com/jcornwell-river/dsiprouter/commit/5050ffda7bc5977df6e071fe881a163387002a74)  
 > Date: Tue, 6 Nov 2018 05:16:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20738,7 +21414,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47dcb3be33f32f85f442300fd434f2cb2b19aa88)
 ### Update index.rst
 
-> Commit: [47dcb3be33f32f85f442300fd434f2cb2b19aa88](https://git.flyball.co/dsiprouter/enterprise/commit/47dcb3be33f32f85f442300fd434f2cb2b19aa88)  
+> Commit: [47dcb3be33f32f85f442300fd434f2cb2b19aa88](https://github.com/jcornwell-river/dsiprouter/commit/47dcb3be33f32f85f442300fd434f2cb2b19aa88)  
 > Date: Tue, 6 Nov 2018 05:16:01 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20753,7 +21429,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b90b65e99ad68133c7b426eeb0972e77b55401d5)
 ### Create installing.rst
 
-> Commit: [b90b65e99ad68133c7b426eeb0972e77b55401d5](https://git.flyball.co/dsiprouter/enterprise/commit/b90b65e99ad68133c7b426eeb0972e77b55401d5)  
+> Commit: [b90b65e99ad68133c7b426eeb0972e77b55401d5](https://github.com/jcornwell-river/dsiprouter/commit/b90b65e99ad68133c7b426eeb0972e77b55401d5)  
 > Date: Tue, 6 Nov 2018 05:15:20 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20768,7 +21444,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a306484ce89e49fc17020e70f1e5485d3d77f07a)
 ### Update index.rst
 
-> Commit: [a306484ce89e49fc17020e70f1e5485d3d77f07a](https://git.flyball.co/dsiprouter/enterprise/commit/a306484ce89e49fc17020e70f1e5485d3d77f07a)  
+> Commit: [a306484ce89e49fc17020e70f1e5485d3d77f07a](https://github.com/jcornwell-river/dsiprouter/commit/a306484ce89e49fc17020e70f1e5485d3d77f07a)  
 > Date: Mon, 5 Nov 2018 15:09:34 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20783,7 +21459,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a4cd1c7a7b945a9b347e7e7b09518703ad5170cf)
 ### Update index.rst
 
-> Commit: [a4cd1c7a7b945a9b347e7e7b09518703ad5170cf](https://git.flyball.co/dsiprouter/enterprise/commit/a4cd1c7a7b945a9b347e7e7b09518703ad5170cf)  
+> Commit: [a4cd1c7a7b945a9b347e7e7b09518703ad5170cf](https://github.com/jcornwell-river/dsiprouter/commit/a4cd1c7a7b945a9b347e7e7b09518703ad5170cf)  
 > Date: Mon, 5 Nov 2018 15:07:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20798,7 +21474,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae2bd8ea022973b1d3cf74bffc0e420435aa0084)
 ### Update index.rst
 
-> Commit: [ae2bd8ea022973b1d3cf74bffc0e420435aa0084](https://git.flyball.co/dsiprouter/enterprise/commit/ae2bd8ea022973b1d3cf74bffc0e420435aa0084)  
+> Commit: [ae2bd8ea022973b1d3cf74bffc0e420435aa0084](https://github.com/jcornwell-river/dsiprouter/commit/ae2bd8ea022973b1d3cf74bffc0e420435aa0084)  
 > Date: Mon, 5 Nov 2018 14:54:25 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20813,7 +21489,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 65d9b412c8e628d5a59d6227f865e171d4d6af02)
 ### Update index.rst
 
-> Commit: [65d9b412c8e628d5a59d6227f865e171d4d6af02](https://git.flyball.co/dsiprouter/enterprise/commit/65d9b412c8e628d5a59d6227f865e171d4d6af02)  
+> Commit: [65d9b412c8e628d5a59d6227f865e171d4d6af02](https://github.com/jcornwell-river/dsiprouter/commit/65d9b412c8e628d5a59d6227f865e171d4d6af02)  
 > Date: Mon, 5 Nov 2018 14:49:08 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20828,7 +21504,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a17c6206d8f41cfe18d7fdf53c9394f46a2d7549)
 ### Update index.rst
 
-> Commit: [a17c6206d8f41cfe18d7fdf53c9394f46a2d7549](https://git.flyball.co/dsiprouter/enterprise/commit/a17c6206d8f41cfe18d7fdf53c9394f46a2d7549)  
+> Commit: [a17c6206d8f41cfe18d7fdf53c9394f46a2d7549](https://github.com/jcornwell-river/dsiprouter/commit/a17c6206d8f41cfe18d7fdf53c9394f46a2d7549)  
 > Date: Mon, 5 Nov 2018 14:41:10 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20843,7 +21519,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9136035e52196f9a9443248085a7aaa2ea07177)
 ### Update index.rst
 
-> Commit: [d9136035e52196f9a9443248085a7aaa2ea07177](https://git.flyball.co/dsiprouter/enterprise/commit/d9136035e52196f9a9443248085a7aaa2ea07177)  
+> Commit: [d9136035e52196f9a9443248085a7aaa2ea07177](https://github.com/jcornwell-river/dsiprouter/commit/d9136035e52196f9a9443248085a7aaa2ea07177)  
 > Date: Mon, 5 Nov 2018 14:39:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20858,7 +21534,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1aa7b630ccb45487d329623e182c7bcc41a8149)
 ### Update index.rst
 
-> Commit: [a1aa7b630ccb45487d329623e182c7bcc41a8149](https://git.flyball.co/dsiprouter/enterprise/commit/a1aa7b630ccb45487d329623e182c7bcc41a8149)  
+> Commit: [a1aa7b630ccb45487d329623e182c7bcc41a8149](https://github.com/jcornwell-river/dsiprouter/commit/a1aa7b630ccb45487d329623e182c7bcc41a8149)  
 > Date: Mon, 5 Nov 2018 14:38:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20873,7 +21549,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cd97478cba66bed7cdb99c7788b29f492acddef3)
 ### Update index.rst
 
-> Commit: [cd97478cba66bed7cdb99c7788b29f492acddef3](https://git.flyball.co/dsiprouter/enterprise/commit/cd97478cba66bed7cdb99c7788b29f492acddef3)  
+> Commit: [cd97478cba66bed7cdb99c7788b29f492acddef3](https://github.com/jcornwell-river/dsiprouter/commit/cd97478cba66bed7cdb99c7788b29f492acddef3)  
 > Date: Mon, 5 Nov 2018 14:36:31 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20888,7 +21564,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 89aba6b54851b992020db17c3ab237a5d46ee27d)
 ### Update index.rst
 
-> Commit: [89aba6b54851b992020db17c3ab237a5d46ee27d](https://git.flyball.co/dsiprouter/enterprise/commit/89aba6b54851b992020db17c3ab237a5d46ee27d)  
+> Commit: [89aba6b54851b992020db17c3ab237a5d46ee27d](https://github.com/jcornwell-river/dsiprouter/commit/89aba6b54851b992020db17c3ab237a5d46ee27d)  
 > Date: Mon, 5 Nov 2018 14:28:04 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20903,7 +21579,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 656429533dd95fab33de88f043d0cc6480a4883d)
 ### Update index.rst
 
-> Commit: [656429533dd95fab33de88f043d0cc6480a4883d](https://git.flyball.co/dsiprouter/enterprise/commit/656429533dd95fab33de88f043d0cc6480a4883d)  
+> Commit: [656429533dd95fab33de88f043d0cc6480a4883d](https://github.com/jcornwell-river/dsiprouter/commit/656429533dd95fab33de88f043d0cc6480a4883d)  
 > Date: Mon, 5 Nov 2018 14:26:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20918,7 +21594,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb68428a3b6993fda4f8570e8e5c1866ab7b6df7)
 ### Update index.rst
 
-> Commit: [eb68428a3b6993fda4f8570e8e5c1866ab7b6df7](https://git.flyball.co/dsiprouter/enterprise/commit/eb68428a3b6993fda4f8570e8e5c1866ab7b6df7)  
+> Commit: [eb68428a3b6993fda4f8570e8e5c1866ab7b6df7](https://github.com/jcornwell-river/dsiprouter/commit/eb68428a3b6993fda4f8570e8e5c1866ab7b6df7)  
 > Date: Mon, 5 Nov 2018 14:23:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20933,7 +21609,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 050707569fb1e92d9d90913feca2c5926791fe9f)
 ### Update index.rst
 
-> Commit: [050707569fb1e92d9d90913feca2c5926791fe9f](https://git.flyball.co/dsiprouter/enterprise/commit/050707569fb1e92d9d90913feca2c5926791fe9f)  
+> Commit: [050707569fb1e92d9d90913feca2c5926791fe9f](https://github.com/jcornwell-river/dsiprouter/commit/050707569fb1e92d9d90913feca2c5926791fe9f)  
 > Date: Mon, 5 Nov 2018 14:20:36 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20948,7 +21624,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4280b0277339b2dfc07456f7e8eb95df01825223)
 ### Update index.rst
 
-> Commit: [4280b0277339b2dfc07456f7e8eb95df01825223](https://git.flyball.co/dsiprouter/enterprise/commit/4280b0277339b2dfc07456f7e8eb95df01825223)  
+> Commit: [4280b0277339b2dfc07456f7e8eb95df01825223](https://github.com/jcornwell-river/dsiprouter/commit/4280b0277339b2dfc07456f7e8eb95df01825223)  
 > Date: Mon, 5 Nov 2018 14:19:02 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20963,7 +21639,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f8df7b2e0f6f44d385e36c9efa955cf1d313a5b)
 ### Update index.rst
 
-> Commit: [3f8df7b2e0f6f44d385e36c9efa955cf1d313a5b](https://git.flyball.co/dsiprouter/enterprise/commit/3f8df7b2e0f6f44d385e36c9efa955cf1d313a5b)  
+> Commit: [3f8df7b2e0f6f44d385e36c9efa955cf1d313a5b](https://github.com/jcornwell-river/dsiprouter/commit/3f8df7b2e0f6f44d385e36c9efa955cf1d313a5b)  
 > Date: Mon, 5 Nov 2018 14:14:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20978,7 +21654,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb2a30656434bd2f8c8689980e595c0662215a14)
 ### Update index.rst
 
-> Commit: [eb2a30656434bd2f8c8689980e595c0662215a14](https://git.flyball.co/dsiprouter/enterprise/commit/eb2a30656434bd2f8c8689980e595c0662215a14)  
+> Commit: [eb2a30656434bd2f8c8689980e595c0662215a14](https://github.com/jcornwell-river/dsiprouter/commit/eb2a30656434bd2f8c8689980e595c0662215a14)  
 > Date: Mon, 5 Nov 2018 13:58:16 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -20993,7 +21669,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bec7289e3e52786ebd365ab8dcce90c37535df78)
 ### Update index.rst
 
-> Commit: [bec7289e3e52786ebd365ab8dcce90c37535df78](https://git.flyball.co/dsiprouter/enterprise/commit/bec7289e3e52786ebd365ab8dcce90c37535df78)  
+> Commit: [bec7289e3e52786ebd365ab8dcce90c37535df78](https://github.com/jcornwell-river/dsiprouter/commit/bec7289e3e52786ebd365ab8dcce90c37535df78)  
 > Date: Mon, 5 Nov 2018 13:53:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21008,7 +21684,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5f8de2d823a05755459bc1ae151f2be58439e757)
 ### Update index.rst
 
-> Commit: [5f8de2d823a05755459bc1ae151f2be58439e757](https://git.flyball.co/dsiprouter/enterprise/commit/5f8de2d823a05755459bc1ae151f2be58439e757)  
+> Commit: [5f8de2d823a05755459bc1ae151f2be58439e757](https://github.com/jcornwell-river/dsiprouter/commit/5f8de2d823a05755459bc1ae151f2be58439e757)  
 > Date: Mon, 5 Nov 2018 13:51:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21023,7 +21699,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 52d2339f02db3402a12198733055efc0b833cc09)
 ### Update index.rst
 
-> Commit: [52d2339f02db3402a12198733055efc0b833cc09](https://git.flyball.co/dsiprouter/enterprise/commit/52d2339f02db3402a12198733055efc0b833cc09)  
+> Commit: [52d2339f02db3402a12198733055efc0b833cc09](https://github.com/jcornwell-river/dsiprouter/commit/52d2339f02db3402a12198733055efc0b833cc09)  
 > Date: Mon, 5 Nov 2018 13:44:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21038,7 +21714,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d3e1601c9e5d02c76f65997773a66f69e4c18ac6)
 ### Update index.rst
 
-> Commit: [d3e1601c9e5d02c76f65997773a66f69e4c18ac6](https://git.flyball.co/dsiprouter/enterprise/commit/d3e1601c9e5d02c76f65997773a66f69e4c18ac6)  
+> Commit: [d3e1601c9e5d02c76f65997773a66f69e4c18ac6](https://github.com/jcornwell-river/dsiprouter/commit/d3e1601c9e5d02c76f65997773a66f69e4c18ac6)  
 > Date: Mon, 5 Nov 2018 13:33:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21053,7 +21729,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0367725739cf98cdf7fd954656b5f0e5f7dc498b)
 ### Update index.rst
 
-> Commit: [0367725739cf98cdf7fd954656b5f0e5f7dc498b](https://git.flyball.co/dsiprouter/enterprise/commit/0367725739cf98cdf7fd954656b5f0e5f7dc498b)  
+> Commit: [0367725739cf98cdf7fd954656b5f0e5f7dc498b](https://github.com/jcornwell-river/dsiprouter/commit/0367725739cf98cdf7fd954656b5f0e5f7dc498b)  
 > Date: Mon, 5 Nov 2018 13:27:06 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21068,7 +21744,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d5555b5a88904146f037b1777b1ccbc3fd585976)
 ### Update index.rst
 
-> Commit: [d5555b5a88904146f037b1777b1ccbc3fd585976](https://git.flyball.co/dsiprouter/enterprise/commit/d5555b5a88904146f037b1777b1ccbc3fd585976)  
+> Commit: [d5555b5a88904146f037b1777b1ccbc3fd585976](https://github.com/jcornwell-river/dsiprouter/commit/d5555b5a88904146f037b1777b1ccbc3fd585976)  
 > Date: Mon, 5 Nov 2018 12:45:23 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21083,7 +21759,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION df6c9add73dde8126c0ac98cf21ff569c5a602e0)
 ### Update index.rst
 
-> Commit: [df6c9add73dde8126c0ac98cf21ff569c5a602e0](https://git.flyball.co/dsiprouter/enterprise/commit/df6c9add73dde8126c0ac98cf21ff569c5a602e0)  
+> Commit: [df6c9add73dde8126c0ac98cf21ff569c5a602e0](https://github.com/jcornwell-river/dsiprouter/commit/df6c9add73dde8126c0ac98cf21ff569c5a602e0)  
 > Date: Mon, 5 Nov 2018 12:44:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21098,7 +21774,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7f9fb2325771005478fbf8c10f487149ac28e895)
 ### Update index.rst
 
-> Commit: [7f9fb2325771005478fbf8c10f487149ac28e895](https://git.flyball.co/dsiprouter/enterprise/commit/7f9fb2325771005478fbf8c10f487149ac28e895)  
+> Commit: [7f9fb2325771005478fbf8c10f487149ac28e895](https://github.com/jcornwell-river/dsiprouter/commit/7f9fb2325771005478fbf8c10f487149ac28e895)  
 > Date: Mon, 5 Nov 2018 12:41:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21113,7 +21789,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ac93fb29e458a49f2265b0a146165515df4f971a)
 ### Update index.rst
 
-> Commit: [ac93fb29e458a49f2265b0a146165515df4f971a](https://git.flyball.co/dsiprouter/enterprise/commit/ac93fb29e458a49f2265b0a146165515df4f971a)  
+> Commit: [ac93fb29e458a49f2265b0a146165515df4f971a](https://github.com/jcornwell-river/dsiprouter/commit/ac93fb29e458a49f2265b0a146165515df4f971a)  
 > Date: Mon, 5 Nov 2018 12:38:42 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21128,7 +21804,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae06eeb651ac5ee3f36554102feb02d605726da5)
 ### Update index.rst
 
-> Commit: [ae06eeb651ac5ee3f36554102feb02d605726da5](https://git.flyball.co/dsiprouter/enterprise/commit/ae06eeb651ac5ee3f36554102feb02d605726da5)  
+> Commit: [ae06eeb651ac5ee3f36554102feb02d605726da5](https://github.com/jcornwell-river/dsiprouter/commit/ae06eeb651ac5ee3f36554102feb02d605726da5)  
 > Date: Mon, 5 Nov 2018 12:35:32 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21143,7 +21819,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7cfe90077c726788d79f663143bf1c7dc55d6cb7)
 ### Update index.rst
 
-> Commit: [7cfe90077c726788d79f663143bf1c7dc55d6cb7](https://git.flyball.co/dsiprouter/enterprise/commit/7cfe90077c726788d79f663143bf1c7dc55d6cb7)  
+> Commit: [7cfe90077c726788d79f663143bf1c7dc55d6cb7](https://github.com/jcornwell-river/dsiprouter/commit/7cfe90077c726788d79f663143bf1c7dc55d6cb7)  
 > Date: Mon, 5 Nov 2018 12:34:57 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21158,7 +21834,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d614b77f9c7b1f712cd2e599688dee294a9bee55)
 ### Update index.rst
 
-> Commit: [d614b77f9c7b1f712cd2e599688dee294a9bee55](https://git.flyball.co/dsiprouter/enterprise/commit/d614b77f9c7b1f712cd2e599688dee294a9bee55)  
+> Commit: [d614b77f9c7b1f712cd2e599688dee294a9bee55](https://github.com/jcornwell-river/dsiprouter/commit/d614b77f9c7b1f712cd2e599688dee294a9bee55)  
 > Date: Mon, 5 Nov 2018 12:32:51 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21173,7 +21849,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61074d151d4dd157290d7e7b0210570807a499be)
 ### Update index.rst
 
-> Commit: [61074d151d4dd157290d7e7b0210570807a499be](https://git.flyball.co/dsiprouter/enterprise/commit/61074d151d4dd157290d7e7b0210570807a499be)  
+> Commit: [61074d151d4dd157290d7e7b0210570807a499be](https://github.com/jcornwell-river/dsiprouter/commit/61074d151d4dd157290d7e7b0210570807a499be)  
 > Date: Mon, 5 Nov 2018 12:30:00 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21188,7 +21864,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 27c00857bda1ec3dcd1d73d52fed8156be102825)
 ### Update index.rst
 
-> Commit: [27c00857bda1ec3dcd1d73d52fed8156be102825](https://git.flyball.co/dsiprouter/enterprise/commit/27c00857bda1ec3dcd1d73d52fed8156be102825)  
+> Commit: [27c00857bda1ec3dcd1d73d52fed8156be102825](https://github.com/jcornwell-river/dsiprouter/commit/27c00857bda1ec3dcd1d73d52fed8156be102825)  
 > Date: Mon, 5 Nov 2018 12:13:41 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21203,7 +21879,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fbf822d73f3a09e9588cf05c1c79e1deb8b03f3e)
 ### Update index.rst
 
-> Commit: [fbf822d73f3a09e9588cf05c1c79e1deb8b03f3e](https://git.flyball.co/dsiprouter/enterprise/commit/fbf822d73f3a09e9588cf05c1c79e1deb8b03f3e)  
+> Commit: [fbf822d73f3a09e9588cf05c1c79e1deb8b03f3e](https://github.com/jcornwell-river/dsiprouter/commit/fbf822d73f3a09e9588cf05c1c79e1deb8b03f3e)  
 > Date: Mon, 5 Nov 2018 12:09:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21218,7 +21894,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 31f9a5d9a334c0af187ddb8fedf3d6613b029351)
 ### Update index.rst
 
-> Commit: [31f9a5d9a334c0af187ddb8fedf3d6613b029351](https://git.flyball.co/dsiprouter/enterprise/commit/31f9a5d9a334c0af187ddb8fedf3d6613b029351)  
+> Commit: [31f9a5d9a334c0af187ddb8fedf3d6613b029351](https://github.com/jcornwell-river/dsiprouter/commit/31f9a5d9a334c0af187ddb8fedf3d6613b029351)  
 > Date: Mon, 5 Nov 2018 12:08:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21233,7 +21909,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8d387c5bc356376b84696ec825e914a8e1eba605)
 ### Update index.rst
 
-> Commit: [8d387c5bc356376b84696ec825e914a8e1eba605](https://git.flyball.co/dsiprouter/enterprise/commit/8d387c5bc356376b84696ec825e914a8e1eba605)  
+> Commit: [8d387c5bc356376b84696ec825e914a8e1eba605](https://github.com/jcornwell-river/dsiprouter/commit/8d387c5bc356376b84696ec825e914a8e1eba605)  
 > Date: Mon, 5 Nov 2018 12:05:52 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21248,7 +21924,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d06c51b6a55177e102e796aca34750d9f042ffea)
 ### Update README.md
 
-> Commit: [d06c51b6a55177e102e796aca34750d9f042ffea](https://git.flyball.co/dsiprouter/enterprise/commit/d06c51b6a55177e102e796aca34750d9f042ffea)  
+> Commit: [d06c51b6a55177e102e796aca34750d9f042ffea](https://github.com/jcornwell-river/dsiprouter/commit/d06c51b6a55177e102e796aca34750d9f042ffea)  
 > Date: Mon, 5 Nov 2018 11:59:29 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21263,7 +21939,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 69831efae2d540363e6685adce5599aeffd17e30)
 ### Update index.rst
 
-> Commit: [69831efae2d540363e6685adce5599aeffd17e30](https://git.flyball.co/dsiprouter/enterprise/commit/69831efae2d540363e6685adce5599aeffd17e30)  
+> Commit: [69831efae2d540363e6685adce5599aeffd17e30](https://github.com/jcornwell-river/dsiprouter/commit/69831efae2d540363e6685adce5599aeffd17e30)  
 > Date: Mon, 5 Nov 2018 11:57:01 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21278,7 +21954,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a3d252949c0a867abdcdbc2fbeace5813875d50c)
 ### Update index.rst
 
-> Commit: [a3d252949c0a867abdcdbc2fbeace5813875d50c](https://git.flyball.co/dsiprouter/enterprise/commit/a3d252949c0a867abdcdbc2fbeace5813875d50c)  
+> Commit: [a3d252949c0a867abdcdbc2fbeace5813875d50c](https://github.com/jcornwell-river/dsiprouter/commit/a3d252949c0a867abdcdbc2fbeace5813875d50c)  
 > Date: Mon, 5 Nov 2018 11:55:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21293,7 +21969,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2c7d51a7e874388f3b62f3000b57decc1d906703)
 ### Update index.rst
 
-> Commit: [2c7d51a7e874388f3b62f3000b57decc1d906703](https://git.flyball.co/dsiprouter/enterprise/commit/2c7d51a7e874388f3b62f3000b57decc1d906703)  
+> Commit: [2c7d51a7e874388f3b62f3000b57decc1d906703](https://github.com/jcornwell-river/dsiprouter/commit/2c7d51a7e874388f3b62f3000b57decc1d906703)  
 > Date: Mon, 5 Nov 2018 11:54:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21308,7 +21984,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 08d10e0e628dda014c9fb1331e2b9700096ea2ca)
 ### Update index.rst
 
-> Commit: [08d10e0e628dda014c9fb1331e2b9700096ea2ca](https://git.flyball.co/dsiprouter/enterprise/commit/08d10e0e628dda014c9fb1331e2b9700096ea2ca)  
+> Commit: [08d10e0e628dda014c9fb1331e2b9700096ea2ca](https://github.com/jcornwell-river/dsiprouter/commit/08d10e0e628dda014c9fb1331e2b9700096ea2ca)  
 > Date: Mon, 5 Nov 2018 11:51:58 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21323,7 +21999,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 525b1f44557c90cbd98440092fb53321c3c0ff91)
 ### Update index.rst
 
-> Commit: [525b1f44557c90cbd98440092fb53321c3c0ff91](https://git.flyball.co/dsiprouter/enterprise/commit/525b1f44557c90cbd98440092fb53321c3c0ff91)  
+> Commit: [525b1f44557c90cbd98440092fb53321c3c0ff91](https://github.com/jcornwell-river/dsiprouter/commit/525b1f44557c90cbd98440092fb53321c3c0ff91)  
 > Date: Mon, 5 Nov 2018 11:46:49 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21338,7 +22014,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fdd79140e22e4802f865460df3a75a0ad50e66b3)
 ### Update index.rst
 
-> Commit: [fdd79140e22e4802f865460df3a75a0ad50e66b3](https://git.flyball.co/dsiprouter/enterprise/commit/fdd79140e22e4802f865460df3a75a0ad50e66b3)  
+> Commit: [fdd79140e22e4802f865460df3a75a0ad50e66b3](https://github.com/jcornwell-river/dsiprouter/commit/fdd79140e22e4802f865460df3a75a0ad50e66b3)  
 > Date: Mon, 5 Nov 2018 11:33:19 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21353,7 +22029,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 210a2ddc4420e829cf6a2d9c135724e05c1219c4)
 ### Update index.rst
 
-> Commit: [210a2ddc4420e829cf6a2d9c135724e05c1219c4](https://git.flyball.co/dsiprouter/enterprise/commit/210a2ddc4420e829cf6a2d9c135724e05c1219c4)  
+> Commit: [210a2ddc4420e829cf6a2d9c135724e05c1219c4](https://github.com/jcornwell-river/dsiprouter/commit/210a2ddc4420e829cf6a2d9c135724e05c1219c4)  
 > Date: Mon, 5 Nov 2018 11:30:35 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21368,7 +22044,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25c9393d1160c74c3681b7588eb4f5391da2b806)
 ### Update index.rst
 
-> Commit: [25c9393d1160c74c3681b7588eb4f5391da2b806](https://git.flyball.co/dsiprouter/enterprise/commit/25c9393d1160c74c3681b7588eb4f5391da2b806)  
+> Commit: [25c9393d1160c74c3681b7588eb4f5391da2b806](https://github.com/jcornwell-river/dsiprouter/commit/25c9393d1160c74c3681b7588eb4f5391da2b806)  
 > Date: Mon, 5 Nov 2018 11:27:45 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21383,7 +22059,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25fc7e99bb85bad0970c9d40d3c061c95f4fa04d)
 ### Update index.rst
 
-> Commit: [25fc7e99bb85bad0970c9d40d3c061c95f4fa04d](https://git.flyball.co/dsiprouter/enterprise/commit/25fc7e99bb85bad0970c9d40d3c061c95f4fa04d)  
+> Commit: [25fc7e99bb85bad0970c9d40d3c061c95f4fa04d](https://github.com/jcornwell-river/dsiprouter/commit/25fc7e99bb85bad0970c9d40d3c061c95f4fa04d)  
 > Date: Mon, 5 Nov 2018 11:25:48 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21398,7 +22074,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 32d177564f89e3267d6ee9f88b32128dc6f66435)
 ### Update index.rst
 
-> Commit: [32d177564f89e3267d6ee9f88b32128dc6f66435](https://git.flyball.co/dsiprouter/enterprise/commit/32d177564f89e3267d6ee9f88b32128dc6f66435)  
+> Commit: [32d177564f89e3267d6ee9f88b32128dc6f66435](https://github.com/jcornwell-river/dsiprouter/commit/32d177564f89e3267d6ee9f88b32128dc6f66435)  
 > Date: Mon, 5 Nov 2018 11:23:05 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21413,7 +22089,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 31dd5677af4d9640a92061f0fdf039adb647994d)
 ### Update index.rst
 
-> Commit: [31dd5677af4d9640a92061f0fdf039adb647994d](https://git.flyball.co/dsiprouter/enterprise/commit/31dd5677af4d9640a92061f0fdf039adb647994d)  
+> Commit: [31dd5677af4d9640a92061f0fdf039adb647994d](https://github.com/jcornwell-river/dsiprouter/commit/31dd5677af4d9640a92061f0fdf039adb647994d)  
 > Date: Mon, 5 Nov 2018 10:38:56 -0500  
 > Author: ncannon01 (44709249+ncannon01@users.noreply.github.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21428,7 +22104,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ea93010271a1bef8480a93a87ea75e3e068957ea)
 ### Update index.rst
 
-> Commit: [ea93010271a1bef8480a93a87ea75e3e068957ea](https://git.flyball.co/dsiprouter/enterprise/commit/ea93010271a1bef8480a93a87ea75e3e068957ea)  
+> Commit: [ea93010271a1bef8480a93a87ea75e3e068957ea](https://github.com/jcornwell-river/dsiprouter/commit/ea93010271a1bef8480a93a87ea75e3e068957ea)  
 > Date: Mon, 5 Nov 2018 09:33:09 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21443,7 +22119,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 332c0bb6b79b29fd56a283f6762e72e8133b755b)
 ### Update index.rst
 
-> Commit: [332c0bb6b79b29fd56a283f6762e72e8133b755b](https://git.flyball.co/dsiprouter/enterprise/commit/332c0bb6b79b29fd56a283f6762e72e8133b755b)  
+> Commit: [332c0bb6b79b29fd56a283f6762e72e8133b755b](https://github.com/jcornwell-river/dsiprouter/commit/332c0bb6b79b29fd56a283f6762e72e8133b755b)  
 > Date: Mon, 5 Nov 2018 09:31:49 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21458,7 +22134,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e12ab1b48d452f1554142b63c5832e7be1058837)
 ### Update index.rst
 
-> Commit: [e12ab1b48d452f1554142b63c5832e7be1058837](https://git.flyball.co/dsiprouter/enterprise/commit/e12ab1b48d452f1554142b63c5832e7be1058837)  
+> Commit: [e12ab1b48d452f1554142b63c5832e7be1058837](https://github.com/jcornwell-river/dsiprouter/commit/e12ab1b48d452f1554142b63c5832e7be1058837)  
 > Date: Mon, 5 Nov 2018 09:30:16 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21473,7 +22149,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3983711e773b9f6b41e4ed6df96f881c66a0586e)
 ### Update index.rst
 
-> Commit: [3983711e773b9f6b41e4ed6df96f881c66a0586e](https://git.flyball.co/dsiprouter/enterprise/commit/3983711e773b9f6b41e4ed6df96f881c66a0586e)  
+> Commit: [3983711e773b9f6b41e4ed6df96f881c66a0586e](https://github.com/jcornwell-river/dsiprouter/commit/3983711e773b9f6b41e4ed6df96f881c66a0586e)  
 > Date: Mon, 5 Nov 2018 09:26:13 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21488,7 +22164,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2207add74d482c604cf70b68f7e61f72d235a96e)
 ### Update index.rst
 
-> Commit: [2207add74d482c604cf70b68f7e61f72d235a96e](https://git.flyball.co/dsiprouter/enterprise/commit/2207add74d482c604cf70b68f7e61f72d235a96e)  
+> Commit: [2207add74d482c604cf70b68f7e61f72d235a96e](https://github.com/jcornwell-river/dsiprouter/commit/2207add74d482c604cf70b68f7e61f72d235a96e)  
 > Date: Mon, 5 Nov 2018 09:24:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21503,7 +22179,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 860ab8ee1a68078c7f5d871fd27ac1348e3d47a6)
 ### Update index.rst
 
-> Commit: [860ab8ee1a68078c7f5d871fd27ac1348e3d47a6](https://git.flyball.co/dsiprouter/enterprise/commit/860ab8ee1a68078c7f5d871fd27ac1348e3d47a6)  
+> Commit: [860ab8ee1a68078c7f5d871fd27ac1348e3d47a6](https://github.com/jcornwell-river/dsiprouter/commit/860ab8ee1a68078c7f5d871fd27ac1348e3d47a6)  
 > Date: Mon, 5 Nov 2018 09:24:17 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21518,7 +22194,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a1b39356ab30428b96f3815adfc6b6592430dca0)
 ### Update index.rst
 
-> Commit: [a1b39356ab30428b96f3815adfc6b6592430dca0](https://git.flyball.co/dsiprouter/enterprise/commit/a1b39356ab30428b96f3815adfc6b6592430dca0)  
+> Commit: [a1b39356ab30428b96f3815adfc6b6592430dca0](https://github.com/jcornwell-river/dsiprouter/commit/a1b39356ab30428b96f3815adfc6b6592430dca0)  
 > Date: Mon, 5 Nov 2018 09:20:39 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21533,7 +22209,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f50a31c8df66b3ac8cfb46c5fe8f291db60ebc87)
 ### Update index.rst
 
-> Commit: [f50a31c8df66b3ac8cfb46c5fe8f291db60ebc87](https://git.flyball.co/dsiprouter/enterprise/commit/f50a31c8df66b3ac8cfb46c5fe8f291db60ebc87)  
+> Commit: [f50a31c8df66b3ac8cfb46c5fe8f291db60ebc87](https://github.com/jcornwell-river/dsiprouter/commit/f50a31c8df66b3ac8cfb46c5fe8f291db60ebc87)  
 > Date: Mon, 5 Nov 2018 09:16:01 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21548,7 +22224,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 30d36d670bd96ace7dd33132387e01e73750021a)
 ### Update index.rst
 
-> Commit: [30d36d670bd96ace7dd33132387e01e73750021a](https://git.flyball.co/dsiprouter/enterprise/commit/30d36d670bd96ace7dd33132387e01e73750021a)  
+> Commit: [30d36d670bd96ace7dd33132387e01e73750021a](https://github.com/jcornwell-river/dsiprouter/commit/30d36d670bd96ace7dd33132387e01e73750021a)  
 > Date: Fri, 2 Nov 2018 14:37:21 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21563,7 +22239,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 84cafa37fe15f86334ad6c156aaff6b5fdbd196b)
 ### Update index.rst
 
-> Commit: [84cafa37fe15f86334ad6c156aaff6b5fdbd196b](https://git.flyball.co/dsiprouter/enterprise/commit/84cafa37fe15f86334ad6c156aaff6b5fdbd196b)  
+> Commit: [84cafa37fe15f86334ad6c156aaff6b5fdbd196b](https://github.com/jcornwell-river/dsiprouter/commit/84cafa37fe15f86334ad6c156aaff6b5fdbd196b)  
 > Date: Fri, 2 Nov 2018 14:34:45 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21578,7 +22254,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14d3c26782a92adf62dc26276f43e3b30839fce0)
 ### Update index.rst
 
-> Commit: [14d3c26782a92adf62dc26276f43e3b30839fce0](https://git.flyball.co/dsiprouter/enterprise/commit/14d3c26782a92adf62dc26276f43e3b30839fce0)  
+> Commit: [14d3c26782a92adf62dc26276f43e3b30839fce0](https://github.com/jcornwell-river/dsiprouter/commit/14d3c26782a92adf62dc26276f43e3b30839fce0)  
 > Date: Fri, 2 Nov 2018 14:31:30 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21593,7 +22269,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2b9d89de6ee285b749028ffc6fd2544118ff484c)
 ### Update index.rst
 
-> Commit: [2b9d89de6ee285b749028ffc6fd2544118ff484c](https://git.flyball.co/dsiprouter/enterprise/commit/2b9d89de6ee285b749028ffc6fd2544118ff484c)  
+> Commit: [2b9d89de6ee285b749028ffc6fd2544118ff484c](https://github.com/jcornwell-river/dsiprouter/commit/2b9d89de6ee285b749028ffc6fd2544118ff484c)  
 > Date: Fri, 2 Nov 2018 14:26:43 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21608,7 +22284,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce9f450ea71a35b9e08a1b936431d7750c8d0ea3)
 ### Update index.rst
 
-> Commit: [ce9f450ea71a35b9e08a1b936431d7750c8d0ea3](https://git.flyball.co/dsiprouter/enterprise/commit/ce9f450ea71a35b9e08a1b936431d7750c8d0ea3)  
+> Commit: [ce9f450ea71a35b9e08a1b936431d7750c8d0ea3](https://github.com/jcornwell-river/dsiprouter/commit/ce9f450ea71a35b9e08a1b936431d7750c8d0ea3)  
 > Date: Fri, 2 Nov 2018 14:26:03 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21623,7 +22299,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 79823053f92679a78799d946af4f76021e3d4884)
 ### Update index.rst
 
-> Commit: [79823053f92679a78799d946af4f76021e3d4884](https://git.flyball.co/dsiprouter/enterprise/commit/79823053f92679a78799d946af4f76021e3d4884)  
+> Commit: [79823053f92679a78799d946af4f76021e3d4884](https://github.com/jcornwell-river/dsiprouter/commit/79823053f92679a78799d946af4f76021e3d4884)  
 > Date: Fri, 2 Nov 2018 14:24:07 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21638,7 +22314,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c02abd219f4f5eaf295fe0da9b552190c68b62c4)
 ### Update index.rst
 
-> Commit: [c02abd219f4f5eaf295fe0da9b552190c68b62c4](https://git.flyball.co/dsiprouter/enterprise/commit/c02abd219f4f5eaf295fe0da9b552190c68b62c4)  
+> Commit: [c02abd219f4f5eaf295fe0da9b552190c68b62c4](https://github.com/jcornwell-river/dsiprouter/commit/c02abd219f4f5eaf295fe0da9b552190c68b62c4)  
 > Date: Fri, 2 Nov 2018 14:18:50 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21653,7 +22329,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 179cae55486547db2fa5efe8101a9820437adc41)
 ### Create index.rst
 
-> Commit: [179cae55486547db2fa5efe8101a9820437adc41](https://git.flyball.co/dsiprouter/enterprise/commit/179cae55486547db2fa5efe8101a9820437adc41)  
+> Commit: [179cae55486547db2fa5efe8101a9820437adc41](https://github.com/jcornwell-river/dsiprouter/commit/179cae55486547db2fa5efe8101a9820437adc41)  
 > Date: Fri, 2 Nov 2018 13:29:48 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21668,7 +22344,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92e804b0f004a91c0e47d88b954b8bc1d882998b)
 ### Create index.rst
 
-> Commit: [92e804b0f004a91c0e47d88b954b8bc1d882998b](https://git.flyball.co/dsiprouter/enterprise/commit/92e804b0f004a91c0e47d88b954b8bc1d882998b)  
+> Commit: [92e804b0f004a91c0e47d88b954b8bc1d882998b](https://github.com/jcornwell-river/dsiprouter/commit/92e804b0f004a91c0e47d88b954b8bc1d882998b)  
 > Date: Fri, 2 Nov 2018 13:10:31 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21683,7 +22359,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17680f44b08e8891659c7bc09bdfe637cf632127)
 ### Added the notes field to the add and edit modal's for Inbound Mappings
 
-> Commit: [17680f44b08e8891659c7bc09bdfe637cf632127](https://git.flyball.co/dsiprouter/enterprise/commit/17680f44b08e8891659c7bc09bdfe637cf632127)  
+> Commit: [17680f44b08e8891659c7bc09bdfe637cf632127](https://github.com/jcornwell-river/dsiprouter/commit/17680f44b08e8891659c7bc09bdfe637cf632127)  
 > Date: Thu, 1 Nov 2018 11:55:07 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -21698,7 +22374,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f96c161f8bab289573e1d4a6cf9dc0fbf3212276)
 ### Added support for importing one of more DID's Issue #84
 
-> Commit: [f96c161f8bab289573e1d4a6cf9dc0fbf3212276](https://git.flyball.co/dsiprouter/enterprise/commit/f96c161f8bab289573e1d4a6cf9dc0fbf3212276)  
+> Commit: [f96c161f8bab289573e1d4a6cf9dc0fbf3212276](https://github.com/jcornwell-river/dsiprouter/commit/f96c161f8bab289573e1d4a6cf9dc0fbf3212276)  
 > Date: Thu, 1 Nov 2018 04:31:47 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -21713,7 +22389,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25b110bef1346ae693673afaa2a04553faf99952)
 ### Added support for sorting, searching and pagination to the domain page.  This sort can also be added to other pages as well since the library is now added Issue #84
 
-> Commit: [25b110bef1346ae693673afaa2a04553faf99952](https://git.flyball.co/dsiprouter/enterprise/commit/25b110bef1346ae693673afaa2a04553faf99952)  
+> Commit: [25b110bef1346ae693673afaa2a04553faf99952](https://github.com/jcornwell-river/dsiprouter/commit/25b110bef1346ae693673afaa2a04553faf99952)  
 > Date: Tue, 30 Oct 2018 04:07:50 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -21728,7 +22404,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 244bda0fd487d67b3d5e42c2b1b6a9f8e53dae97)
 ### Update CONTRIBUTING.md
 
-> Commit: [244bda0fd487d67b3d5e42c2b1b6a9f8e53dae97](https://git.flyball.co/dsiprouter/enterprise/commit/244bda0fd487d67b3d5e42c2b1b6a9f8e53dae97)  
+> Commit: [244bda0fd487d67b3d5e42c2b1b6a9f8e53dae97](https://github.com/jcornwell-river/dsiprouter/commit/244bda0fd487d67b3d5e42c2b1b6a9f8e53dae97)  
 > Date: Wed, 24 Oct 2018 16:00:59 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21743,7 +22419,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 194beeaf4cb72efefce02a69c6c48f5e9463419e)
 ### Update CONTRIBUTING.md
 
-> Commit: [194beeaf4cb72efefce02a69c6c48f5e9463419e](https://git.flyball.co/dsiprouter/enterprise/commit/194beeaf4cb72efefce02a69c6c48f5e9463419e)  
+> Commit: [194beeaf4cb72efefce02a69c6c48f5e9463419e](https://github.com/jcornwell-river/dsiprouter/commit/194beeaf4cb72efefce02a69c6c48f5e9463419e)  
 > Date: Wed, 24 Oct 2018 15:59:39 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21758,7 +22434,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bbe0919f659d081ddaf07890b41a56854bd8660d)
 ### Added Domain Management features and added a new approach to adding modules to dSIPRouter, which will be documented in the Contribution Guide.
 
-> Commit: [bbe0919f659d081ddaf07890b41a56854bd8660d](https://git.flyball.co/dsiprouter/enterprise/commit/bbe0919f659d081ddaf07890b41a56854bd8660d)  
+> Commit: [bbe0919f659d081ddaf07890b41a56854bd8660d](https://github.com/jcornwell-river/dsiprouter/commit/bbe0919f659d081ddaf07890b41a56854bd8660d)  
 > Date: Mon, 22 Oct 2018 09:26:48 +0000  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -21775,7 +22451,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 789683f2bedd0a502e76e19ee2f7dce42023dcae)
 ### Merge asterisk-realtime and latest updates
 
-> Commit: [789683f2bedd0a502e76e19ee2f7dce42023dcae](https://git.flyball.co/dsiprouter/enterprise/commit/789683f2bedd0a502e76e19ee2f7dce42023dcae)  
+> Commit: [789683f2bedd0a502e76e19ee2f7dce42023dcae](https://github.com/jcornwell-river/dsiprouter/commit/789683f2bedd0a502e76e19ee2f7dce42023dcae)  
 > Date: Sun, 30 Sep 2018 20:14:59 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -21810,7 +22486,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e39f4cb5aa9266b913b79089b6166a1c586a726d)
 ### Create CONTRIBUTING.md
 
-> Commit: [e39f4cb5aa9266b913b79089b6166a1c586a726d](https://git.flyball.co/dsiprouter/enterprise/commit/e39f4cb5aa9266b913b79089b6166a1c586a726d)  
+> Commit: [e39f4cb5aa9266b913b79089b6166a1c586a726d](https://github.com/jcornwell-river/dsiprouter/commit/e39f4cb5aa9266b913b79089b6166a1c586a726d)  
 > Date: Sun, 30 Sep 2018 00:10:20 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -21826,7 +22502,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1fd189ee59969884f6d0872df1aa30d3f39ce5b2)
 ### Added support for working with a Kamailio subscriber table and tested it against FreePBX
 
-> Commit: [1fd189ee59969884f6d0872df1aa30d3f39ce5b2](https://git.flyball.co/dsiprouter/enterprise/commit/1fd189ee59969884f6d0872df1aa30d3f39ce5b2)  
+> Commit: [1fd189ee59969884f6d0872df1aa30d3f39ce5b2](https://github.com/jcornwell-river/dsiprouter/commit/1fd189ee59969884f6d0872df1aa30d3f39ce5b2)  
 > Date: Wed, 26 Sep 2018 14:17:05 -0400  
 > Author: root (root@kamailio3.kamailo3@lhsip.com)  
 > Committer: root (root@kamailio3.kamailo3@lhsip.com)  
@@ -21841,7 +22517,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 43246b5426badd72a5b2ac690f2d78ca14271666)
 ### Added support for enriching sip headers and added record_route support
 
-> Commit: [43246b5426badd72a5b2ac690f2d78ca14271666](https://git.flyball.co/dsiprouter/enterprise/commit/43246b5426badd72a5b2ac690f2d78ca14271666)  
+> Commit: [43246b5426badd72a5b2ac690f2d78ca14271666](https://github.com/jcornwell-river/dsiprouter/commit/43246b5426badd72a5b2ac690f2d78ca14271666)  
 > Date: Mon, 24 Sep 2018 12:46:52 +0200  
 > Author: root (root@reg-01.voipmuch.com)  
 > Committer: root (root@reg-01.voipmuch.com)  
@@ -21856,7 +22532,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4556d480be5c0c11d7c91152bbbbe08958b6f02d)
 ### Using sippasswd field within Asterisk Realtime to validate user passwords
 
-> Commit: [4556d480be5c0c11d7c91152bbbbe08958b6f02d](https://git.flyball.co/dsiprouter/enterprise/commit/4556d480be5c0c11d7c91152bbbbe08958b6f02d)  
+> Commit: [4556d480be5c0c11d7c91152bbbbe08958b6f02d](https://github.com/jcornwell-river/dsiprouter/commit/4556d480be5c0c11d7c91152bbbbe08958b6f02d)  
 > Date: Mon, 24 Sep 2018 09:59:23 +0200  
 > Author: root (root@reg-01.voipmuch.com)  
 > Committer: root (root@reg-01.voipmuch.com)  
@@ -21871,7 +22547,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3027ebd0011ebac64e8d8665ae5078500c72e921)
 ### weezy was specified instead of stretch
 
-> Commit: [3027ebd0011ebac64e8d8665ae5078500c72e921](https://git.flyball.co/dsiprouter/enterprise/commit/3027ebd0011ebac64e8d8665ae5078500c72e921)  
+> Commit: [3027ebd0011ebac64e8d8665ae5078500c72e921](https://github.com/jcornwell-river/dsiprouter/commit/3027ebd0011ebac64e8d8665ae5078500c72e921)  
 > Date: Sun, 23 Sep 2018 18:50:20 +0200  
 > Author: root (root@reg-01.voipmuch.com)  
 > Committer: root (root@reg-01.voipmuch.com)  
@@ -21886,7 +22562,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9e9755bde5835ae4d842741b6b4071b8e1c43799)
 ### Initial commit for Asterisk Realtime Support
 
-> Commit: [9e9755bde5835ae4d842741b6b4071b8e1c43799](https://git.flyball.co/dsiprouter/enterprise/commit/9e9755bde5835ae4d842741b6b4071b8e1c43799)  
+> Commit: [9e9755bde5835ae4d842741b6b4071b8e1c43799](https://github.com/jcornwell-river/dsiprouter/commit/9e9755bde5835ae4d842741b6b4071b8e1c43799)  
 > Date: Sun, 23 Sep 2018 15:27:06 +0000  
 > Author: root (root@dsiprouter-dev.localdomain)  
 > Committer: root (root@dsiprouter-dev.localdomain)  
@@ -21901,7 +22577,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 83936bb0cbfff957a846d55acac27b2a2c1d8cd9)
 ### Add CentOS support v0.51
 
-> Commit: [83936bb0cbfff957a846d55acac27b2a2c1d8cd9](https://git.flyball.co/dsiprouter/enterprise/commit/83936bb0cbfff957a846d55acac27b2a2c1d8cd9)  
+> Commit: [83936bb0cbfff957a846d55acac27b2a2c1d8cd9](https://github.com/jcornwell-river/dsiprouter/commit/83936bb0cbfff957a846d55acac27b2a2c1d8cd9)  
 > Date: Mon, 10 Sep 2018 20:15:22 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -21938,7 +22614,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0cb7af60b073f8ecd78beafdb13cc540e90a2a6d)
 ### Changed the default role in Kamailio to '' for all
 
-> Commit: [0cb7af60b073f8ecd78beafdb13cc540e90a2a6d](https://git.flyball.co/dsiprouter/enterprise/commit/0cb7af60b073f8ecd78beafdb13cc540e90a2a6d)  
+> Commit: [0cb7af60b073f8ecd78beafdb13cc540e90a2a6d](https://github.com/jcornwell-river/dsiprouter/commit/0cb7af60b073f8ecd78beafdb13cc540e90a2a6d)  
 > Date: Fri, 7 Sep 2018 01:03:43 -0500  
 > Author: root (root@969092-extapp1.inemsoft.com)  
 > Committer: root (root@969092-extapp1.inemsoft.com)  
@@ -21953,7 +22629,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1c9d98e912dcd04069c0fed2d7680153a97dc42b)
 ### Raw fixes for centos 7 support
 
-> Commit: [1c9d98e912dcd04069c0fed2d7680153a97dc42b](https://git.flyball.co/dsiprouter/enterprise/commit/1c9d98e912dcd04069c0fed2d7680153a97dc42b)  
+> Commit: [1c9d98e912dcd04069c0fed2d7680153a97dc42b](https://github.com/jcornwell-river/dsiprouter/commit/1c9d98e912dcd04069c0fed2d7680153a97dc42b)  
 > Date: Fri, 7 Sep 2018 00:05:37 -0500  
 > Author: root (root@969092-extapp1.inemsoft.com)  
 > Committer: root (root@969092-extapp1.inemsoft.com)  
@@ -21968,7 +22644,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d0b5c970a246391e175cd1762138a35d35dc74da)
 ### Adding support for centos 7
 
-> Commit: [d0b5c970a246391e175cd1762138a35d35dc74da](https://git.flyball.co/dsiprouter/enterprise/commit/d0b5c970a246391e175cd1762138a35d35dc74da)  
+> Commit: [d0b5c970a246391e175cd1762138a35d35dc74da](https://github.com/jcornwell-river/dsiprouter/commit/d0b5c970a246391e175cd1762138a35d35dc74da)  
 > Date: Thu, 6 Sep 2018 17:54:35 -0500  
 > Author: root (root@969092-extapp1.inemsoft.com)  
 > Committer: root (root@969092-extapp1.inemsoft.com)  
@@ -21983,7 +22659,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f06d26c7ec49e4cb3e44c3f4ce2696562cea8612)
 ### Added support for centos 7
 
-> Commit: [f06d26c7ec49e4cb3e44c3f4ce2696562cea8612](https://git.flyball.co/dsiprouter/enterprise/commit/f06d26c7ec49e4cb3e44c3f4ce2696562cea8612)  
+> Commit: [f06d26c7ec49e4cb3e44c3f4ce2696562cea8612](https://github.com/jcornwell-river/dsiprouter/commit/f06d26c7ec49e4cb3e44c3f4ce2696562cea8612)  
 > Date: Thu, 6 Sep 2018 17:20:57 -0500  
 > Author: root (root@969092-extapp1.inemsoft.com)  
 > Committer: root (root@969092-extapp1.inemsoft.com)  
@@ -21998,7 +22674,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0aea024cd5bb0fdfbfc9a757c7a95e53977d27d7)
 ### Adding support back for centOS 7
 
-> Commit: [0aea024cd5bb0fdfbfc9a757c7a95e53977d27d7](https://git.flyball.co/dsiprouter/enterprise/commit/0aea024cd5bb0fdfbfc9a757c7a95e53977d27d7)  
+> Commit: [0aea024cd5bb0fdfbfc9a757c7a95e53977d27d7](https://github.com/jcornwell-river/dsiprouter/commit/0aea024cd5bb0fdfbfc9a757c7a95e53977d27d7)  
 > Date: Thu, 6 Sep 2018 17:03:58 -0500  
 > Author: root (root@969092-extapp1.inemsoft.com)  
 > Committer: root (root@969092-extapp1.inemsoft.com)  
@@ -22013,7 +22689,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 21818f07eadc647bf227fa3ba2ccad0fe81195f5)
 ### Provided comments in settings.py and added support for giving dSIPRouter roles
 
-> Commit: [21818f07eadc647bf227fa3ba2ccad0fe81195f5](https://git.flyball.co/dsiprouter/enterprise/commit/21818f07eadc647bf227fa3ba2ccad0fe81195f5)  
+> Commit: [21818f07eadc647bf227fa3ba2ccad0fe81195f5](https://github.com/jcornwell-river/dsiprouter/commit/21818f07eadc647bf227fa3ba2ccad0fe81195f5)  
 > Date: Wed, 5 Sep 2018 06:54:27 -0400  
 > Author: root (root@kamailio3.kamailo3@lhsip.com)  
 > Committer: root (root@kamailio3.kamailo3@lhsip.com)  
@@ -22028,7 +22704,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0df96f063ed8583a16434c58a09761d65ab1aa45)
 ### Added support for Roles.  Now a dSIPRouter instance can have a Role in the tolopology
 
-> Commit: [0df96f063ed8583a16434c58a09761d65ab1aa45](https://git.flyball.co/dsiprouter/enterprise/commit/0df96f063ed8583a16434c58a09761d65ab1aa45)  
+> Commit: [0df96f063ed8583a16434c58a09761d65ab1aa45](https://github.com/jcornwell-river/dsiprouter/commit/0df96f063ed8583a16434c58a09761d65ab1aa45)  
 > Date: Tue, 4 Sep 2018 04:40:53 -0400  
 > Author: root (root@kamailio2.lhsip.com)  
 > Committer: root (root@kamailio2.lhsip.com)  
@@ -22043,7 +22719,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74fbcd830f062b37579daedb439cd29f8fc3426e)
 ### Fixed an issue with SSL properties not being pulled corrected from the settings.py file
 
-> Commit: [74fbcd830f062b37579daedb439cd29f8fc3426e](https://git.flyball.co/dsiprouter/enterprise/commit/74fbcd830f062b37579daedb439cd29f8fc3426e)  
+> Commit: [74fbcd830f062b37579daedb439cd29f8fc3426e](https://github.com/jcornwell-river/dsiprouter/commit/74fbcd830f062b37579daedb439cd29f8fc3426e)  
 > Date: Tue, 4 Sep 2018 03:14:59 -0400  
 > Author: root (root@kamailio3.kamailo3@lhsip.com)  
 > Committer: root (root@kamailio3.kamailo3@lhsip.com)  
@@ -22058,7 +22734,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d43060eae83e900f29ed87ec7ecc7c0970ddf36)
 ### Fixed an issue with SSL properties not being pulled corrected from the settings.py file
 
-> Commit: [5d43060eae83e900f29ed87ec7ecc7c0970ddf36](https://git.flyball.co/dsiprouter/enterprise/commit/5d43060eae83e900f29ed87ec7ecc7c0970ddf36)  
+> Commit: [5d43060eae83e900f29ed87ec7ecc7c0970ddf36](https://github.com/jcornwell-river/dsiprouter/commit/5d43060eae83e900f29ed87ec7ecc7c0970ddf36)  
 > Date: Tue, 4 Sep 2018 03:11:02 -0400  
 > Author: root (root@kamailio3.kamailo3@lhsip.com)  
 > Committer: root (root@kamailio3.kamailo3@lhsip.com)  
@@ -22073,7 +22749,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e8ca9ef732a81609097a40e66cf4595607dc01ad)
 ### Changes to support single tenant
 
-> Commit: [e8ca9ef732a81609097a40e66cf4595607dc01ad](https://git.flyball.co/dsiprouter/enterprise/commit/e8ca9ef732a81609097a40e66cf4595607dc01ad)  
+> Commit: [e8ca9ef732a81609097a40e66cf4595607dc01ad](https://github.com/jcornwell-river/dsiprouter/commit/e8ca9ef732a81609097a40e66cf4595607dc01ad)  
 > Date: Tue, 4 Sep 2018 03:00:25 -0400  
 > Author: root (root@kamailio3.kamailo3@lhsip.com)  
 > Committer: root (root@kamailio3.kamailo3@lhsip.com)  
@@ -22088,7 +22764,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a227c1647381c5c70524fa225454e67bbf0eab51)
 ### Fixed #71 - Added support for GUI Session timeout activity Fixed #72 - Cleaned up exception code around database connection
 
-> Commit: [a227c1647381c5c70524fa225454e67bbf0eab51](https://git.flyball.co/dsiprouter/enterprise/commit/a227c1647381c5c70524fa225454e67bbf0eab51)  
+> Commit: [a227c1647381c5c70524fa225454e67bbf0eab51](https://github.com/jcornwell-river/dsiprouter/commit/a227c1647381c5c70524fa225454e67bbf0eab51)  
 > Date: Sun, 2 Sep 2018 14:20:45 +0000  
 > Author: root (root@demo-dsiprouter.localdomain)  
 > Committer: root (root@demo-dsiprouter.localdomain)  
@@ -22103,7 +22779,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4482f38fa394bff1d040d7af6ffc3197c8cc2fe8)
 ### Freepbx & Flowroute Feature Release v0.51
 
-> Commit: [4482f38fa394bff1d040d7af6ffc3197c8cc2fe8](https://git.flyball.co/dsiprouter/enterprise/commit/4482f38fa394bff1d040d7af6ffc3197c8cc2fe8)  
+> Commit: [4482f38fa394bff1d040d7af6ffc3197c8cc2fe8](https://github.com/jcornwell-river/dsiprouter/commit/4482f38fa394bff1d040d7af6ffc3197c8cc2fe8)  
 > Date: Tue, 28 Aug 2018 23:59:18 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22135,7 +22811,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae9c8c4c1620295fefa2f6ed6c9204f64e796a5f)
 ### Updated the logo's
 
-> Commit: [ae9c8c4c1620295fefa2f6ed6c9204f64e796a5f](https://git.flyball.co/dsiprouter/enterprise/commit/ae9c8c4c1620295fefa2f6ed6c9204f64e796a5f)  
+> Commit: [ae9c8c4c1620295fefa2f6ed6c9204f64e796a5f](https://github.com/jcornwell-river/dsiprouter/commit/ae9c8c4c1620295fefa2f6ed6c9204f64e796a5f)  
 > Date: Tue, 28 Aug 2018 14:00:15 +0000  
 > Author: root (root@dsiprouter-v50-final.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22150,7 +22826,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 34119ac35b82766fbb66f4a3fad07773c20ee08e)
 ### Fixed the PBX screen to ensure that ip auth is working, added fusionpbx as the default fusionpbx database username
 
-> Commit: [34119ac35b82766fbb66f4a3fad07773c20ee08e](https://git.flyball.co/dsiprouter/enterprise/commit/34119ac35b82766fbb66f4a3fad07773c20ee08e)  
+> Commit: [34119ac35b82766fbb66f4a3fad07773c20ee08e](https://github.com/jcornwell-river/dsiprouter/commit/34119ac35b82766fbb66f4a3fad07773c20ee08e)  
 > Date: Tue, 28 Aug 2018 12:50:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22165,7 +22841,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ac97aa65f331a0007146d31343605d7cff480947)
 ### Fixed issue with main navigation not showing the the proper color when a navigation button is not clicked
 
-> Commit: [ac97aa65f331a0007146d31343605d7cff480947](https://git.flyball.co/dsiprouter/enterprise/commit/ac97aa65f331a0007146d31343605d7cff480947)  
+> Commit: [ac97aa65f331a0007146d31343605d7cff480947](https://github.com/jcornwell-river/dsiprouter/commit/ac97aa65f331a0007146d31343605d7cff480947)  
 > Date: Mon, 27 Aug 2018 12:03:09 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22180,7 +22856,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 32eb94145b2c89bbcf1ac4059578d99a1905c64b)
 ### Updated the login screen
 
-> Commit: [32eb94145b2c89bbcf1ac4059578d99a1905c64b](https://git.flyball.co/dsiprouter/enterprise/commit/32eb94145b2c89bbcf1ac4059578d99a1905c64b)  
+> Commit: [32eb94145b2c89bbcf1ac4059578d99a1905c64b](https://github.com/jcornwell-river/dsiprouter/commit/32eb94145b2c89bbcf1ac4059578d99a1905c64b)  
 > Date: Mon, 27 Aug 2018 11:15:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22195,7 +22871,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8e1cdf4240c9f196cc69263c247ee7815810b5e8)
 ### Fixed the issue with curl not returning the external ip address.  I changed out the URL that was being used to get the external ip address
 
-> Commit: [8e1cdf4240c9f196cc69263c247ee7815810b5e8](https://git.flyball.co/dsiprouter/enterprise/commit/8e1cdf4240c9f196cc69263c247ee7815810b5e8)  
+> Commit: [8e1cdf4240c9f196cc69263c247ee7815810b5e8](https://github.com/jcornwell-river/dsiprouter/commit/8e1cdf4240c9f196cc69263c247ee7815810b5e8)  
 > Date: Sun, 26 Aug 2018 02:50:35 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22210,7 +22886,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 159d6005413754434b117140ab19ca173a115ab5)
 ### Cleaned up a duplicate install function
 
-> Commit: [159d6005413754434b117140ab19ca173a115ab5](https://git.flyball.co/dsiprouter/enterprise/commit/159d6005413754434b117140ab19ca173a115ab5)  
+> Commit: [159d6005413754434b117140ab19ca173a115ab5](https://github.com/jcornwell-river/dsiprouter/commit/159d6005413754434b117140ab19ca173a115ab5)  
 > Date: Fri, 24 Aug 2018 11:56:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22225,7 +22901,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9db51f765cdf90024c8ecabba4031d8e5142717f)
 ### Revert "Revert "Add UI bug fix commits to v0.50""
 
-> Commit: [9db51f765cdf90024c8ecabba4031d8e5142717f](https://git.flyball.co/dsiprouter/enterprise/commit/9db51f765cdf90024c8ecabba4031d8e5142717f)  
+> Commit: [9db51f765cdf90024c8ecabba4031d8e5142717f](https://github.com/jcornwell-river/dsiprouter/commit/9db51f765cdf90024c8ecabba4031d8e5142717f)  
 > Date: Thu, 23 Aug 2018 17:00:25 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22240,7 +22916,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f0c36be712f69718f3757c8bf3a349cc75f0b61d)
 ### Revert "Add UI bug fix commits to v0.50"
 
-> Commit: [f0c36be712f69718f3757c8bf3a349cc75f0b61d](https://git.flyball.co/dsiprouter/enterprise/commit/f0c36be712f69718f3757c8bf3a349cc75f0b61d)  
+> Commit: [f0c36be712f69718f3757c8bf3a349cc75f0b61d](https://github.com/jcornwell-river/dsiprouter/commit/f0c36be712f69718f3757c8bf3a349cc75f0b61d)  
 > Date: Thu, 23 Aug 2018 10:50:30 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22255,7 +22931,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d40bb4dea60fcbfae7e84a1e8b2669ab31d04944)
 ### Updated the logo's
 
-> Commit: [d40bb4dea60fcbfae7e84a1e8b2669ab31d04944](https://git.flyball.co/dsiprouter/enterprise/commit/d40bb4dea60fcbfae7e84a1e8b2669ab31d04944)  
+> Commit: [d40bb4dea60fcbfae7e84a1e8b2669ab31d04944](https://github.com/jcornwell-river/dsiprouter/commit/d40bb4dea60fcbfae7e84a1e8b2669ab31d04944)  
 > Date: Tue, 28 Aug 2018 14:00:15 +0000  
 > Author: root (root@dsiprouter-v50-final.localdomain)  
 > Committer: root (root@dsiprouter-v50-final.localdomain)  
@@ -22270,7 +22946,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2043e95408976a879bc153e9f72725fa43e79f71)
 ### Fixed the PBX screen to ensure that ip auth is working, added fusionpbx as the default fusionpbx database username
 
-> Commit: [2043e95408976a879bc153e9f72725fa43e79f71](https://git.flyball.co/dsiprouter/enterprise/commit/2043e95408976a879bc153e9f72725fa43e79f71)  
+> Commit: [2043e95408976a879bc153e9f72725fa43e79f71](https://github.com/jcornwell-river/dsiprouter/commit/2043e95408976a879bc153e9f72725fa43e79f71)  
 > Date: Tue, 28 Aug 2018 12:50:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: root (root@dsiprouter-v050.localdomain)  
@@ -22285,7 +22961,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8a86749753e83b9516beb9224629cba4c142bf9e)
 ### Fixed issue with main navigation not showing the the proper color when a navigation button is not clicked
 
-> Commit: [8a86749753e83b9516beb9224629cba4c142bf9e](https://git.flyball.co/dsiprouter/enterprise/commit/8a86749753e83b9516beb9224629cba4c142bf9e)  
+> Commit: [8a86749753e83b9516beb9224629cba4c142bf9e](https://github.com/jcornwell-river/dsiprouter/commit/8a86749753e83b9516beb9224629cba4c142bf9e)  
 > Date: Mon, 27 Aug 2018 12:03:09 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: root (root@dsiprouter-v050.localdomain)  
@@ -22300,7 +22976,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce9ef24adf7c44c087c49b85cd1fb2c1f6fd074b)
 ### Updated the login screen
 
-> Commit: [ce9ef24adf7c44c087c49b85cd1fb2c1f6fd074b](https://git.flyball.co/dsiprouter/enterprise/commit/ce9ef24adf7c44c087c49b85cd1fb2c1f6fd074b)  
+> Commit: [ce9ef24adf7c44c087c49b85cd1fb2c1f6fd074b](https://github.com/jcornwell-river/dsiprouter/commit/ce9ef24adf7c44c087c49b85cd1fb2c1f6fd074b)  
 > Date: Mon, 27 Aug 2018 11:15:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: root (root@dsiprouter-v050.localdomain)  
@@ -22315,7 +22991,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 34b15687a0ee6fb6e529d3d652b714be9d53c230)
 ### Fixed the issue with curl not returning the external ip address.  I changed out the URL that was being used to get the external ip address
 
-> Commit: [34b15687a0ee6fb6e529d3d652b714be9d53c230](https://git.flyball.co/dsiprouter/enterprise/commit/34b15687a0ee6fb6e529d3d652b714be9d53c230)  
+> Commit: [34b15687a0ee6fb6e529d3d652b714be9d53c230](https://github.com/jcornwell-river/dsiprouter/commit/34b15687a0ee6fb6e529d3d652b714be9d53c230)  
 > Date: Sun, 26 Aug 2018 02:50:35 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: root (root@dsiprouter-v050.localdomain)  
@@ -22330,7 +23006,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a76a8ec50d485591f24f1218773edb766d9feb4e)
 ### Cleaned up a duplicate install function
 
-> Commit: [a76a8ec50d485591f24f1218773edb766d9feb4e](https://git.flyball.co/dsiprouter/enterprise/commit/a76a8ec50d485591f24f1218773edb766d9feb4e)  
+> Commit: [a76a8ec50d485591f24f1218773edb766d9feb4e](https://github.com/jcornwell-river/dsiprouter/commit/a76a8ec50d485591f24f1218773edb766d9feb4e)  
 > Date: Fri, 24 Aug 2018 11:56:03 +0000  
 > Author: root (root@dsiprouter-v050.localdomain)  
 > Committer: root (root@dsiprouter-v050.localdomain)  
@@ -22345,7 +23021,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5ecec325b90e29462174bf36aec44fb3ac57bf13)
 ### Revert "Revert "Add UI bug fix commits to v0.50""
 
-> Commit: [5ecec325b90e29462174bf36aec44fb3ac57bf13](https://git.flyball.co/dsiprouter/enterprise/commit/5ecec325b90e29462174bf36aec44fb3ac57bf13)  
+> Commit: [5ecec325b90e29462174bf36aec44fb3ac57bf13](https://github.com/jcornwell-river/dsiprouter/commit/5ecec325b90e29462174bf36aec44fb3ac57bf13)  
 > Date: Thu, 23 Aug 2018 17:00:25 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22360,7 +23036,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 62c1ba5ad7c5b74488f9f8c4707504202ecaa498)
 ### Revert "Add UI bug fix commits to v0.50"
 
-> Commit: [62c1ba5ad7c5b74488f9f8c4707504202ecaa498](https://git.flyball.co/dsiprouter/enterprise/commit/62c1ba5ad7c5b74488f9f8c4707504202ecaa498)  
+> Commit: [62c1ba5ad7c5b74488f9f8c4707504202ecaa498](https://github.com/jcornwell-river/dsiprouter/commit/62c1ba5ad7c5b74488f9f8c4707504202ecaa498)  
 > Date: Thu, 23 Aug 2018 10:50:30 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22375,7 +23051,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 24af07468760a7d58cafadc94ff648a8d279aa34)
 ### UI Bug Fixes in v0.50 continued..
 
-> Commit: [24af07468760a7d58cafadc94ff648a8d279aa34](https://git.flyball.co/dsiprouter/enterprise/commit/24af07468760a7d58cafadc94ff648a8d279aa34)  
+> Commit: [24af07468760a7d58cafadc94ff648a8d279aa34](https://github.com/jcornwell-river/dsiprouter/commit/24af07468760a7d58cafadc94ff648a8d279aa34)  
 > Date: Mon, 13 Aug 2018 17:05:18 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22397,7 +23073,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION faeec111a401183da874d0feaaa63104da45f07a)
 ### UI Bug Fixes in v0.50
 
-> Commit: [faeec111a401183da874d0feaaa63104da45f07a](https://git.flyball.co/dsiprouter/enterprise/commit/faeec111a401183da874d0feaaa63104da45f07a)  
+> Commit: [faeec111a401183da874d0feaaa63104da45f07a](https://github.com/jcornwell-river/dsiprouter/commit/faeec111a401183da874d0feaaa63104da45f07a)  
 > Date: Fri, 10 Aug 2018 19:23:30 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22416,7 +23092,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eaa5c1d1256c2c700621d7ab9fbefb692217e93c)
 ### Fix runtime error
 
-> Commit: [eaa5c1d1256c2c700621d7ab9fbefb692217e93c](https://git.flyball.co/dsiprouter/enterprise/commit/eaa5c1d1256c2c700621d7ab9fbefb692217e93c)  
+> Commit: [eaa5c1d1256c2c700621d7ab9fbefb692217e93c](https://github.com/jcornwell-river/dsiprouter/commit/eaa5c1d1256c2c700621d7ab9fbefb692217e93c)  
 > Date: Thu, 9 Aug 2018 14:07:11 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22434,7 +23110,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 604f8b1ed33a7c3fa93889ed77433fa8396348c2)
 ### Squash Commits and Merge with Master
 
-> Commit: [604f8b1ed33a7c3fa93889ed77433fa8396348c2](https://git.flyball.co/dsiprouter/enterprise/commit/604f8b1ed33a7c3fa93889ed77433fa8396348c2)  
+> Commit: [604f8b1ed33a7c3fa93889ed77433fa8396348c2](https://github.com/jcornwell-river/dsiprouter/commit/604f8b1ed33a7c3fa93889ed77433fa8396348c2)  
 > Date: Thu, 9 Aug 2018 11:35:31 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -22570,7 +23246,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 72e7c725860c2656f2d24cb850b2535aed6c1f7d)
 ### Update README.md
 
-> Commit: [72e7c725860c2656f2d24cb850b2535aed6c1f7d](https://git.flyball.co/dsiprouter/enterprise/commit/72e7c725860c2656f2d24cb850b2535aed6c1f7d)  
+> Commit: [72e7c725860c2656f2d24cb850b2535aed6c1f7d](https://github.com/jcornwell-river/dsiprouter/commit/72e7c725860c2656f2d24cb850b2535aed6c1f7d)  
 > Date: Fri, 6 Jul 2018 09:09:59 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22585,7 +23261,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 65720cf08d35968c63c7b85b67fe7ad4f7c0b07a)
 ### Update README.md
 
-> Commit: [65720cf08d35968c63c7b85b67fe7ad4f7c0b07a](https://git.flyball.co/dsiprouter/enterprise/commit/65720cf08d35968c63c7b85b67fe7ad4f7c0b07a)  
+> Commit: [65720cf08d35968c63c7b85b67fe7ad4f7c0b07a](https://github.com/jcornwell-river/dsiprouter/commit/65720cf08d35968c63c7b85b67fe7ad4f7c0b07a)  
 > Date: Fri, 6 Jul 2018 09:09:05 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22600,7 +23276,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0244a9e4fd8a186d2a232abe632e75bb33d946ba)
 ### Update kamailio51_dsiprouter.cfg
 
-> Commit: [0244a9e4fd8a186d2a232abe632e75bb33d946ba](https://git.flyball.co/dsiprouter/enterprise/commit/0244a9e4fd8a186d2a232abe632e75bb33d946ba)  
+> Commit: [0244a9e4fd8a186d2a232abe632e75bb33d946ba](https://github.com/jcornwell-river/dsiprouter/commit/0244a9e4fd8a186d2a232abe632e75bb33d946ba)  
 > Date: Tue, 3 Jul 2018 17:09:44 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22615,7 +23291,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b67161169bbba39abb6327c9cefb1ee28961e743)
 ### Removed the uk_cfk index
 
-> Commit: [b67161169bbba39abb6327c9cefb1ee28961e743](https://git.flyball.co/dsiprouter/enterprise/commit/b67161169bbba39abb6327c9cefb1ee28961e743)  
+> Commit: [b67161169bbba39abb6327c9cefb1ee28961e743](https://github.com/jcornwell-river/dsiprouter/commit/b67161169bbba39abb6327c9cefb1ee28961e743)  
 > Date: Mon, 2 Jul 2018 21:21:48 +0000  
 > Author: root (root@dsiprouter-dev.localdomain)  
 > Committer: root (root@dsiprouter-dev.localdomain)  
@@ -22630,7 +23306,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 057a9c10c0a2da25d237e953f34bb05bf417fc4e)
 ### Removed the uk_cfk index
 
-> Commit: [057a9c10c0a2da25d237e953f34bb05bf417fc4e](https://git.flyball.co/dsiprouter/enterprise/commit/057a9c10c0a2da25d237e953f34bb05bf417fc4e)  
+> Commit: [057a9c10c0a2da25d237e953f34bb05bf417fc4e](https://github.com/jcornwell-river/dsiprouter/commit/057a9c10c0a2da25d237e953f34bb05bf417fc4e)  
 > Date: Mon, 2 Jul 2018 21:21:48 +0000  
 > Author: root (root@dsiprouter-dev.localdomain)  
 > Committer: root (root@dsiprouter-dev.localdomain)  
@@ -22645,7 +23321,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7cfe35f51f54199b21541dd5d1d171c11d1bea3b)
 ### Update README.md
 
-> Commit: [7cfe35f51f54199b21541dd5d1d171c11d1bea3b](https://git.flyball.co/dsiprouter/enterprise/commit/7cfe35f51f54199b21541dd5d1d171c11d1bea3b)  
+> Commit: [7cfe35f51f54199b21541dd5d1d171c11d1bea3b](https://github.com/jcornwell-river/dsiprouter/commit/7cfe35f51f54199b21541dd5d1d171c11d1bea3b)  
 > Date: Tue, 26 Jun 2018 04:04:27 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22660,7 +23336,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 90033f6fe351f1862ad13e937442c10814f22ca9)
 ### Update README.md
 
-> Commit: [90033f6fe351f1862ad13e937442c10814f22ca9](https://git.flyball.co/dsiprouter/enterprise/commit/90033f6fe351f1862ad13e937442c10814f22ca9)  
+> Commit: [90033f6fe351f1862ad13e937442c10814f22ca9](https://github.com/jcornwell-river/dsiprouter/commit/90033f6fe351f1862ad13e937442c10814f22ca9)  
 > Date: Tue, 26 Jun 2018 04:03:13 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22675,7 +23351,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d98c01c94caa8fb1196ecd99a133f147a9d77e32)
 ### Update README.md
 
-> Commit: [d98c01c94caa8fb1196ecd99a133f147a9d77e32](https://git.flyball.co/dsiprouter/enterprise/commit/d98c01c94caa8fb1196ecd99a133f147a9d77e32)  
+> Commit: [d98c01c94caa8fb1196ecd99a133f147a9d77e32](https://github.com/jcornwell-river/dsiprouter/commit/d98c01c94caa8fb1196ecd99a133f147a9d77e32)  
 > Date: Tue, 26 Jun 2018 03:57:51 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -22690,7 +23366,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 533adb9aed63672d170d8e7c75c8ffb694249d10)
 ### Fixed the dSIPRouter logo
 
-> Commit: [533adb9aed63672d170d8e7c75c8ffb694249d10](https://git.flyball.co/dsiprouter/enterprise/commit/533adb9aed63672d170d8e7c75c8ffb694249d10)  
+> Commit: [533adb9aed63672d170d8e7c75c8ffb694249d10](https://github.com/jcornwell-river/dsiprouter/commit/533adb9aed63672d170d8e7c75c8ffb694249d10)  
 > Date: Sun, 24 Jun 2018 23:47:17 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22705,7 +23381,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb69b92f8964cf16740d8a4c6cc86f7c40e2a613)
 ### Removed install script logic out for right now
 
-> Commit: [eb69b92f8964cf16740d8a4c6cc86f7c40e2a613](https://git.flyball.co/dsiprouter/enterprise/commit/eb69b92f8964cf16740d8a4c6cc86f7c40e2a613)  
+> Commit: [eb69b92f8964cf16740d8a4c6cc86f7c40e2a613](https://github.com/jcornwell-river/dsiprouter/commit/eb69b92f8964cf16740d8a4c6cc86f7c40e2a613)  
 > Date: Sun, 24 Jun 2018 22:37:43 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22720,7 +23396,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fef2d3bf8aeffef583fc9f083e2fa5b7b2fec7b6)
 ### Fixed the script
 
-> Commit: [fef2d3bf8aeffef583fc9f083e2fa5b7b2fec7b6](https://git.flyball.co/dsiprouter/enterprise/commit/fef2d3bf8aeffef583fc9f083e2fa5b7b2fec7b6)  
+> Commit: [fef2d3bf8aeffef583fc9f083e2fa5b7b2fec7b6](https://github.com/jcornwell-river/dsiprouter/commit/fef2d3bf8aeffef583fc9f083e2fa5b7b2fec7b6)  
 > Date: Sun, 24 Jun 2018 22:21:12 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22735,7 +23411,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 401acdfed4df133a6a02e753def5aa6c5283b630)
 ### Added dSIP ascii logo  after the installation process
 
-> Commit: [401acdfed4df133a6a02e753def5aa6c5283b630](https://git.flyball.co/dsiprouter/enterprise/commit/401acdfed4df133a6a02e753def5aa6c5283b630)  
+> Commit: [401acdfed4df133a6a02e753def5aa6c5283b630](https://github.com/jcornwell-river/dsiprouter/commit/401acdfed4df133a6a02e753def5aa6c5283b630)  
 > Date: Sun, 24 Jun 2018 22:19:51 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22750,7 +23426,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a737580886187327c2e34c73d21c14fb054f82bc)
 ### Fixed an issue with the function that added the firewall rule
 
-> Commit: [a737580886187327c2e34c73d21c14fb054f82bc](https://git.flyball.co/dsiprouter/enterprise/commit/a737580886187327c2e34c73d21c14fb054f82bc)  
+> Commit: [a737580886187327c2e34c73d21c14fb054f82bc](https://github.com/jcornwell-river/dsiprouter/commit/a737580886187327c2e34c73d21c14fb054f82bc)  
 > Date: Sat, 23 Jun 2018 00:02:24 +0000  
 > Author: root (root@p2.detroitpbx.com)  
 > Committer: root (root@p2.detroitpbx.com)  
@@ -22765,7 +23441,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e846c2ed168aa164bae78bac7a101d79d2728c0d)
 ### Fixed issues to support Domain Routing with FusionPBX and to support hosting images for endpoint devices like the Polycom
 
-> Commit: [e846c2ed168aa164bae78bac7a101d79d2728c0d](https://git.flyball.co/dsiprouter/enterprise/commit/e846c2ed168aa164bae78bac7a101d79d2728c0d)  
+> Commit: [e846c2ed168aa164bae78bac7a101d79d2728c0d](https://github.com/jcornwell-river/dsiprouter/commit/e846c2ed168aa164bae78bac7a101d79d2728c0d)  
 > Date: Fri, 22 Jun 2018 15:57:56 +0000  
 > Author: root (root@p1.detrotpbx.com)  
 > Committer: root (root@p1.detrotpbx.com)  
@@ -22780,7 +23456,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1f4957ca82af70f81849d113ee848db38f37fff0)
 ### Added changed to support proper BYE propagation when using Domain Routing with FusionPBX
 
-> Commit: [1f4957ca82af70f81849d113ee848db38f37fff0](https://git.flyball.co/dsiprouter/enterprise/commit/1f4957ca82af70f81849d113ee848db38f37fff0)  
+> Commit: [1f4957ca82af70f81849d113ee848db38f37fff0](https://github.com/jcornwell-river/dsiprouter/commit/1f4957ca82af70f81849d113ee848db38f37fff0)  
 > Date: Mon, 18 Jun 2018 01:00:15 +0000  
 > Author: root (root@p1.detrotpbx.com)  
 > Committer: root (root@p1.detrotpbx.com)  
@@ -22795,7 +23471,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 40b13f23a7fa7b0a9fc81002619cddc98019d1c2)
 ### Fixed an issue with a missing compiler directive and support for UPDATE SIP messages
 
-> Commit: [40b13f23a7fa7b0a9fc81002619cddc98019d1c2](https://git.flyball.co/dsiprouter/enterprise/commit/40b13f23a7fa7b0a9fc81002619cddc98019d1c2)  
+> Commit: [40b13f23a7fa7b0a9fc81002619cddc98019d1c2](https://github.com/jcornwell-river/dsiprouter/commit/40b13f23a7fa7b0a9fc81002619cddc98019d1c2)  
 > Date: Sun, 17 Jun 2018 02:18:09 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22810,7 +23486,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cc021b41837dcf733b79d92a2dfb31a63af81451)
 ### Disabled server NAT by default
 
-> Commit: [cc021b41837dcf733b79d92a2dfb31a63af81451](https://git.flyball.co/dsiprouter/enterprise/commit/cc021b41837dcf733b79d92a2dfb31a63af81451)  
+> Commit: [cc021b41837dcf733b79d92a2dfb31a63af81451](https://github.com/jcornwell-river/dsiprouter/commit/cc021b41837dcf733b79d92a2dfb31a63af81451)  
 > Date: Sat, 16 Jun 2018 09:39:13 +0000  
 > Author: root (root@ip-172-31-53-160.ec2.internal)  
 > Committer: root (root@ip-172-31-53-160.ec2.internal)  
@@ -22825,7 +23501,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4451243dad5172df0253b01c6cd4215859a4fb29)
 ### Fixed issues with SERVERNAT feature
 
-> Commit: [4451243dad5172df0253b01c6cd4215859a4fb29](https://git.flyball.co/dsiprouter/enterprise/commit/4451243dad5172df0253b01c6cd4215859a4fb29)  
+> Commit: [4451243dad5172df0253b01c6cd4215859a4fb29](https://github.com/jcornwell-river/dsiprouter/commit/4451243dad5172df0253b01c6cd4215859a4fb29)  
 > Date: Thu, 14 Jun 2018 00:58:41 -0500  
 > Author: Mack (mack@dopensource.com)  
 > Committer: Mack (mack@dopensource.com)  
@@ -22840,7 +23516,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ae4bccd75b75d6bf800cfeb8444788803c3ade2a)
 ### Fixed an issue with Outbound routes
 
-> Commit: [ae4bccd75b75d6bf800cfeb8444788803c3ade2a](https://git.flyball.co/dsiprouter/enterprise/commit/ae4bccd75b75d6bf800cfeb8444788803c3ade2a)  
+> Commit: [ae4bccd75b75d6bf800cfeb8444788803c3ade2a](https://github.com/jcornwell-river/dsiprouter/commit/ae4bccd75b75d6bf800cfeb8444788803c3ade2a)  
 > Date: Wed, 13 Jun 2018 03:42:36 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -22855,7 +23531,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c4f631d185987e98b17243f406af58941b0c0a64)
 ### Adding the javasript file for bootstrap validation
 
-> Commit: [c4f631d185987e98b17243f406af58941b0c0a64](https://git.flyball.co/dsiprouter/enterprise/commit/c4f631d185987e98b17243f406af58941b0c0a64)  
+> Commit: [c4f631d185987e98b17243f406af58941b0c0a64](https://github.com/jcornwell-river/dsiprouter/commit/c4f631d185987e98b17243f406af58941b0c0a64)  
 > Date: Wed, 13 Jun 2018 07:18:43 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22870,7 +23546,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e51f3bbcc586e59b0e7712448f9e9e1587d76b64)
 ### Fixed some issues with Javascript validation
 
-> Commit: [e51f3bbcc586e59b0e7712448f9e9e1587d76b64](https://git.flyball.co/dsiprouter/enterprise/commit/e51f3bbcc586e59b0e7712448f9e9e1587d76b64)  
+> Commit: [e51f3bbcc586e59b0e7712448f9e9e1587d76b64](https://github.com/jcornwell-river/dsiprouter/commit/e51f3bbcc586e59b0e7712448f9e9e1587d76b64)  
 > Date: Tue, 12 Jun 2018 20:16:07 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22885,7 +23561,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 247a804eef2191cf740e6c01ef03ab7bdaaca0f7)
 ### Fixed the rtpengine parameter that specifies the protocol used to communicate between Kamailio and RTPEngine
 
-> Commit: [247a804eef2191cf740e6c01ef03ab7bdaaca0f7](https://git.flyball.co/dsiprouter/enterprise/commit/247a804eef2191cf740e6c01ef03ab7bdaaca0f7)  
+> Commit: [247a804eef2191cf740e6c01ef03ab7bdaaca0f7](https://github.com/jcornwell-river/dsiprouter/commit/247a804eef2191cf740e6c01ef03ab7bdaaca0f7)  
 > Date: Tue, 12 Jun 2018 14:36:58 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -22900,7 +23576,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 99eb299b51fa3a3e2d925472900e3c55ea2d545a)
 ### Fixes #44  issues with installer and logrotate
 
-> Commit: [99eb299b51fa3a3e2d925472900e3c55ea2d545a](https://git.flyball.co/dsiprouter/enterprise/commit/99eb299b51fa3a3e2d925472900e3c55ea2d545a)  
+> Commit: [99eb299b51fa3a3e2d925472900e3c55ea2d545a](https://github.com/jcornwell-river/dsiprouter/commit/99eb299b51fa3a3e2d925472900e3c55ea2d545a)  
 > Date: Tue, 12 Jun 2018 14:16:22 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -22915,7 +23591,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION afdbb834d28964461afeb3059b2363088692311a)
 ### Fixed issue with install of SERVERNET
 
-> Commit: [afdbb834d28964461afeb3059b2363088692311a](https://git.flyball.co/dsiprouter/enterprise/commit/afdbb834d28964461afeb3059b2363088692311a)  
+> Commit: [afdbb834d28964461afeb3059b2363088692311a](https://github.com/jcornwell-river/dsiprouter/commit/afdbb834d28964461afeb3059b2363088692311a)  
 > Date: Tue, 12 Jun 2018 13:02:31 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -22930,7 +23606,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c087c50b9350c2a5e38107b9b37b7ea192c618c0)
 ### Added the 0.41 version
 
-> Commit: [c087c50b9350c2a5e38107b9b37b7ea192c618c0](https://git.flyball.co/dsiprouter/enterprise/commit/c087c50b9350c2a5e38107b9b37b7ea192c618c0)  
+> Commit: [c087c50b9350c2a5e38107b9b37b7ea192c618c0](https://github.com/jcornwell-river/dsiprouter/commit/c087c50b9350c2a5e38107b9b37b7ea192c618c0)  
 > Date: Tue, 12 Jun 2018 12:05:33 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -22945,7 +23621,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 26b951e359896d96a4ce11cc279d26de9dff854d)
 ### Fixes 51 - Fixed the update logic when an existing LCR prefix is already defined, but you want to update it
 
-> Commit: [26b951e359896d96a4ce11cc279d26de9dff854d](https://git.flyball.co/dsiprouter/enterprise/commit/26b951e359896d96a4ce11cc279d26de9dff854d)  
+> Commit: [26b951e359896d96a4ce11cc279d26de9dff854d](https://github.com/jcornwell-river/dsiprouter/commit/26b951e359896d96a4ce11cc279d26de9dff854d)  
 > Date: Sun, 10 Jun 2018 22:54:09 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22960,7 +23636,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c877002e29b69b5a1e5d54318317124e8a4d66bc)
 ### Added some comments and a record_route() when routing to PBX's
 
-> Commit: [c877002e29b69b5a1e5d54318317124e8a4d66bc](https://git.flyball.co/dsiprouter/enterprise/commit/c877002e29b69b5a1e5d54318317124e8a4d66bc)  
+> Commit: [c877002e29b69b5a1e5d54318317124e8a4d66bc](https://github.com/jcornwell-river/dsiprouter/commit/c877002e29b69b5a1e5d54318317124e8a4d66bc)  
 > Date: Sun, 10 Jun 2018 21:43:50 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22975,7 +23651,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b8f206a19ca75c25914dd7f7c1a246d9404dc235)
 ### Changed the URI to /provision
 
-> Commit: [b8f206a19ca75c25914dd7f7c1a246d9404dc235](https://git.flyball.co/dsiprouter/enterprise/commit/b8f206a19ca75c25914dd7f7c1a246d9404dc235)  
+> Commit: [b8f206a19ca75c25914dd7f7c1a246d9404dc235](https://github.com/jcornwell-river/dsiprouter/commit/b8f206a19ca75c25914dd7f7c1a246d9404dc235)  
 > Date: Sun, 10 Jun 2018 17:07:25 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -22990,7 +23666,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e4413eee1fb2a137ff9628fe4cf7863c34d199e6)
 ### Fixed an issue that was preventing the docker engine to install properly.
 
-> Commit: [e4413eee1fb2a137ff9628fe4cf7863c34d199e6](https://git.flyball.co/dsiprouter/enterprise/commit/e4413eee1fb2a137ff9628fe4cf7863c34d199e6)  
+> Commit: [e4413eee1fb2a137ff9628fe4cf7863c34d199e6](https://github.com/jcornwell-river/dsiprouter/commit/e4413eee1fb2a137ff9628fe4cf7863c34d199e6)  
 > Date: Fri, 8 Jun 2018 19:01:35 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -23005,7 +23681,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce18ec722cbd8e69d08178ef594768ee10afdc68)
 ### Fixed #51 - Added more exception handling to handle updates
 
-> Commit: [ce18ec722cbd8e69d08178ef594768ee10afdc68](https://git.flyball.co/dsiprouter/enterprise/commit/ce18ec722cbd8e69d08178ef594768ee10afdc68)  
+> Commit: [ce18ec722cbd8e69d08178ef594768ee10afdc68](https://github.com/jcornwell-river/dsiprouter/commit/ce18ec722cbd8e69d08178ef594768ee10afdc68)  
 > Date: Wed, 6 Jun 2018 18:18:13 -0400  
 > Author: root (root@siprtr-1.mercury.net)  
 > Committer: root (root@siprtr-1.mercury.net)  
@@ -23020,7 +23696,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2efb34fed0631b19312fc14e958eb79520e3066a)
 ### Fixes #52 - Added iptables-save to the list of steps needed to active FusionPBX support.  Without this option the iptables rule will not be added during the next reboot
 
-> Commit: [2efb34fed0631b19312fc14e958eb79520e3066a](https://git.flyball.co/dsiprouter/enterprise/commit/2efb34fed0631b19312fc14e958eb79520e3066a)  
+> Commit: [2efb34fed0631b19312fc14e958eb79520e3066a](https://github.com/jcornwell-river/dsiprouter/commit/2efb34fed0631b19312fc14e958eb79520e3066a)  
 > Date: Tue, 5 Jun 2018 11:24:11 +0000  
 > Author: root (root@dsiprouter-v0.41-dev)  
 > Committer: root (root@dsiprouter-v0.41-dev)  
@@ -23035,7 +23711,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 68eceda6b12cb556d57d9a37387be9bc566ec353)
 ### Fixes #51 - The update logic for Outbound Routes was refactored
 
-> Commit: [68eceda6b12cb556d57d9a37387be9bc566ec353](https://git.flyball.co/dsiprouter/enterprise/commit/68eceda6b12cb556d57d9a37387be9bc566ec353)  
+> Commit: [68eceda6b12cb556d57d9a37387be9bc566ec353](https://github.com/jcornwell-river/dsiprouter/commit/68eceda6b12cb556d57d9a37387be9bc566ec353)  
 > Date: Tue, 5 Jun 2018 07:17:27 -0400  
 > Author: root (root@siprtr-1.mercury.net)  
 > Committer: root (root@siprtr-1.mercury.net)  
@@ -23050,7 +23726,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eb7bce74395a989ffa97021d37ac6876a6bf0211)
 ### Update README.md
 
-> Commit: [eb7bce74395a989ffa97021d37ac6876a6bf0211](https://git.flyball.co/dsiprouter/enterprise/commit/eb7bce74395a989ffa97021d37ac6876a6bf0211)  
+> Commit: [eb7bce74395a989ffa97021d37ac6876a6bf0211](https://github.com/jcornwell-river/dsiprouter/commit/eb7bce74395a989ffa97021d37ac6876a6bf0211)  
 > Date: Sun, 27 May 2018 19:44:18 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23065,7 +23741,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4e481da4931c9dc31ddf420a78640910ebc88724)
 ### Update README.md
 
-> Commit: [4e481da4931c9dc31ddf420a78640910ebc88724](https://git.flyball.co/dsiprouter/enterprise/commit/4e481da4931c9dc31ddf420a78640910ebc88724)  
+> Commit: [4e481da4931c9dc31ddf420a78640910ebc88724](https://github.com/jcornwell-river/dsiprouter/commit/4e481da4931c9dc31ddf420a78640910ebc88724)  
 > Date: Sun, 27 May 2018 19:42:49 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23080,7 +23756,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 23d2d38febdcd7c166dbc3e0c54f6af0afe9580d)
 ### Fixes #49 - SIP OPTION messages will be handled by only replying to them is the source ip address is a defined carrier or pbx/endpoint
 
-> Commit: [23d2d38febdcd7c166dbc3e0c54f6af0afe9580d](https://git.flyball.co/dsiprouter/enterprise/commit/23d2d38febdcd7c166dbc3e0c54f6af0afe9580d)  
+> Commit: [23d2d38febdcd7c166dbc3e0c54f6af0afe9580d](https://github.com/jcornwell-river/dsiprouter/commit/23d2d38febdcd7c166dbc3e0c54f6af0afe9580d)  
 > Date: Sun, 27 May 2018 07:39:59 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23095,7 +23771,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ecada9a3a8c3bfb7f046a529511954787cfb374c)
 ### Added configuration files for logrotate so that log files are rotated
 
-> Commit: [ecada9a3a8c3bfb7f046a529511954787cfb374c](https://git.flyball.co/dsiprouter/enterprise/commit/ecada9a3a8c3bfb7f046a529511954787cfb374c)  
+> Commit: [ecada9a3a8c3bfb7f046a529511954787cfb374c](https://github.com/jcornwell-river/dsiprouter/commit/ecada9a3a8c3bfb7f046a529511954787cfb374c)  
 > Date: Tue, 22 May 2018 15:14:56 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23110,7 +23786,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e9557065aec29b9b749007d8ce2e554bd667e385)
 ### Fixed an issue with dsiprouter command line
 
-> Commit: [e9557065aec29b9b749007d8ce2e554bd667e385](https://git.flyball.co/dsiprouter/enterprise/commit/e9557065aec29b9b749007d8ce2e554bd667e385)  
+> Commit: [e9557065aec29b9b749007d8ce2e554bd667e385](https://github.com/jcornwell-river/dsiprouter/commit/e9557065aec29b9b749007d8ce2e554bd667e385)  
 > Date: Mon, 21 May 2018 11:46:15 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23125,7 +23801,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cff11fb0915558adc02688aba563ad741b48bedc)
 ### Update README.md
 
-> Commit: [cff11fb0915558adc02688aba563ad741b48bedc](https://git.flyball.co/dsiprouter/enterprise/commit/cff11fb0915558adc02688aba563ad741b48bedc)  
+> Commit: [cff11fb0915558adc02688aba563ad741b48bedc](https://github.com/jcornwell-river/dsiprouter/commit/cff11fb0915558adc02688aba563ad741b48bedc)  
 > Date: Thu, 17 May 2018 10:36:24 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23140,7 +23816,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1e82263c7d8a89158791b024d8b09385a4a14c29)
 ### Fixed an error with the RTPEngine install
 
-> Commit: [1e82263c7d8a89158791b024d8b09385a4a14c29](https://git.flyball.co/dsiprouter/enterprise/commit/1e82263c7d8a89158791b024d8b09385a4a14c29)  
+> Commit: [1e82263c7d8a89158791b024d8b09385a4a14c29](https://github.com/jcornwell-river/dsiprouter/commit/1e82263c7d8a89158791b024d8b09385a4a14c29)  
 > Date: Thu, 17 May 2018 03:40:09 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23155,7 +23831,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 24e6db8e5157a6398a937aeef764fd3aba2eaad6)
 ### Set RTPEngine to start after it's installed
 
-> Commit: [24e6db8e5157a6398a937aeef764fd3aba2eaad6](https://git.flyball.co/dsiprouter/enterprise/commit/24e6db8e5157a6398a937aeef764fd3aba2eaad6)  
+> Commit: [24e6db8e5157a6398a937aeef764fd3aba2eaad6](https://github.com/jcornwell-river/dsiprouter/commit/24e6db8e5157a6398a937aeef764fd3aba2eaad6)  
 > Date: Thu, 17 May 2018 03:29:12 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23170,7 +23846,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3dbe7b98c7ae4d59ca0228130a5f1628a9bad658)
 ### Fixed the configuration file for setting up RTP Engine on Debian
 
-> Commit: [3dbe7b98c7ae4d59ca0228130a5f1628a9bad658](https://git.flyball.co/dsiprouter/enterprise/commit/3dbe7b98c7ae4d59ca0228130a5f1628a9bad658)  
+> Commit: [3dbe7b98c7ae4d59ca0228130a5f1628a9bad658](https://github.com/jcornwell-river/dsiprouter/commit/3dbe7b98c7ae4d59ca0228130a5f1628a9bad658)  
 > Date: Thu, 17 May 2018 03:09:46 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23185,7 +23861,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0695c19827c5c792e8be0e3df05f14c23922a318)
 ### Update README.md
 
-> Commit: [0695c19827c5c792e8be0e3df05f14c23922a318](https://git.flyball.co/dsiprouter/enterprise/commit/0695c19827c5c792e8be0e3df05f14c23922a318)  
+> Commit: [0695c19827c5c792e8be0e3df05f14c23922a318](https://github.com/jcornwell-river/dsiprouter/commit/0695c19827c5c792e8be0e3df05f14c23922a318)  
 > Date: Thu, 17 May 2018 07:11:48 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23200,7 +23876,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eea952b11083b9a651e568605fca196bd92ebe12)
 ### Update README.md
 
-> Commit: [eea952b11083b9a651e568605fca196bd92ebe12](https://git.flyball.co/dsiprouter/enterprise/commit/eea952b11083b9a651e568605fca196bd92ebe12)  
+> Commit: [eea952b11083b9a651e568605fca196bd92ebe12](https://github.com/jcornwell-river/dsiprouter/commit/eea952b11083b9a651e568605fca196bd92ebe12)  
 > Date: Thu, 17 May 2018 07:07:40 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23215,7 +23891,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION df392036e356dfe86b4941f576df8d69db7f75ee)
 ### Update README.md
 
-> Commit: [df392036e356dfe86b4941f576df8d69db7f75ee](https://git.flyball.co/dsiprouter/enterprise/commit/df392036e356dfe86b4941f576df8d69db7f75ee)  
+> Commit: [df392036e356dfe86b4941f576df8d69db7f75ee](https://github.com/jcornwell-river/dsiprouter/commit/df392036e356dfe86b4941f576df8d69db7f75ee)  
 > Date: Wed, 16 May 2018 10:40:41 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23230,7 +23906,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5952b9b095b21b5e7b98375ec0ca9eba63a5c6fc)
 ### Add files via upload
 
-> Commit: [5952b9b095b21b5e7b98375ec0ca9eba63a5c6fc](https://git.flyball.co/dsiprouter/enterprise/commit/5952b9b095b21b5e7b98375ec0ca9eba63a5c6fc)  
+> Commit: [5952b9b095b21b5e7b98375ec0ca9eba63a5c6fc](https://github.com/jcornwell-river/dsiprouter/commit/5952b9b095b21b5e7b98375ec0ca9eba63a5c6fc)  
 > Date: Wed, 16 May 2018 10:39:42 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23245,7 +23921,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 92d22847128a8ce2ac8c3e0b202400cf3d4bea16)
 ### Update README.md
 
-> Commit: [92d22847128a8ce2ac8c3e0b202400cf3d4bea16](https://git.flyball.co/dsiprouter/enterprise/commit/92d22847128a8ce2ac8c3e0b202400cf3d4bea16)  
+> Commit: [92d22847128a8ce2ac8c3e0b202400cf3d4bea16](https://github.com/jcornwell-river/dsiprouter/commit/92d22847128a8ce2ac8c3e0b202400cf3d4bea16)  
 > Date: Wed, 16 May 2018 10:37:01 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23260,7 +23936,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 685a01df3f8e8b610704515029fc493d11b1b3af)
 ### Update README.md
 
-> Commit: [685a01df3f8e8b610704515029fc493d11b1b3af](https://git.flyball.co/dsiprouter/enterprise/commit/685a01df3f8e8b610704515029fc493d11b1b3af)  
+> Commit: [685a01df3f8e8b610704515029fc493d11b1b3af](https://github.com/jcornwell-river/dsiprouter/commit/685a01df3f8e8b610704515029fc493d11b1b3af)  
 > Date: Wed, 16 May 2018 10:32:24 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23275,7 +23951,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7ec83e8664298ec47f8c88b4860f31e6c34b7652)
 ### Update README.md
 
-> Commit: [7ec83e8664298ec47f8c88b4860f31e6c34b7652](https://git.flyball.co/dsiprouter/enterprise/commit/7ec83e8664298ec47f8c88b4860f31e6c34b7652)  
+> Commit: [7ec83e8664298ec47f8c88b4860f31e6c34b7652](https://github.com/jcornwell-river/dsiprouter/commit/7ec83e8664298ec47f8c88b4860f31e6c34b7652)  
 > Date: Wed, 16 May 2018 10:19:35 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23290,7 +23966,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f1dc57887b223f9379e831583629734dd9786eaf)
 ### Fixed an issue with username/password auth Fixes #39
 
-> Commit: [f1dc57887b223f9379e831583629734dd9786eaf](https://git.flyball.co/dsiprouter/enterprise/commit/f1dc57887b223f9379e831583629734dd9786eaf)  
+> Commit: [f1dc57887b223f9379e831583629734dd9786eaf](https://github.com/jcornwell-river/dsiprouter/commit/f1dc57887b223f9379e831583629734dd9786eaf)  
 > Date: Wed, 16 May 2018 07:40:10 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23305,7 +23981,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ec42725b41311be22dc6c4834763584a88382a5c)
 ### New Logo and GUI Fixes - Fixes #40
 
-> Commit: [ec42725b41311be22dc6c4834763584a88382a5c](https://git.flyball.co/dsiprouter/enterprise/commit/ec42725b41311be22dc6c4834763584a88382a5c)  
+> Commit: [ec42725b41311be22dc6c4834763584a88382a5c](https://github.com/jcornwell-river/dsiprouter/commit/ec42725b41311be22dc6c4834763584a88382a5c)  
 > Date: Wed, 16 May 2018 07:16:08 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23320,7 +23996,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 537a9c2853e72dcade24a8cacbc095a1395ab5ba)
 ### Fixed the csv file so that each carrier contains a name: in the tags/notes column.  This is used to manage the Gateways Fixes #41
 
-> Commit: [537a9c2853e72dcade24a8cacbc095a1395ab5ba](https://git.flyball.co/dsiprouter/enterprise/commit/537a9c2853e72dcade24a8cacbc095a1395ab5ba)  
+> Commit: [537a9c2853e72dcade24a8cacbc095a1395ab5ba](https://github.com/jcornwell-river/dsiprouter/commit/537a9c2853e72dcade24a8cacbc095a1395ab5ba)  
 > Date: Tue, 15 May 2018 23:04:42 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23335,7 +24011,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9bbc6e79b13a20b7f760d337bd8bbc59ca4b7ab)
 ### Added record routes when calling outbound via carriers to ensure that the BYE is routed back throught Kamailio
 
-> Commit: [d9bbc6e79b13a20b7f760d337bd8bbc59ca4b7ab](https://git.flyball.co/dsiprouter/enterprise/commit/d9bbc6e79b13a20b7f760d337bd8bbc59ca4b7ab)  
+> Commit: [d9bbc6e79b13a20b7f760d337bd8bbc59ca4b7ab](https://github.com/jcornwell-river/dsiprouter/commit/d9bbc6e79b13a20b7f760d337bd8bbc59ca4b7ab)  
 > Date: Tue, 15 May 2018 22:59:36 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23350,7 +24026,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 30a055177292dcc3e3b23c99d469984b478d04d4)
 ### Update address.csv
 
-> Commit: [30a055177292dcc3e3b23c99d469984b478d04d4](https://git.flyball.co/dsiprouter/enterprise/commit/30a055177292dcc3e3b23c99d469984b478d04d4)  
+> Commit: [30a055177292dcc3e3b23c99d469984b478d04d4](https://github.com/jcornwell-river/dsiprouter/commit/30a055177292dcc3e3b23c99d469984b478d04d4)  
 > Date: Tue, 15 May 2018 23:23:00 +0200  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23365,7 +24041,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 15f0f27b64f9f6bc5331945397d4b59b7fd3567c)
 ### Add Support for FusionPBX Provisioning Fixes #26
 
-> Commit: [15f0f27b64f9f6bc5331945397d4b59b7fd3567c](https://git.flyball.co/dsiprouter/enterprise/commit/15f0f27b64f9f6bc5331945397d4b59b7fd3567c)  
+> Commit: [15f0f27b64f9f6bc5331945397d4b59b7fd3567c](https://github.com/jcornwell-river/dsiprouter/commit/15f0f27b64f9f6bc5331945397d4b59b7fd3567c)  
 > Date: Tue, 15 May 2018 20:17:39 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23380,7 +24056,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2f087482ff0428518cde1258be49d247180d26a7)
 ### Added the threaded option to allow the service to startup in multi-threaded mode
 
-> Commit: [2f087482ff0428518cde1258be49d247180d26a7](https://git.flyball.co/dsiprouter/enterprise/commit/2f087482ff0428518cde1258be49d247180d26a7)  
+> Commit: [2f087482ff0428518cde1258be49d247180d26a7](https://github.com/jcornwell-river/dsiprouter/commit/2f087482ff0428518cde1258be49d247180d26a7)  
 > Date: Sun, 13 May 2018 23:26:03 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23395,7 +24071,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5942ccef53964881d4497570c3d6c902eb906e6b)
 ### Fixed an issue that prevented the PBX password from being updated
 
-> Commit: [5942ccef53964881d4497570c3d6c902eb906e6b](https://git.flyball.co/dsiprouter/enterprise/commit/5942ccef53964881d4497570c3d6c902eb906e6b)  
+> Commit: [5942ccef53964881d4497570c3d6c902eb906e6b](https://github.com/jcornwell-river/dsiprouter/commit/5942ccef53964881d4497570c3d6c902eb906e6b)  
 > Date: Wed, 9 May 2018 16:22:10 -0400  
 > Author: root (release@dopensource.com)  
 > Committer: root (release@dopensource.com)  
@@ -23410,7 +24086,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc07bb51a36a32ade8d3ffda0ddec66c04283934)
 ### Added support for automatically adding the PBX ip, port and transport when it registers.  This means that it automatically gets added to the drouting.gateway table and the table is reloaded in real time
 
-> Commit: [bc07bb51a36a32ade8d3ffda0ddec66c04283934](https://git.flyball.co/dsiprouter/enterprise/commit/bc07bb51a36a32ade8d3ffda0ddec66c04283934)  
+> Commit: [bc07bb51a36a32ade8d3ffda0ddec66c04283934](https://github.com/jcornwell-river/dsiprouter/commit/bc07bb51a36a32ade8d3ffda0ddec66c04283934)  
 > Date: Sun, 29 Apr 2018 18:32:49 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23425,7 +24101,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cb161110adb2fcedcdf9ce0cce875037b1b4cabb)
 ### Update settings.py
 
-> Commit: [cb161110adb2fcedcdf9ce0cce875037b1b4cabb](https://git.flyball.co/dsiprouter/enterprise/commit/cb161110adb2fcedcdf9ce0cce875037b1b4cabb)  
+> Commit: [cb161110adb2fcedcdf9ce0cce875037b1b4cabb](https://github.com/jcornwell-river/dsiprouter/commit/cb161110adb2fcedcdf9ce0cce875037b1b4cabb)  
 > Date: Tue, 24 Apr 2018 16:38:47 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23440,7 +24116,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 89ff2191ca0782707302f6978f66261be38e8847)
 ### Change the description of the default outbound routes
 
-> Commit: [89ff2191ca0782707302f6978f66261be38e8847](https://git.flyball.co/dsiprouter/enterprise/commit/89ff2191ca0782707302f6978f66261be38e8847)  
+> Commit: [89ff2191ca0782707302f6978f66261be38e8847](https://github.com/jcornwell-river/dsiprouter/commit/89ff2191ca0782707302f6978f66261be38e8847)  
 > Date: Tue, 24 Apr 2018 15:59:53 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23455,7 +24131,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bdfc4db674b9b4524bf91fcf84ff97f98e7472c6)
 ### Fixed an issue with reloading the htable that support the new outbound route logic
 
-> Commit: [bdfc4db674b9b4524bf91fcf84ff97f98e7472c6](https://git.flyball.co/dsiprouter/enterprise/commit/bdfc4db674b9b4524bf91fcf84ff97f98e7472c6)  
+> Commit: [bdfc4db674b9b4524bf91fcf84ff97f98e7472c6](https://github.com/jcornwell-river/dsiprouter/commit/bdfc4db674b9b4524bf91fcf84ff97f98e7472c6)  
 > Date: Mon, 23 Apr 2018 07:10:18 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23470,7 +24146,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 77ac196b2a3270f7ad259f1aa5602b02695d3e07)
 ### Added a flag to make te built-in web server multi-threaded
 
-> Commit: [77ac196b2a3270f7ad259f1aa5602b02695d3e07](https://git.flyball.co/dsiprouter/enterprise/commit/77ac196b2a3270f7ad259f1aa5602b02695d3e07)  
+> Commit: [77ac196b2a3270f7ad259f1aa5602b02695d3e07](https://github.com/jcornwell-river/dsiprouter/commit/77ac196b2a3270f7ad259f1aa5602b02695d3e07)  
 > Date: Sat, 14 Apr 2018 08:06:26 -0400  
 > Author: root (release@dopensource.com)  
 > Committer: root (release@dopensource.com)  
@@ -23485,7 +24161,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 24a9407b2a713ba31bc76c8958cc92cf993ee98e)
 ### Fixed issue with update and save for LCR
 
-> Commit: [24a9407b2a713ba31bc76c8958cc92cf993ee98e](https://git.flyball.co/dsiprouter/enterprise/commit/24a9407b2a713ba31bc76c8958cc92cf993ee98e)  
+> Commit: [24a9407b2a713ba31bc76c8958cc92cf993ee98e](https://github.com/jcornwell-river/dsiprouter/commit/24a9407b2a713ba31bc76c8958cc92cf993ee98e)  
 > Date: Fri, 6 Apr 2018 11:48:41 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23500,7 +24176,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8fe5ea6b04a20ebadbb3be2f439c63a5257c0c07)
 ### Completed the development of some light weight LCR funcationality
 
-> Commit: [8fe5ea6b04a20ebadbb3be2f439c63a5257c0c07](https://git.flyball.co/dsiprouter/enterprise/commit/8fe5ea6b04a20ebadbb3be2f439c63a5257c0c07)  
+> Commit: [8fe5ea6b04a20ebadbb3be2f439c63a5257c0c07](https://github.com/jcornwell-river/dsiprouter/commit/8fe5ea6b04a20ebadbb3be2f439c63a5257c0c07)  
 > Date: Fri, 6 Apr 2018 03:34:32 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23515,7 +24191,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b634c0cc239500f8420d84c2751db1b1a44b6fb8)
 ### Added support for support LCR from a Kamailio prespective
 
-> Commit: [b634c0cc239500f8420d84c2751db1b1a44b6fb8](https://git.flyball.co/dsiprouter/enterprise/commit/b634c0cc239500f8420d84c2751db1b1a44b6fb8)  
+> Commit: [b634c0cc239500f8420d84c2751db1b1a44b6fb8](https://github.com/jcornwell-river/dsiprouter/commit/b634c0cc239500f8420d84c2751db1b1a44b6fb8)  
 > Date: Thu, 5 Apr 2018 05:01:00 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23530,7 +24206,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63da09ec9d97a23a789d99601de00f8445a6ece6)
 ### add header check feature in teleblock route
 
-> Commit: [63da09ec9d97a23a789d99601de00f8445a6ece6](https://git.flyball.co/dsiprouter/enterprise/commit/63da09ec9d97a23a789d99601de00f8445a6ece6)  
+> Commit: [63da09ec9d97a23a789d99601de00f8445a6ece6](https://github.com/jcornwell-river/dsiprouter/commit/63da09ec9d97a23a789d99601de00f8445a6ece6)  
 > Date: Sun, 1 Apr 2018 21:32:16 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -23545,7 +24221,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 321e790f57468ae335d2a0fd321c441f3100f38a)
 ### add current work on dynamic routing and LCR features
 
-> Commit: [321e790f57468ae335d2a0fd321c441f3100f38a](https://git.flyball.co/dsiprouter/enterprise/commit/321e790f57468ae335d2a0fd321c441f3100f38a)  
+> Commit: [321e790f57468ae335d2a0fd321c441f3100f38a](https://github.com/jcornwell-river/dsiprouter/commit/321e790f57468ae335d2a0fd321c441f3100f38a)  
 > Date: Sun, 1 Apr 2018 21:03:13 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -23560,7 +24236,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 87742ca2d658a60048d1c61f8d410b625021af7d)
 ### reformat messy code, fix html errors throughout, complete overhaul of front-end, add multiple outbound routes feature added, started adding backend capablities for dynamic routing, fixed 200 reply bug (endpoint now waits for 200 from carrier)
 
-> Commit: [87742ca2d658a60048d1c61f8d410b625021af7d](https://git.flyball.co/dsiprouter/enterprise/commit/87742ca2d658a60048d1c61f8d410b625021af7d)  
+> Commit: [87742ca2d658a60048d1c61f8d410b625021af7d](https://github.com/jcornwell-river/dsiprouter/commit/87742ca2d658a60048d1c61f8d410b625021af7d)  
 > Date: Tue, 27 Mar 2018 20:01:23 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -23575,7 +24251,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fbaa02fd24237c9c4d809f64581696b35784943b)
 ### Fixed issue with rtpengine not starting after installation
 
-> Commit: [fbaa02fd24237c9c4d809f64581696b35784943b](https://git.flyball.co/dsiprouter/enterprise/commit/fbaa02fd24237c9c4d809f64581696b35784943b)  
+> Commit: [fbaa02fd24237c9c4d809f64581696b35784943b](https://github.com/jcornwell-river/dsiprouter/commit/fbaa02fd24237c9c4d809f64581696b35784943b)  
 > Date: Sat, 24 Mar 2018 22:43:13 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23590,7 +24266,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bc813f49869bc621d16585d7648ae5e2c4bfe81a)
 ### Fixed typo with VI carriers
 
-> Commit: [bc813f49869bc621d16585d7648ae5e2c4bfe81a](https://git.flyball.co/dsiprouter/enterprise/commit/bc813f49869bc621d16585d7648ae5e2c4bfe81a)  
+> Commit: [bc813f49869bc621d16585d7648ae5e2c4bfe81a](https://github.com/jcornwell-river/dsiprouter/commit/bc813f49869bc621d16585d7648ae5e2c4bfe81a)  
 > Date: Sat, 24 Mar 2018 20:03:01 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23605,7 +24281,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1a6728d9a5a2bc8e6f3febf66414c4dd6562df11)
 ### Added a fix to resolve firewall issues
 
-> Commit: [1a6728d9a5a2bc8e6f3febf66414c4dd6562df11](https://git.flyball.co/dsiprouter/enterprise/commit/1a6728d9a5a2bc8e6f3febf66414c4dd6562df11)  
+> Commit: [1a6728d9a5a2bc8e6f3febf66414c4dd6562df11](https://github.com/jcornwell-river/dsiprouter/commit/1a6728d9a5a2bc8e6f3febf66414c4dd6562df11)  
 > Date: Sat, 24 Mar 2018 19:59:13 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23620,7 +24296,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4389700a37b7c41741ad9e6f25743072c3b41889)
 ### Fixed an issue that prevented port 5060 from being added and removed during the install and uninstall process, respectively
 
-> Commit: [4389700a37b7c41741ad9e6f25743072c3b41889](https://git.flyball.co/dsiprouter/enterprise/commit/4389700a37b7c41741ad9e6f25743072c3b41889)  
+> Commit: [4389700a37b7c41741ad9e6f25743072c3b41889](https://github.com/jcornwell-river/dsiprouter/commit/4389700a37b7c41741ad9e6f25743072c3b41889)  
 > Date: Sat, 24 Mar 2018 18:52:49 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23635,7 +24311,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3c3ba20ad9f923cfd9be6fec74a5100fcee432ed)
 ### fixed uninstall cmd, add support for debian jessie dsiprouter installation
 
-> Commit: [3c3ba20ad9f923cfd9be6fec74a5100fcee432ed](https://git.flyball.co/dsiprouter/enterprise/commit/3c3ba20ad9f923cfd9be6fec74a5100fcee432ed)  
+> Commit: [3c3ba20ad9f923cfd9be6fec74a5100fcee432ed](https://github.com/jcornwell-river/dsiprouter/commit/3c3ba20ad9f923cfd9be6fec74a5100fcee432ed)  
 > Date: Sat, 24 Mar 2018 02:17:16 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -23650,7 +24326,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0cebcae69d28faebb58e1f37f9c9c16ee8b097b1)
 ### Fixed issues with Deb 8.9 installer
 
-> Commit: [0cebcae69d28faebb58e1f37f9c9c16ee8b097b1](https://git.flyball.co/dsiprouter/enterprise/commit/0cebcae69d28faebb58e1f37f9c9c16ee8b097b1)  
+> Commit: [0cebcae69d28faebb58e1f37f9c9c16ee8b097b1](https://github.com/jcornwell-river/dsiprouter/commit/0cebcae69d28faebb58e1f37f9c9c16ee8b097b1)  
 > Date: Sat, 24 Mar 2018 12:55:35 +1100  
 > Author: root (root@debian.vixtel.com.au)  
 > Committer: root (root@debian.vixtel.com.au)  
@@ -23665,7 +24341,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f3bd49a0c980055d373007a7eca60aa24aa1464c)
 ### Fixed issues with Deb 8.9 installer
 
-> Commit: [f3bd49a0c980055d373007a7eca60aa24aa1464c](https://git.flyball.co/dsiprouter/enterprise/commit/f3bd49a0c980055d373007a7eca60aa24aa1464c)  
+> Commit: [f3bd49a0c980055d373007a7eca60aa24aa1464c](https://github.com/jcornwell-river/dsiprouter/commit/f3bd49a0c980055d373007a7eca60aa24aa1464c)  
 > Date: Sat, 24 Mar 2018 12:54:22 +1100  
 > Author: root (root@debian.vixtel.com.au)  
 > Committer: root (root@debian.vixtel.com.au)  
@@ -23680,7 +24356,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a72d5ace87979b2b1647ef627be4ea8cc40d562d)
 ### fix broken debian jessie installation issues
 
-> Commit: [a72d5ace87979b2b1647ef627be4ea8cc40d562d](https://git.flyball.co/dsiprouter/enterprise/commit/a72d5ace87979b2b1647ef627be4ea8cc40d562d)  
+> Commit: [a72d5ace87979b2b1647ef627be4ea8cc40d562d](https://github.com/jcornwell-river/dsiprouter/commit/a72d5ace87979b2b1647ef627be4ea8cc40d562d)  
 > Date: Sat, 24 Mar 2018 01:16:53 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -23695,7 +24371,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f6ea6ed37ee0948cfa574897261f181ab0af0f8)
 ### Update README.md
 
-> Commit: [3f6ea6ed37ee0948cfa574897261f181ab0af0f8](https://git.flyball.co/dsiprouter/enterprise/commit/3f6ea6ed37ee0948cfa574897261f181ab0af0f8)  
+> Commit: [3f6ea6ed37ee0948cfa574897261f181ab0af0f8](https://github.com/jcornwell-river/dsiprouter/commit/3f6ea6ed37ee0948cfa574897261f181ab0af0f8)  
 > Date: Fri, 23 Mar 2018 06:31:35 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23710,7 +24386,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f8691614b484f0060b72cf67442bc1a1b79844b)
 ### Update README.md
 
-> Commit: [3f8691614b484f0060b72cf67442bc1a1b79844b](https://git.flyball.co/dsiprouter/enterprise/commit/3f8691614b484f0060b72cf67442bc1a1b79844b)  
+> Commit: [3f8691614b484f0060b72cf67442bc1a1b79844b](https://github.com/jcornwell-river/dsiprouter/commit/3f8691614b484f0060b72cf67442bc1a1b79844b)  
 > Date: Fri, 23 Mar 2018 06:30:27 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23725,7 +24401,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f19f87d7d4325eedb4a266db47cf9a495f6e1ca2)
 ### Update README.md
 
-> Commit: [f19f87d7d4325eedb4a266db47cf9a495f6e1ca2](https://git.flyball.co/dsiprouter/enterprise/commit/f19f87d7d4325eedb4a266db47cf9a495f6e1ca2)  
+> Commit: [f19f87d7d4325eedb4a266db47cf9a495f6e1ca2](https://github.com/jcornwell-river/dsiprouter/commit/f19f87d7d4325eedb4a266db47cf9a495f6e1ca2)  
 > Date: Fri, 23 Mar 2018 06:30:03 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23740,7 +24416,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fa9806ab3573a9c353a222da85b041fcc1d87a7c)
 ### Update README.md
 
-> Commit: [fa9806ab3573a9c353a222da85b041fcc1d87a7c](https://git.flyball.co/dsiprouter/enterprise/commit/fa9806ab3573a9c353a222da85b041fcc1d87a7c)  
+> Commit: [fa9806ab3573a9c353a222da85b041fcc1d87a7c](https://github.com/jcornwell-river/dsiprouter/commit/fa9806ab3573a9c353a222da85b041fcc1d87a7c)  
 > Date: Fri, 23 Mar 2018 06:25:38 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23755,7 +24431,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7f96b230c12f91c3f83238608fb07ff53a32c08c)
 ### Updated README and validated the install on Debian 9.4 (Stretch)
 
-> Commit: [7f96b230c12f91c3f83238608fb07ff53a32c08c](https://git.flyball.co/dsiprouter/enterprise/commit/7f96b230c12f91c3f83238608fb07ff53a32c08c)  
+> Commit: [7f96b230c12f91c3f83238608fb07ff53a32c08c](https://github.com/jcornwell-river/dsiprouter/commit/7f96b230c12f91c3f83238608fb07ff53a32c08c)  
 > Date: Fri, 23 Mar 2018 06:15:44 -0400  
 > Author: root (root@dsiprouter.dopensource.com)  
 > Committer: root (root@dsiprouter.dopensource.com)  
@@ -23770,7 +24446,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 461c71c97f1e017f0f8827570d5f95f2c741bcef)
 ### Fixed the installer issues for Debian 9.x (stretch)
 
-> Commit: [461c71c97f1e017f0f8827570d5f95f2c741bcef](https://git.flyball.co/dsiprouter/enterprise/commit/461c71c97f1e017f0f8827570d5f95f2c741bcef)  
+> Commit: [461c71c97f1e017f0f8827570d5f95f2c741bcef](https://github.com/jcornwell-river/dsiprouter/commit/461c71c97f1e017f0f8827570d5f95f2c741bcef)  
 > Date: Fri, 23 Mar 2018 05:19:52 -0400  
 > Author: root (root@dsiprouter-kam5.dopensource.com)  
 > Committer: root (root@dsiprouter-kam5.dopensource.com)  
@@ -23785,7 +24461,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 51f8a8cad4f6faae2f98ca47f47de6670b765786)
 ### Fixed RTPProxy issue with Debian
 
-> Commit: [51f8a8cad4f6faae2f98ca47f47de6670b765786](https://git.flyball.co/dsiprouter/enterprise/commit/51f8a8cad4f6faae2f98ca47f47de6670b765786)  
+> Commit: [51f8a8cad4f6faae2f98ca47f47de6670b765786](https://github.com/jcornwell-river/dsiprouter/commit/51f8a8cad4f6faae2f98ca47f47de6670b765786)  
 > Date: Thu, 22 Mar 2018 00:00:53 -0400  
 > Author: root (release@dopensource.com)  
 > Committer: root (release@dopensource.com)  
@@ -23800,7 +24476,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6b4608c72aa90e30910087cff27b192f18e7c9d1)
 ### Fixed a missing curly brackets
 
-> Commit: [6b4608c72aa90e30910087cff27b192f18e7c9d1](https://git.flyball.co/dsiprouter/enterprise/commit/6b4608c72aa90e30910087cff27b192f18e7c9d1)  
+> Commit: [6b4608c72aa90e30910087cff27b192f18e7c9d1](https://github.com/jcornwell-river/dsiprouter/commit/6b4608c72aa90e30910087cff27b192f18e7c9d1)  
 > Date: Tue, 20 Mar 2018 22:40:20 -0400  
 > Author: root (release@dopensource.com)  
 > Committer: root (release@dopensource.com)  
@@ -23815,7 +24491,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e682af00fb9e952212cb0eaf63dd5d9b7d2a420b)
 ### Fixed a bug with teleblock media enablement
 
-> Commit: [e682af00fb9e952212cb0eaf63dd5d9b7d2a420b](https://git.flyball.co/dsiprouter/enterprise/commit/e682af00fb9e952212cb0eaf63dd5d9b7d2a420b)  
+> Commit: [e682af00fb9e952212cb0eaf63dd5d9b7d2a420b](https://github.com/jcornwell-river/dsiprouter/commit/e682af00fb9e952212cb0eaf63dd5d9b7d2a420b)  
 > Date: Tue, 20 Mar 2018 17:42:13 -0600  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -23830,7 +24506,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17b89eea8920d9feec83e8ebbcad6c5063a6a608)
 ### Fixed a bug that prevented the media server from being enabled
 
-> Commit: [17b89eea8920d9feec83e8ebbcad6c5063a6a608](https://git.flyball.co/dsiprouter/enterprise/commit/17b89eea8920d9feec83e8ebbcad6c5063a6a608)  
+> Commit: [17b89eea8920d9feec83e8ebbcad6c5063a6a608](https://github.com/jcornwell-river/dsiprouter/commit/17b89eea8920d9feec83e8ebbcad6c5063a6a608)  
 > Date: Tue, 20 Mar 2018 16:44:30 -0600  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -23845,7 +24521,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 864cb5b4b1b86e05dce86410deb6971af9ec9d53)
 ### Fixed the default settings in the Kam 4.4 version of the configuration file
 
-> Commit: [864cb5b4b1b86e05dce86410deb6971af9ec9d53](https://git.flyball.co/dsiprouter/enterprise/commit/864cb5b4b1b86e05dce86410deb6971af9ec9d53)  
+> Commit: [864cb5b4b1b86e05dce86410deb6971af9ec9d53](https://github.com/jcornwell-river/dsiprouter/commit/864cb5b4b1b86e05dce86410deb6971af9ec9d53)  
 > Date: Tue, 20 Mar 2018 04:48:01 -0600  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -23860,7 +24536,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 093f4b1b000707456dd95dca2d21b34aa0090af4)
 ### Changed the port back to the default 5000
 
-> Commit: [093f4b1b000707456dd95dca2d21b34aa0090af4](https://git.flyball.co/dsiprouter/enterprise/commit/093f4b1b000707456dd95dca2d21b34aa0090af4)  
+> Commit: [093f4b1b000707456dd95dca2d21b34aa0090af4](https://github.com/jcornwell-river/dsiprouter/commit/093f4b1b000707456dd95dca2d21b34aa0090af4)  
 > Date: Tue, 20 Mar 2018 04:23:55 -0600  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -23875,7 +24551,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 574f0d60efa09a5f736ab0cc096ba30114ce5b7d)
 ### Update settings.py
 
-> Commit: [574f0d60efa09a5f736ab0cc096ba30114ce5b7d](https://git.flyball.co/dsiprouter/enterprise/commit/574f0d60efa09a5f736ab0cc096ba30114ce5b7d)  
+> Commit: [574f0d60efa09a5f736ab0cc096ba30114ce5b7d](https://github.com/jcornwell-river/dsiprouter/commit/574f0d60efa09a5f736ab0cc096ba30114ce5b7d)  
 > Date: Mon, 19 Mar 2018 06:01:04 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23890,7 +24566,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ee9b1c68d5c3770a80c178d0c967ce55f299d096)
 ### Update README.md
 
-> Commit: [ee9b1c68d5c3770a80c178d0c967ce55f299d096](https://git.flyball.co/dsiprouter/enterprise/commit/ee9b1c68d5c3770a80c178d0c967ce55f299d096)  
+> Commit: [ee9b1c68d5c3770a80c178d0c967ce55f299d096](https://github.com/jcornwell-river/dsiprouter/commit/ee9b1c68d5c3770a80c178d0c967ce55f299d096)  
 > Date: Mon, 19 Mar 2018 06:00:25 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23905,7 +24581,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a5a92ac439283a2876d39bce2e38348441451c99)
 ### Update README.md
 
-> Commit: [a5a92ac439283a2876d39bce2e38348441451c99](https://git.flyball.co/dsiprouter/enterprise/commit/a5a92ac439283a2876d39bce2e38348441451c99)  
+> Commit: [a5a92ac439283a2876d39bce2e38348441451c99](https://github.com/jcornwell-river/dsiprouter/commit/a5a92ac439283a2876d39bce2e38348441451c99)  
 > Date: Mon, 19 Mar 2018 05:57:05 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23920,7 +24596,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6f7ec9398b602574396786567bb735ff00d954f8)
 ### Add files via upload
 
-> Commit: [6f7ec9398b602574396786567bb735ff00d954f8](https://git.flyball.co/dsiprouter/enterprise/commit/6f7ec9398b602574396786567bb735ff00d954f8)  
+> Commit: [6f7ec9398b602574396786567bb735ff00d954f8](https://github.com/jcornwell-river/dsiprouter/commit/6f7ec9398b602574396786567bb735ff00d954f8)  
 > Date: Mon, 19 Mar 2018 05:53:56 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -23935,7 +24611,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 270505741eaf8f7325be7ab3277c76abf58e9045)
 ### Completed support for Teleblock Service
 
-> Commit: [270505741eaf8f7325be7ab3277c76abf58e9045](https://git.flyball.co/dsiprouter/enterprise/commit/270505741eaf8f7325be7ab3277c76abf58e9045)  
+> Commit: [270505741eaf8f7325be7ab3277c76abf58e9045](https://github.com/jcornwell-river/dsiprouter/commit/270505741eaf8f7325be7ab3277c76abf58e9045)  
 > Date: Mon, 19 Mar 2018 09:51:06 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23950,7 +24626,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a8b26db33bfb995c2f8298654c183eac11174b17)
 ### Added GUI Support for Gryphon Teleblock Support
 
-> Commit: [a8b26db33bfb995c2f8298654c183eac11174b17](https://git.flyball.co/dsiprouter/enterprise/commit/a8b26db33bfb995c2f8298654c183eac11174b17)  
+> Commit: [a8b26db33bfb995c2f8298654c183eac11174b17](https://github.com/jcornwell-river/dsiprouter/commit/a8b26db33bfb995c2f8298654c183eac11174b17)  
 > Date: Sun, 18 Mar 2018 13:30:25 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -23965,7 +24641,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bac4034ad784e796bc013d874a874e0c38777bcd)
 ### Create CNAME
 
-> Commit: [bac4034ad784e796bc013d874a874e0c38777bcd](https://git.flyball.co/dsiprouter/enterprise/commit/bac4034ad784e796bc013d874a874e0c38777bcd)  
+> Commit: [bac4034ad784e796bc013d874a874e0c38777bcd](https://github.com/jcornwell-river/dsiprouter/commit/bac4034ad784e796bc013d874a874e0c38777bcd)  
 > Date: Sat, 17 Mar 2018 20:04:06 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -23980,7 +24656,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e36449722cb15fbf56b65179c8ea6793ec8be906)
 ### Set theme jekyll-theme-architect
 
-> Commit: [e36449722cb15fbf56b65179c8ea6793ec8be906](https://git.flyball.co/dsiprouter/enterprise/commit/e36449722cb15fbf56b65179c8ea6793ec8be906)  
+> Commit: [e36449722cb15fbf56b65179c8ea6793ec8be906](https://github.com/jcornwell-river/dsiprouter/commit/e36449722cb15fbf56b65179c8ea6793ec8be906)  
 > Date: Sat, 17 Mar 2018 19:51:32 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -23995,7 +24671,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 47333b5cde16838ba7c4a8c64e99445f53c4e7f3)
 ### Removed a legacy script for stopping dsiprouter
 
-> Commit: [47333b5cde16838ba7c4a8c64e99445f53c4e7f3](https://git.flyball.co/dsiprouter/enterprise/commit/47333b5cde16838ba7c4a8c64e99445f53c4e7f3)  
+> Commit: [47333b5cde16838ba7c4a8c64e99445f53c4e7f3](https://github.com/jcornwell-river/dsiprouter/commit/47333b5cde16838ba7c4a8c64e99445f53c4e7f3)  
 > Date: Sat, 17 Mar 2018 14:50:44 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24010,7 +24686,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4d7d4e84888eeeefd12f3692320badb19040fe4d)
 ### Added support for Teleblock
 
-> Commit: [4d7d4e84888eeeefd12f3692320badb19040fe4d](https://git.flyball.co/dsiprouter/enterprise/commit/4d7d4e84888eeeefd12f3692320badb19040fe4d)  
+> Commit: [4d7d4e84888eeeefd12f3692320badb19040fe4d](https://github.com/jcornwell-river/dsiprouter/commit/4d7d4e84888eeeefd12f3692320badb19040fe4d)  
 > Date: Sat, 17 Mar 2018 14:48:59 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24025,7 +24701,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6117b3fc5b30dcec0e3a162d6df5f976db6d1bdb)
 ### got rid of uneeded replies, fixed formatting
 
-> Commit: [6117b3fc5b30dcec0e3a162d6df5f976db6d1bdb](https://git.flyball.co/dsiprouter/enterprise/commit/6117b3fc5b30dcec0e3a162d6df5f976db6d1bdb)  
+> Commit: [6117b3fc5b30dcec0e3a162d6df5f976db6d1bdb](https://github.com/jcornwell-river/dsiprouter/commit/6117b3fc5b30dcec0e3a162d6df5f976db6d1bdb)  
 > Date: Wed, 14 Mar 2018 14:48:09 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -24040,7 +24716,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0ad302940d9e883763df68fe40fbb560aaaaccd6)
 ### fixed the "500" reply bug and check status bug
 
-> Commit: [0ad302940d9e883763df68fe40fbb560aaaaccd6](https://git.flyball.co/dsiprouter/enterprise/commit/0ad302940d9e883763df68fe40fbb560aaaaccd6)  
+> Commit: [0ad302940d9e883763df68fe40fbb560aaaaccd6](https://github.com/jcornwell-river/dsiprouter/commit/0ad302940d9e883763df68fe40fbb560aaaaccd6)  
 > Date: Tue, 13 Mar 2018 15:30:54 -0400  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -24055,7 +24731,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c3f8fe6d4d980230dc9a32b6d20079c86bcfdd51)
 ### Update kamailio51_dsiprouter.cfg
 
-> Commit: [c3f8fe6d4d980230dc9a32b6d20079c86bcfdd51](https://git.flyball.co/dsiprouter/enterprise/commit/c3f8fe6d4d980230dc9a32b6d20079c86bcfdd51)  
+> Commit: [c3f8fe6d4d980230dc9a32b6d20079c86bcfdd51](https://github.com/jcornwell-river/dsiprouter/commit/c3f8fe6d4d980230dc9a32b6d20079c86bcfdd51)  
 > Date: Mon, 12 Mar 2018 21:04:00 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24070,7 +24746,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION eec8c7ae6a3c49b1fd7a58fa1edb4e0a4fbdaef8)
 ### Update kamailio51_dsiprouter.cfg
 
-> Commit: [eec8c7ae6a3c49b1fd7a58fa1edb4e0a4fbdaef8](https://git.flyball.co/dsiprouter/enterprise/commit/eec8c7ae6a3c49b1fd7a58fa1edb4e0a4fbdaef8)  
+> Commit: [eec8c7ae6a3c49b1fd7a58fa1edb4e0a4fbdaef8](https://github.com/jcornwell-river/dsiprouter/commit/eec8c7ae6a3c49b1fd7a58fa1edb4e0a4fbdaef8)  
 > Date: Mon, 12 Mar 2018 21:03:30 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24085,7 +24761,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 97e3ea8d6762476226e00e110d8a33e5630a3a6f)
 ### Update stretch.sh
 
-> Commit: [97e3ea8d6762476226e00e110d8a33e5630a3a6f](https://git.flyball.co/dsiprouter/enterprise/commit/97e3ea8d6762476226e00e110d8a33e5630a3a6f)  
+> Commit: [97e3ea8d6762476226e00e110d8a33e5630a3a6f](https://github.com/jcornwell-river/dsiprouter/commit/97e3ea8d6762476226e00e110d8a33e5630a3a6f)  
 > Date: Sun, 11 Mar 2018 21:55:28 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24100,7 +24776,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5f36971c01d9a3bc52ee999454c0199eb27a7ff8)
 ### Update README.md
 
-> Commit: [5f36971c01d9a3bc52ee999454c0199eb27a7ff8](https://git.flyball.co/dsiprouter/enterprise/commit/5f36971c01d9a3bc52ee999454c0199eb27a7ff8)  
+> Commit: [5f36971c01d9a3bc52ee999454c0199eb27a7ff8](https://github.com/jcornwell-river/dsiprouter/commit/5f36971c01d9a3bc52ee999454c0199eb27a7ff8)  
 > Date: Sun, 11 Mar 2018 21:43:45 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24115,7 +24791,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b07a5e065a16755cba48d638d72b28c2bd111dac)
 ### Update README.md
 
-> Commit: [b07a5e065a16755cba48d638d72b28c2bd111dac](https://git.flyball.co/dsiprouter/enterprise/commit/b07a5e065a16755cba48d638d72b28c2bd111dac)  
+> Commit: [b07a5e065a16755cba48d638d72b28c2bd111dac](https://github.com/jcornwell-river/dsiprouter/commit/b07a5e065a16755cba48d638d72b28c2bd111dac)  
 > Date: Sun, 11 Mar 2018 21:34:51 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24130,7 +24806,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dbec72854ac57ee4f2937b09eedf373bd49e6e19)
 ### Update README.md
 
-> Commit: [dbec72854ac57ee4f2937b09eedf373bd49e6e19](https://git.flyball.co/dsiprouter/enterprise/commit/dbec72854ac57ee4f2937b09eedf373bd49e6e19)  
+> Commit: [dbec72854ac57ee4f2937b09eedf373bd49e6e19](https://github.com/jcornwell-river/dsiprouter/commit/dbec72854ac57ee4f2937b09eedf373bd49e6e19)  
 > Date: Sun, 11 Mar 2018 21:29:02 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24145,7 +24821,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4b5a7621be2f99cb6ba75476ea9299e2155b9d16)
 ### Update README.md
 
-> Commit: [4b5a7621be2f99cb6ba75476ea9299e2155b9d16](https://git.flyball.co/dsiprouter/enterprise/commit/4b5a7621be2f99cb6ba75476ea9299e2155b9d16)  
+> Commit: [4b5a7621be2f99cb6ba75476ea9299e2155b9d16](https://github.com/jcornwell-river/dsiprouter/commit/4b5a7621be2f99cb6ba75476ea9299e2155b9d16)  
 > Date: Sun, 11 Mar 2018 21:27:56 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24160,7 +24836,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4278d5b249e8f0302866777e10d57ceff32945cc)
 ### Add files via upload
 
-> Commit: [4278d5b249e8f0302866777e10d57ceff32945cc](https://git.flyball.co/dsiprouter/enterprise/commit/4278d5b249e8f0302866777e10d57ceff32945cc)  
+> Commit: [4278d5b249e8f0302866777e10d57ceff32945cc](https://github.com/jcornwell-river/dsiprouter/commit/4278d5b249e8f0302866777e10d57ceff32945cc)  
 > Date: Sun, 11 Mar 2018 21:26:05 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24175,7 +24851,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d6cbfff711d6721af44702d9baee487078d77e3)
 ### Updated the README
 
-> Commit: [5d6cbfff711d6721af44702d9baee487078d77e3](https://git.flyball.co/dsiprouter/enterprise/commit/5d6cbfff711d6721af44702d9baee487078d77e3)  
+> Commit: [5d6cbfff711d6721af44702d9baee487078d77e3](https://github.com/jcornwell-river/dsiprouter/commit/5d6cbfff711d6721af44702d9baee487078d77e3)  
 > Date: Mon, 12 Mar 2018 01:20:38 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24190,7 +24866,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a64b491d710f1258e6b1fd58772726a459ac8e91)
 ### Prevent the DBROOTPW from being prompted during an install on a fresh machine
 
-> Commit: [a64b491d710f1258e6b1fd58772726a459ac8e91](https://git.flyball.co/dsiprouter/enterprise/commit/a64b491d710f1258e6b1fd58772726a459ac8e91)  
+> Commit: [a64b491d710f1258e6b1fd58772726a459ac8e91](https://github.com/jcornwell-river/dsiprouter/commit/a64b491d710f1258e6b1fd58772726a459ac8e91)  
 > Date: Mon, 12 Mar 2018 00:53:19 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24205,7 +24881,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 14f87963c736094ad35c8e0908514670b2111774)
 ### Completed GUI support for PBX Registration
 
-> Commit: [14f87963c736094ad35c8e0908514670b2111774](https://git.flyball.co/dsiprouter/enterprise/commit/14f87963c736094ad35c8e0908514670b2111774)  
+> Commit: [14f87963c736094ad35c8e0908514670b2111774](https://github.com/jcornwell-river/dsiprouter/commit/14f87963c736094ad35c8e0908514670b2111774)  
 > Date: Mon, 12 Mar 2018 00:29:14 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24220,7 +24896,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a8f0df2a88064d31ed445a05e032c69ca490fc82)
 ### Fixed the Add PBX with subscriber support
 
-> Commit: [a8f0df2a88064d31ed445a05e032c69ca490fc82](https://git.flyball.co/dsiprouter/enterprise/commit/a8f0df2a88064d31ed445a05e032c69ca490fc82)  
+> Commit: [a8f0df2a88064d31ed445a05e032c69ca490fc82](https://github.com/jcornwell-river/dsiprouter/commit/a8f0df2a88064d31ed445a05e032c69ca490fc82)  
 > Date: Sun, 11 Mar 2018 14:30:30 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24235,7 +24911,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bb9adc17826e2b4df40255f3c7efd366541e1795)
 ### added teleblock blacklisting feature
 
-> Commit: [bb9adc17826e2b4df40255f3c7efd366541e1795](https://git.flyball.co/dsiprouter/enterprise/commit/bb9adc17826e2b4df40255f3c7efd366541e1795)  
+> Commit: [bb9adc17826e2b4df40255f3c7efd366541e1795](https://github.com/jcornwell-river/dsiprouter/commit/bb9adc17826e2b4df40255f3c7efd366541e1795)  
 > Date: Fri, 9 Mar 2018 22:03:46 -0500  
 > Author: Tyler Moore (tmoore@goflyball.com)  
 > Committer: Tyler Moore (tmoore@goflyball.com)  
@@ -24250,7 +24926,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 088ef02a18ffd0c57fbcc5565358905c624a3dda)
 ### Added GUI support for allowing a PBX/Endpoint to register
 
-> Commit: [088ef02a18ffd0c57fbcc5565358905c624a3dda](https://git.flyball.co/dsiprouter/enterprise/commit/088ef02a18ffd0c57fbcc5565358905c624a3dda)  
+> Commit: [088ef02a18ffd0c57fbcc5565358905c624a3dda](https://github.com/jcornwell-river/dsiprouter/commit/088ef02a18ffd0c57fbcc5565358905c624a3dda)  
 > Date: Wed, 7 Mar 2018 05:41:00 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24265,7 +24941,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c689b9e7d08a64c320d4769ff6d312ec61f1b00)
 ### Completed Kamailio support to allow PBX's to register to dSIPRouter
 
-> Commit: [0c689b9e7d08a64c320d4769ff6d312ec61f1b00](https://git.flyball.co/dsiprouter/enterprise/commit/0c689b9e7d08a64c320d4769ff6d312ec61f1b00)  
+> Commit: [0c689b9e7d08a64c320d4769ff6d312ec61f1b00](https://github.com/jcornwell-river/dsiprouter/commit/0c689b9e7d08a64c320d4769ff6d312ec61f1b00)  
 > Date: Mon, 5 Mar 2018 03:25:26 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24280,7 +24956,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 94fc56e69265f0d61d0cb7e896335d017b77747b)
 ### Added support to allow PBX's to register
 
-> Commit: [94fc56e69265f0d61d0cb7e896335d017b77747b](https://git.flyball.co/dsiprouter/enterprise/commit/94fc56e69265f0d61d0cb7e896335d017b77747b)  
+> Commit: [94fc56e69265f0d61d0cb7e896335d017b77747b](https://github.com/jcornwell-river/dsiprouter/commit/94fc56e69265f0d61d0cb7e896335d017b77747b)  
 > Date: Sat, 3 Mar 2018 16:56:11 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24295,7 +24971,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c5292d265bb33dd3be8b6d217fdfbdb0ad7bcd9)
 ### Added curl to the packages that needs to tbe downloaded.  Also fixed issue with the dSIPRouter port not being added
 
-> Commit: [0c5292d265bb33dd3be8b6d217fdfbdb0ad7bcd9](https://git.flyball.co/dsiprouter/enterprise/commit/0c5292d265bb33dd3be8b6d217fdfbdb0ad7bcd9)  
+> Commit: [0c5292d265bb33dd3be8b6d217fdfbdb0ad7bcd9](https://github.com/jcornwell-river/dsiprouter/commit/0c5292d265bb33dd3be8b6d217fdfbdb0ad7bcd9)  
 > Date: Fri, 2 Mar 2018 05:08:18 +0000  
 > Author: root (root@disrouter-kam5-dev2.localdomain)  
 > Committer: root (root@disrouter-kam5-dev2.localdomain)  
@@ -24310,7 +24986,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 35989c8bb8226c0d15bf02cd07ab23a5237d6eff)
 ### Fixed issues with install script
 
-> Commit: [35989c8bb8226c0d15bf02cd07ab23a5237d6eff](https://git.flyball.co/dsiprouter/enterprise/commit/35989c8bb8226c0d15bf02cd07ab23a5237d6eff)  
+> Commit: [35989c8bb8226c0d15bf02cd07ab23a5237d6eff](https://github.com/jcornwell-river/dsiprouter/commit/35989c8bb8226c0d15bf02cd07ab23a5237d6eff)  
 > Date: Fri, 2 Mar 2018 04:40:16 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24325,7 +25001,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fb1385b87914ddc040630bbe0d10c5a40bdc8b99)
 ### Fixed and validated the debian stretch install
 
-> Commit: [fb1385b87914ddc040630bbe0d10c5a40bdc8b99](https://git.flyball.co/dsiprouter/enterprise/commit/fb1385b87914ddc040630bbe0d10c5a40bdc8b99)  
+> Commit: [fb1385b87914ddc040630bbe0d10c5a40bdc8b99](https://github.com/jcornwell-river/dsiprouter/commit/fb1385b87914ddc040630bbe0d10c5a40bdc8b99)  
 > Date: Fri, 2 Mar 2018 01:43:22 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24340,7 +25016,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d9a3d2dc612cd1c5956ae98bb9393c4b58f94653)
 ### Refactoring the install script into more maintainable and testable units
 
-> Commit: [d9a3d2dc612cd1c5956ae98bb9393c4b58f94653](https://git.flyball.co/dsiprouter/enterprise/commit/d9a3d2dc612cd1c5956ae98bb9393c4b58f94653)  
+> Commit: [d9a3d2dc612cd1c5956ae98bb9393c4b58f94653](https://github.com/jcornwell-river/dsiprouter/commit/d9a3d2dc612cd1c5956ae98bb9393c4b58f94653)  
 > Date: Sun, 25 Feb 2018 07:58:28 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24355,7 +25031,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9caa328dcaa35b751c48f2e2197ce92104cdf132)
 ### Fixed issues with the Stretch install
 
-> Commit: [9caa328dcaa35b751c48f2e2197ce92104cdf132](https://git.flyball.co/dsiprouter/enterprise/commit/9caa328dcaa35b751c48f2e2197ce92104cdf132)  
+> Commit: [9caa328dcaa35b751c48f2e2197ce92104cdf132](https://github.com/jcornwell-river/dsiprouter/commit/9caa328dcaa35b751c48f2e2197ce92104cdf132)  
 > Date: Sat, 24 Feb 2018 22:06:10 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24370,7 +25046,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3fb6f45c7a48a148cfc94afd4475e90a8d56f15f)
 ### Adding support for Debian Stretch release
 
-> Commit: [3fb6f45c7a48a148cfc94afd4475e90a8d56f15f](https://git.flyball.co/dsiprouter/enterprise/commit/3fb6f45c7a48a148cfc94afd4475e90a8d56f15f)  
+> Commit: [3fb6f45c7a48a148cfc94afd4475e90a8d56f15f](https://github.com/jcornwell-river/dsiprouter/commit/3fb6f45c7a48a148cfc94afd4475e90a8d56f15f)  
 > Date: Sat, 24 Feb 2018 20:40:50 +0000  
 > Author: root (root@dsiprouter-kam5.localdomain)  
 > Committer: root (root@dsiprouter-kam5.localdomain)  
@@ -24385,7 +25061,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1bbb6616fbf5393a984bda57e2d7423d15e06d7f)
 ### Update README.md
 
-> Commit: [1bbb6616fbf5393a984bda57e2d7423d15e06d7f](https://git.flyball.co/dsiprouter/enterprise/commit/1bbb6616fbf5393a984bda57e2d7423d15e06d7f)  
+> Commit: [1bbb6616fbf5393a984bda57e2d7423d15e06d7f](https://github.com/jcornwell-river/dsiprouter/commit/1bbb6616fbf5393a984bda57e2d7423d15e06d7f)  
 > Date: Sat, 24 Feb 2018 11:56:30 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24400,7 +25076,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8c00bda7dbc94eae694acb5e0204c8b12eec633a)
 ### Fixed an issue that prevented Kamailio 4.4 from being installed
 
-> Commit: [8c00bda7dbc94eae694acb5e0204c8b12eec633a](https://git.flyball.co/dsiprouter/enterprise/commit/8c00bda7dbc94eae694acb5e0204c8b12eec633a)  
+> Commit: [8c00bda7dbc94eae694acb5e0204c8b12eec633a](https://github.com/jcornwell-river/dsiprouter/commit/8c00bda7dbc94eae694acb5e0204c8b12eec633a)  
 > Date: Tue, 19 Dec 2017 14:50:24 -0500  
 > Author: root (root@debian89)  
 > Committer: root (root@debian89)  
@@ -24415,7 +25091,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c49f1656c78bfe96ea2c562f3bba3f80e294157f)
 ### Update README.md
 
-> Commit: [c49f1656c78bfe96ea2c562f3bba3f80e294157f](https://git.flyball.co/dsiprouter/enterprise/commit/c49f1656c78bfe96ea2c562f3bba3f80e294157f)  
+> Commit: [c49f1656c78bfe96ea2c562f3bba3f80e294157f](https://github.com/jcornwell-river/dsiprouter/commit/c49f1656c78bfe96ea2c562f3bba3f80e294157f)  
 > Date: Mon, 18 Dec 2017 20:48:57 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24430,7 +25106,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9da44b990faf882f0988bb419456fa7a466e3d67)
 ### Removed debugging statements from bash scripts and made kamailio restart after the dSIPRouter install
 
-> Commit: [9da44b990faf882f0988bb419456fa7a466e3d67](https://git.flyball.co/dsiprouter/enterprise/commit/9da44b990faf882f0988bb419456fa7a466e3d67)  
+> Commit: [9da44b990faf882f0988bb419456fa7a466e3d67](https://github.com/jcornwell-river/dsiprouter/commit/9da44b990faf882f0988bb419456fa7a466e3d67)  
 > Date: Tue, 19 Dec 2017 01:41:58 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24445,7 +25121,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 882cb7a3eac6de74cc913ce9fdc898c8fe0728b2)
 ### Added logic to handle different versios of Kamailio
 
-> Commit: [882cb7a3eac6de74cc913ce9fdc898c8fe0728b2](https://git.flyball.co/dsiprouter/enterprise/commit/882cb7a3eac6de74cc913ce9fdc898c8fe0728b2)  
+> Commit: [882cb7a3eac6de74cc913ce9fdc898c8fe0728b2](https://github.com/jcornwell-river/dsiprouter/commit/882cb7a3eac6de74cc913ce9fdc898c8fe0728b2)  
 > Date: Tue, 19 Dec 2017 01:26:04 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24460,7 +25136,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2da11a5f987d00e235ec6b7d7ea5d072b6a36198)
 ### fixed the install the uninstall scripts
 
-> Commit: [2da11a5f987d00e235ec6b7d7ea5d072b6a36198](https://git.flyball.co/dsiprouter/enterprise/commit/2da11a5f987d00e235ec6b7d7ea5d072b6a36198)  
+> Commit: [2da11a5f987d00e235ec6b7d7ea5d072b6a36198](https://github.com/jcornwell-river/dsiprouter/commit/2da11a5f987d00e235ec6b7d7ea5d072b6a36198)  
 > Date: Tue, 19 Dec 2017 00:28:13 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24475,7 +25151,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION afb668cb39cf623379989209a3f6cf4584eae71b)
 ### Update README.md
 
-> Commit: [afb668cb39cf623379989209a3f6cf4584eae71b](https://git.flyball.co/dsiprouter/enterprise/commit/afb668cb39cf623379989209a3f6cf4584eae71b)  
+> Commit: [afb668cb39cf623379989209a3f6cf4584eae71b](https://github.com/jcornwell-river/dsiprouter/commit/afb668cb39cf623379989209a3f6cf4584eae71b)  
 > Date: Mon, 18 Dec 2017 19:00:16 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24490,7 +25166,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 224b098a0dfc5adf8da010713ae55588d411c011)
 ### added support for installing kamailio on debian
 
-> Commit: [224b098a0dfc5adf8da010713ae55588d411c011](https://git.flyball.co/dsiprouter/enterprise/commit/224b098a0dfc5adf8da010713ae55588d411c011)  
+> Commit: [224b098a0dfc5adf8da010713ae55588d411c011](https://github.com/jcornwell-river/dsiprouter/commit/224b098a0dfc5adf8da010713ae55588d411c011)  
 > Date: Mon, 18 Dec 2017 23:56:06 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24505,7 +25181,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b7c3abf5004ccda474507dd39c0c52d579186584)
 ### Correct reference to REQ_PYTHON_MAJOR_VER
 
-> Commit: [b7c3abf5004ccda474507dd39c0c52d579186584](https://git.flyball.co/dsiprouter/enterprise/commit/b7c3abf5004ccda474507dd39c0c52d579186584)  
+> Commit: [b7c3abf5004ccda474507dd39c0c52d579186584](https://github.com/jcornwell-river/dsiprouter/commit/b7c3abf5004ccda474507dd39c0c52d579186584)  
 > Date: Sun, 10 Dec 2017 09:55:02 -0500  
 > Author: hailthemelody (rainman@hailthemelody.com)  
 > Committer: hailthemelody (rainman@hailthemelody.com)  
@@ -24521,7 +25197,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 63496f31a39d0bbfc35460259d90e4c5053c1db5)
 ### Correct reference to variable
 
-> Commit: [63496f31a39d0bbfc35460259d90e4c5053c1db5](https://git.flyball.co/dsiprouter/enterprise/commit/63496f31a39d0bbfc35460259d90e4c5053c1db5)  
+> Commit: [63496f31a39d0bbfc35460259d90e4c5053c1db5](https://github.com/jcornwell-river/dsiprouter/commit/63496f31a39d0bbfc35460259d90e4c5053c1db5)  
 > Date: Sun, 10 Dec 2017 08:44:47 -0500  
 > Author: hailthemelody (rainman@hailthemelody.com)  
 > Committer: hailthemelody (rainman@hailthemelody.com)  
@@ -24537,7 +25213,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 52189aced1a306c35cd2ad4af6db8826aa879837)
 ### update the version from 0.30 to 0.31
 
-> Commit: [52189aced1a306c35cd2ad4af6db8826aa879837](https://git.flyball.co/dsiprouter/enterprise/commit/52189aced1a306c35cd2ad4af6db8826aa879837)  
+> Commit: [52189aced1a306c35cd2ad4af6db8826aa879837](https://github.com/jcornwell-river/dsiprouter/commit/52189aced1a306c35cd2ad4af6db8826aa879837)  
 > Date: Mon, 4 Dec 2017 12:12:24 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24552,7 +25228,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 51e91ee29e272e8d6af2854b46ff54096b942108)
 ### Update README.md
 
-> Commit: [51e91ee29e272e8d6af2854b46ff54096b942108](https://git.flyball.co/dsiprouter/enterprise/commit/51e91ee29e272e8d6af2854b46ff54096b942108)  
+> Commit: [51e91ee29e272e8d6af2854b46ff54096b942108](https://github.com/jcornwell-river/dsiprouter/commit/51e91ee29e272e8d6af2854b46ff54096b942108)  
 > Date: Mon, 4 Dec 2017 07:09:50 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24567,7 +25243,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 669cf794d179668c1176d0f7b3e9af0cc266187a)
 ### Update README.md
 
-> Commit: [669cf794d179668c1176d0f7b3e9af0cc266187a](https://git.flyball.co/dsiprouter/enterprise/commit/669cf794d179668c1176d0f7b3e9af0cc266187a)  
+> Commit: [669cf794d179668c1176d0f7b3e9af0cc266187a](https://github.com/jcornwell-river/dsiprouter/commit/669cf794d179668c1176d0f7b3e9af0cc266187a)  
 > Date: Mon, 4 Dec 2017 07:07:36 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24582,7 +25258,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9c8444ae737cab7a94bd62edb0e06a70699cdad1)
 ### Fixed some minor bugs and formatting issues
 
-> Commit: [9c8444ae737cab7a94bd62edb0e06a70699cdad1](https://git.flyball.co/dsiprouter/enterprise/commit/9c8444ae737cab7a94bd62edb0e06a70699cdad1)  
+> Commit: [9c8444ae737cab7a94bd62edb0e06a70699cdad1](https://github.com/jcornwell-river/dsiprouter/commit/9c8444ae737cab7a94bd62edb0e06a70699cdad1)  
 > Date: Mon, 4 Dec 2017 01:19:21 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24597,7 +25273,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 03c315ebbbfa321d8494f2ee5d32ad09ed2eb4a5)
 ### Update README.md
 
-> Commit: [03c315ebbbfa321d8494f2ee5d32ad09ed2eb4a5](https://git.flyball.co/dsiprouter/enterprise/commit/03c315ebbbfa321d8494f2ee5d32ad09ed2eb4a5)  
+> Commit: [03c315ebbbfa321d8494f2ee5d32ad09ed2eb4a5](https://github.com/jcornwell-river/dsiprouter/commit/03c315ebbbfa321d8494f2ee5d32ad09ed2eb4a5)  
 > Date: Sun, 3 Dec 2017 17:06:14 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24612,7 +25288,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7bd1de71a7e6a8a4e2104fe8a92255c957f2094e)
 ### Generate unique password during install
 
-> Commit: [7bd1de71a7e6a8a4e2104fe8a92255c957f2094e](https://git.flyball.co/dsiprouter/enterprise/commit/7bd1de71a7e6a8a4e2104fe8a92255c957f2094e)  
+> Commit: [7bd1de71a7e6a8a4e2104fe8a92255c957f2094e](https://github.com/jcornwell-river/dsiprouter/commit/7bd1de71a7e6a8a4e2104fe8a92255c957f2094e)  
 > Date: Sun, 3 Dec 2017 22:03:42 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24627,7 +25303,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 82917923a05f944ff8e283dc3846e06fb4a97b7c)
 ### Added support for generating a unique password during the installation process
 
-> Commit: [82917923a05f944ff8e283dc3846e06fb4a97b7c](https://git.flyball.co/dsiprouter/enterprise/commit/82917923a05f944ff8e283dc3846e06fb4a97b7c)  
+> Commit: [82917923a05f944ff8e283dc3846e06fb4a97b7c](https://github.com/jcornwell-river/dsiprouter/commit/82917923a05f944ff8e283dc3846e06fb4a97b7c)  
 > Date: Sun, 3 Dec 2017 21:59:15 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24642,7 +25318,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f1c1f30dd2b9a0720f3c2821c11a65f6908e50c0)
 ### restored the format of the file
 
-> Commit: [f1c1f30dd2b9a0720f3c2821c11a65f6908e50c0](https://git.flyball.co/dsiprouter/enterprise/commit/f1c1f30dd2b9a0720f3c2821c11a65f6908e50c0)  
+> Commit: [f1c1f30dd2b9a0720f3c2821c11a65f6908e50c0](https://github.com/jcornwell-river/dsiprouter/commit/f1c1f30dd2b9a0720f3c2821c11a65f6908e50c0)  
 > Date: Sat, 2 Dec 2017 11:58:52 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24657,7 +25333,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f6912be94e6e4cf913c639398cffac55c5c96fa9)
 ### restored the format of the file
 
-> Commit: [f6912be94e6e4cf913c639398cffac55c5c96fa9](https://git.flyball.co/dsiprouter/enterprise/commit/f6912be94e6e4cf913c639398cffac55c5c96fa9)  
+> Commit: [f6912be94e6e4cf913c639398cffac55c5c96fa9](https://github.com/jcornwell-river/dsiprouter/commit/f6912be94e6e4cf913c639398cffac55c5c96fa9)  
 > Date: Sat, 2 Dec 2017 11:56:20 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24672,7 +25348,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 00538e7cc48ade86b72f17a41c4e5dd28ad6051d)
 ### Fixed the reloadcmd file, but forgot to commit. Fixes #17
 
-> Commit: [00538e7cc48ade86b72f17a41c4e5dd28ad6051d](https://git.flyball.co/dsiprouter/enterprise/commit/00538e7cc48ade86b72f17a41c4e5dd28ad6051d)  
+> Commit: [00538e7cc48ade86b72f17a41c4e5dd28ad6051d](https://github.com/jcornwell-river/dsiprouter/commit/00538e7cc48ade86b72f17a41c4e5dd28ad6051d)  
 > Date: Sat, 2 Dec 2017 11:02:45 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24687,7 +25363,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 659dac168fc571efe6872ed61abfce4a5800fb2c)
 ### Fixed the container padding to remove the padding on the left and right. Fixes #12
 
-> Commit: [659dac168fc571efe6872ed61abfce4a5800fb2c](https://git.flyball.co/dsiprouter/enterprise/commit/659dac168fc571efe6872ed61abfce4a5800fb2c)  
+> Commit: [659dac168fc571efe6872ed61abfce4a5800fb2c](https://github.com/jcornwell-river/dsiprouter/commit/659dac168fc571efe6872ed61abfce4a5800fb2c)  
 > Date: Sat, 2 Dec 2017 10:28:12 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24702,7 +25378,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f7e26d7590574085fe389c8f8a8abfd28cb20499)
 ### Enhanced the logic around reloading Kamailio from the GUI.  Thanks to @khorsmann  Fixes #17
 
-> Commit: [f7e26d7590574085fe389c8f8a8abfd28cb20499](https://git.flyball.co/dsiprouter/enterprise/commit/f7e26d7590574085fe389c8f8a8abfd28cb20499)  
+> Commit: [f7e26d7590574085fe389c8f8a8abfd28cb20499](https://github.com/jcornwell-river/dsiprouter/commit/f7e26d7590574085fe389c8f8a8abfd28cb20499)  
 > Date: Sat, 2 Dec 2017 09:43:40 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24717,7 +25393,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 89a2de5b935125ab917af7f8107d7f93e80f7cb6)
 ### Fixed an issue with the Kamailio module path not being populated properly during install.  Close #18 in release 0.31
 
-> Commit: [89a2de5b935125ab917af7f8107d7f93e80f7cb6](https://git.flyball.co/dsiprouter/enterprise/commit/89a2de5b935125ab917af7f8107d7f93e80f7cb6)  
+> Commit: [89a2de5b935125ab917af7f8107d7f93e80f7cb6](https://github.com/jcornwell-river/dsiprouter/commit/89a2de5b935125ab917af7f8107d7f93e80f7cb6)  
 > Date: Fri, 1 Dec 2017 11:36:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24732,7 +25408,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cdbc3d9be43d180f90d02ba4dce6fb76c6d25774)
 ### Added logic that would distinguish between local dialing and external dialing through a carrier when registering endpoints through the SIPProxy.  It's hardcoded so that extensions has to contain 5 or more digits.  Otherwise, it will try to route the call to a carrier
 
-> Commit: [cdbc3d9be43d180f90d02ba4dce6fb76c6d25774](https://git.flyball.co/dsiprouter/enterprise/commit/cdbc3d9be43d180f90d02ba4dce6fb76c6d25774)  
+> Commit: [cdbc3d9be43d180f90d02ba4dce6fb76c6d25774](https://github.com/jcornwell-river/dsiprouter/commit/cdbc3d9be43d180f90d02ba4dce6fb76c6d25774)  
 > Date: Sat, 25 Nov 2017 06:27:05 -0800  
 > Author: root (root@noc-lcb-spxy1.garlic.com)  
 > Committer: root (root@noc-lcb-spxy1.garlic.com)  
@@ -24747,7 +25423,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7a7d4b282560f435be995fe0a08f992d944bee8)
 ### Fixed issue with ACK's not propagating thru the Kamailio correctedly.  Also, set the retranmission timeout to 10sec when trying to initial a call to an endpoint.
 
-> Commit: [e7a7d4b282560f435be995fe0a08f992d944bee8](https://git.flyball.co/dsiprouter/enterprise/commit/e7a7d4b282560f435be995fe0a08f992d944bee8)  
+> Commit: [e7a7d4b282560f435be995fe0a08f992d944bee8](https://github.com/jcornwell-river/dsiprouter/commit/e7a7d4b282560f435be995fe0a08f992d944bee8)  
 > Date: Wed, 22 Nov 2017 21:48:45 -0800  
 > Author: root (root@noc-lcb-spxy1.garlic.com)  
 > Committer: root (root@noc-lcb-spxy1.garlic.com)  
@@ -24762,7 +25438,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7b958fda8aa5befdb950b226214cc89a982f696b)
 ### Fixed an issue with endpoints being able to receive calls once registered
 
-> Commit: [7b958fda8aa5befdb950b226214cc89a982f696b](https://git.flyball.co/dsiprouter/enterprise/commit/7b958fda8aa5befdb950b226214cc89a982f696b)  
+> Commit: [7b958fda8aa5befdb950b226214cc89a982f696b](https://github.com/jcornwell-river/dsiprouter/commit/7b958fda8aa5befdb950b226214cc89a982f696b)  
 > Date: Tue, 21 Nov 2017 20:57:26 -0800  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -24777,7 +25453,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ac333d0828cb9e772799d33a99ee2931fa6800d1)
 ### close 23
 
-> Commit: [ac333d0828cb9e772799d33a99ee2931fa6800d1](https://git.flyball.co/dsiprouter/enterprise/commit/ac333d0828cb9e772799d33a99ee2931fa6800d1)  
+> Commit: [ac333d0828cb9e772799d33a99ee2931fa6800d1](https://github.com/jcornwell-river/dsiprouter/commit/ac333d0828cb9e772799d33a99ee2931fa6800d1)  
 > Date: Tue, 21 Nov 2017 09:22:21 -0800  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -24792,7 +25468,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f8e6dac639b6437f73ee607da87f737911aa9c63)
 ### Fixed an issue with a quote not being specified correctly
 
-> Commit: [f8e6dac639b6437f73ee607da87f737911aa9c63](https://git.flyball.co/dsiprouter/enterprise/commit/f8e6dac639b6437f73ee607da87f737911aa9c63)  
+> Commit: [f8e6dac639b6437f73ee607da87f737911aa9c63](https://github.com/jcornwell-river/dsiprouter/commit/f8e6dac639b6437f73ee607da87f737911aa9c63)  
 > Date: Tue, 21 Nov 2017 02:49:41 -0800  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -24807,7 +25483,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5152e54cd53dda2261269fe0ecbd4e73b1d54e79)
 ### Will run apt-get update before installing
 
-> Commit: [5152e54cd53dda2261269fe0ecbd4e73b1d54e79](https://git.flyball.co/dsiprouter/enterprise/commit/5152e54cd53dda2261269fe0ecbd4e73b1d54e79)  
+> Commit: [5152e54cd53dda2261269fe0ecbd4e73b1d54e79](https://github.com/jcornwell-river/dsiprouter/commit/5152e54cd53dda2261269fe0ecbd4e73b1d54e79)  
 > Date: Tue, 21 Nov 2017 02:45:56 -0800  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -24822,7 +25498,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6a58a375b667a3447bf28527937ddd2cf8ec3a95)
 ### Added a parameter to the save function in the registrar module.  Close #23
 
-> Commit: [6a58a375b667a3447bf28527937ddd2cf8ec3a95](https://git.flyball.co/dsiprouter/enterprise/commit/6a58a375b667a3447bf28527937ddd2cf8ec3a95)  
+> Commit: [6a58a375b667a3447bf28527937ddd2cf8ec3a95](https://github.com/jcornwell-river/dsiprouter/commit/6a58a375b667a3447bf28527937ddd2cf8ec3a95)  
 > Date: Tue, 21 Nov 2017 16:37:15 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24837,7 +25513,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f98711e799efc4ce3799b4ffde9e021a0f2ffded)
 ### Fixed a bug with the commands to enable dSIPRouter to access the FusionPBX DB
 
-> Commit: [f98711e799efc4ce3799b4ffde9e021a0f2ffded](https://git.flyball.co/dsiprouter/enterprise/commit/f98711e799efc4ce3799b4ffde9e021a0f2ffded)  
+> Commit: [f98711e799efc4ce3799b4ffde9e021a0f2ffded](https://github.com/jcornwell-river/dsiprouter/commit/f98711e799efc4ce3799b4ffde9e021a0f2ffded)  
 > Date: Tue, 14 Nov 2017 23:30:37 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24852,7 +25528,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0cac2e6e1a0642f65963b2aceb34a38dce332956)
 ### Update README.md
 
-> Commit: [0cac2e6e1a0642f65963b2aceb34a38dce332956](https://git.flyball.co/dsiprouter/enterprise/commit/0cac2e6e1a0642f65963b2aceb34a38dce332956)  
+> Commit: [0cac2e6e1a0642f65963b2aceb34a38dce332956](https://github.com/jcornwell-river/dsiprouter/commit/0cac2e6e1a0642f65963b2aceb34a38dce332956)  
 > Date: Mon, 13 Nov 2017 15:02:31 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24867,7 +25543,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION c6d6a174294ac9e6598f4eb7e44114419e083474)
 ### Updated the release version
 
-> Commit: [c6d6a174294ac9e6598f4eb7e44114419e083474](https://git.flyball.co/dsiprouter/enterprise/commit/c6d6a174294ac9e6598f4eb7e44114419e083474)  
+> Commit: [c6d6a174294ac9e6598f4eb7e44114419e083474](https://github.com/jcornwell-river/dsiprouter/commit/c6d6a174294ac9e6598f4eb7e44114419e083474)  
 > Date: Mon, 13 Nov 2017 17:50:18 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24882,7 +25558,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 81f0bcc195e06efeee1e1c1f38a5e857aebdbc27)
 ### Fixed the issue with overwriting the original Kamailio configuration files when installing the product multiple times. Closes #19
 
-> Commit: [81f0bcc195e06efeee1e1c1f38a5e857aebdbc27](https://git.flyball.co/dsiprouter/enterprise/commit/81f0bcc195e06efeee1e1c1f38a5e857aebdbc27)  
+> Commit: [81f0bcc195e06efeee1e1c1f38a5e857aebdbc27](https://github.com/jcornwell-river/dsiprouter/commit/81f0bcc195e06efeee1e1c1f38a5e857aebdbc27)  
 > Date: Mon, 13 Nov 2017 17:47:30 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24897,7 +25573,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6ab256bc23ca59ebca0e282732e9bd3e1e8eb41f)
 ### Commented out database mapping for the fusionpbx_db_mapping table
 
-> Commit: [6ab256bc23ca59ebca0e282732e9bd3e1e8eb41f](https://git.flyball.co/dsiprouter/enterprise/commit/6ab256bc23ca59ebca0e282732e9bd3e1e8eb41f)  
+> Commit: [6ab256bc23ca59ebca0e282732e9bd3e1e8eb41f](https://github.com/jcornwell-river/dsiprouter/commit/6ab256bc23ca59ebca0e282732e9bd3e1e8eb41f)  
 > Date: Mon, 13 Nov 2017 16:23:29 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24912,7 +25588,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 30a0d5b5f6ed421bff78e92320c91841aa7fc5e1)
 ### Added a library to the install script and fixed an issue with the mysql script
 
-> Commit: [30a0d5b5f6ed421bff78e92320c91841aa7fc5e1](https://git.flyball.co/dsiprouter/enterprise/commit/30a0d5b5f6ed421bff78e92320c91841aa7fc5e1)  
+> Commit: [30a0d5b5f6ed421bff78e92320c91841aa7fc5e1](https://github.com/jcornwell-river/dsiprouter/commit/30a0d5b5f6ed421bff78e92320c91841aa7fc5e1)  
 > Date: Mon, 13 Nov 2017 16:19:11 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -24927,7 +25603,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1970e0617e9671f155b866f7b27c70d91975f153)
 ### Update README.md
 
-> Commit: [1970e0617e9671f155b866f7b27c70d91975f153](https://git.flyball.co/dsiprouter/enterprise/commit/1970e0617e9671f155b866f7b27c70d91975f153)  
+> Commit: [1970e0617e9671f155b866f7b27c70d91975f153](https://github.com/jcornwell-river/dsiprouter/commit/1970e0617e9671f155b866f7b27c70d91975f153)  
 > Date: Mon, 13 Nov 2017 10:37:12 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24942,7 +25618,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0fbfa1e96b069d605d5cb6fe91aa7e88baeb46dd)
 ### Fixed an issue with stopping the server
 
-> Commit: [0fbfa1e96b069d605d5cb6fe91aa7e88baeb46dd](https://git.flyball.co/dsiprouter/enterprise/commit/0fbfa1e96b069d605d5cb6fe91aa7e88baeb46dd)  
+> Commit: [0fbfa1e96b069d605d5cb6fe91aa7e88baeb46dd](https://github.com/jcornwell-river/dsiprouter/commit/0fbfa1e96b069d605d5cb6fe91aa7e88baeb46dd)  
 > Date: Mon, 13 Nov 2017 15:27:52 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -24957,7 +25633,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9b981ea6e8cbc1c9bab4b23576bb58dd3026ea42)
 ### Update README.md
 
-> Commit: [9b981ea6e8cbc1c9bab4b23576bb58dd3026ea42](https://git.flyball.co/dsiprouter/enterprise/commit/9b981ea6e8cbc1c9bab4b23576bb58dd3026ea42)  
+> Commit: [9b981ea6e8cbc1c9bab4b23576bb58dd3026ea42](https://github.com/jcornwell-river/dsiprouter/commit/9b981ea6e8cbc1c9bab4b23576bb58dd3026ea42)  
 > Date: Mon, 13 Nov 2017 09:40:24 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24972,7 +25648,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7b12db3d9acd7a1198dba333387b37aaf7db2ff8)
 ### Update README.md
 
-> Commit: [7b12db3d9acd7a1198dba333387b37aaf7db2ff8](https://git.flyball.co/dsiprouter/enterprise/commit/7b12db3d9acd7a1198dba333387b37aaf7db2ff8)  
+> Commit: [7b12db3d9acd7a1198dba333387b37aaf7db2ff8](https://github.com/jcornwell-river/dsiprouter/commit/7b12db3d9acd7a1198dba333387b37aaf7db2ff8)  
 > Date: Mon, 13 Nov 2017 09:40:12 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -24987,7 +25663,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 16773e75599c05f867f44fa622636031f75bd8c8)
 ### Add files via upload
 
-> Commit: [16773e75599c05f867f44fa622636031f75bd8c8](https://git.flyball.co/dsiprouter/enterprise/commit/16773e75599c05f867f44fa622636031f75bd8c8)  
+> Commit: [16773e75599c05f867f44fa622636031f75bd8c8](https://github.com/jcornwell-river/dsiprouter/commit/16773e75599c05f867f44fa622636031f75bd8c8)  
 > Date: Mon, 13 Nov 2017 09:34:41 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25002,7 +25678,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 00dc8386150c5da6207cd6f59a048ae26e38e136)
 ### Update README.md
 
-> Commit: [00dc8386150c5da6207cd6f59a048ae26e38e136](https://git.flyball.co/dsiprouter/enterprise/commit/00dc8386150c5da6207cd6f59a048ae26e38e136)  
+> Commit: [00dc8386150c5da6207cd6f59a048ae26e38e136](https://github.com/jcornwell-river/dsiprouter/commit/00dc8386150c5da6207cd6f59a048ae26e38e136)  
 > Date: Mon, 13 Nov 2017 09:24:26 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25017,7 +25693,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25479f2a5fffce7ff304d6b38c979581b32dc801)
 ### Update README.md
 
-> Commit: [25479f2a5fffce7ff304d6b38c979581b32dc801](https://git.flyball.co/dsiprouter/enterprise/commit/25479f2a5fffce7ff304d6b38c979581b32dc801)  
+> Commit: [25479f2a5fffce7ff304d6b38c979581b32dc801](https://github.com/jcornwell-river/dsiprouter/commit/25479f2a5fffce7ff304d6b38c979581b32dc801)  
 > Date: Mon, 13 Nov 2017 09:21:45 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25032,7 +25708,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fdd69aa8e1d79ef14fb0448b3ee702982e43f9da)
 ### Update README.md
 
-> Commit: [fdd69aa8e1d79ef14fb0448b3ee702982e43f9da](https://git.flyball.co/dsiprouter/enterprise/commit/fdd69aa8e1d79ef14fb0448b3ee702982e43f9da)  
+> Commit: [fdd69aa8e1d79ef14fb0448b3ee702982e43f9da](https://github.com/jcornwell-river/dsiprouter/commit/fdd69aa8e1d79ef14fb0448b3ee702982e43f9da)  
 > Date: Mon, 13 Nov 2017 09:15:09 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25047,7 +25723,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1bc9419eb983a1bb2dd99645476b16670f5a565a)
 ### Update README.md
 
-> Commit: [1bc9419eb983a1bb2dd99645476b16670f5a565a](https://git.flyball.co/dsiprouter/enterprise/commit/1bc9419eb983a1bb2dd99645476b16670f5a565a)  
+> Commit: [1bc9419eb983a1bb2dd99645476b16670f5a565a](https://github.com/jcornwell-river/dsiprouter/commit/1bc9419eb983a1bb2dd99645476b16670f5a565a)  
 > Date: Mon, 13 Nov 2017 09:00:39 -0500  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25062,7 +25738,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4ff4d11309aa6d40595ed6ec89d800c39bfcdf9c)
 ### Fixed issues with the install script
 
-> Commit: [4ff4d11309aa6d40595ed6ec89d800c39bfcdf9c](https://git.flyball.co/dsiprouter/enterprise/commit/4ff4d11309aa6d40595ed6ec89d800c39bfcdf9c)  
+> Commit: [4ff4d11309aa6d40595ed6ec89d800c39bfcdf9c](https://github.com/jcornwell-river/dsiprouter/commit/4ff4d11309aa6d40595ed6ec89d800c39bfcdf9c)  
 > Date: Mon, 13 Nov 2017 12:39:15 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25077,7 +25753,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 015fce0deaf6b2edc5b4072d0fdddd65096f61c4)
 ### Chnaged to support FusionPBX Domain Support
 
-> Commit: [015fce0deaf6b2edc5b4072d0fdddd65096f61c4](https://git.flyball.co/dsiprouter/enterprise/commit/015fce0deaf6b2edc5b4072d0fdddd65096f61c4)  
+> Commit: [015fce0deaf6b2edc5b4072d0fdddd65096f61c4](https://github.com/jcornwell-river/dsiprouter/commit/015fce0deaf6b2edc5b4072d0fdddd65096f61c4)  
 > Date: Sun, 12 Nov 2017 15:36:54 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25092,7 +25768,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2918708fb475111254a86f6303a0e0fb23ac0c6c)
 ### Added logic to sync the Kamailio domain and domain_attrs tables with FusionPBX instances
 
-> Commit: [2918708fb475111254a86f6303a0e0fb23ac0c6c](https://git.flyball.co/dsiprouter/enterprise/commit/2918708fb475111254a86f6303a0e0fb23ac0c6c)  
+> Commit: [2918708fb475111254a86f6303a0e0fb23ac0c6c](https://github.com/jcornwell-river/dsiprouter/commit/2918708fb475111254a86f6303a0e0fb23ac0c6c)  
 > Date: Sat, 11 Nov 2017 09:40:54 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25107,7 +25783,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 763434d4868607ea78d5d1d233551f41490f6c4c)
 ### Added Add,Update and Delete support for FusionPBX Domain Support feature
 
-> Commit: [763434d4868607ea78d5d1d233551f41490f6c4c](https://git.flyball.co/dsiprouter/enterprise/commit/763434d4868607ea78d5d1d233551f41490f6c4c)  
+> Commit: [763434d4868607ea78d5d1d233551f41490f6c4c](https://github.com/jcornwell-river/dsiprouter/commit/763434d4868607ea78d5d1d233551f41490f6c4c)  
 > Date: Sun, 5 Nov 2017 08:16:48 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25122,7 +25798,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9161f79fc60c3d022be68c1c919168705af970f6)
 ### Add files via upload
 
-> Commit: [9161f79fc60c3d022be68c1c919168705af970f6](https://git.flyball.co/dsiprouter/enterprise/commit/9161f79fc60c3d022be68c1c919168705af970f6)  
+> Commit: [9161f79fc60c3d022be68c1c919168705af970f6](https://github.com/jcornwell-river/dsiprouter/commit/9161f79fc60c3d022be68c1c919168705af970f6)  
 > Date: Sun, 22 Oct 2017 13:13:26 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25137,7 +25813,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION bdac91314d94d450695afe886069df1def8cd1af)
 ### Added js to enable the FusionPBX toogle button and sytled the label for the toggle button
 
-> Commit: [bdac91314d94d450695afe886069df1def8cd1af](https://git.flyball.co/dsiprouter/enterprise/commit/bdac91314d94d450695afe886069df1def8cd1af)  
+> Commit: [bdac91314d94d450695afe886069df1def8cd1af](https://github.com/jcornwell-river/dsiprouter/commit/bdac91314d94d450695afe886069df1def8cd1af)  
 > Date: Sun, 22 Oct 2017 17:10:25 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25152,7 +25828,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dd125a19e527939ff5c128856283e0bc4bc0def3)
 ### Initial Support for automatically syncing FusionPBX domains with Kamailio '
 
-> Commit: [dd125a19e527939ff5c128856283e0bc4bc0def3](https://git.flyball.co/dsiprouter/enterprise/commit/dd125a19e527939ff5c128856283e0bc4bc0def3)  
+> Commit: [dd125a19e527939ff5c128856283e0bc4bc0def3](https://github.com/jcornwell-river/dsiprouter/commit/dd125a19e527939ff5c128856283e0bc4bc0def3)  
 > Date: Thu, 12 Oct 2017 03:33:42 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25167,7 +25843,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0ae571409ca712c0e6032ff34a662fea009fde7c)
 ### Added some notes
 
-> Commit: [0ae571409ca712c0e6032ff34a662fea009fde7c](https://git.flyball.co/dsiprouter/enterprise/commit/0ae571409ca712c0e6032ff34a662fea009fde7c)  
+> Commit: [0ae571409ca712c0e6032ff34a662fea009fde7c](https://github.com/jcornwell-river/dsiprouter/commit/0ae571409ca712c0e6032ff34a662fea009fde7c)  
 > Date: Wed, 11 Oct 2017 11:24:20 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25182,7 +25858,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d720a14a295d5c1f73db93e8b65b9fa459464018)
 ### Added an install script for configuring the CDR support within dSIPRouter
 
-> Commit: [d720a14a295d5c1f73db93e8b65b9fa459464018](https://git.flyball.co/dsiprouter/enterprise/commit/d720a14a295d5c1f73db93e8b65b9fa459464018)  
+> Commit: [d720a14a295d5c1f73db93e8b65b9fa459464018](https://github.com/jcornwell-river/dsiprouter/commit/d720a14a295d5c1f73db93e8b65b9fa459464018)  
 > Date: Wed, 11 Oct 2017 11:16:04 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25197,7 +25873,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cb5b188dc0b07d264bbe59f0507a56b1a2a14ea4)
 ### update .gitignore fix #15
 
-> Commit: [cb5b188dc0b07d264bbe59f0507a56b1a2a14ea4](https://git.flyball.co/dsiprouter/enterprise/commit/cb5b188dc0b07d264bbe59f0507a56b1a2a14ea4)  
+> Commit: [cb5b188dc0b07d264bbe59f0507a56b1a2a14ea4](https://github.com/jcornwell-river/dsiprouter/commit/cb5b188dc0b07d264bbe59f0507a56b1a2a14ea4)  
 > Date: Wed, 11 Oct 2017 02:43:51 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25212,7 +25888,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e7427ec396688045c49a33df0bd997c6d0baf078)
 ### add info about configuring DSIProuter
 
-> Commit: [e7427ec396688045c49a33df0bd997c6d0baf078](https://git.flyball.co/dsiprouter/enterprise/commit/e7427ec396688045c49a33df0bd997c6d0baf078)  
+> Commit: [e7427ec396688045c49a33df0bd997c6d0baf078](https://github.com/jcornwell-river/dsiprouter/commit/e7427ec396688045c49a33df0bd997c6d0baf078)  
 > Date: Mon, 9 Oct 2017 05:33:56 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25227,7 +25903,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3f1075a79528d14ea34c921fab1a79791af034be)
 ### start server on port from settings fix #14
 
-> Commit: [3f1075a79528d14ea34c921fab1a79791af034be](https://git.flyball.co/dsiprouter/enterprise/commit/3f1075a79528d14ea34c921fab1a79791af034be)  
+> Commit: [3f1075a79528d14ea34c921fab1a79791af034be](https://github.com/jcornwell-river/dsiprouter/commit/3f1075a79528d14ea34c921fab1a79791af034be)  
 > Date: Mon, 9 Oct 2017 05:28:53 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25242,7 +25918,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 88bf113c19036b381fcc477166af1c2f98bf3e8d)
 ### set DSIP_PORT to variable
 
-> Commit: [88bf113c19036b381fcc477166af1c2f98bf3e8d](https://git.flyball.co/dsiprouter/enterprise/commit/88bf113c19036b381fcc477166af1c2f98bf3e8d)  
+> Commit: [88bf113c19036b381fcc477166af1c2f98bf3e8d](https://github.com/jcornwell-river/dsiprouter/commit/88bf113c19036b381fcc477166af1c2f98bf3e8d)  
 > Date: Mon, 9 Oct 2017 05:14:06 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25257,7 +25933,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3d8be7ae7c28d86d733165b135781c8947e3330e)
 ### add PIP_CMD for pip3 on debian/ubuntu systems fix #11
 
-> Commit: [3d8be7ae7c28d86d733165b135781c8947e3330e](https://git.flyball.co/dsiprouter/enterprise/commit/3d8be7ae7c28d86d733165b135781c8947e3330e)  
+> Commit: [3d8be7ae7c28d86d733165b135781c8947e3330e](https://github.com/jcornwell-river/dsiprouter/commit/3d8be7ae7c28d86d733165b135781c8947e3330e)  
 > Date: Mon, 9 Oct 2017 05:10:03 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25272,7 +25948,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 61df3f49ca44afb570b4c7508238b7ebfebaab01)
 ### fix typo
 
-> Commit: [61df3f49ca44afb570b4c7508238b7ebfebaab01](https://git.flyball.co/dsiprouter/enterprise/commit/61df3f49ca44afb570b4c7508238b7ebfebaab01)  
+> Commit: [61df3f49ca44afb570b4c7508238b7ebfebaab01](https://github.com/jcornwell-river/dsiprouter/commit/61df3f49ca44afb570b4c7508238b7ebfebaab01)  
 > Date: Mon, 9 Oct 2017 05:02:55 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25287,7 +25963,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b95cb445d214687f20e728012f07606df5a6e9f3)
 ### fix markup and typos
 
-> Commit: [b95cb445d214687f20e728012f07606df5a6e9f3](https://git.flyball.co/dsiprouter/enterprise/commit/b95cb445d214687f20e728012f07606df5a6e9f3)  
+> Commit: [b95cb445d214687f20e728012f07606df5a6e9f3](https://github.com/jcornwell-river/dsiprouter/commit/b95cb445d214687f20e728012f07606df5a6e9f3)  
 > Date: Mon, 9 Oct 2017 04:55:13 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25302,7 +25978,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6f7ebede0ca8a72d6b6f7ccf0a9106bb862cac39)
 ### fix command for password change
 
-> Commit: [6f7ebede0ca8a72d6b6f7ccf0a9106bb862cac39](https://git.flyball.co/dsiprouter/enterprise/commit/6f7ebede0ca8a72d6b6f7ccf0a9106bb862cac39)  
+> Commit: [6f7ebede0ca8a72d6b6f7ccf0a9106bb862cac39](https://github.com/jcornwell-river/dsiprouter/commit/6f7ebede0ca8a72d6b6f7ccf0a9106bb862cac39)  
 > Date: Mon, 9 Oct 2017 04:53:04 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25317,7 +25993,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION feb0bebc498f8bf64ef9f2286c5c1cebb5127c4f)
 ### add info about License
 
-> Commit: [feb0bebc498f8bf64ef9f2286c5c1cebb5127c4f](https://git.flyball.co/dsiprouter/enterprise/commit/feb0bebc498f8bf64ef9f2286c5c1cebb5127c4f)  
+> Commit: [feb0bebc498f8bf64ef9f2286c5c1cebb5127c4f](https://github.com/jcornwell-river/dsiprouter/commit/feb0bebc498f8bf64ef9f2286c5c1cebb5127c4f)  
 > Date: Mon, 9 Oct 2017 04:48:38 +0300  
 > Author: littleguga (fed777os@gmail.com)  
 > Committer: littleguga (fed777os@gmail.com)  
@@ -25332,7 +26008,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 493840379aa8b915916a6ae6135ed8ccc3038bea)
 ### Initial commit for the fraud detection module
 
-> Commit: [493840379aa8b915916a6ae6135ed8ccc3038bea](https://git.flyball.co/dsiprouter/enterprise/commit/493840379aa8b915916a6ae6135ed8ccc3038bea)  
+> Commit: [493840379aa8b915916a6ae6135ed8ccc3038bea](https://github.com/jcornwell-river/dsiprouter/commit/493840379aa8b915916a6ae6135ed8ccc3038bea)  
 > Date: Sun, 8 Oct 2017 06:03:37 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25347,7 +26023,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2fbe8142d19ed8cf0d6399f63214adcff09c1325)
 ### Add cdrs.sql
 
-> Commit: [2fbe8142d19ed8cf0d6399f63214adcff09c1325](https://git.flyball.co/dsiprouter/enterprise/commit/2fbe8142d19ed8cf0d6399f63214adcff09c1325)  
+> Commit: [2fbe8142d19ed8cf0d6399f63214adcff09c1325](https://github.com/jcornwell-river/dsiprouter/commit/2fbe8142d19ed8cf0d6399f63214adcff09c1325)  
 > Date: Sat, 7 Oct 2017 19:32:48 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25362,7 +26038,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 592e3a4b0501cfa5a0dbe85693bd33cab18e5ce9)
 ### updated cdrs.sql with the new cdr sql file
 
-> Commit: [592e3a4b0501cfa5a0dbe85693bd33cab18e5ce9](https://git.flyball.co/dsiprouter/enterprise/commit/592e3a4b0501cfa5a0dbe85693bd33cab18e5ce9)  
+> Commit: [592e3a4b0501cfa5a0dbe85693bd33cab18e5ce9](https://github.com/jcornwell-river/dsiprouter/commit/592e3a4b0501cfa5a0dbe85693bd33cab18e5ce9)  
 > Date: Sat, 7 Oct 2017 19:22:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25377,7 +26053,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4dedc70f7dcecedc52e5f8dd2532ec9666308c96)
 ### Adding SQL for CDR's
 
-> Commit: [4dedc70f7dcecedc52e5f8dd2532ec9666308c96](https://git.flyball.co/dsiprouter/enterprise/commit/4dedc70f7dcecedc52e5f8dd2532ec9666308c96)  
+> Commit: [4dedc70f7dcecedc52e5f8dd2532ec9666308c96](https://github.com/jcornwell-river/dsiprouter/commit/4dedc70f7dcecedc52e5f8dd2532ec9666308c96)  
 > Date: Thu, 5 Oct 2017 21:45:06 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25392,7 +26068,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1f65b29dd8870d17100089e934c27e3774d136d1)
 ### Added support for domain routing (aka multidomain support)
 
-> Commit: [1f65b29dd8870d17100089e934c27e3774d136d1](https://git.flyball.co/dsiprouter/enterprise/commit/1f65b29dd8870d17100089e934c27e3774d136d1)  
+> Commit: [1f65b29dd8870d17100089e934c27e3774d136d1](https://github.com/jcornwell-river/dsiprouter/commit/1f65b29dd8870d17100089e934c27e3774d136d1)  
 > Date: Fri, 29 Sep 2017 20:29:01 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25407,7 +26083,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5cbd3ea1b5a3b584b4fea043c9ecfec6396d9ee8)
 ### Started to add support for Redhat 7.4
 
-> Commit: [5cbd3ea1b5a3b584b4fea043c9ecfec6396d9ee8](https://git.flyball.co/dsiprouter/enterprise/commit/5cbd3ea1b5a3b584b4fea043c9ecfec6396d9ee8)  
+> Commit: [5cbd3ea1b5a3b584b4fea043c9ecfec6396d9ee8](https://github.com/jcornwell-river/dsiprouter/commit/5cbd3ea1b5a3b584b4fea043c9ecfec6396d9ee8)  
 > Date: Wed, 27 Sep 2017 17:02:01 -0400  
 > Author: root (root@aio.kazoo.com)  
 > Committer: root (root@aio.kazoo.com)  
@@ -25422,7 +26098,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION dbb626353928f9a130d707c057b038ff38ab9dca)
 ### Fixed an issue that might cause the wrong Python executable to be ran
 
-> Commit: [dbb626353928f9a130d707c057b038ff38ab9dca](https://git.flyball.co/dsiprouter/enterprise/commit/dbb626353928f9a130d707c057b038ff38ab9dca)  
+> Commit: [dbb626353928f9a130d707c057b038ff38ab9dca](https://github.com/jcornwell-river/dsiprouter/commit/dbb626353928f9a130d707c057b038ff38ab9dca)  
 > Date: Fri, 15 Sep 2017 05:09:14 -0600  
 > Author: root (mack@dopensource.com)  
 > Committer: root (mack@dopensource.com)  
@@ -25437,7 +26113,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 64a24f404516f0c54222749fe7e924cce6706b40)
 ### Added support for CDR's to support call direction using a table column called calltype
 
-> Commit: [64a24f404516f0c54222749fe7e924cce6706b40](https://git.flyball.co/dsiprouter/enterprise/commit/64a24f404516f0c54222749fe7e924cce6706b40)  
+> Commit: [64a24f404516f0c54222749fe7e924cce6706b40](https://github.com/jcornwell-river/dsiprouter/commit/64a24f404516f0c54222749fe7e924cce6706b40)  
 > Date: Thu, 14 Sep 2017 20:46:11 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25452,7 +26128,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0c40065b190b1eabb3ec95eb835a2f8decac81ff)
 ### Fixed it for Debian
 
-> Commit: [0c40065b190b1eabb3ec95eb835a2f8decac81ff](https://git.flyball.co/dsiprouter/enterprise/commit/0c40065b190b1eabb3ec95eb835a2f8decac81ff)  
+> Commit: [0c40065b190b1eabb3ec95eb835a2f8decac81ff](https://github.com/jcornwell-river/dsiprouter/commit/0c40065b190b1eabb3ec95eb835a2f8decac81ff)  
 > Date: Mon, 11 Sep 2017 18:47:29 -0700  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -25467,7 +26143,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e029468a13c3e8c0b6030a3276a179990d1de11e)
 ### Added a library that was need on Debian Jessie 8.8
 
-> Commit: [e029468a13c3e8c0b6030a3276a179990d1de11e](https://git.flyball.co/dsiprouter/enterprise/commit/e029468a13c3e8c0b6030a3276a179990d1de11e)  
+> Commit: [e029468a13c3e8c0b6030a3276a179990d1de11e](https://github.com/jcornwell-river/dsiprouter/commit/e029468a13c3e8c0b6030a3276a179990d1de11e)  
 > Date: Mon, 11 Sep 2017 14:12:50 -0700  
 > Author: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
 > Committer: dopensource (dopensource@noc-lcb-spxy1.garlic.com)  
@@ -25482,7 +26158,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8c3eb214a98cad32e9798a2082170de6fd040870)
 ### Added logic to support stopping of both dsiprouter and rtpengine
 
-> Commit: [8c3eb214a98cad32e9798a2082170de6fd040870](https://git.flyball.co/dsiprouter/enterprise/commit/8c3eb214a98cad32e9798a2082170de6fd040870)  
+> Commit: [8c3eb214a98cad32e9798a2082170de6fd040870](https://github.com/jcornwell-river/dsiprouter/commit/8c3eb214a98cad32e9798a2082170de6fd040870)  
 > Date: Sun, 10 Sep 2017 20:08:24 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -25497,7 +26173,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5a08d61c877932e39b997fff9e9980b2456dc348)
 ### Added logic to the stop command
 
-> Commit: [5a08d61c877932e39b997fff9e9980b2456dc348](https://git.flyball.co/dsiprouter/enterprise/commit/5a08d61c877932e39b997fff9e9980b2456dc348)  
+> Commit: [5a08d61c877932e39b997fff9e9980b2456dc348](https://github.com/jcornwell-river/dsiprouter/commit/5a08d61c877932e39b997fff9e9980b2456dc348)  
 > Date: Sun, 10 Sep 2017 19:37:15 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -25512,7 +26188,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 1a77d09fac5c722e294a1a8f9846758caa5a7c2a)
 ### Add logic to create a tmpfiles configuration for rtpengine
 
-> Commit: [1a77d09fac5c722e294a1a8f9846758caa5a7c2a](https://git.flyball.co/dsiprouter/enterprise/commit/1a77d09fac5c722e294a1a8f9846758caa5a7c2a)  
+> Commit: [1a77d09fac5c722e294a1a8f9846758caa5a7c2a](https://github.com/jcornwell-river/dsiprouter/commit/1a77d09fac5c722e294a1a8f9846758caa5a7c2a)  
 > Date: Sun, 10 Sep 2017 19:28:28 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -25527,7 +26203,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 918b7ba206cc5e0a97dd86e82695772c25ce8347)
 ### Fixed an issue with the script for installing the RTPEngine on Debian
 
-> Commit: [918b7ba206cc5e0a97dd86e82695772c25ce8347](https://git.flyball.co/dsiprouter/enterprise/commit/918b7ba206cc5e0a97dd86e82695772c25ce8347)  
+> Commit: [918b7ba206cc5e0a97dd86e82695772c25ce8347](https://github.com/jcornwell-river/dsiprouter/commit/918b7ba206cc5e0a97dd86e82695772c25ce8347)  
 > Date: Sun, 10 Sep 2017 19:01:24 +0000  
 > Author: root (root@packer-debian-8-amd64.droplet.local)  
 > Committer: root (root@packer-debian-8-amd64.droplet.local)  
@@ -25542,7 +26218,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7b433cd386abbb190cbde543708eaaf0dfd567bd)
 ### Updated the version
 
-> Commit: [7b433cd386abbb190cbde543708eaaf0dfd567bd](https://git.flyball.co/dsiprouter/enterprise/commit/7b433cd386abbb190cbde543708eaaf0dfd567bd)  
+> Commit: [7b433cd386abbb190cbde543708eaaf0dfd567bd](https://github.com/jcornwell-river/dsiprouter/commit/7b433cd386abbb190cbde543708eaaf0dfd567bd)  
 > Date: Sun, 10 Sep 2017 18:46:27 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25557,7 +26233,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION af7d0f4b31df1bf21bf91cba6946685235ab3ece)
 ### Added logic to handle NAT
 
-> Commit: [af7d0f4b31df1bf21bf91cba6946685235ab3ece](https://git.flyball.co/dsiprouter/enterprise/commit/af7d0f4b31df1bf21bf91cba6946685235ab3ece)  
+> Commit: [af7d0f4b31df1bf21bf91cba6946685235ab3ece](https://github.com/jcornwell-river/dsiprouter/commit/af7d0f4b31df1bf21bf91cba6946685235ab3ece)  
 > Date: Sun, 10 Sep 2017 17:54:42 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25572,7 +26248,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 55e4d2a715c262dbdd5df12944e966bef9ee3d72)
 ### Added support for NAT when the RTPEngine process is running
 
-> Commit: [55e4d2a715c262dbdd5df12944e966bef9ee3d72](https://git.flyball.co/dsiprouter/enterprise/commit/55e4d2a715c262dbdd5df12944e966bef9ee3d72)  
+> Commit: [55e4d2a715c262dbdd5df12944e966bef9ee3d72](https://github.com/jcornwell-river/dsiprouter/commit/55e4d2a715c262dbdd5df12944e966bef9ee3d72)  
 > Date: Sun, 10 Sep 2017 14:02:02 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25587,7 +26263,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 25a091ed28521fea47632909651a725fc7eca153)
 ### Updated the README.md
 
-> Commit: [25a091ed28521fea47632909651a725fc7eca153](https://git.flyball.co/dsiprouter/enterprise/commit/25a091ed28521fea47632909651a725fc7eca153)  
+> Commit: [25a091ed28521fea47632909651a725fc7eca153](https://github.com/jcornwell-river/dsiprouter/commit/25a091ed28521fea47632909651a725fc7eca153)  
 > Date: Sun, 10 Sep 2017 13:20:08 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25602,7 +26278,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f46610f88beaa8b937097461b5fb77d2967f7016)
 ### Changed the RTPEngine port from 7222 to 7722
 
-> Commit: [f46610f88beaa8b937097461b5fb77d2967f7016](https://git.flyball.co/dsiprouter/enterprise/commit/f46610f88beaa8b937097461b5fb77d2967f7016)  
+> Commit: [f46610f88beaa8b937097461b5fb77d2967f7016](https://github.com/jcornwell-river/dsiprouter/commit/f46610f88beaa8b937097461b5fb77d2967f7016)  
 > Date: Sun, 10 Sep 2017 00:16:04 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25617,7 +26293,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0f56674cf0f18f39e18918c2191417b69ed2ea82)
 ### Fixed the installer command line and tested it on CentOS - fixed #8
 
-> Commit: [0f56674cf0f18f39e18918c2191417b69ed2ea82](https://git.flyball.co/dsiprouter/enterprise/commit/0f56674cf0f18f39e18918c2191417b69ed2ea82)  
+> Commit: [0f56674cf0f18f39e18918c2191417b69ed2ea82](https://github.com/jcornwell-river/dsiprouter/commit/0f56674cf0f18f39e18918c2191417b69ed2ea82)  
 > Date: Sat, 9 Sep 2017 23:48:26 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25632,7 +26308,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b5667380011d1f940fd03d2f22ffefd380fe816e)
 ### Fixed the installer command line and tested it on CentOS - Issue #8
 
-> Commit: [b5667380011d1f940fd03d2f22ffefd380fe816e](https://git.flyball.co/dsiprouter/enterprise/commit/b5667380011d1f940fd03d2f22ffefd380fe816e)  
+> Commit: [b5667380011d1f940fd03d2f22ffefd380fe816e](https://github.com/jcornwell-river/dsiprouter/commit/b5667380011d1f940fd03d2f22ffefd380fe816e)  
 > Date: Sat, 9 Sep 2017 23:45:58 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25647,7 +26323,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ec411e94da0c4dbcd4078483689d0f409d59d278)
 ### Finsihed up the command options
 
-> Commit: [ec411e94da0c4dbcd4078483689d0f409d59d278](https://git.flyball.co/dsiprouter/enterprise/commit/ec411e94da0c4dbcd4078483689d0f409d59d278)  
+> Commit: [ec411e94da0c4dbcd4078483689d0f409d59d278](https://github.com/jcornwell-river/dsiprouter/commit/ec411e94da0c4dbcd4078483689d0f409d59d278)  
 > Date: Sat, 9 Sep 2017 22:12:38 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25662,7 +26338,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 8838b5495fa752aa388c09eb28be989f320269f0)
 ### Added logic to store the process ID when the dsiprouter process is started
 
-> Commit: [8838b5495fa752aa388c09eb28be989f320269f0](https://git.flyball.co/dsiprouter/enterprise/commit/8838b5495fa752aa388c09eb28be989f320269f0)  
+> Commit: [8838b5495fa752aa388c09eb28be989f320269f0](https://github.com/jcornwell-river/dsiprouter/commit/8838b5495fa752aa388c09eb28be989f320269f0)  
 > Date: Sun, 27 Aug 2017 05:42:12 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25677,7 +26353,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d0b603a0cd9ef29aaaeecd5094df91a29222a4b6)
 ### Added support for installing RTPEngine on Debian
 
-> Commit: [d0b603a0cd9ef29aaaeecd5094df91a29222a4b6](https://git.flyball.co/dsiprouter/enterprise/commit/d0b603a0cd9ef29aaaeecd5094df91a29222a4b6)  
+> Commit: [d0b603a0cd9ef29aaaeecd5094df91a29222a4b6](https://github.com/jcornwell-river/dsiprouter/commit/d0b603a0cd9ef29aaaeecd5094df91a29222a4b6)  
 > Date: Tue, 22 Aug 2017 01:34:46 -0400  
 > Author: root (root@SR215)  
 > Committer: root (root@SR215)  
@@ -25692,7 +26368,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 18b6620ad991c1e7896cf605377be10fa6569387)
 ### Added support for installing RTPEngine
 
-> Commit: [18b6620ad991c1e7896cf605377be10fa6569387](https://git.flyball.co/dsiprouter/enterprise/commit/18b6620ad991c1e7896cf605377be10fa6569387)  
+> Commit: [18b6620ad991c1e7896cf605377be10fa6569387](https://github.com/jcornwell-river/dsiprouter/commit/18b6620ad991c1e7896cf605377be10fa6569387)  
 > Date: Mon, 21 Aug 2017 10:42:46 -0400  
 > Author: root (root@SR215)  
 > Committer: root (root@SR215)  
@@ -25707,7 +26383,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION d92edfb0b0d787f072513b68b9aff16f2021a678)
 ### will install rtpengine on CentOS7 by default
 
-> Commit: [d92edfb0b0d787f072513b68b9aff16f2021a678](https://git.flyball.co/dsiprouter/enterprise/commit/d92edfb0b0d787f072513b68b9aff16f2021a678)  
+> Commit: [d92edfb0b0d787f072513b68b9aff16f2021a678](https://github.com/jcornwell-river/dsiprouter/commit/d92edfb0b0d787f072513b68b9aff16f2021a678)  
 > Date: Mon, 21 Aug 2017 13:44:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25722,7 +26398,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 91c0c1881b5186f479db3f1046e207291b077582)
 ### Fixed an issue with carriers not being assigned to the right address type of carrier
 
-> Commit: [91c0c1881b5186f479db3f1046e207291b077582](https://git.flyball.co/dsiprouter/enterprise/commit/91c0c1881b5186f479db3f1046e207291b077582)  
+> Commit: [91c0c1881b5186f479db3f1046e207291b077582](https://github.com/jcornwell-river/dsiprouter/commit/91c0c1881b5186f479db3f1046e207291b077582)  
 > Date: Thu, 17 Aug 2017 17:08:32 -0400  
 > Author: root (root@SR215)  
 > Committer: root (root@SR215)  
@@ -25737,7 +26413,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 68abc449f309e8b27c18f7e076721736620a1f21)
 ### Update README.md
 
-> Commit: [68abc449f309e8b27c18f7e076721736620a1f21](https://git.flyball.co/dsiprouter/enterprise/commit/68abc449f309e8b27c18f7e076721736620a1f21)  
+> Commit: [68abc449f309e8b27c18f7e076721736620a1f21](https://github.com/jcornwell-river/dsiprouter/commit/68abc449f309e8b27c18f7e076721736620a1f21)  
 > Date: Wed, 16 Aug 2017 22:57:07 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25752,7 +26428,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION cce6379b13070616fd186c01dee622366ec3c517)
 ### Added logic to install dSIPRouter on Debian Jesie
 
-> Commit: [cce6379b13070616fd186c01dee622366ec3c517](https://git.flyball.co/dsiprouter/enterprise/commit/cce6379b13070616fd186c01dee622366ec3c517)  
+> Commit: [cce6379b13070616fd186c01dee622366ec3c517](https://github.com/jcornwell-river/dsiprouter/commit/cce6379b13070616fd186c01dee622366ec3c517)  
 > Date: Wed, 16 Aug 2017 22:50:31 -0400  
 > Author: root (root@SR215)  
 > Committer: root (root@SR215)  
@@ -25767,7 +26443,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 69195deb45197ffd6a6a78a72df65df3108fff6a)
 ### Turned the Reload Kamailio button into an ajax query that updates a div called message
 
-> Commit: [69195deb45197ffd6a6a78a72df65df3108fff6a](https://git.flyball.co/dsiprouter/enterprise/commit/69195deb45197ffd6a6a78a72df65df3108fff6a)  
+> Commit: [69195deb45197ffd6a6a78a72df65df3108fff6a](https://github.com/jcornwell-river/dsiprouter/commit/69195deb45197ffd6a6a78a72df65df3108fff6a)  
 > Date: Sun, 30 Jul 2017 13:55:36 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25782,7 +26458,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 798f3bb9f5eb16724ad4eef99967155ecd00b602)
 ### Fixed issue #2 by adding a div that shows any error messages in the login form
 
-> Commit: [798f3bb9f5eb16724ad4eef99967155ecd00b602](https://git.flyball.co/dsiprouter/enterprise/commit/798f3bb9f5eb16724ad4eef99967155ecd00b602)  
+> Commit: [798f3bb9f5eb16724ad4eef99967155ecd00b602](https://github.com/jcornwell-river/dsiprouter/commit/798f3bb9f5eb16724ad4eef99967155ecd00b602)  
 > Date: Sun, 30 Jul 2017 00:59:38 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25797,7 +26473,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6921ff7af74065190741e1a718f8a0551825a095)
 ### Added support to deal with MySQL expiring db connections after a certain timeframe.
 
-> Commit: [6921ff7af74065190741e1a718f8a0551825a095](https://git.flyball.co/dsiprouter/enterprise/commit/6921ff7af74065190741e1a718f8a0551825a095)  
+> Commit: [6921ff7af74065190741e1a718f8a0551825a095](https://github.com/jcornwell-river/dsiprouter/commit/6921ff7af74065190741e1a718f8a0551825a095)  
 > Date: Thu, 20 Jul 2017 12:08:27 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25812,7 +26488,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e1490bc7b17ae36c6f081b092014754ae3a8c115)
 ### Update README.md
 
-> Commit: [e1490bc7b17ae36c6f081b092014754ae3a8c115](https://git.flyball.co/dsiprouter/enterprise/commit/e1490bc7b17ae36c6f081b092014754ae3a8c115)  
+> Commit: [e1490bc7b17ae36c6f081b092014754ae3a8c115](https://github.com/jcornwell-river/dsiprouter/commit/e1490bc7b17ae36c6f081b092014754ae3a8c115)  
 > Date: Mon, 17 Jul 2017 12:30:12 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25827,7 +26503,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3be4ee51309b570f6617403f24b1c8662f35c487)
 ### Update README.md
 
-> Commit: [3be4ee51309b570f6617403f24b1c8662f35c487](https://git.flyball.co/dsiprouter/enterprise/commit/3be4ee51309b570f6617403f24b1c8662f35c487)  
+> Commit: [3be4ee51309b570f6617403f24b1c8662f35c487](https://github.com/jcornwell-river/dsiprouter/commit/3be4ee51309b570f6617403f24b1c8662f35c487)  
 > Date: Mon, 17 Jul 2017 12:28:06 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25842,7 +26518,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 6546ded1458f724d33ffe527cfaf453d8979da0a)
 ### Update README.md
 
-> Commit: [6546ded1458f724d33ffe527cfaf453d8979da0a](https://git.flyball.co/dsiprouter/enterprise/commit/6546ded1458f724d33ffe527cfaf453d8979da0a)  
+> Commit: [6546ded1458f724d33ffe527cfaf453d8979da0a](https://github.com/jcornwell-river/dsiprouter/commit/6546ded1458f724d33ffe527cfaf453d8979da0a)  
 > Date: Mon, 17 Jul 2017 12:26:18 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25857,7 +26533,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 74dd6ca3e4d2f88db6d8205b2118a8e2f08475ed)
 ### Update README.md
 
-> Commit: [74dd6ca3e4d2f88db6d8205b2118a8e2f08475ed](https://git.flyball.co/dsiprouter/enterprise/commit/74dd6ca3e4d2f88db6d8205b2118a8e2f08475ed)  
+> Commit: [74dd6ca3e4d2f88db6d8205b2118a8e2f08475ed](https://github.com/jcornwell-river/dsiprouter/commit/74dd6ca3e4d2f88db6d8205b2118a8e2f08475ed)  
 > Date: Mon, 17 Jul 2017 12:25:42 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25872,7 +26548,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b127757f8912661d9d9292db7567782e042d464b)
 ### Add files via upload
 
-> Commit: [b127757f8912661d9d9292db7567782e042d464b](https://git.flyball.co/dsiprouter/enterprise/commit/b127757f8912661d9d9292db7567782e042d464b)  
+> Commit: [b127757f8912661d9d9292db7567782e042d464b](https://github.com/jcornwell-river/dsiprouter/commit/b127757f8912661d9d9292db7567782e042d464b)  
 > Date: Mon, 17 Jul 2017 12:14:06 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25887,7 +26563,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 3994d71451bc8596310945e043cf31018212d815)
 ### Add files via upload
 
-> Commit: [3994d71451bc8596310945e043cf31018212d815](https://git.flyball.co/dsiprouter/enterprise/commit/3994d71451bc8596310945e043cf31018212d815)  
+> Commit: [3994d71451bc8596310945e043cf31018212d815](https://github.com/jcornwell-river/dsiprouter/commit/3994d71451bc8596310945e043cf31018212d815)  
 > Date: Mon, 17 Jul 2017 12:12:21 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25902,7 +26578,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 23e91efb4050638a050125af743862915875bc11)
 ### Delete dsiprouter_outboundrouting
 
-> Commit: [23e91efb4050638a050125af743862915875bc11](https://git.flyball.co/dsiprouter/enterprise/commit/23e91efb4050638a050125af743862915875bc11)  
+> Commit: [23e91efb4050638a050125af743862915875bc11](https://github.com/jcornwell-river/dsiprouter/commit/23e91efb4050638a050125af743862915875bc11)  
 > Date: Mon, 17 Jul 2017 12:10:47 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25917,7 +26593,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION e90589481e62211a0c57fff537c20db4226c3a47)
 ### Add files via upload
 
-> Commit: [e90589481e62211a0c57fff537c20db4226c3a47](https://git.flyball.co/dsiprouter/enterprise/commit/e90589481e62211a0c57fff537c20db4226c3a47)  
+> Commit: [e90589481e62211a0c57fff537c20db4226c3a47](https://github.com/jcornwell-river/dsiprouter/commit/e90589481e62211a0c57fff537c20db4226c3a47)  
 > Date: Mon, 17 Jul 2017 12:09:31 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25932,7 +26608,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 9571c5a872379c646a04d0b2701602d3cff93521)
 ### Update README.md
 
-> Commit: [9571c5a872379c646a04d0b2701602d3cff93521](https://git.flyball.co/dsiprouter/enterprise/commit/9571c5a872379c646a04d0b2701602d3cff93521)  
+> Commit: [9571c5a872379c646a04d0b2701602d3cff93521](https://github.com/jcornwell-river/dsiprouter/commit/9571c5a872379c646a04d0b2701602d3cff93521)  
 > Date: Mon, 17 Jul 2017 12:08:48 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25947,7 +26623,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 7c71eb8fb1af846c5acb56809d0064a3e1ae25f8)
 ### Add files via upload
 
-> Commit: [7c71eb8fb1af846c5acb56809d0064a3e1ae25f8](https://git.flyball.co/dsiprouter/enterprise/commit/7c71eb8fb1af846c5acb56809d0064a3e1ae25f8)  
+> Commit: [7c71eb8fb1af846c5acb56809d0064a3e1ae25f8](https://github.com/jcornwell-river/dsiprouter/commit/7c71eb8fb1af846c5acb56809d0064a3e1ae25f8)  
 > Date: Mon, 17 Jul 2017 11:54:35 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -25962,7 +26638,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 2e195af1554cf51d9d57ad11b63862e9bc6c64e0)
 ### Adding a docs directory
 
-> Commit: [2e195af1554cf51d9d57ad11b63862e9bc6c64e0](https://git.flyball.co/dsiprouter/enterprise/commit/2e195af1554cf51d9d57ad11b63862e9bc6c64e0)  
+> Commit: [2e195af1554cf51d9d57ad11b63862e9bc6c64e0](https://github.com/jcornwell-river/dsiprouter/commit/2e195af1554cf51d9d57ad11b63862e9bc6c64e0)  
 > Date: Mon, 17 Jul 2017 15:49:03 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25977,7 +26653,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 5d8e7ca80a359c04b1e5839266647245c8b05a0d)
 ### Fixed an issue with the MySQL DB closing a connection after 8 hours
 
-> Commit: [5d8e7ca80a359c04b1e5839266647245c8b05a0d](https://git.flyball.co/dsiprouter/enterprise/commit/5d8e7ca80a359c04b1e5839266647245c8b05a0d)  
+> Commit: [5d8e7ca80a359c04b1e5839266647245c8b05a0d](https://github.com/jcornwell-river/dsiprouter/commit/5d8e7ca80a359c04b1e5839266647245c8b05a0d)  
 > Date: Mon, 17 Jul 2017 06:56:54 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -25992,7 +26668,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION fbdd0b7881be637f8893f8f138805e56d06aa22d)
 ### added a intro screen
 
-> Commit: [fbdd0b7881be637f8893f8f138805e56d06aa22d](https://git.flyball.co/dsiprouter/enterprise/commit/fbdd0b7881be637f8893f8f138805e56d06aa22d)  
+> Commit: [fbdd0b7881be637f8893f8f138805e56d06aa22d](https://github.com/jcornwell-river/dsiprouter/commit/fbdd0b7881be637f8893f8f138805e56d06aa22d)  
 > Date: Mon, 17 Jul 2017 04:21:21 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26007,7 +26683,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION f852135775123a7d2f4d4338038f97bfda21efd0)
 ### Changed the navigation so that the left hand navigation is one level
 
-> Commit: [f852135775123a7d2f4d4338038f97bfda21efd0](https://git.flyball.co/dsiprouter/enterprise/commit/f852135775123a7d2f4d4338038f97bfda21efd0)  
+> Commit: [f852135775123a7d2f4d4338038f97bfda21efd0](https://github.com/jcornwell-river/dsiprouter/commit/f852135775123a7d2f4d4338038f97bfda21efd0)  
 > Date: Mon, 17 Jul 2017 01:31:50 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26022,7 +26698,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 17555a94a9fae749331872c0cff2da8b1aca42d4)
 ### added execute permissions
 
-> Commit: [17555a94a9fae749331872c0cff2da8b1aca42d4](https://git.flyball.co/dsiprouter/enterprise/commit/17555a94a9fae749331872c0cff2da8b1aca42d4)  
+> Commit: [17555a94a9fae749331872c0cff2da8b1aca42d4](https://github.com/jcornwell-river/dsiprouter/commit/17555a94a9fae749331872c0cff2da8b1aca42d4)  
 > Date: Sun, 16 Jul 2017 13:48:36 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26037,7 +26713,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 0df719c6bd8d001311418c3b4bcc31d417d184ab)
 ### Made the kamailio configuration more generic
 
-> Commit: [0df719c6bd8d001311418c3b4bcc31d417d184ab](https://git.flyball.co/dsiprouter/enterprise/commit/0df719c6bd8d001311418c3b4bcc31d417d184ab)  
+> Commit: [0df719c6bd8d001311418c3b4bcc31d417d184ab](https://github.com/jcornwell-river/dsiprouter/commit/0df719c6bd8d001311418c3b4bcc31d417d184ab)  
 > Date: Sun, 16 Jul 2017 03:06:39 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26052,7 +26728,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 67e9f09358bfd180d71c19d12377e72b8601a7bf)
 ### fixed an error with the symbolic link with the kamailio.cfg file
 
-> Commit: [67e9f09358bfd180d71c19d12377e72b8601a7bf](https://git.flyball.co/dsiprouter/enterprise/commit/67e9f09358bfd180d71c19d12377e72b8601a7bf)  
+> Commit: [67e9f09358bfd180d71c19d12377e72b8601a7bf](https://github.com/jcornwell-river/dsiprouter/commit/67e9f09358bfd180d71c19d12377e72b8601a7bf)  
 > Date: Sat, 15 Jul 2017 23:20:35 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26067,7 +26743,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 38f275621c9727894c80d37922023b1e82a62c13)
 ### Update README.md
 
-> Commit: [38f275621c9727894c80d37922023b1e82a62c13](https://git.flyball.co/dsiprouter/enterprise/commit/38f275621c9727894c80d37922023b1e82a62c13)  
+> Commit: [38f275621c9727894c80d37922023b1e82a62c13](https://github.com/jcornwell-river/dsiprouter/commit/38f275621c9727894c80d37922023b1e82a62c13)  
 > Date: Sat, 15 Jul 2017 06:47:13 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -26082,7 +26758,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 57f965d3c06817386be9519a1384f699d7ddf523)
 ### Update README.md
 
-> Commit: [57f965d3c06817386be9519a1384f699d7ddf523](https://git.flyball.co/dsiprouter/enterprise/commit/57f965d3c06817386be9519a1384f699d7ddf523)  
+> Commit: [57f965d3c06817386be9519a1384f699d7ddf523](https://github.com/jcornwell-river/dsiprouter/commit/57f965d3c06817386be9519a1384f699d7ddf523)  
 > Date: Sat, 15 Jul 2017 06:46:28 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -26097,7 +26773,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 4b3798280cbf3b9735a54a982868e8cc91eb046f)
 ### Update README.md
 
-> Commit: [4b3798280cbf3b9735a54a982868e8cc91eb046f](https://git.flyball.co/dsiprouter/enterprise/commit/4b3798280cbf3b9735a54a982868e8cc91eb046f)  
+> Commit: [4b3798280cbf3b9735a54a982868e8cc91eb046f](https://github.com/jcornwell-river/dsiprouter/commit/4b3798280cbf3b9735a54a982868e8cc91eb046f)  
 > Date: Sat, 15 Jul 2017 06:45:03 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -26112,7 +26788,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION a72121b9551921aa3dced32d943c6034ba318f82)
 ### Update README.md
 
-> Commit: [a72121b9551921aa3dced32d943c6034ba318f82](https://git.flyball.co/dsiprouter/enterprise/commit/a72121b9551921aa3dced32d943c6034ba318f82)  
+> Commit: [a72121b9551921aa3dced32d943c6034ba318f82](https://github.com/jcornwell-river/dsiprouter/commit/a72121b9551921aa3dced32d943c6034ba318f82)  
 > Date: Sat, 15 Jul 2017 06:44:19 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -26127,7 +26803,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION 955add0b09637e7ecdd62411272b2d0ef84d3aa3)
 ### Update README.md
 
-> Commit: [955add0b09637e7ecdd62411272b2d0ef84d3aa3](https://git.flyball.co/dsiprouter/enterprise/commit/955add0b09637e7ecdd62411272b2d0ef84d3aa3)  
+> Commit: [955add0b09637e7ecdd62411272b2d0ef84d3aa3](https://github.com/jcornwell-river/dsiprouter/commit/955add0b09637e7ecdd62411272b2d0ef84d3aa3)  
 > Date: Sat, 15 Jul 2017 06:42:08 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: GitHub (noreply@github.com)  
@@ -26142,7 +26818,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5)
 ### Initial commit as dsiprouter
 
-> Commit: [ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5](https://git.flyball.co/dsiprouter/enterprise/commit/ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5)  
+> Commit: [ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5](https://github.com/jcornwell-river/dsiprouter/commit/ce6c5aac0db5476dc496c34388e4f9ce2c4b86e5)  
 > Date: Sat, 15 Jul 2017 10:37:01 +0000  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
@@ -26157,7 +26833,7 @@ END_SECTION COMMITS)
 [//]: # (START_SECTION b46b1e64f06f448bde78b98e3ae8228ce5f96067)
 ### Initial commit
 
-> Commit: [b46b1e64f06f448bde78b98e3ae8228ce5f96067](https://git.flyball.co/dsiprouter/enterprise/commit/b46b1e64f06f448bde78b98e3ae8228ce5f96067)  
+> Commit: [b46b1e64f06f448bde78b98e3ae8228ce5f96067](https://github.com/jcornwell-river/dsiprouter/commit/b46b1e64f06f448bde78b98e3ae8228ce5f96067)  
 > Date: Sat, 15 Jul 2017 06:30:25 -0400  
 > Author: Mack Hendricks (mack@dopensource.com)  
 > Committer: Mack Hendricks (mack@dopensource.com)  
